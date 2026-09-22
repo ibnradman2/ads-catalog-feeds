@@ -1,0 +1,11 @@
+# الأصل: لا يُرفع شيء. ثم يُسمح صراحة بملفات المنتجات وصفحة الفهرس فقط.
+# الغرض: منع تسرّب أي ملف يحوي مقطعًا سرّيًّا (مثل build/catalog_feeds.json) إلى مستودع عام.
+*
+
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
+!*-snap.xml
+!*-meta.xml
+!*-google.xml
