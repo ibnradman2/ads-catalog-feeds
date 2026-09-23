@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 23 Sep 2026 14:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:00:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -866,22 +866,6 @@
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">547643097</guid>
-      <g:id>547643097</g:id>
-      <g:title>عسل الغابة السوداء 1 كيلو</g:title>
-      <g:description>مصدر العسل: عسل الغابة السوداء من افضل انواع العسل ومكون من مواد طبيعية و عضوية 100 % ولا يحتوي على الكثير من السكريات الاحادية و يتم استخراجه من جذوع الاشجار على شكل ندوة عسلية التي توجد بالغابات السوداء .&amp;nbsp; &amp;nbsp; حقائق عن العسل: يتم استخلاص عسل الغابة السوداء من مصادره الطبيعية في أعماق الغابات الكثيفة ، حيث تنمو الأزهار والنباتات البرية بكثافة. هذا العسل النقي والطبيعي يحمل معه رائحة خلابة ونكهة مميزة تأسر حواسك. تذوق النكهة المترفة لعسل الغابة السوداء، فهو يتميز بنكهة غنية ومتوازنة تجمع بين الحلاوة والعمق. استخدامات العسل: يمكن استخدامه بتناول ملعقة صغيرة منه مع الحليب الدافئ او الماء الدافئ في الصباح . يمكن استخدامه قبل ممارسة الرياضة او البدء بعمل أي نشاط بدني.</g:description>
-      <g:link>https://areesh.sa/ar/black-forest-honey-1-kilogram/p547643097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/cCDh74Ib3VqS2wuPTjVZuCsngcvAvKoA0yvGlqlR.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>138.00 SAR</g:price>
-      <g:brand>متجر عريش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>الغابة السوداء</g:product_type>
-      <g:item_group_id>0041010003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1339577181</guid>
       <g:id>1339577181</g:id>
       <g:title>عسل الغابة السوداء 500 جم</g:title>
@@ -896,6 +880,22 @@
       <g:product_type>الغابة السوداء</g:product_type>
       <g:item_group_id>0041010002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">547643097</guid>
+      <g:id>547643097</g:id>
+      <g:title>عسل الغابة السوداء 1 كيلو</g:title>
+      <g:description>مصدر العسل: عسل الغابة السوداء من افضل انواع العسل ومكون من مواد طبيعية و عضوية 100 % ولا يحتوي على الكثير من السكريات الاحادية و يتم استخراجه من جذوع الاشجار على شكل ندوة عسلية التي توجد بالغابات السوداء .&amp;nbsp; &amp;nbsp; حقائق عن العسل: يتم استخلاص عسل الغابة السوداء من مصادره الطبيعية في أعماق الغابات الكثيفة ، حيث تنمو الأزهار والنباتات البرية بكثافة. هذا العسل النقي والطبيعي يحمل معه رائحة خلابة ونكهة مميزة تأسر حواسك. تذوق النكهة المترفة لعسل الغابة السوداء، فهو يتميز بنكهة غنية ومتوازنة تجمع بين الحلاوة والعمق. استخدامات العسل: يمكن استخدامه بتناول ملعقة صغيرة منه مع الحليب الدافئ او الماء الدافئ في الصباح . يمكن استخدامه قبل ممارسة الرياضة او البدء بعمل أي نشاط بدني.</g:description>
+      <g:link>https://areesh.sa/ar/black-forest-honey-1-kilogram/p547643097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/cCDh74Ib3VqS2wuPTjVZuCsngcvAvKoA0yvGlqlR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>متجر عريش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>الغابة السوداء</g:product_type>
+      <g:item_group_id>0041010003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1700113743</guid>
