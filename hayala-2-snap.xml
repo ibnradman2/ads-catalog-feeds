@@ -4,15 +4,30 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 23 Sep 2026 10:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:00:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
+      <guid isPermaLink="false">1718132750</guid>
+      <g:id>1718132750</g:id>
+      <g:title>التشكيلة الاقتصادية (هيل + زعفران + عسل + بهارات + بهارات شوربه)</g:title>
+      <g:description>هذا العرض يحتوي على: 1- ربع كيلو من الهيل الامريكي الاخضر 2- زعفران سوبر نقيل درجة اولى (2جرام) 3- 2 كيلو عسل سدر طبيعي درجة اولى 4- 3 عبوات بهارات مشكلة ( فلفل اسود - بهارات - زنجبيل مطحون) 5- 12 كيس من بهارات الشوربة *توصيل مجاني لجميع مدن المملكة *خصم %50</g:description>
+      <g:link>https://hayala.co/ar/the-economical-assortment-cardamom-saffron-honey-spices-soup-spices/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/7929qXmEkc5hv4KnTG4EfYh6hKnTbFTBPxxZmiiw.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>389.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    </item>
+    <item>
       <guid isPermaLink="false">1434036849</guid>
       <g:id>1434036849</g:id>
       <g:title>عرض اليوم الوطني : عرض هيل أمريكي درجة أولى رقم 3 سماكة 6 ملم كرتون 5 كيلو (شحن مجاني)</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. إنتاج جديد 12 -2024. ضمان ذهبي بالإرجاع. شحن مجاني. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً. مسموح 3 كرتون لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. ضمان ذهبي بالإرجاع. شحن مجاني. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً. مسموح 3 كرتون لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
       <g:link>https://hayala.co/ar/هيل أمريكي رقم 3/p1434036849?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/TPOfHZNHLRDDoe1p4q4nq08TpkQhsXnZiHco6eFE.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -27,7 +42,7 @@
       <guid isPermaLink="false">2106298714</guid>
       <g:id>2106298714</g:id>
       <g:title>عرض اليوم الوطني : عرض هيل أمريكي درجة أولى جامبو رقم 2 سماكة 7 ملم كرتون 5 كيلو (شحن مجاني)</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. إنتاج جديد 12-2024. ضمان ذهبي بالإرجاع. شحن مجاني. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً. مسموح 3 كرتون لكل عميل. صورة الهيل الذي ستستلمه: ﻿</g:description>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. ضمان ذهبي بالإرجاع. شحن مجاني. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً. مسموح 3 كرتون لكل عميل. صورة الهيل الذي ستستلمه: ﻿</g:description>
       <g:link>https://hayala.co/ar/هيل أمريكي رقم 2/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/WUUdpZPupUJoQQnBeEZYQhBHpU7SpzmmP1OsKWTA.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -39,26 +54,26 @@
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1567920614</guid>
-      <g:id>1567920614</g:id>
-      <g:title>عرض اليوم الوطني : 4 عبوات قهوة الشاذلية</g:title>
-      <g:description>اشتر 3 عبوات واحصل على العبوة الرابعة مجاناً بخصم 25%. عرض التدشين من قهوة الشاذلية، قهوة عربية مطحونة فاخرة مكونة من البن والهيل والزعفران. الوزن الإجمالي: 2 كيلو مقسمة في 4 عبوات.</g:description>
-      <g:link>https://hayala.co/ar/4-packages-of-al-shadhiliyah-coffee/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/KHkrqM65dUzJ5ofOb2TMU6t1mgwL3RDsHA9zpXcY.png</g:image_link>
+      <guid isPermaLink="false">1270839426</guid>
+      <g:id>1270839426</g:id>
+      <g:title>عرض هيل أمريكي درجة أولى إكسترا جامبو رقم 1 سماكة 8 ملم كرتون 5 كيلو (شحن مجاني)</g:title>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. ضمان ذهبي بالإرجاع. شحن مجاني. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً. مسموح 3 كرتون لكل عميل. صورة الهيل الذي ستستلمه: ﻿</g:description>
+      <g:link>https://hayala.co/ar/هيل أمريكي رقم 1/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/456wzja72cCnhIOymmoimB1D9rfDk64m1aem3Z6E.png</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>207.79 SAR</g:price>
-      <g:sale_price>152.00 SAR</g:sale_price>
+      <g:price>1199.00 SAR</g:price>
+      <g:sale_price>1196.00 SAR</g:sale_price>
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>قهوة</g:product_type>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
+      <g:product_type>هيل أمريكي</g:product_type>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">432604828</guid>
       <g:id>432604828</g:id>
       <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى اكسترا جامبو رقم 1 سماكة 8 ملم 1 كيلو</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. إنتاج جديد 12-2024. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 كيلو لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 كيلو لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
       <g:link>https://hayala.co/ar/first-grade-american-thyme-extra-jumbo-number-1-thickness-8-mm-1-kilogram/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/oksNeYtx50tku4GiezUMLuNCMoDeqqaanLmpPlTK.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/KAyQUVq9vYMZLFGHxrZz2buSuC0dTF6IClEB65Iz.jpg</g:additional_image_link>
@@ -74,7 +89,7 @@
       <guid isPermaLink="false">1643632887</guid>
       <g:id>1643632887</g:id>
       <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى جامبو رقم 2 سماكة 7 ملم 1 كيلو</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. إنتاج جديد 12-2024. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 كيلو لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 كيلو لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
       <g:link>https://hayala.co/ar/first-grade-american-thyme-jumbo-number-2-7-mm-thickness-1-kilogram/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/bgGmjjWAslrknaK2CVYf5JoKgDjQX2XueWVD7Y3q.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/ErktMnlWtTecWkRZC74wU7ENE3eDsaLYKl0IuS4F.jpg</g:additional_image_link>
@@ -84,6 +99,68 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>هيل أمريكي أخضر رقم 2</g:product_type>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1111478955</guid>
+      <g:id>1111478955</g:id>
+      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 3 سماكة 6 ملم كرتون 2.5 كيلو (شحن مجاني)</g:title>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. ضمان ذهبي بالإرجاع. شحن مجاني. يمكنك الدفع عند الاستلام. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً.</g:description>
+      <g:link>https://hayala.co/ar/american-basil-first-grade-number-3-6-mm-thickness-25-kg-carton-free-shipping/p1111478955?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Pzj9KHxn3sIwU3g5HlwELfcQBPOyHSQfDKsOz0xz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>550.00 SAR</g:price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>هيل أمريكي أخضر رقم 3</g:product_type>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">10846494</guid>
+      <g:id>10846494</g:id>
+      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 2 سماكة 7 ملم كرتون 2.5 كيلو (شحن مجاني)</g:title>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. ضمان ذهبي بالإرجاع. شحن مجاني. يمكنك الدفع عند الاستلام. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً.</g:description>
+      <g:link>https://hayala.co/ar/first-grade-american-thyme-number-2-thickness-7-mm-carton-25-kg-free-shipping/p10846494?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Dny7sLfJLoTJquvpyI44D4woDpcsQdPWXts1AuNi.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>575.00 SAR</g:price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>هيل أمريكي أخضر رقم 2</g:product_type>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2071592201</guid>
+      <g:id>2071592201</g:id>
+      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 1 سماكة 8 ملم كرتون 2.5 كيلو (شحن مجاني)</g:title>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. ضمان ذهبي بالإرجاع. شحن مجاني. يمكنك الدفع عند الاستلام. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً.</g:description>
+      <g:link>https://hayala.co/ar/first-grade-american-coriander-thickness-8-mm-25-kg-carton-free-shipping/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/ztMZKVo0skmtAsnGHggSiUNmvjrBztK7ZqrsqiuO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>599.00 SAR</g:price>
+      <g:sale_price>596.00 SAR</g:sale_price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>هيل أمريكي</g:product_type>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1051236094</guid>
+      <g:id>1051236094</g:id>
+      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 3 سماكة 6 ملم 1 كيلو</g:title>
+      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 كيلو لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
+      <g:link>https://hayala.co/ar/first-grade-american-coriander-number-3-6-mm-thickness-1-kilogram/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/ON3F139R9JbEHRk6jW5cAE8ADWW3UfGpJvM78TOB.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1H0b2DFIlfX8eL0PovfnGGf2KAxSlODLG8u8eWiK.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -103,22 +180,6 @@
       <g:shipping_weight>1.6 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1051236094</guid>
-      <g:id>1051236094</g:id>
-      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 3 سماكة 6 ملم 1 كيلو</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. إنتاج جديد 12-2023. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 كيلو لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
-      <g:link>https://hayala.co/ar/first-grade-american-coriander-number-3-6-mm-thickness-1-kilogram/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/ON3F139R9JbEHRk6jW5cAE8ADWW3UfGpJvM78TOB.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1H0b2DFIlfX8eL0PovfnGGf2KAxSlODLG8u8eWiK.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي</g:product_type>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1303028575</guid>
       <g:id>1303028575</g:id>
       <g:title>عرض اليوم الوطني : 4 عبوات بهارات الشوربة</g:title>
@@ -133,6 +194,64 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">359647650</guid>
+      <g:id>359647650</g:id>
+      <g:title>هيل أمريكي درجة أولى رقم 3 سماكة 6 ملم 1 كيلو + 1 كيلو</g:title>
+      <g:description>عبوتين هيل أمريكي أخضر رقم 3 وزن 1 كيلو + 1 كيلو = بمجموع 2 كيلو مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 عروض لكل عميل. ﻿ صورة الهيل الذي ستستلمه:</g:description>
+      <g:link>https://hayala.co/ar/first-grade-american-coriander-number-3-6-mm-thickness-1-kilogram-1-kilogram/p359647650?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/LtxF6LsIWVs0xz0oUdq8Ion1Z8XHJPgYrwX548cd.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>435.00 SAR</g:price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>هيل أمريكي أخضر رقم 3</g:product_type>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">813326786</guid>
+      <g:id>813326786</g:id>
+      <g:title>هيل أمريكي درجة أولى رقم 2 سماكة 7 ملم 1كيلو + 1 كيلو</g:title>
+      <g:description>عبوتين هيل أمريكي أخضر رقم 2 وزن 1 كيلو + 1 كيلو = بمجموع 2 كيلو. مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 عروض لكل عميل. ﻿ صورة الهيل الذي ستستلمه:</g:description>
+      <g:link>https://hayala.co/ar/american-coriander-grade-one-number-2-thickness-7-mm-1-kilogram-1-kilogram/p813326786?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/ZKG1cJiptM29nE1yti5TLpGSJm05fDSxdYNN5O6W.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>445.00 SAR</g:price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>هيل أمريكي</g:product_type>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">122765420</guid>
+      <g:id>122765420</g:id>
+      <g:title>هيل أمريكي درجة أولى اكسترا جامبو رقم 1 سماكة 8 ملم 1 كيلو + 1 كيلو</g:title>
+      <g:description>عبوتين هيل أمريكي أخضر رقم 1 وزن 1 كيلو + 1 كيلو = بمجموع 2 كيلو. مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 عروض لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
+      <g:link>https://hayala.co/ar/american-dill-first-grade-extra-jumbo-number-1-thickness-8-mm-1-kg-1-kg/p122765420?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/SvKdlvgKuo5wHlrfpr2WEZd7121Jr9ceOzoocL0S.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>455.00 SAR</g:price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>هيل أمريكي أخضر رقم 1</g:product_type>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1567920614</guid>
+      <g:id>1567920614</g:id>
+      <g:title>عرض اليوم الوطني : 4 عبوات قهوة الشاذلية</g:title>
+      <g:description>اشتر 3 عبوات واحصل على العبوة الرابعة مجاناً بخصم 25%. عرض التدشين من قهوة الشاذلية، قهوة عربية مطحونة فاخرة مكونة من البن والهيل والزعفران. الوزن الإجمالي: 2 كيلو مقسمة في 4 عبوات.</g:description>
+      <g:link>https://hayala.co/ar/4-packages-of-al-shadhiliyah-coffee/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/KHkrqM65dUzJ5ofOb2TMU6t1mgwL3RDsHA9zpXcY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>207.79 SAR</g:price>
+      <g:sale_price>152.00 SAR</g:sale_price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>قهوة</g:product_type>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1053775856</guid>
@@ -261,68 +380,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل ومشتقات النحل</g:product_type>
       <g:shipping_weight>6.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1111478955</guid>
-      <g:id>1111478955</g:id>
-      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 3 سماكة 6 ملم كرتون 2.5 كيلو (شحن مجاني)</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. إنتاج جديد 12-2024. ضمان ذهبي بالإرجاع. شحن مجاني. يمكنك الدفع عند الاستلام. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً.</g:description>
-      <g:link>https://hayala.co/ar/american-basil-first-grade-number-3-6-mm-thickness-25-kg-carton-free-shipping/p1111478955?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Pzj9KHxn3sIwU3g5HlwELfcQBPOyHSQfDKsOz0xz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>550.00 SAR</g:price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي أخضر رقم 3</g:product_type>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">10846494</guid>
-      <g:id>10846494</g:id>
-      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 2 سماكة 7 ملم كرتون 2.5 كيلو (شحن مجاني)</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. إنتاج جديد 12-2024. ضمان ذهبي بالإرجاع. شحن مجاني. يمكنك الدفع عند الاستلام. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً.</g:description>
-      <g:link>https://hayala.co/ar/first-grade-american-thyme-number-2-thickness-7-mm-carton-25-kg-free-shipping/p10846494?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Dny7sLfJLoTJquvpyI44D4woDpcsQdPWXts1AuNi.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>575.00 SAR</g:price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي أخضر رقم 2</g:product_type>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2071592201</guid>
-      <g:id>2071592201</g:id>
-      <g:title>عرض اليوم الوطني : هيل أمريكي درجة أولى رقم 1 سماكة 8 ملم كرتون 2.5 كيلو (شحن مجاني)</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. إنتاج جديد 12-2024. ضمان ذهبي بالإرجاع. شحن مجاني. يمكنك الدفع عند الاستلام. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً.</g:description>
-      <g:link>https://hayala.co/ar/first-grade-american-coriander-thickness-8-mm-25-kg-carton-free-shipping/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/ztMZKVo0skmtAsnGHggSiUNmvjrBztK7ZqrsqiuO.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>599.00 SAR</g:price>
-      <g:sale_price>596.00 SAR</g:sale_price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي</g:product_type>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1270839426</guid>
-      <g:id>1270839426</g:id>
-      <g:title>عرض هيل أمريكي درجة أولى إكسترا جامبو رقم 1 سماكة 8 ملم كرتون 5 كيلو (شحن مجاني)</g:title>
-      <g:description>مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. إنتاج جديد 12-2024. ضمان ذهبي بالإرجاع. شحن مجاني. عرض بسعر الجملة كمية العرض المتبقية محدودة جداً. مسموح 3 كرتون لكل عميل. صورة الهيل الذي ستستلمه: ﻿</g:description>
-      <g:link>https://hayala.co/ar/هيل أمريكي رقم 1/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/456wzja72cCnhIOymmoimB1D9rfDk64m1aem3Z6E.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1199.00 SAR</g:price>
-      <g:sale_price>1196.00 SAR</g:sale_price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي</g:product_type>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">291133519</guid>
@@ -588,48 +645,6 @@
       <g:shipping_weight>0.05 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">359647650</guid>
-      <g:id>359647650</g:id>
-      <g:title>هيل أمريكي درجة أولى رقم 3 سماكة 6 ملم 1 كيلو + 1 كيلو</g:title>
-      <g:description>عبوتين هيل أمريكي أخضر رقم 3 وزن 1 كيلو + 1 كيلو = بمجموع 2 كيلو مميزات العرض: هيل أمريكي أخضر رقم 3 بسماكة 6 ملم. إنتاج جديد 12-2023. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 عروض لكل عميل. ﻿ صورة الهيل الذي ستستلمه:</g:description>
-      <g:link>https://hayala.co/ar/first-grade-american-coriander-number-3-6-mm-thickness-1-kilogram-1-kilogram/p359647650?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/LtxF6LsIWVs0xz0oUdq8Ion1Z8XHJPgYrwX548cd.jpg</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>435.00 SAR</g:price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>هيل أمريكي أخضر رقم 3</g:product_type>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">813326786</guid>
-      <g:id>813326786</g:id>
-      <g:title>هيل أمريكي درجة أولى رقم 2 سماكة 7 ملم 1كيلو + 1 كيلو</g:title>
-      <g:description>عبوتين هيل أمريكي أخضر رقم 2 وزن 1 كيلو + 1 كيلو = بمجموع 2 كيلو. مميزات العرض: هيل أمريكي أخضر رقم 2 بسماكة 7 ملم. إنتاج جديد 12-2023. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 عروض لكل عميل. ﻿ صورة الهيل الذي ستستلمه:</g:description>
-      <g:link>https://hayala.co/ar/american-coriander-grade-one-number-2-thickness-7-mm-1-kilogram-1-kilogram/p813326786?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/ZKG1cJiptM29nE1yti5TLpGSJm05fDSxdYNN5O6W.jpg</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>445.00 SAR</g:price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>هيل أمريكي</g:product_type>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">122765420</guid>
-      <g:id>122765420</g:id>
-      <g:title>هيل أمريكي درجة أولى اكسترا جامبو رقم 1 سماكة 8 ملم 1 كيلو + 1 كيلو</g:title>
-      <g:description>عبوتين هيل أمريكي أخضر رقم 1 وزن 1 كيلو + 1 كيلو = بمجموع 2 كيلو. مميزات العرض: هيل أمريكي أخضر رقم 1 بسماكة 8 ملم. إنتاج جديد 12-2023. ضمان ذهبي بالإرجاع. يمكنك الدفع عند الاستلام. كمية العرض المتبقية محدودة جداً. مسموح 5 عروض لكل عميل. صورة الهيل الذي ستستلمه:</g:description>
-      <g:link>https://hayala.co/ar/american-dill-first-grade-extra-jumbo-number-1-thickness-8-mm-1-kg-1-kg/p122765420?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/SvKdlvgKuo5wHlrfpr2WEZd7121Jr9ceOzoocL0S.jpg</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>455.00 SAR</g:price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:product_type>هيل أمريكي أخضر رقم 1</g:product_type>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1033561560</guid>
       <g:id>1033561560</g:id>
       <g:title>بن هرري باشنفر 2 كيلو - بن الخير الأثيوبي درجة أولى للقهوة العربية</g:title>
@@ -850,21 +865,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل ومشتقات النحل</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1718132750</guid>
-      <g:id>1718132750</g:id>
-      <g:title>التشكيلة الاقتصادية (هيل + زعفران + عسل + بهارات + بهارات شوربه)</g:title>
-      <g:description>هذا العرض يحتوي على: 1- ربع كيلو من الهيل الامريكي الاخضر 2- زعفران سوبر نقيل درجة اولى (2جرام) 3- 2 كيلو عسل سدر طبيعي درجة اولى 4- 3 عبوات بهارات مشكلة ( فلفل اسود - بهارات - زنجبيل مطحون) 5- 12 كيس من بهارات الشوربة *توصيل مجاني لجميع مدن المملكة *خصم %50 *هذا العرض فقط لعروض يوم التأسيس (فترة محدودة)</g:description>
-      <g:link>https://hayala.co/ar/the-economical-assortment-cardamom-saffron-honey-spices-soup-spices/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/7929qXmEkc5hv4KnTG4EfYh6hKnTbFTBPxxZmiiw.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>389.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">2038336306</guid>
