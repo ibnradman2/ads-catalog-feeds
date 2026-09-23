@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 23 Sep 2026 04:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:00:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1413,21 +1413,6 @@
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1832849003</guid>
-      <g:id>1832849003</g:id>
-      <g:title>بهارات صحيحة 500gm</g:title>
-      <g:description>500 غرام من البهارات الصحيحة</g:description>
-      <g:link>https://hayala.co/ar/whole-spices-500gm/p1832849003?tax_profile=sa&amp;currency=SAR&amp;utm_source=google-ads&amp;utm_medium=cpc&amp;utm_campaign={campaignid}&amp;utm_content={adgroupid}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/FBKUae5HoTXVYh2hpHYu74noaQn8J4vHRcKzYeJ5.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>19.55 SAR</g:price>
-      <g:brand>هيالة</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بهارات</g:product_type>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1732878396</guid>
       <g:id>1732878396</g:id>
       <g:title>بهارات مشكلة مطحون 500gm</g:title>
@@ -1511,6 +1496,21 @@
       <g:image_link>https://cdn.salla.sa/DnGQb/XJdaF5kCpXoMjlMim3h3AmbNFPD94nBia4UrlDer.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>46.00 SAR</g:price>
+      <g:brand>هيالة</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>بهارات</g:product_type>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1832849003</guid>
+      <g:id>1832849003</g:id>
+      <g:title>بهارات صحيحة 500gm</g:title>
+      <g:description>500 غرام من البهارات الصحيحة</g:description>
+      <g:link>https://hayala.co/ar/whole-spices-500gm/p1832849003?tax_profile=sa&amp;currency=SAR&amp;utm_source=google-ads&amp;utm_medium=cpc&amp;utm_campaign={campaignid}&amp;utm_content={adgroupid}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/FBKUae5HoTXVYh2hpHYu74noaQn8J4vHRcKzYeJ5.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>19.55 SAR</g:price>
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
