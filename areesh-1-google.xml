@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 23 Sep 2026 22:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -784,23 +784,6 @@
       <g:shipping_weight>4.0 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1036170524</guid>
-      <g:id>1036170524</g:id>
-      <g:title>عرض 2 كيلو عسل سدر طبيعي + 2 كيلو مجاناً</g:title>
-      <g:description>عرض لفترة محدودة . 2 كيلو عسل سدر طبيعي + 2 كيلو عسل سدر مجاناً. توصيل مجاناً لجميع مدن المملكة. ضمان ذهبي بالإرجاع. مجاز من هيئة الغذاء والدواء والجمارك عند الاستيراد. مفحوص مخبرياً من مختبر معتمد بالرياض من المركز السعودي للاعتماد.</g:description>
-      <g:link>https://areesh.sa/ar/offer-2-kilograms-of-natural-sidr-honey-2-kilograms-free/p1036170524?tax_profile=sa&amp;currency=SAR&amp;utm_source=google-ads&amp;utm_medium=cpc&amp;utm_campaign={campaignid}&amp;utm_content={adgroupid}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/QsvJDuVC0z17RwjDImPaDKUdcSdl3rINi2Nt91Mk.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>398.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>متجر عريش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
-      <g:item_group_id>015007004</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1808589975</guid>
       <g:id>1808589975</g:id>
       <g:title>3 عبوات حبوب لقاح 500 جرام</g:title>
@@ -816,6 +799,23 @@
       <g:product_type>حبوب اللقاح</g:product_type>
       <g:item_group_id>0061007004</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1036170524</guid>
+      <g:id>1036170524</g:id>
+      <g:title>عرض 2 كيلو عسل سدر طبيعي + 2 كيلو مجاناً</g:title>
+      <g:description>عرض لفترة محدودة . 2 كيلو عسل سدر طبيعي + 2 كيلو عسل سدر مجاناً. توصيل مجاناً لجميع مدن المملكة. ضمان ذهبي بالإرجاع. مجاز من هيئة الغذاء والدواء والجمارك عند الاستيراد. مفحوص مخبرياً من مختبر معتمد بالرياض من المركز السعودي للاعتماد.</g:description>
+      <g:link>https://areesh.sa/ar/offer-2-kilograms-of-natural-sidr-honey-2-kilograms-free/p1036170524?tax_profile=sa&amp;currency=SAR&amp;utm_source=google-ads&amp;utm_medium=cpc&amp;utm_campaign={campaignid}&amp;utm_content={adgroupid}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/QsvJDuVC0z17RwjDImPaDKUdcSdl3rINi2Nt91Mk.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>398.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>متجر عريش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>سدر طبيعي</g:product_type>
+      <g:item_group_id>015007004</g:item_group_id>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1749454899</guid>
