@@ -32,7 +32,7 @@ jobs:
       TZ: Asia/Riyadh
       PYTHONUNBUFFERED: "1"
       FEEDS_REPO_DIR: ${{ github.workspace }}
-      FEEDS_BUILD_DIR: ${{ runner.temp }}/build
+      FEEDS_BUILD_DIR: /tmp/feeds_build   # runner.temp غير متاح على مستوى المهمة
       CATALOG_FEEDS_JSON: ${{ secrets.CATALOG_FEEDS_JSON }}
       MERCHANT_SA_JSON: ${{ secrets.MERCHANT_SA_JSON }}
     steps:
