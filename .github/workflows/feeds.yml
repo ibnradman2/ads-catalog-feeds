@@ -1,0 +1,79 @@
+# تحديث ملفات المنتجات للمتاجر الثلاثة كل ساعة على خوادم GitHub، بديلًا عن المهمة المحلية
+# AdsAPI-Feeds-Publish، حتى لا تتجمّد الأسعار والمخزون في Merchant Center حين يُطفأ الجهاز.
+#
+# التكلفة: صفر. المستودع عام، ودقائق Actions على الخوادم القياسية مجانية بلا حدّ للمستودعات العامة.
+# الأسرار (Settings ← Secrets and variables ← Actions):
+#   CATALOG_FEEDS_JSON  إلزامي: محتوى dashboard\build\catalog_feeds.json كاملًا (فيه روابط سلة السرّية).
+#   MERCHANT_SA_JSON    اختياري: مفتاح حساب خدمة جوجل لطلب السحب الفوري من Merchant Center.
+#                       بدونه يسحب جوجل الملف في موعده اليومي المعتاد.
+#
+# الكود في ci/ نسخة من C:\ads-api\dashboard (publish_feeds.py وcatalog_feed_proxy.py)،
+# ويُحدَّث من هناك عند أي تعديل على الأصل.
+
+name: تحديث ملفات المنتجات
+
+on:
+  schedule:
+    - cron: "17 * * * *"      # كل ساعة عند الدقيقة 17 (تجنّبًا لازدحام رأس الساعة)
+  workflow_dispatch: {}        # تشغيل يدوي من تبويب Actions
+
+permissions:
+  contents: write              # للرفع إلى main فقط
+
+concurrency:
+  group: feeds-publish
+  cancel-in-progress: false    # لا يُقطع تشغيل جارٍ في منتصف الرفع
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Riyadh
+      PYTHONUNBUFFERED: "1"
+      FEEDS_REPO_DIR: ${{ github.workspace }}
+      FEEDS_BUILD_DIR: ${{ runner.temp }}/build
+      CATALOG_FEEDS_JSON: ${{ secrets.CATALOG_FEEDS_JSON }}
+      MERCHANT_SA_JSON: ${{ secrets.MERCHANT_SA_JSON }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: تثبيت المكتبات
+        run: pip install --quiet requests defusedxml google-auth
+
+      - name: إخفاء روابط سلة من السجلّ
+        # السجلّ في المستودع العام مكشوف للجميع؛ فيُسجَّل كل رابط وكل جزء منه قيمةً مخفيّة.
+        run: |
+          python - <<'EOF'
+          import json, os
+          from urllib.parse import urlsplit, parse_qsl
+          raw = os.environ.get("CATALOG_FEEDS_JSON", "").strip()
+          if not raw:
+              print("::error::السرّ CATALOG_FEEDS_JSON غير موجود. أضفه من إعدادات المستودع ثم أعد التشغيل.")
+              raise SystemExit(1)
+          try:
+              data = json.loads(raw)
+          except ValueError:
+              print("::error::السرّ CATALOG_FEEDS_JSON ليس JSON صالحًا.")
+              raise SystemExit(1)
+          for feeds in data.values():
+              for f in feeds:
+                  u = f.get("url") or ""
+                  if not u:
+                      continue
+                  p = urlsplit(u)
+                  parts = {u, p.path, p.query, p.path + "?" + p.query}
+                  parts |= {v for _, v in parse_qsl(p.query) if len(v) >= 6}
+                  parts |= {s for s in p.path.split("/") if len(s) >= 12}
+                  for s in parts:
+                      if s:
+                          print("::add-mask::" + s)
+          print("أُخفيت روابط المصادر.")
+          EOF
+
+      - name: توليد الملفات ونشرها والتحقّق منها
+        run: python ci/publish_feeds.py

@@ -9,3 +9,13 @@
 !*-snap.xml
 !*-meta.xml
 !*-google.xml
+
+# تشغيل Actions: ملف سير العمل ونسخة الكود فقط، بأسمائها لا بمجلدات كاملة.
+!.github/
+!.github/workflows/
+!.github/workflows/feeds.yml
+!ci/
+!ci/publish_feeds.py
+!ci/catalog_feed_proxy.py
+!ci/data/
+!ci/data/meta_desc_override.json
