@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -243,36 +243,6 @@
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:item_group_id>00410290004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">992170454</guid>
-      <g:id>992170454</g:id>
-      <g:title>عبوة ملاعق خلطة</g:title>
-      <g:description>عبوة ملاعق خلطة</g:description>
-      <g:link>https://asalaljebal.sa/ar/product-992170454/p992170454?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://asalaljebal.fgateit.com/channel/image/product.template/3392/image_1920/عبوة-ملاعق-خلطة.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1.15 SAR</g:price>
-      <g:sale_price>1.15 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>004-1005006</g:item_group_id>
-    </item>
-    <item>
-      <guid isPermaLink="false">761801489</guid>
-      <g:id>761801489</g:id>
-      <g:title>عبوتين خلطة حجم واحد كيلو</g:title>
-      <g:description>عبوتين خلطة حجم واحد كيلو</g:description>
-      <g:link>https://asalaljebal.sa/ar/product-761801489/p761801489?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://asalaljebal.fgateit.com/channel/image/product.template/3391/image_1920/عبوتين-خلطة-حجم-واحد-كيلو.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1.15 SAR</g:price>
-      <g:sale_price>1.15 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1005004</g:item_group_id>
     </item>
     <item>
       <guid isPermaLink="false">1092237227</guid>
