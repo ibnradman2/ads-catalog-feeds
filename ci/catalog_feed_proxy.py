@@ -262,10 +262,45 @@ def _unit_measure(title):
     return measure, ("1kg" if grams >= 1000 else "100g")
 
 
+# تنقية وصف جوجل من النص غير المنتجي (البند M-13): الشحن والدفع والفروع والسجل التجاري
+# ودعوات الشراء. جوجل يطلب وصف المنتج نفسه، والنص الترويجي يضعف المطابقة مع البحث.
+# تُفصل الأقسام عند عناوينها المعروفة، ثم تُحذف كل جملة فيها علامة غير منتجية.
+PROMO_HEADS = ["لسكان الرياض", "بقية المدن", "ما كيفية الحصول", "سااارع", "اضغط على زر", "أو اطلبه الآن",
+               "من نحن", "خبرتنا", "سجل تجاري", "الرقم الضريبي", "فروعنا", "فروع مدينة", "فرع ",
+               "لماذا تشتري منا", "تنبيه:", "التوصيل داخل", "التوصيل خارج", "الدفع الإلكتروني",
+               "يحق لك الإرجاع", "نضمن", "تم فحص العسل", "توصيل مجان", "شحن مجان", "ضمان ذهبي"]
+PROMO_RE = re.compile(r"لسكان الرياض|داخل الرياض|خارج الرياض|مدينة الرياض|بقية المدن|جميع المدن|شحن|توصيل|الاستلام|واتس|خدمة العملاء|للسلة|سااارع|نفاد الكمية|الكمية محدودة"
+                      r"|من نحن|روضة الجبال|فروع|فرع |سجل تجاري|الرقم الضريبي|خبرتنا|الدفع|تابي|تمارا|مدى"
+                      r"|Appl|الإرجاع|نضمن|تصفح|من هنـ|تنبيه|فوائده|تشتري منا|شهادة الفحص|كيفية الحصول")
+YEARS_RE = re.compile(r"\b36(\s*)(عام|سنة)")   # تصحيح المالك 2026-09-24: عسل الجبال منذ 40 عامًا
+
+
+def trim_promo(it):
+    """يحذف من الوصف الجمل غير المنتجية. يعيد True إن تغيّر. لا يقصّر وصفًا إلى أقل من 40 حرفًا."""
+    d = it.find(G + "description")
+    if d is None:
+        d = it.find("description")
+    if d is None or not d.text:
+        return False
+    t = re.sub(r"<[^>]+>", " ", d.text).replace("&nbsp;", " ").replace("\xa0", " ")
+    t = re.sub(r"\s+", " ", t).strip()
+    for h in PROMO_HEADS:
+        t = t.replace(h, "\n" + h)
+    parts = [p.strip() for p in re.split(r"\n|(?<=[.!؟?])\s+", t)]
+    kept = [p for p in parts if len(re.sub(r"\W", "", p)) >= 3 and not PROMO_RE.search(p)]
+    new = " ".join(kept).strip()
+    if len(new) < 40:
+        new = t.replace("\n", " ")
+    new = YEARS_RE.sub(r"40\1\2", new)
+    d.text = new                                   # نص بلا وسوم HTML في كل الأحوال
+    return new != t.replace("\n", " ")
+
+
 def enrich_google(items, store):
     """يضيف الحقول الناقصة لكل منتج في ملف جوجل. يعيد عدّاد التغطية."""
     tiers = PERF_TIERS.get(store, {})
-    n = {"category": 0, "label_0": 0, "label_1": 0, "label_2": 0, "label_3": 0, "unit_pricing": 0}
+    n = {"category": 0, "label_0": 0, "label_1": 0, "label_2": 0, "label_3": 0, "unit_pricing": 0,
+         "desc_trimmed": sum(trim_promo(it) for it in items)}
 
     def put(it, tag, value, key):
         if value and it.find(G + tag) is None and it.find(tag) is None:
