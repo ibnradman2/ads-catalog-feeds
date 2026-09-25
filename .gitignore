@@ -19,3 +19,4 @@
 !ci/catalog_feed_proxy.py
 !ci/data/
 !ci/data/meta_desc_override.json
+!ci/data/feed_labels.json

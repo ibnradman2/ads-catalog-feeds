@@ -191,8 +191,106 @@ def strip_claims(it):
     return len(parts) - len(kept)
 
 
-def rewrite(xml_bytes, suffix, clean=False, claims_ids=()):
-    """يعيد (xml جديد، عدد المنتجات، عدد الروابط المعدَّلة)."""
+# إثراء ملف جوجل (البند P-asal-merchant-005، البنود M-06 وM-07 وM-08 من خطة Merchant Center):
+# تصنيف جوجل، والتسميات المخصصة 0..3، وسعر الوحدة. الحقل الموجود في ملف سلة لا يُستبدل.
+# العائلة تُعرف من العنوان ونوع المنتج معًا، وأول قاعدة تنطبق هي المعتمدة؛ ترتيبها مقصود.
+FAMILIES = [
+    ("هدايا", 136, r"بوكس|هدية|اهداء|إهداء|تشكيلة"),
+    ("زعفران", 1529, r"زعفران"),
+    ("هيل", 1529, r"هيل"),
+    ("بن وقهوة", 1868, r"(?:^|\s)بن(?:\s|$)|قهوة|باشنفر|هرري"),
+    ("مانوكا", 4947, r"مانوكا"),
+    ("مشروب عسل", 4947, r"مشروب"),
+    ("خلطات العسل", 4947, r"خلطة"),
+    ("مجرى أبيض", 4947, r"مجرى|مرديسيا"),
+    ("سدر", 4947, r"سدر"),
+    ("طلح", 4947, r"طلح"),
+    ("سمرة", 4947, r"سمرة"),
+    ("زهور", 4947, r"(?:عسل|شمع).*(?:زهور|زهرة|برسيم)"),
+    ("مشتقات النحل", 422, r"حبوب (?:ال)?لقاح|غذاء (?:ال)?ملكات|عكبر|طلع (?:ال)?نخ"),
+    ("عناية بالبشرة", 567, r"كريم"),
+    ("عسل آخر", 4947, r"عسل|شمع"),
+    ("تمور", 6812, r"تمر|تمور|عجوة|ضميد|خلاص"),
+    ("فواكه مجففة", 1755, r"زبيب|مجفف|مشمش|(?:^|\s)تين"),
+    ("مكسرات وبذور", 433, r"مكسرات|لوز|كاجو|فستق|جوز|بندق|بذور|كتان|قطونة|(?:^|\s)شيا|حلبة"),
+    ("سمن", 5827, r"سمن"),
+    ("زيوت", 2126, r"زيت"),
+    ("خل", 2140, r"(?:^|\s)خل(?:\s|$)"),
+    ("طحينة", 4692, r"طحينة|طحينية"),
+    ("دقيق", 2775, r"دقيق|تلبينة|شعير"),
+    ("منقوعات", 2073, r"بابونج|كركديه|يانسون|مرمية|شاي|ماتشا"),
+    ("بهارات وأعشاب", 1529, r"بهارات|كمون|فلفل|كركم|قرفة|قرنفل|زنجبيل|شمر|زعتر|نخوة|صمغ|اكليل|إكليل"
+                            r"|(?:^|\s)(?:ال)?مُ?رة|أعشاب|عشبة|جنسنج|جنسج|حبة البركة|قسط|مشاط"),
+]
+FAMILIES = [(n, c, re.compile(p)) for n, c, p in FAMILIES]
+SEASONS = [("اليوم الوطني", r"الوطني"), ("يوم التأسيس", r"التأسيس"), ("رمضان", r"رمضان"),
+           ("العيد", r"(?:^|\s)(?:ال)?عيد"), ("الشتاء", r"الشتاء|شتوي")]
+SEASONS = [(n, re.compile(p)) for n, p in SEASONS]
+# شريحة الأداء من نقرات Merchant Center في 30 يومًا (يبنيها dashboard\feed_labels_build.py).
+# الرموز محايدة لأن الملف منشور للعموم: أ = نصف النقرات الأول، ب = حتى 80%، ج = الباقي، د = بلا نقرات.
+_LBL = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "feed_labels.json")
+PERF_TIERS = json.load(open(_LBL, encoding="utf-8")).get("stores", {}) if os.path.exists(_LBL) else {}
+UNIT_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s*(كيلوجرام|كيلو|كجم|كغ|غرام|جرام|جم|غ)(?![ء-ي])")
+COUNT_RE = re.compile(r"\d+\s*(?:عبوات|عبوة|علب|علبة|حبات|أكياس|كيس|برطمانات|قطع)|عبوتان|عبوتين|[+×x]|مجان")
+
+
+def _text(it, tag):
+    e = it.find(G + tag)
+    if e is None:
+        e = it.find(tag)
+    return (e.text or "").strip() if e is not None else ""
+
+
+def _price_band(it):
+    p, s = _num(_text(it, "price")), _num(_text(it, "sale_price"))
+    v = s if s is not None and p is not None and s < p else p
+    if v is None:
+        return None
+    return "أقل من 100" if v < 100 else "100 إلى 299" if v < 300 else "300 إلى 599" if v < 600 else "600 فأكثر"
+
+
+def _unit_measure(title):
+    """يعيد (الكمية، الأساس) إن كان في العنوان وزن واحد لعبوة واحدة، وإلا None."""
+    found = UNIT_RE.findall(title)
+    if len(found) != 1 or COUNT_RE.search(title):
+        return None
+    v, unit = float(found[0][0].replace(",", ".")), found[0][1]
+    grams = v * 1000 if unit in ("كيلوجرام", "كيلو", "كجم", "كغ") else v
+    if grams <= 0:
+        return None
+    measure = (f"{grams / 1000:g}kg" if grams >= 1000 else f"{grams:g}g")
+    return measure, ("1kg" if grams >= 1000 else "100g")
+
+
+def enrich_google(items, store):
+    """يضيف الحقول الناقصة لكل منتج في ملف جوجل. يعيد عدّاد التغطية."""
+    tiers = PERF_TIERS.get(store, {})
+    n = {"category": 0, "label_0": 0, "label_1": 0, "label_2": 0, "label_3": 0, "unit_pricing": 0}
+
+    def put(it, tag, value, key):
+        if value and it.find(G + tag) is None and it.find(tag) is None:
+            ET.SubElement(it, G + tag).text = str(value)
+            n[key] += 1
+
+    for it in items:
+        text = _text(it, "title") + " " + _text(it, "product_type")
+        fam = next(((name, cat) for name, cat, rx in FAMILIES if rx.search(text)), ("أخرى", None))
+        season = next((name for name, rx in SEASONS if rx.search(text)), "دائم")
+        put(it, "google_product_category", fam[1], "category")
+        put(it, "custom_label_0", "أداء " + tiers.get(_text(it, "id"), "د"), "label_0")
+        put(it, "custom_label_1", season, "label_1")
+        put(it, "custom_label_2", _price_band(it), "label_2")
+        put(it, "custom_label_3", fam[0], "label_3")
+        um = _unit_measure(_text(it, "title"))
+        if um and it.find(G + "unit_pricing_measure") is None:
+            ET.SubElement(it, G + "unit_pricing_measure").text = um[0]
+            ET.SubElement(it, G + "unit_pricing_base_measure").text = um[1]
+            n["unit_pricing"] += 1
+    return n
+
+
+def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None):
+    """يعيد (xml جديد، عدد المنتجات، عدد الروابط المعدَّلة). enrich = مفتاح المتجر لإثراء ملف جوجل."""
     root = safe_fromstring(xml_bytes)
     items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
     # المنتج بلا صورة ترفضه المنصات كلها، فيُستبعد من الملف الوسيط (القرار P-hayala-google-003).
@@ -234,6 +332,9 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=()):
     if clean:
         res = [clean_item(it) for it in items]
         print(f"   تنظيف: وصف قُصّ {sum(c for c, _ in res)} · خصم غير صالح حُذف {sum(x for _, x in res)}")
+    if enrich:
+        n = enrich_google(items, enrich)
+        print("   إثراء: " + " · ".join(f"{k} {v}" for k, v in n.items()))
     return ET.tostring(root, encoding="utf-8", xml_declaration=True), len(items), changed
 
 
@@ -258,7 +359,8 @@ def main():
             for platform, suffix in PARAMS.items():
                 try:
                     out_xml, n_items, n_links = rewrite(raw, suffix, (store, platform) in CLEAN,
-                                                        CLAIMS_IDS.get((store, platform), ()))
+                                                        CLAIMS_IDS.get((store, platform), ()),
+                                                        store if platform == "google" else None)
                 except Exception as e:
                     print(f"[{store}] {f.get('name')}: ملف غير صالح — {str(e)[:80]}")
                     break
