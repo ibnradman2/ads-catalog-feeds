@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 25 Sep 2026 19:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:14:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -92,7 +92,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">2106298714</guid>
       <g:id>2106298714</g:id>
@@ -107,7 +107,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1270839426</guid>
       <g:id>1270839426</g:id>
@@ -123,7 +123,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">432604828</guid>
       <g:id>432604828</g:id>
@@ -263,7 +263,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>0.012 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">757548514</guid>
       <g:id>757548514</g:id>
@@ -327,7 +327,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>0.028 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1939267679</guid>
       <g:id>1939267679</g:id>
@@ -343,7 +343,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>0.024 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1147148756</guid>
       <g:id>1147148756</g:id>
@@ -405,7 +405,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">10846494</guid>
       <g:id>10846494</g:id>
@@ -420,7 +420,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>هيل أمريكي أخضر رقم 2</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">2071592201</guid>
       <g:id>2071592201</g:id>
@@ -436,7 +436,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">528140923</guid>
       <g:id>528140923</g:id>
@@ -847,7 +847,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>تمر عجوة عالية المدينة</g:product_type>
-    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3></item>
+    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1588483287</guid>
       <g:id>1588483287</g:id>
@@ -937,7 +937,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل ومشتقات النحل</g:product_type>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1837829247</guid>
       <g:id>1837829247</g:id>
