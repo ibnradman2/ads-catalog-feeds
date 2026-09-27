@@ -9,6 +9,9 @@
 !*-snap.xml
 !*-meta.xml
 !*-google.xml
+!*-google-en.xml
+# نصوص صفحات /en العامة للملف الإنجليزي (البند P-asal-merchant-008)؛ لا أسرار فيها.
+!en_texts.json
 
 # تشغيل Actions: ملف سير العمل ونسخة الكود فقط، بأسمائها لا بمجلدات كاملة.
 !.github/
@@ -17,6 +20,7 @@
 !ci/
 !ci/publish_feeds.py
 !ci/catalog_feed_proxy.py
+!ci/feed_english.py
 !ci/data/
 !ci/data/meta_desc_override.json
 !ci/data/feed_labels.json

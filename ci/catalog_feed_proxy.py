@@ -18,6 +18,7 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 import xml.etree.ElementTree as ET
 from defusedxml.ElementTree import fromstring as safe_fromstring  # ملف خارجي: تحصين ضد XXE
 import requests
+import feed_english
 
 # مجلد النواتج. على GitHub Actions يُمرَّر مجلد مؤقت عبر FEEDS_BUILD_DIR؛ ومحليًّا يبقى كما كان.
 BUILD = os.environ.get("FEEDS_BUILD_DIR") or r"C:\ads-api\dashboard\build"
@@ -453,6 +454,24 @@ def main():
                 report["files"].append({"store": store, "platform": platform, "file": name,
                                         "products": n_items, "links": n_links,
                                         "size_kb": round(len(out_xml) / 1024)})
+                # ملف جوجل الإنجليزي من ملف جوجل العربي (البند P-asal-merchant-008). فشله لا يوقف العربي.
+                if platform == "google" and store in feed_english.STORES:
+                    try:
+                        en_xml, n_en, excluded, info = feed_english.build(out_xml, store)
+                    except Exception as e:  # noqa: BLE001
+                        print(f"[{store}] google-en: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
+                        continue
+                    en_name = f"{store}-{i+1}-google-en.xml"
+                    if not check:
+                        open(os.path.join(OUT, en_name), "wb").write(en_xml)
+                    print(f"[{store}] google-en منتجات {n_en} · مستبعد {len(excluded)} · صفحات /en حُدّثت "
+                          f"{info['fetched']}" + (f" (توقف: {info['stopped']})" if info["stopped"] else "")
+                          + f" → build\\feeds\\{en_name}")
+                    report["files"].append({"store": store, "platform": "google-en", "file": en_name,
+                                            "products": n_en, "links": n_en,
+                                            "size_kb": round(len(en_xml) / 1024),
+                                            "excluded": [{"id": p, "why": w} for p, w in excluded],
+                                            "en_pages": info})
     json.dump(report, open(os.path.join(BUILD, "catalog_feed_proxy.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
     print("\nالملفات جاهزة في build\\feeds. تبقّى نشرها على رابط https ثابت وتوجيه المنصة إليه.")
