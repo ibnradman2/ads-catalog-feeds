@@ -156,6 +156,26 @@ def clean_desc(body_html, title):
     return new if len(new) >= 40 else title
 
 
+# عبارات ترويجية في العنوان يرفضها جوجل بالرمز non_product_data (37 منتجًا في أول سحب 2026-09-27):
+# الشحن المجاني ونسبة الخصم والدفع عند الاستلام وبادئة «عرض/عروض ...:».
+TITLE_PROMO = [re.compile(p, re.I) for p in (
+    r"\(\s*free\s+shipping\s*\)", r"\bwith\s+free\s+shipping\b", r"\bfree\s+shipping\b",
+    r"\b(?:at|with)\s+an?\s+\d+(?:\.\d+)?\s*%\s*discount\b", r"\b\d+(?:\.\d+)?\s*%\s*(?:discount|off)\b",
+    r"\b(?:and\s+)?pay(?:ment)?\s+(?:on|upon)\s+(?:delivery|receipt)\b", r"\bcash\s+on\s+delivery\b",
+    r"^[^:]{0,40}\boffers?\s*:\s*", r"\s+offers?\b(?=\s*,)", r"^(?:an?\s+)?offer\s+(?:of\s+)?")]
+
+
+def clean_title(title):
+    """العنوان بلا عبارات ترويجية؛ يعود العنوان كما هو إن صار أقصر من 10 أحرف."""
+    t = title
+    for rx in TITLE_PROMO:
+        t = rx.sub(" ", t)
+    t = re.sub(r"\(\s*\)", " ", t)
+    t = re.sub(r"\s*\+\s*(?=\+|$)", " ", t)
+    t = re.sub(r"\s+([,)])", r"\1", re.sub(r"\s+", " ", t)).strip(" ,-+:")
+    return t[:1].upper() + t[1:] if len(t) >= 10 else title
+
+
 def build(xml_bytes, store):
     """يعيد (xml الإنجليزي، عدد المنتجات، قائمة المستبعد [(المعرّف، السبب)], ملخص التحديث)."""
     cache = load_cache()
@@ -190,6 +210,7 @@ def build(xml_bytes, store):
             excluded.append((pid, why))
             parent[it].remove(it)
             continue
+        title = clean_title(title)
         for tag, value in (("title", title[:150]), ("description", desc[:4900])):
             el = it.find(G + tag)
             if el is None:
