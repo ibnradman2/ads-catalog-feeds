@@ -339,6 +339,7 @@ def snap_uploads(stores=None, wait=0):
 # جوجل لا يقبل جدولة سحب أقصر من يومية، فتطلب هذه المهمة الساعية سحبًا فوريًّا بعد كل نشر.
 GOOGLE_SOURCES = {
     "asal":   ("262993710", "204430403", "asal-2-google.xml"),
+    "asal-en": ("262993710", "10749387459", "asal-2-google-en.xml"),   # المصدر الإنجليزي (P-asal-merchant-008)
     "areesh": ("742634052", "10086822428", "areesh-1-google.xml"),
     "hayala": ("683146519", "10086393943", "hayala-2-google.xml"),
 }
