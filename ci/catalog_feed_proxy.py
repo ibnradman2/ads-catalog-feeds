@@ -273,7 +273,45 @@ PROMO_HEADS = ["لسكان الرياض", "بقية المدن", "ما كيفي�
 PROMO_RE = re.compile(r"لسكان الرياض|داخل الرياض|خارج الرياض|مدينة الرياض|بقية المدن|جميع المدن|شحن|توصيل|الاستلام|واتس|خدمة العملاء|للسلة|سااارع|نفاد الكمية|الكمية محدودة"
                       r"|من نحن|روضة الجبال|فروع|فرع |سجل تجاري|الرقم الضريبي|خبرتنا|الدفع|تابي|تمارا|مدى"
                       r"|Appl|الإرجاع|نضمن|تصفح|من هنـ|تنبيه|فوائده|تشتري منا|شهادة الفحص|كيفية الحصول")
-YEARS_RE = re.compile(r"\b36(\s*)(عام|سنة)")   # تصحيح المالك 2026-09-24: عسل الجبال منذ 40 عامًا
+YEARS_RE = re.compile(r"\b3[68](\s*)(عام|سنة)")   # تصحيح المالك 2026-09-24: عسل الجبال منذ 40 عامًا (وصف سلة يقول 36 أو 38)
+# لا يُذكر منشأ المجرى الأبيض في أي إعلان (أمر المالك 2026-09-24)؛ تُحذف جملة المنشأ من وصفه في كل المنصات.
+MARDISIA_RE = re.compile(r"مجرى|مرديسيا|مارديسيا")
+ORIGIN_RE = re.compile(r"بلد المنشأ|روسيا|ألمانيا|قيرغيزستان|مستورد من أوروبا")
+
+
+def owner_facts(it, store):
+    """يصحّح سنوات خبرة عسل الجبال إلى 40، ويحذف منشأ المجرى الأبيض. يعيد True إن تغيّر الوصف."""
+    d = it.find(G + "description")
+    if d is None:
+        d = it.find("description")
+    if d is None or not d.text:
+        return False
+    t = d.text
+    if store == "asal":
+        t = YEARS_RE.sub(r"40\1\2", t)
+    title = it.find(G + "title")
+    if title is None:
+        title = it.find("title")
+    head = ((title.text or "") if title is not None else "") + " " + t
+    changed_title = False
+    if title is not None and title.text and MARDISIA_RE.search(title.text) and "ألماني" in title.text:
+        title.text = re.sub(r"مجرى\s+ألماني", "مجرى أبيض", title.text)   # مثل «عسل مجرى ألماني (مرديسيا)»
+        changed_title = True
+    if MARDISIA_RE.search(head) and ORIGIN_RE.search(t):
+        t = re.sub(r"<[^>]+>", " ", t).replace("&nbsp;", " ").replace("\xa0", " ")
+        parts = re.split(r"(?<=[.!؟:\n·])", re.sub(r"[ \t]+", " ", t))
+        kept = []
+        for x in parts:
+            if x.rstrip().endswith("بلد المنشأ:"):
+                x = x.rstrip()[:-len("بلد المنشأ:")] + "\n"   # يبقى ما قبل العنوان، كاسم المنتج
+            if ORIGIN_RE.search(x):
+                continue
+            kept.append(x)
+        t = re.sub(r"\s*\n\s*", "\n", "".join(kept)).strip()
+    if t == d.text:
+        return changed_title
+    d.text = t
+    return True
 
 
 def trim_promo(it):
@@ -330,7 +368,7 @@ def enrich_google(items, store):
     return n
 
 
-def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None):
+def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=None):
     """يعيد (xml جديد، عدد المنتجات، عدد الروابط المعدَّلة). enrich = مفتاح المتجر لإثراء ملف جوجل."""
     root = safe_fromstring(xml_bytes)
     items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
@@ -370,6 +408,9 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None):
             else:
                 n += strip_claims(it)
         print(f"   وصف بديل: {m} منتج · ادّعاءات صحية حُذفت: {n} جملة")
+    fixed = sum(owner_facts(it, store) for it in items)
+    if fixed:
+        print(f"   تصحيح السنوات والمنشأ: {fixed} منتج")
     if clean:
         res = [clean_item(it) for it in items]
         print(f"   تنظيف: وصف قُصّ {sum(c for c, _ in res)} · خصم غير صالح حُذف {sum(x for _, x in res)}")
@@ -401,7 +442,7 @@ def main():
                 try:
                     out_xml, n_items, n_links = rewrite(raw, suffix, (store, platform) in CLEAN,
                                                         CLAIMS_IDS.get((store, platform), ()),
-                                                        store if platform == "google" else None)
+                                                        store if platform == "google" else None, store)
                 except Exception as e:
                     print(f"[{store}] {f.get('name')}: ملف غير صالح — {str(e)[:80]}")
                     break
