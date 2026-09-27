@@ -93,11 +93,20 @@ def gate(proxy_report):
         old_n = count_products(os.path.join(REPO, name))
         f = fresh.get(name)
         if not f:
-            problems.append(f"{name}: كان منشورًا ولم يُولَّد الآن (تعذّر تحميل ملف سلة المصدر).")
+            msg = f"{name}: كان منشورًا ولم يُولَّد الآن (تعذّر تحميل ملف سلة المصدر)."
+            if name.endswith("-en.xml"):
+                print("تحذير: " + msg + " تبقى النسخة المنشورة.")
+            else:
+                problems.append(msg)
             continue
         new_n = f.get("products") or 0
         if old_n and new_n < old_n * MIN_RATIO:
-            problems.append(f"{name}: المنتجات {new_n} مقابل {old_n} منشورة — أقلّ من {int(MIN_RATIO*100)}%.")
+            msg = f"{name}: المنتجات {new_n} مقابل {old_n} منشورة — أقلّ من {int(MIN_RATIO*100)}%."
+            if name.endswith("-en.xml"):
+                # الملف الإنجليزي يستبعد كل ترجمة قديمة عمدًا، فنقصه تحذير لا يوقف نشر الملفات العربية.
+                print("تحذير: " + msg)
+            else:
+                problems.append(msg)
     if problems:
         die("شرط القبول لم يتحقّق:\n  - " + "\n  - ".join(problems))
 
