@@ -230,7 +230,11 @@ SEASONS = [(n, re.compile(p)) for n, p in SEASONS]
 # شريحة الأداء من نقرات Merchant Center في 30 يومًا (يبنيها dashboard\feed_labels_build.py).
 # الرموز محايدة لأن الملف منشور للعموم: أ = نصف النقرات الأول، ب = حتى 80%، ج = الباقي، د = بلا نقرات.
 _LBL = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "feed_labels.json")
-FREE_SHIP_STORES = {"hayala"}   # المتاجر التي تعتمد خدمة شحنها في Merchant على الوسم shipping_label=free
+# المتاجر التي تعتمد خدمة شحنها في Merchant على الوسم shipping_label=free، ونمط العنوان الذي يعني شحنًا مجانيًّا.
+# عريش (P-areesh-merchant-007): تحققنا من 317 طلبًا بين 22 و28 سبتمبر 2026 أن عروض اليوم الوطني
+# وما في اسمه «شحن مجاني» إجمالي طلبها = سعرها، أي بلا شحن.
+FREE_SHIP_STORES = {"hayala": re.compile(r"شحن مجاني"),
+                    "areesh": re.compile(r"عرض اليوم الوطني|شحن مجاني")}
 PERF_TIERS = json.load(open(_LBL, encoding="utf-8")).get("stores", {}) if os.path.exists(_LBL) else {}
 UNIT_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s*(كيلوجرام|كيلو|كجم|كغ|غرام|جرام|جم|غ)(?![ء-ي])")
 COUNT_RE = re.compile(r"\d+\s*(?:عبوات|عبوة|علب|علبة|حبات|أكياس|كيس|برطمانات|قطع)|عبوتان|عبوتين|[+×x]|مجان")
@@ -341,9 +345,9 @@ def enrich_google(items, store):
             ET.SubElement(it, G + "unit_pricing_measure").text = um[0]
             ET.SubElement(it, G + "unit_pricing_base_measure").text = um[1]
             n["unit_pricing"] += 1
-        # هيالة: الشحن 22 ر.س إلا منتجات العروض التي في اسمها «شحن مجاني»؛ خدمة الشحن في Merchant
-        # تقرأ هذا الوسم فتعلن لها شحنًا مجانيًّا (M-01).
-        if store in FREE_SHIP_STORES and "شحن مجاني" in _text(it, "title"):
+        # هيالة (M-01) وعريش (M-05): الشحن مدفوع إلا منتجات العروض المجانية الشحن؛ خدمة الشحن في Merchant
+        # تقرأ هذا الوسم فتعلن لها شحنًا مجانيًّا.
+        if store in FREE_SHIP_STORES and FREE_SHIP_STORES[store].search(_text(it, "title")):
             put(it, "shipping_label", "free", "shipping_label")
     return n
 
