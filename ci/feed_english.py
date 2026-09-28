@@ -52,6 +52,45 @@ EN_CLAIM_RE = re.compile(
     r"strengthen|boost|prevent|symptom|patient|therap|health", re.I)
 YEARS_RE = re.compile(r"\b3[68](\s*)years", re.I)   # عسل الجبال منذ 40 عامًا (أمر المالك 2026-09-24)
 
+# العلامة الإنجليزية الموحدة بدل القيم العربية الثلاث (قرار المالك 2026-09-28، البند P-merchant-011)
+EN_BRAND = {"asal": "Asal Aljebal"}
+# نوع المنتج بالإنجليزية. القيمة الجديدة غير المترجمة يُحذف حقلها من الملف الإنجليزي وتُذكر في
+# ملخص التشغيل، حتى لا يصل نص عربي إلى المصدر الإنجليزي.
+EN_PRODUCT_TYPE = {
+    "أعسال بالوزن": "Honey by Weight", "أصناف العسل": "Honey Varieties",
+    "منتجات طبيعية": "Natural Products", "أعسال بلدية محلية": "Local Saudi Honey",
+    "ربع كيلو": "Quarter Kilo (250 g)", "نصف كيلو": "Half Kilo (500 g)",
+    "1 كيلو": "1 kg", "2 كيلو": "2 kg", "5 كيلو": "5 kg", "7 كيلو": "7 kg", "10 كيلو": "10 kg",
+    "عسل سدر كشميري": "Kashmiri Sidr Honey", "عسل سدر حضرمي": "Hadrami Sidr Honey",
+    "عسل سدر ملكي": "Royal Sidr Honey", "عسل سدر جبلي": "Mountain Sidr Honey",
+    "عسل سدر بيشاوري": "Peshawari Sidr Honey", "عسل سدر طبيعي": "Natural Sidr Honey",
+    "عسل سدر بالزنجبيل والليمون والكركم": "Sidr Honey with Ginger, Lemon and Turmeric",
+    "أعسال بالشمع": "Honeycomb Honey", "أعسال بالجملة": "Wholesale Honey",
+    "غذاء ملكات النحل": "Royal Jelly", "حبوب اللقاح": "Bee Pollen", "مشتقات النحل": "Bee Products",
+    "عكبر": "Propolis", "كريم سم النحل": "Bee Venom Cream", "جنسنج": "Ginseng",
+    "عسل حبة البركة السوداء": "Black Seed Honey", "عسل اليانسون": "Anise Honey",
+    "عسل شوكة سمرة جنوبي": "Southern Samra Thorn Honey", "عسل الغابة السوداء": "Black Forest Honey",
+    "عسل أبو فروة الكستناء": "Chestnut Honey", "عسل البردقوش": "Marjoram Honey",
+    "عسل طلح جنوبي وحائلي": "Southern and Hail Talh Honey", "عسل الصبار المر": "Bitter Aloe Vera Honey",
+    "عسل المجرى الأبيض": "White Majra Honey", "عسل زهور برية بلدي": "Local Wildflower Honey",
+    "عسل زهور البرسيم": "Clover Flower Honey", "عسل المورينجا": "Moringa Honey",
+    "عسل الأثل": "Athal (Tamarisk) Honey", "خلطة الجبال": "Aljebal Mountain Mix",
+    "عروض اليوم الوطني 96": "Saudi National Day 96 Offers", "ملاعق عسل": "Honey Spoons",
+    "تمر عجوة عالية المدينة": "Ajwa Alia Al-Madina Dates", "تمر سكري القصيم": "Qassim Sukkari Dates",
+    "تلبينة نبوية": "Nabawi Talbinah", "سمن بلدي": "Local Ghee", "زبيب أحمر": "Red Raisins",
+    "زبيب أسود": "Black Raisins", "مكسرات مشكلة": "Mixed Nuts", "لوز يمني": "Yemeni Almonds",
+    "قهوة الشاذلية": "Shazliya Coffee", "العسل الاسباني": "Spanish Honey",
+    "عسل مانوكا نيوزلندي": "New Zealand Manuka Honey", "تمر خلاص القصيم": "Qassim Khalas Dates",
+    "عروض حصرية لمدة 48 ساعة": "48-Hour Exclusive Offers",
+}
+
+
+def en_product_type(value):
+    """يترجم نوع المنتج جزءًا جزءًا (الفاصل ‹>›). يعيد None إن بقي جزء بلا ترجمة."""
+    parts = [" ".join(p.split()) for p in (value or "").split(">") if p.strip()]
+    out = [p if not AR.search(p) else EN_PRODUCT_TYPE.get(p) for p in parts]
+    return None if not out or None in out else " > ".join(out)
+
 
 def _now():
     return dt.datetime.now(dt.timezone.utc)
@@ -141,8 +180,15 @@ def _season(text):
 AR_DIGITS = str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
 
 
+EN_NUMBER_WORDS = {"one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6",
+                   "seven": "7", "eight": "8", "nine": "9", "ten": "10"}
+EN_NUMBER_WORD_RE = re.compile(r"\b(" + "|".join(EN_NUMBER_WORDS) + r")\b", re.I)
+
+
 def _numbers(text):
-    return set(re.findall(r"\d+(?:\.\d+)?", (text or "").translate(AR_DIGITS)))
+    # العدد المكتوب بالكلمات في الإنجليزية (Three jars) يُعدّ رقمًا حتى لا يُستبعد المنتج خطأً
+    text = EN_NUMBER_WORD_RE.sub(lambda m: EN_NUMBER_WORDS[m.group(1).lower()], text or "")
+    return set(re.findall(r"\d+(?:\.\d+)?", text.translate(AR_DIGITS)))
 
 
 def clean_desc(body_html, title):
@@ -186,7 +232,7 @@ def build(xml_bytes, store):
     save_cache(cache)
     sc = cache.get(store, {})
     parent = {c: p for p in root.iter() for c in p}
-    excluded, kept = [], 0
+    excluded, kept, untranslated = [], 0, set()
     for it, pid in zip(items, ids):
         e = sc.get(pid) or {}
         ar_title = (it.findtext(G + "title") or it.findtext("title") or "").strip()
@@ -218,6 +264,17 @@ def build(xml_bytes, store):
             if el is None:
                 el = ET.SubElement(it, G + tag)
             el.text = value
+        brand = it.find(G + "brand")
+        if brand is None:
+            brand = ET.SubElement(it, G + "brand")
+        brand.text = EN_BRAND[store]
+        for pt in it.findall(G + "product_type"):
+            en = en_product_type(pt.text)
+            if en:
+                pt.text = en
+            else:
+                untranslated.add((pt.text or "").strip())
+                it.remove(pt)
         slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:80] or "product"
         for tag in ("link", G + "link", "mobile_link", G + "mobile_link"):
             el = it.find(tag)
@@ -229,5 +286,6 @@ def build(xml_bytes, store):
     ch = root.find("./channel/link")                     # رابط القناة نفسها
     if ch is not None and ch.text:
         ch.text = re.sub(r"/ar/?$", "/en", ch.text.strip())
-    info = {"fetched": fetched, "stopped": stop, "cached": len(sc)}
+    info = {"fetched": fetched, "stopped": stop, "cached": len(sc),
+            "untranslated_product_types": sorted(untranslated)}
     return ET.tostring(root, encoding="utf-8", xml_declaration=True), kept, excluded, info
