@@ -24,3 +24,8 @@
 !ci/data/
 !ci/data/meta_desc_override.json
 !ci/data/feed_labels.json
+
+# صور منتجات عامة معدّلة (بلا أسرار) لرفعها إلى سلة برابط عام؛ بأسمائها فقط (القانون 4، 2026-09-28).
+!img/
+!img/areesh-480738937-main-nodate.jpg
+!img/areesh-480738937-alt-nodate.png
