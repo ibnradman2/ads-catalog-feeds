@@ -349,7 +349,36 @@ def enrich_google(items, store):
         # تقرأ هذا الوسم فتعلن لها شحنًا مجانيًّا.
         if store in FREE_SHIP_STORES and FREE_SHIP_STORES[store].search(_text(it, "title")):
             put(it, "shipping_label", "free", "shipping_label")
+    n["merchant_image"] = merchant_image_overrides(items, store)
     return n
+
+
+MERCHANT_IMAGES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "merchant_images.json")
+
+
+def merchant_image_overrides(items, store):
+    """صورة رديفة لـMerchant (جلسة الترجمة، أمر المالك 2026-09-27): تحل محل image_link في ملف جوجل
+    فقط، وتنتقل صورة سلة الأصلية إلى أول additional_image_link. لا تمسّ صورة المتجر نفسه.
+    الخريطة feeds_repo\\ci\\data\\merchant_images.json (M-32) بالشكل {"asal": {"<المعرّف>": "<رابط https>"}}."""
+    try:
+        with open(MERCHANT_IMAGES, encoding="utf-8") as fh:
+            m = (json.load(fh) or {}).get(store) or {}
+    except (OSError, ValueError):
+        return 0
+    done = 0
+    for it in items:
+        url = m.get(_text(it, "id"))
+        img = it.find(G + "image_link")
+        if not url or img is None or not str(url).startswith("https://") or img.text == url:
+            continue
+        old = img.text
+        img.text = url
+        extra = ET.Element(G + "additional_image_link")
+        extra.text = old
+        it.insert(list(it).index(img) + 1, extra)
+        done += 1
+    return done
+
 
 
 def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=None):

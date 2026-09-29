@@ -21,6 +21,16 @@ r"""ينشر ملفات المنتجات الوسيطة على رابط https ث
 import json, sys, os, re, subprocess, time, datetime as dt
 import requests
 
+try:   # محليًّا: سجل المتاجر الموحّد (P-onboarding-001). على GitHub لا سجل (المستودع عام)، فتُستعمل القيم
+    import stores_registry as R   # المكتوبة، ويطابقها feeds_sync_check.py بالسجل (M-32).
+except Exception:  # noqa: BLE001
+    R = None
+
+
+def acc(store, platform, written):
+    """معرّف الحساب من السجل إن وُجد، وإلا القيمة المكتوبة."""
+    return R.account_id(store, platform) if R else written
+
 DASH = os.path.dirname(os.path.abspath(__file__))
 # على GitHub Actions يُمرَّر المجلدان عبر متغيّرات البيئة؛ ومحليًّا تبقى القيم كما كانت.
 BUILD = os.environ.get("FEEDS_BUILD_DIR") or os.path.join(DASH, "build")
@@ -199,11 +209,11 @@ def verify(rows, pushed):
 
 # كتالوجات سناب المقابلة لكل ملف منشور: المتجر → (حساب الإعلانات، الكتالوج، الملف داخل سناب، الملف المنشور)
 SNAP_FEEDS = {
-    "asal":   ("dc254711-b3de-4f26-9484-364e2c91bdc5", "4bdcb0aa-7c90-4091-a7b1-0530c28dc418",
+    "asal":   (acc("asal", "snap", "dc254711-b3de-4f26-9484-364e2c91bdc5"), "4bdcb0aa-7c90-4091-a7b1-0530c28dc418",
                "5f86e501-50bb-44c8-b6d2-9a76beab1683", "asal-2-snap.xml"),
-    "hayala": ("f46b3709-d6c4-46b6-b144-e6dc8b18af23", "586237b2-9d83-46b7-a557-a8a0e34e27a9",
+    "hayala": (acc("hayala", "snap", "f46b3709-d6c4-46b6-b144-e6dc8b18af23"), "586237b2-9d83-46b7-a557-a8a0e34e27a9",
                "28123ee3-3446-4666-837d-5c0cf34fa9ea", "hayala-2-snap.xml"),
-    "areesh": ("66d50fe5-5ca2-49b6-be7f-9b13989b95a1", "370e2192-af56-4f55-a09f-d5b95f7a80f9",
+    "areesh": (acc("areesh", "snap", "66d50fe5-5ca2-49b6-be7f-9b13989b95a1"), "370e2192-af56-4f55-a09f-d5b95f7a80f9",
                "06bd5e11-6d75-437d-a0d2-8dd234fdc410", "areesh-1-snap.xml"),
 }
 
@@ -347,10 +357,10 @@ def snap_uploads(stores=None, wait=0):
 # مصادر Merchant Center الأساسية التي تسحب ملفات جوجل المنشورة: المتجر → (الحساب، المصدر، الملف)
 # جوجل لا يقبل جدولة سحب أقصر من يومية، فتطلب هذه المهمة الساعية سحبًا فوريًّا بعد كل نشر.
 GOOGLE_SOURCES = {
-    "asal":   ("262993710", "204430403", "asal-2-google.xml"),
-    "asal-en": ("262993710", "10749387459", "asal-2-google-en.xml"),   # المصدر الإنجليزي (P-asal-merchant-008)
-    "areesh": ("742634052", "10086822428", "areesh-1-google.xml"),
-    "hayala": ("683146519", "10086393943", "hayala-2-google.xml"),
+    "asal":   (acc("asal", "merchant_center", "262993710"), "204430403", "asal-2-google.xml"),
+    "asal-en": (acc("asal", "merchant_center", "262993710"), "10749387459", "asal-2-google-en.xml"),   # المصدر الإنجليزي (P-asal-merchant-008)
+    "areesh": (acc("areesh", "merchant_center", "742634052"), "10086822428", "areesh-1-google.xml"),
+    "hayala": (acc("hayala", "merchant_center", "683146519"), "10086393943", "hayala-2-google.xml"),
 }
 
 
@@ -433,8 +443,9 @@ def main():
     changed = copy_in(rows)
     if dry:
         print("تجربة فقط — لم يُرفع شيء. المتغيّر: " + (", ".join(changed) or "لا شيء"))
+        # يُرجع ملفات المنتجات وحدها، لا الكود: التعديل غير المرفوع في ci يبقى (M-32؛ كان يُمسح).
         sh(["git", "reset", "-q", "HEAD"], check=False)
-        sh(["git", "checkout", "--", "."], check=False)
+        sh(["git", "checkout", "--", "*.xml"], check=False)
         return
     sha, pushed = publish(changed)
     verify(rows, pushed)
