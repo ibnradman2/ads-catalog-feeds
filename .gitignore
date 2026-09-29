@@ -24,3 +24,8 @@
 !ci/data/
 !ci/data/meta_desc_override.json
 !ci/data/feed_labels.json
+
+# صور المنتجات المعتمدة من المالك (المادتان 21 و112): ملفات PNG تحت img فقط
+!img/
+!img/**/
+!img/**/*.png
