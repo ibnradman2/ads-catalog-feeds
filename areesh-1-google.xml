@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:02:47 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1053,7 +1053,6 @@
       <g:image_link>https://cdn.salla.sa/KPEvG/WSSkShcmYsV3dcgINonjE7MaXTE6BQvBo9GtDFJz.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>199.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
       <g:brand>متجر عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
