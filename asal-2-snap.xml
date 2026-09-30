@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 29 Sep 2026 20:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:00:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -18,7 +18,7 @@
       <g:availability>in stock</g:availability>
       <g:price>600.00 SAR</g:price>
       <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -39,7 +39,7 @@
       <g:availability>out of stock</g:availability>
       <g:price>750.00 SAR</g:price>
       <g:sale_price>599.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>ربع كيلو</g:product_type>
       <g:item_group_id>004-1044</g:item_group_id>
@@ -55,7 +55,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/G59KKT3VqBYUvFeesYENGSOmCkimEhLBf8N8QFwc.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>150.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -223,7 +223,7 @@
       <g:availability>in stock</g:availability>
       <g:price>625.00 SAR</g:price>
       <g:sale_price>520.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -239,7 +239,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/HRwoRSsapbjUbuXe6HMXYQaYeSpmKsUQPQHSW8QV.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>145.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -257,7 +257,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1180.00 SAR</g:price>
       <g:sale_price>708.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل حبة البركة السوداء</g:product_type>
@@ -306,7 +306,7 @@
       <g:availability>in stock</g:availability>
       <g:price>688.00 SAR</g:price>
       <g:sale_price>574.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -357,7 +357,7 @@
       <g:availability>in stock</g:availability>
       <g:price>280.00 SAR</g:price>
       <g:sale_price>196.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>عسل الغابة السوداء</g:product_type>
       <g:item_group_id>0140101051</g:item_group_id>
@@ -373,7 +373,7 @@
       <g:availability>in stock</g:availability>
       <g:price>605.00 SAR</g:price>
       <g:sale_price>515.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر بيشاوري</g:product_type>
@@ -392,7 +392,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1180.00 SAR</g:price>
       <g:sale_price>885.01 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>10 كيلو</g:product_type>
@@ -458,7 +458,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1500.00 SAR</g:price>
       <g:sale_price>796.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
@@ -475,7 +475,7 @@
       <g:availability>in stock</g:availability>
       <g:price>262.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>حبوب اللقاح</g:product_type>
@@ -509,7 +509,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/7kADvgvINiEuT8tYtUDODkiiArU4jBhVZesHkTq0.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>34.99 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -576,7 +576,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/N3Dic1gyRIDyPfB4OoxGQfI8m2VY6IG8S2Z2kMXK.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>250.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>غذاء ملكات النحل</g:product_type>
@@ -629,7 +629,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/PrzrC6v2qhDP1Iva3TF4XODuW5OmArFsme8ePXlU.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>149.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر طبيعي</g:product_type>
@@ -892,7 +892,7 @@
       <g:availability>out of stock</g:availability>
       <g:price>1350.00 SAR</g:price>
       <g:sale_price>795.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>أصناف العسل</g:product_type>
       <g:item_group_id>0021003005</g:item_group_id>
@@ -1071,7 +1071,7 @@
       <g:availability>in stock</g:availability>
       <g:price>4020.00 SAR</g:price>
       <g:sale_price>2868.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -1088,7 +1088,7 @@
       <g:availability>in stock</g:availability>
       <g:price>2814.00 SAR</g:price>
       <g:sale_price>2409.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -1105,7 +1105,7 @@
       <g:availability>in stock</g:availability>
       <g:price>2010.00 SAR</g:price>
       <g:sale_price>1835.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>5 كيلو</g:product_type>
@@ -1122,7 +1122,7 @@
       <g:availability>in stock</g:availability>
       <g:price>804.00 SAR</g:price>
       <g:sale_price>746.01 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -1138,7 +1138,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>402.01 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -1154,7 +1154,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/1eHirCU7AHBJAe79Yn4n1IfMZQuesaRP95d2ISLl.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>229.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -1170,7 +1170,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/5a4uygUDnooo7GIHHeAA3eMIr76xG4R9q0HyNl6W.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>115.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -1186,7 +1186,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/JNRQAkdSmy1umGcMswQiB7SnCqNnA6lThxH4Lhza.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>574.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -1220,7 +1220,7 @@
       <g:availability>in stock</g:availability>
       <g:price>3441.00 SAR</g:price>
       <g:sale_price>2524.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالجملة</g:product_type>
@@ -1238,7 +1238,7 @@
       <g:availability>in stock</g:availability>
       <g:price>344.00 SAR</g:price>
       <g:sale_price>200.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل المجرى الأبيض</g:product_type>
@@ -1254,7 +1254,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/grvyAaElUebjlzYYMJs4hLGXOnS8pMsHsKy3o97a.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>172.99 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -1270,7 +1270,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/na0d1a8fJdIIBbQ2zLqU26oa1PBT1orFiey6MDRi.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>344.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -1287,7 +1287,7 @@
       <g:availability>in stock</g:availability>
       <g:price>3441.00 SAR</g:price>
       <g:sale_price>2294.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل شوكة سمرة جنوبي</g:product_type>
@@ -1320,7 +1320,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/ECEFUvIoeaj499Wfk1vvPmtsAfTDPpdIX2YY1OUQ.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>1721.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -1352,7 +1352,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/iT1UjEKqoDTHU4xO8GZ7KLt4qhZikgWxaj258aZM.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>344.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -1368,7 +1368,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/clrNlh5pc0i2wHG1QBnmISONJ4qvzySo7kTEgpmc.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>172.99 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -1517,7 +1517,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/pBIE06fZ6uJ2Bx0DPxOwEpeAcjecHDMC8FznFeJe.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>138.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>1 كيلو</g:product_type>
@@ -1583,7 +1583,7 @@
       <g:availability>in stock</g:availability>
       <g:price>803.00 SAR</g:price>
       <g:sale_price>631.01 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>7 كيلو</g:product_type>
@@ -1616,7 +1616,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/FbfBY6utAcecxkvmwRMrOJYUOI8aWJseeFfUCXNx.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>115.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل زهور  البرسيم</g:product_type>
@@ -1852,7 +1852,7 @@
       <g:availability>in stock</g:availability>
       <g:price>627.00 SAR</g:price>
       <g:sale_price>417.00 SAR</g:sale_price>
-      <g:brand>عروض العسل</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر جبلي</g:product_type>
@@ -1869,7 +1869,7 @@
       <g:availability>in stock</g:availability>
       <g:price>345.00 SAR</g:price>
       <g:sale_price>260.00 SAR</g:sale_price>
-      <g:brand>عروض العسل</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -1905,7 +1905,7 @@
       <g:availability>in stock</g:availability>
       <g:price>483.00 SAR</g:price>
       <g:sale_price>340.00 SAR</g:sale_price>
-      <g:brand>عروض العسل</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل شوكة سمرة جنوبي</g:product_type>
@@ -1922,7 +1922,7 @@
       <g:availability>in stock</g:availability>
       <g:price>368.00 SAR</g:price>
       <g:sale_price>294.00 SAR</g:sale_price>
-      <g:brand>عروض العسل</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل حبة البركة السوداء</g:product_type>
@@ -2332,7 +2332,7 @@
       <g:availability>in stock</g:availability>
       <g:price>457.00 SAR</g:price>
       <g:sale_price>330.00 SAR</g:sale_price>
-      <g:brand>عروض العسل</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -2385,7 +2385,7 @@
       <g:availability>in stock</g:availability>
       <g:price>850.00 SAR</g:price>
       <g:sale_price>550.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر كشميري</g:product_type>
@@ -2403,7 +2403,7 @@
       <g:availability>in stock</g:availability>
       <g:price>3441.00 SAR</g:price>
       <g:sale_price>2731.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -2419,7 +2419,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/avmdscAoadpqYuKBilm1tYsrixeq33WNuTovNXQ7.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>688.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -2437,7 +2437,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1377.00 SAR</g:price>
       <g:sale_price>996.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -2454,7 +2454,7 @@
       <g:availability>in stock</g:availability>
       <g:price>4588.99 SAR</g:price>
       <g:sale_price>3441.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -2471,7 +2471,7 @@
       <g:availability>in stock</g:availability>
       <g:price>3200.00 SAR</g:price>
       <g:sale_price>2889.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -2488,7 +2488,7 @@
       <g:availability>in stock</g:availability>
       <g:price>2294.00 SAR</g:price>
       <g:sale_price>1835.20 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -2505,7 +2505,7 @@
       <g:availability>in stock</g:availability>
       <g:price>918.00 SAR</g:price>
       <g:sale_price>780.30 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -2521,7 +2521,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/5131hrBlqkuwvXS0krmoaUB9AxlJCah4w0K3etOX.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>459.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -2537,7 +2537,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/LMcQQKerpXtDMQuDZEYcZ0KtPzhv9bAnVzw2n8R3.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>258.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -2553,7 +2553,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/Kd32QHiB0eYSMRnbTwXPUPxLvLSpmvhMvk3Ya1Re.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>138.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>ربع كيلو</g:product_type>
@@ -2571,7 +2571,7 @@
       <g:availability>in stock</g:availability>
       <g:price>835.00 SAR</g:price>
       <g:sale_price>599.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>7 كيلو</g:product_type>
@@ -2587,7 +2587,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/mOCCjNJDcBJOdVegRp8uJzH5ZprK0vAMekIzWbOv.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>115.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>1 كيلو</g:product_type>
@@ -2608,7 +2608,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1117.00 SAR</g:price>
       <g:sale_price>758.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر ملكي</g:product_type>
@@ -2629,7 +2629,7 @@
       <g:availability>in stock</g:availability>
       <g:price>455.00 SAR</g:price>
       <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -2646,7 +2646,7 @@
       <g:availability>in stock</g:availability>
       <g:price>517.01 SAR</g:price>
       <g:sale_price>350.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>5 كيلو</g:product_type>
@@ -2664,7 +2664,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1400.00 SAR</g:price>
       <g:sale_price>950.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر ملكي</g:product_type>
@@ -2681,7 +2681,7 @@
       <g:availability>in stock</g:availability>
       <g:price>900.00 SAR</g:price>
       <g:sale_price>795.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل البردقوش</g:product_type>
@@ -2698,7 +2698,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1800.00 SAR</g:price>
       <g:sale_price>1400.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل البردقوش</g:product_type>
@@ -2715,7 +2715,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1800.00 SAR</g:price>
       <g:sale_price>1400.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل اليانسون</g:product_type>
@@ -2731,7 +2731,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/PnfZ2rAv6mfwzouy8NwfEEJjq3roZOuEO6i09zoT.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>300.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -2749,7 +2749,7 @@
       <g:availability>in stock</g:availability>
       <g:price>489.00 SAR</g:price>
       <g:sale_price>397.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -2766,7 +2766,7 @@
       <g:availability>in stock</g:availability>
       <g:price>260.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -2783,7 +2783,7 @@
       <g:availability>in stock</g:availability>
       <g:price>852.00 SAR</g:price>
       <g:sale_price>525.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل زهور برية بلدي</g:product_type>
@@ -2800,7 +2800,7 @@
       <g:availability>in stock</g:availability>
       <g:price>918.00 SAR</g:price>
       <g:sale_price>549.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر جبلي</g:product_type>
@@ -2817,7 +2817,7 @@
       <g:availability>in stock</g:availability>
       <g:price>918.00 SAR</g:price>
       <g:sale_price>496.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>2 كيلو</g:product_type>
@@ -2834,7 +2834,7 @@
       <g:availability>in stock</g:availability>
       <g:price>850.00 SAR</g:price>
       <g:sale_price>550.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر كشميري</g:product_type>
@@ -2851,7 +2851,7 @@
       <g:availability>in stock</g:availability>
       <g:price>425.01 SAR</g:price>
       <g:sale_price>275.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -2868,7 +2868,7 @@
       <g:availability>in stock</g:availability>
       <g:price>255.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر كشميري</g:product_type>
@@ -2885,7 +2885,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1090.00 SAR</g:price>
       <g:sale_price>695.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل طلح جنوبي وحائلي</g:product_type>
@@ -2902,7 +2902,7 @@
       <g:availability>in stock</g:availability>
       <g:price>517.00 SAR</g:price>
       <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>5 كيلو</g:product_type>
@@ -2919,7 +2919,7 @@
       <g:availability>in stock</g:availability>
       <g:price>724.99 SAR</g:price>
       <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل حبة البركة السوداء</g:product_type>
@@ -2936,7 +2936,7 @@
       <g:availability>in stock</g:availability>
       <g:price>688.00 SAR</g:price>
       <g:sale_price>349.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -2953,7 +2953,7 @@
       <g:availability>in stock</g:availability>
       <g:price>688.00 SAR</g:price>
       <g:sale_price>499.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالوزن</g:product_type>
@@ -2970,7 +2970,7 @@
       <g:availability>in stock</g:availability>
       <g:price>574.00 SAR</g:price>
       <g:sale_price>392.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -2987,7 +2987,7 @@
       <g:availability>in stock</g:availability>
       <g:price>350.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>خلطة الجبال</g:product_type>
@@ -3004,7 +3004,7 @@
       <g:availability>in stock</g:availability>
       <g:price>600.00 SAR</g:price>
       <g:sale_price>349.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>خلطة الجبال</g:product_type>
@@ -3020,7 +3020,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>149.99 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>خلطة الجبال</g:product_type>
@@ -3037,7 +3037,7 @@
       <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
       <g:sale_price>99.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>تمر خلاص القصيم</g:product_type>
@@ -3054,7 +3054,7 @@
       <g:availability>in stock</g:availability>
       <g:price>435.00 SAR</g:price>
       <g:sale_price>276.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -3111,7 +3111,7 @@
       <g:availability>in stock</g:availability>
       <g:price>402.00 SAR</g:price>
       <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -3127,7 +3127,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/JtQj2iEtfm1ToUuRPVZzHCPPzjVAoKEfokGTFEAx.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>120.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>ملاعق عسل</g:product_type>
@@ -3144,7 +3144,7 @@
       <g:availability>in stock</g:availability>
       <g:price>479.90 SAR</g:price>
       <g:sale_price>349.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>ملاعق عسل</g:product_type>
@@ -3161,7 +3161,7 @@
       <g:availability>out of stock</g:availability>
       <g:price>89.00 SAR</g:price>
       <g:sale_price>59.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>0041056001</g:item_group_id>
@@ -3176,7 +3176,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/yc37z9HlzSrG0J3ZX5QbD9FodntBNB09Q6IokLhl.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>25.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3193,7 +3193,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/RMJ4UKEdMtnbe5AwhwLw6vGqfsAAuLPhdBBpWM7N.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>92.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -3210,7 +3210,7 @@
       <g:availability>in stock</g:availability>
       <g:price>600.00 SAR</g:price>
       <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
@@ -3227,7 +3227,7 @@
       <g:availability>in stock</g:availability>
       <g:price>199.00 SAR</g:price>
       <g:sale_price>148.99 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر كشميري</g:product_type>
@@ -3243,7 +3243,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/SqPnLx0sGRRgEpRuE13asNdBE9yZVdnqG5tutG5S.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>185.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>لوز يمني</g:product_type>
@@ -3259,7 +3259,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/IcJR7aO61hIpXaEmyWeKfD32VjNBtbIkTna1XKB5.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>350.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3275,7 +3275,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/gGYF1rijy0IYCXaiArZBnegSA5nD1oooI2WjMLYt.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -3291,7 +3291,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/4VShuAa32u0STWzJk4fiUSiLZTUQEoBavSYJGL6H.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>390.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -3307,7 +3307,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>87.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عكبر</g:product_type>
@@ -3323,7 +3323,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/VgkGEE4A2NzCg23ff22ZuHj2XOr7yNRWX0LvxzaA.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>250.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -3340,7 +3340,7 @@
       <g:availability>in stock</g:availability>
       <g:price>950.00 SAR</g:price>
       <g:sale_price>499.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
@@ -3356,7 +3356,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/3PfalWQUaMz5X3oGZvRgrdd0b0BqsHRoSoQ6eflq.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>480.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -3373,7 +3373,7 @@
       <g:availability>in stock</g:availability>
       <g:price>345.00 SAR</g:price>
       <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر بيشاوري</g:product_type>
@@ -3391,7 +3391,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/qSDiZiqhWcoZOdiyipr8BNetHQ6g4ekuD1EjSeUh.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>250.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل طلح جنوبي وحائلي</g:product_type>
@@ -3407,7 +3407,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/uqEfctNIYdjVEFjXJSBHjQmOrGLWqOmK9WzjnQOy.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>50.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -3423,7 +3423,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/DSCOR7067o8zBnh2A6zQW0j8yZOsIgvXJ9PGaeSz.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>2100.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر حضرمي</g:product_type>
@@ -3439,7 +3439,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/RYfIPaV8JDAEoZIzxvfPfsB45o7ng90zHAUkB9Ld.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>1750.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر حضرمي</g:product_type>
@@ -3455,7 +3455,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/VB5UXEsnHY52zKji0EjCMZaoAeAI5Kv67q8q8QcU.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>235.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر حضرمي</g:product_type>
@@ -3472,7 +3472,7 @@
       <g:availability>in stock</g:availability>
       <g:price>250.00 SAR</g:price>
       <g:sale_price>149.01 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>مكسرات مشكلة</g:product_type>
@@ -3488,7 +3488,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/oAe7RShyCRl8YvIAnT4pXFFR7J7pyguSSbGd3JrC.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>125.01 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر حضرمي</g:product_type>
@@ -3504,7 +3504,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/oAUgc8FlR5eYtB1P7fqg7w4OWV3WxjDcm9laCf2e.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>450.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر حضرمي</g:product_type>
@@ -3520,7 +3520,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/31vyB2rLRGvsoPLrHCdmjmHiUegs7OGvvqBJdXPI.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>250.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -3537,7 +3537,7 @@
       <g:availability>in stock</g:availability>
       <g:price>320.00 SAR</g:price>
       <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>سمن بلدي</g:product_type>
@@ -3553,7 +3553,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/TO0a8IOl2CqF6hnKMhbq99YW7QdFcWGxKlW5B8ad.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>130.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3569,7 +3569,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/XG5Ebn0QGvLmuuc2wO9h4zcvk1XaUEJI65OYDtqI.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>55.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>0091008003</g:item_group_id>
@@ -3584,7 +3584,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/U4QSmrD0oh4Fu3vSkkYBdI2ZI5zx5zFnlPiCCYLh.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>16.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>2020201</g:item_group_id>
@@ -3599,7 +3599,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/LK3NIZTE1v6h1TY2rYapgJ5jMHjA8uJQYJRGOe2C.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>29.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3616,7 +3616,7 @@
       <g:availability>in stock</g:availability>
       <g:price>290.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
@@ -3632,7 +3632,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/NMt35poRIqFNw3Eb4v8A1Ox4jYU5i61v2boExwke.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>20.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3648,7 +3648,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/mKueCLp85ZY6EbxB8mAtPTt1AmhdEKlzeUQzd06R.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>260.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>009-1004002</g:item_group_id>
@@ -3663,7 +3663,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/BQbaoLdRkikvX2eMzYaAyhNikHJK9ThmQ2o3EHRE.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>40.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3679,7 +3679,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/7P6GfQftUjCj1YJAN7sLCaY9sATRXXofVyNjn9Yr.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>79.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>009-1004</g:item_group_id>
@@ -3694,7 +3694,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/Dm8mjuGBS16UL50WBtz2BJoifTKov3Urt0HcqjdQ.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>73.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3710,7 +3710,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/nigXcw62gc4Wtl3WXsB1YX4YP1RsIBT1dV8dUnEA.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>60.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>009001001</g:item_group_id>
@@ -3725,7 +3725,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/BvyCKtYNxLEIAIuiYOE8SVv80T1LA0BWbSbd7OC4.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>90.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>غذاء ملكات النحل</g:product_type>
@@ -3742,7 +3742,7 @@
       <g:availability>in stock</g:availability>
       <g:price>240.01 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>زبيب أسود</g:product_type>
@@ -3758,7 +3758,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/xDVgEqZRM2oKfUC9NgjmbN2wILs9fv7yDlwaTq1V.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>34.99 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>غذاء ملكات النحل</g:product_type>
@@ -3775,7 +3775,7 @@
       <g:availability>in stock</g:availability>
       <g:price>804.00 SAR</g:price>
       <g:sale_price>496.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:item_group_id>00410290004</g:item_group_id>
@@ -3791,7 +3791,7 @@
       <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
       <g:sale_price>98.99 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>زبيب أسود</g:product_type>
@@ -3807,7 +3807,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/MNqb2wQwFTPczJ2kfxJia1IcPIRn1R6Mr1dJan1o.png</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>85.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>0051020006</g:item_group_id>
@@ -3822,7 +3822,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/TcEtQwnLzIeix7Tsave57btzeJHARzBCY6ieOdOj.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>13.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>تلبينة نبوية</g:product_type>
@@ -3838,7 +3838,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/0GQhJjrBzM7aM7ynhUj39a2TGre7QcOqxybW03Zm.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>9.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>تلبينة نبوية</g:product_type>
@@ -3854,7 +3854,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>249.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>حبوب اللقاح</g:product_type>
@@ -3870,7 +3870,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/p8cG6zwtBwXVoH7P3eiZPAT59IENtl7JE9pmLPA1.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>20.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3886,7 +3886,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/R7SdGJ2ILb7UbQD0pf1sTKNAENHr4m74YVd7IH2t.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>20.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>تلبينة نبوية</g:product_type>
@@ -3902,7 +3902,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/ZnwiuqKnaqhfMFWGcCrZURNYmSLKooxragFlu3ld.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>15.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3918,7 +3918,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/urv1wnENS9JL1jcCvZzV8pKInhEbHUF3mpgUOzrP.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>30.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -3934,7 +3934,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/W8RhWE5rvcc5YgaFCIFUEGATGJAas73bsumqYgw9.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>55.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>0091008001</g:item_group_id>
@@ -3950,7 +3950,7 @@
       <g:availability>out of stock</g:availability>
       <g:price>170.00 SAR</g:price>
       <g:sale_price>149.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>تمر سكري القصيم</g:product_type>
       <g:item_group_id>0051020007</g:item_group_id>
@@ -3966,7 +3966,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/us4hMgGXikh3PuHoAGXvPD97dzyFqQ6v797s9vxR.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>140.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>حبوب اللقاح</g:product_type>
@@ -3982,7 +3982,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/FHLUuYrr9fueIJKlb33UcuxRD2qKlmia282sNvz9.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>95.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>مشتقات النحل</g:product_type>
@@ -3998,7 +3998,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/7rUruUjMjkGqgWBirn0qLINcb8QGfInckhSFeXPi.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>200.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>حبوب اللقاح</g:product_type>
@@ -4014,7 +4014,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/uluCv6UyHnyNlabjiqCsM4lpYSCMxfhreVPfa5I9.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>30.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -4030,7 +4030,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/VuLO1AMXvFDoYqnYgXAUJ32n5ZVs36HFGgoveJcg.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>55.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>حبوب اللقاح</g:product_type>
@@ -4046,7 +4046,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/PfnTsTzUyQES2Qa1llscOVPdd9ShaIGPVrS65kUP.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>55.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>00910080004</g:item_group_id>
@@ -4061,7 +4061,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/dbf74y6fqMRmpRJs8n9ThNKT7aAHYl1OxB6DpR3g.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>50.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>جنسنج</g:product_type>
@@ -4078,7 +4078,7 @@
       <g:availability>in stock</g:availability>
       <g:price>250.00 SAR</g:price>
       <g:sale_price>196.01 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>ملاعق عسل</g:product_type>
@@ -4098,7 +4098,7 @@
       <g:availability>in stock</g:availability>
       <g:price>500.00 SAR</g:price>
       <g:sale_price>396.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -4114,7 +4114,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/KOjGYpmC91GSMMg24nb2qN9BYHFZYD2lYr1JHlmf.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>200.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل شوكة سمرة جنوبي</g:product_type>
@@ -4131,7 +4131,7 @@
       <g:availability>in stock</g:availability>
       <g:price>780.00 SAR</g:price>
       <g:sale_price>349.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -4148,7 +4148,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1050.00 SAR</g:price>
       <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>خلطة الجبال</g:product_type>
@@ -4165,7 +4165,7 @@
       <g:availability>in stock</g:availability>
       <g:price>780.00 SAR</g:price>
       <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>خلطة الجبال</g:product_type>
@@ -4183,7 +4183,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1200.00 SAR</g:price>
       <g:sale_price>496.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض حصرية لمدة 48 ساعة</g:product_type>
@@ -4200,7 +4200,7 @@
       <g:availability>in stock</g:availability>
       <g:price>230.00 SAR</g:price>
       <g:sale_price>169.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -4216,7 +4216,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/UFMjcd7PHpJDKCiRxZyfongEfEeTY9URP4qe4V3W.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>120.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>حبوب اللقاح</g:product_type>
@@ -4233,7 +4233,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/3kHLtUbfIZw5qpDeldxieBoj9bxGbkw6gOSgrFH3.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>25.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -4250,7 +4250,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/glVtWHjWNfnOskYeCT6KPqkkRvmYFMWosaTWYeSa.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>65.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>منتجات طبيعية</g:product_type>
@@ -4268,7 +4268,7 @@
       <g:availability>in stock</g:availability>
       <g:price>320.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0304010703</g:item_group_id>
@@ -4284,7 +4284,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1199.99 SAR</g:price>
       <g:sale_price>700.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -4300,7 +4300,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/80c175ee-7405-421c-86e4-4ae9caf1116b-500x500-JKK4lgecrKodTq7uXH8yRHfpx32EFuov2XuWBy4i.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -4316,7 +4316,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/3dacf640-d0e6-4a84-91ad-42ae531fc807-500x500-PRu7z1m46lWnViMOWnM1leRsLroBjFp5Czj8e6hE.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>400.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -4332,7 +4332,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/da7d0adb-2a06-4174-b2f3-667dbe56580b-500x500-Ckd0HAkdeGx8b9f5iFGoHvPKDMcGj2qozXldTrtQ.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>115.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بلدية محلية</g:product_type>
@@ -4349,7 +4349,7 @@
       <g:availability>in stock</g:availability>
       <g:price>597.00 SAR</g:price>
       <g:sale_price>398.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
@@ -4366,7 +4366,7 @@
       <g:availability>in stock</g:availability>
       <g:price>810.00 SAR</g:price>
       <g:sale_price>538.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
@@ -4383,7 +4383,7 @@
       <g:availability>in stock</g:availability>
       <g:price>486.00 SAR</g:price>
       <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
@@ -4399,7 +4399,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/3ePewz4Eylep2vAITimr5qUF59oApVKgFcpSPqbA.jpg</g:image_link>
       <g:availability>out of stock</g:availability>
       <g:price>55.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>منتجات طبيعية</g:product_type>
       <g:item_group_id>0091008002</g:item_group_id>
@@ -4432,7 +4432,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1000.00 SAR</g:price>
       <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -4448,7 +4448,7 @@
       <g:availability>in stock</g:availability>
       <g:price>400.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض حصرية لمدة 48 ساعة</g:product_type>
@@ -4467,7 +4467,7 @@
       <g:availability>out of stock</g:availability>
       <g:price>1500.00 SAR</g:price>
       <g:sale_price>896.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -4484,7 +4484,7 @@
       <g:availability>in stock</g:availability>
       <g:price>450.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>00410040101</g:item_group_id>
@@ -4500,7 +4500,7 @@
       <g:availability>in stock</g:availability>
       <g:price>381.00 SAR</g:price>
       <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>العسل الاسباني</g:product_type>
@@ -4516,7 +4516,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/18968b9c-8915-4213-9536-14d38b386a25-500x500-xxxt0NlaiOUxE8tNc6SEOYZkQET6ar8dDhNE4nLq.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>460.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال بالشمع</g:product_type>
@@ -4533,7 +4533,7 @@
       <g:availability>in stock</g:availability>
       <g:price>290.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر كشميري</g:product_type>
@@ -4550,7 +4550,7 @@
       <g:availability>in stock</g:availability>
       <g:price>530.00 SAR</g:price>
       <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر جبلي</g:product_type>
@@ -4567,7 +4567,7 @@
       <g:availability>in stock</g:availability>
       <g:price>346.00 SAR</g:price>
       <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -4585,7 +4585,7 @@
       <g:availability>in stock</g:availability>
       <g:price>450.00 SAR</g:price>
       <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض اليوم الوطني 96</g:product_type>
@@ -4603,7 +4603,7 @@
       <g:availability>in stock</g:availability>
       <g:price>650.00 SAR</g:price>
       <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عروض حصرية لمدة 48 ساعة</g:product_type>
@@ -4621,7 +4621,7 @@
       <g:availability>in stock</g:availability>
       <g:price>1500.00 SAR</g:price>
       <g:sale_price>796.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>2 كيلو</g:product_type>
@@ -4637,7 +4637,7 @@
       <g:availability>out of stock</g:availability>
       <g:price>299.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:product_type>تمر سكري القصيم</g:product_type>
       <g:item_group_id>0051020008</g:item_group_id>
@@ -4653,7 +4653,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/jGGkQkTAOD5M1YA4TBfQa1utpWRE27wtCb0AE4b6.png</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>49.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كريم سم النحل</g:product_type>
@@ -4669,7 +4669,7 @@
       <g:image_link>https://cdn.salla.sa/mgEBE/ooibU1gypC0TmjTtewvbIhrVQhd7wr5HkoTUC0aP.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>70.00 SAR</g:price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل سدر بالزنجبيل والليمون والكركم</g:product_type>
@@ -4703,7 +4703,7 @@
       <g:availability>in stock</g:availability>
       <g:price>730.00 SAR</g:price>
       <g:sale_price>389.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل حبة البركة السوداء</g:product_type>
@@ -4721,7 +4721,7 @@
       <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
       <g:sale_price>160.00 SAR</g:sale_price>
-      <g:brand>شركة عسل الجبال</g:brand>
+      <g:brand>عسل الجبال</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أصناف العسل</g:product_type>
