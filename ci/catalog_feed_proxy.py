@@ -384,6 +384,11 @@ def merchant_image_overrides(items, store):
 
 
 
+# توحيد اسم الماركة في ملفات المتجر كلها (M-25، P-merchant-018، اعتماد المالك 2026-09-30).
+# اسم المتجر يُكتب بصيغ مختلفة في سلة، فتراه المنصات ماركات متعددة. والماركة الأجنبية الحقيقية تبقى (المادة 59).
+BRAND_FIX = {"asal": {"شركة عسل الجبال": "عسل الجبال", "عروض العسل": "عسل الجبال"}}
+
+
 def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=None):
     """يعيد (xml جديد، عدد المنتجات، عدد الروابط المعدَّلة). enrich = مفتاح المتجر لإثراء ملف جوجل."""
     root = safe_fromstring(xml_bytes)
@@ -409,6 +414,12 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=No
             if el is not None and (el.text or "").startswith("http"):
                 el.text = add_params(el.text.strip(), suffix)
                 changed += 1
+    fix = BRAND_FIX.get(store) or {}
+    for it in (items if fix else ()):
+        for tag in (G + "brand", "brand"):
+            el = it.find(tag)
+            if el is not None and (el.text or "").strip() in fix:
+                el.text = fix[el.text.strip()]
     if claims_ids:
         n = m = 0
         for it in items:
