@@ -127,6 +127,27 @@ def _num(text):
     return float(m.group()) if m else None
 
 
+def _drop_bad_sale(it):
+    """يحذف سعر التخفيض إن لم يكن أقل من السعر، لأن جوجل يرفضه (D-176، ثم M-43 لكل المتاجر)."""
+    dropped = False
+    for tag in (G + "sale_price", "sale_price"):
+        sp = it.find(tag)
+        if sp is None:
+            continue
+        pr = it.find(G + "price")
+        if pr is None:
+            pr = it.find("price")
+        s, p = _num(sp.text), _num(pr.text if pr is not None else None)
+        if s is not None and p is not None and s >= p:
+            it.remove(sp)
+            for extra in (G + "sale_price_effective_date", "sale_price_effective_date"):
+                e = it.find(extra)
+                if e is not None:
+                    it.remove(e)
+            dropped = True
+    return dropped
+
+
 def clean_item(it):
     """ينظّف الوصف ويحذف سعر الخصم غير الصالح. يعيد (وصف قُصّ؟، خصم حُذف؟)."""
     cut = dropped = False
@@ -143,21 +164,7 @@ def clean_item(it):
             t = head[:end + 1] if end > DESC_MAX // 2 else head[:head.rfind(" ")]
             cut = True
         d.text = t.strip()
-    for tag in (G + "sale_price", "sale_price"):
-        sp = it.find(tag)
-        if sp is None:
-            continue
-        pr = it.find(G + "price")
-        if pr is None:
-            pr = it.find("price")
-        s, p = _num(sp.text), _num(pr.text if pr is not None else None)
-        if s is not None and p is not None and s >= p:
-            it.remove(sp)
-            for extra in (G + "sale_price_effective_date", "sale_price_effective_date"):
-                e = it.find(extra)
-                if e is not None:
-                    it.remove(e)
-            dropped = True
+    dropped = _drop_bad_sale(it) or dropped
     return cut, dropped
 
 
@@ -438,6 +445,9 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=No
     fixed = sum(owner_facts(it, store) for it in items)
     if fixed:
         print(f"   تصحيح السنوات: {fixed} منتج")
+    if enrich and not clean:   # سعر التخفيض غير الأقل في كل ملفات جوجل (M-43، P-merchant-019)
+        for it in items:
+            _drop_bad_sale(it)
     if clean:
         res = [clean_item(it) for it in items]
         print(f"   تنظيف: وصف قُصّ {sum(c for c, _ in res)} · خصم غير صالح حُذف {sum(x for _, x in res)}")
