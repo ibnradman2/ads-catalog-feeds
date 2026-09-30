@@ -32,7 +32,10 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 PARAMS = {
     "snap": "utm_source=snapchat&utm_medium=paid&utm_campaign={{campaign.id}}&utm_content={{adSet.id}}&utm_term={{ad.id}}",
     "meta": "utm_source={{site_source_name}}&utm_medium=paid&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
-    "google": "utm_source=google-ads&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}",
+    # جوجل: رابط نظيف بلا utm (M-23، P-merchant-017). لاحقة الرابط على مستوى الحساب في جوجل Ads تضيف
+    # utm بمعرّفات الحملة والمجموعة للنقرة المدفوعة (dashboard/utm_google.py). والقوائم المجانية تبقى
+    # بلا وسم مدفوع، فيسمها Merchant بـsrsltid. وكان {campaignid} يبقى في الرابط حرفيًّا.
+    "google": "",
 }
 # مصادر ملفات سلة (تُقرأ من ملف الأسرار حتى لا يظهر المقطع السرّي في الكود)
 SOURCES = os.path.join(BUILD, "catalog_feeds.json")
@@ -48,7 +51,7 @@ def add_params(url, suffix):
         return url
     p = urlsplit(url)
     keep = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not k.lower().startswith("utm_")]
-    query = urlencode(keep) + ("&" if keep else "") + suffix
+    query = "&".join(x for x in (urlencode(keep), suffix) if x)
     return urlunsplit((p.scheme, p.netloc, p.path, query, p.fragment))
 
 
