@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 02 Oct 2026 14:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -294,22 +294,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">266726712</guid>
-      <g:id>266726712</g:id>
-      <g:title>بودرة غذاء ملكات النحل - 30 جم</g:title>
-      <g:description>غذاء ملكات النحل بودرة في عبوة 30 جم، يُصنع بتجفيف غذاء الملكات الطازج حتى يصير مسحوقًا ناعمًا يسهل قياسه وخلطه. هو الغذاء الخاص الذي يطعمه النحل ليرقات الملكات وللملكة داخل الخلية. 👑 معلومات المنتج المنتج: غذاء ملكات النحل على شكل بودرة. الطريقة: تجفيف الغذاء الطازج حتى يصير مسحوقًا ناعمًا. الوزن: 30 جم. القوام: مسحوق ناعم يمتزج بسهولة. الاستعمال: يُضاف إلى الأطعمة والمشروبات أو يوضع تحت اللسان. 🐝 ما هو غذاء الملكات؟ مادة خاصة تفرزها النحلات العاملات لتطعم بها اليرقات الملكية والملكة في العش. وبعد تجفيف الطازج منها تصبح بودرة أخف حفظًا وأسهل حملًا. 📋 بطاقة العبوة البند التفاصيل المنتج بودرة غذاء ملكات النحل الوزن 30 جم الشكل مسحوق ناعم الاستعمال يُخلط بالطعام والمشروبات أو يوضع تحت اللسان الحفظ عبوة محكمة في مكان جاف بعيدًا عن الرطوبة والشمس 🥄 طرق الإضافة قلّب قليلًا منها في ملعقة عسل أو كوب حليب أو عصير أو زبادي، أو اخلطها في سموذي التمر والموز، أو رشها على الشوفان والمكسرات. ومن يفضل يضع كمية قليلة تحت اللسان ويتركها تذوب. 🫙 الحفظ أغلق البرطمان بإحكام بعد كل استعمال، وأبعده عن الرطوبة وضوء الشمس المباشر. 🤝 لماذا من عريش؟ عريش متجر عسل ومنتجات النحل، وكل طلب ب ضمان ذهبي. ❓ أسئلة شائعة ما هو غذاء ملكات النحل؟ مادة تفرزها النحلات العاملات لتغذي بها الملكة واليرقات الملكية. ماذا تعني بودرة؟ أن الغذاء الطازج جُفف حتى صار مسحوقًا ناعمًا. كيف أضيفه إلى الطعام؟ قلّب قليلًا منه في العسل أو الحليب أو الزبادي أو العصير. كم يستغرق من 1 إلى 3 أيام عمل.</g:description>
-      <g:link>https://areesh.sa/ar/بودرة-غذاء-ملكات-النحل-30-جم/p266726712?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/nYO6ApIfK3rgwGYtzbpVCy2E7tvk0ypFvHb7UA3r.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>عريش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>غذاء الملكات</g:product_type>
-      <g:item_group_id>0061009002</g:item_group_id>
-      <g:shipping_weight>0.03 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1789520129</guid>
       <g:id>1789520129</g:id>
       <g:title>قدر شمع سدر ملكي من منطقة عسير</g:title>
@@ -325,6 +309,22 @@
       <g:product_type>عسل سدر جبلي</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">266726712</guid>
+      <g:id>266726712</g:id>
+      <g:title>بودرة غذاء ملكات النحل - 30 جم</g:title>
+      <g:description>غذاء ملكات النحل بودرة في عبوة 30 جم، يُصنع بتجفيف غذاء الملكات الطازج حتى يصير مسحوقًا ناعمًا يسهل قياسه وخلطه. هو الغذاء الخاص الذي يطعمه النحل ليرقات الملكات وللملكة داخل الخلية. 👑 معلومات المنتج المنتج: غذاء ملكات النحل على شكل بودرة. الطريقة: تجفيف الغذاء الطازج حتى يصير مسحوقًا ناعمًا. الوزن: 30 جم. القوام: مسحوق ناعم يمتزج بسهولة. الاستعمال: يُضاف إلى الأطعمة والمشروبات أو يوضع تحت اللسان. 🐝 ما هو غذاء الملكات؟ مادة خاصة تفرزها النحلات العاملات لتطعم بها اليرقات الملكية والملكة في العش. وبعد تجفيف الطازج منها تصبح بودرة أخف حفظًا وأسهل حملًا. 📋 بطاقة العبوة البند التفاصيل المنتج بودرة غذاء ملكات النحل الوزن 30 جم الشكل مسحوق ناعم الاستعمال يُخلط بالطعام والمشروبات أو يوضع تحت اللسان الحفظ عبوة محكمة في مكان جاف بعيدًا عن الرطوبة والشمس 🥄 طرق الإضافة قلّب قليلًا منها في ملعقة عسل أو كوب حليب أو عصير أو زبادي، أو اخلطها في سموذي التمر والموز، أو رشها على الشوفان والمكسرات. ومن يفضل يضع كمية قليلة تحت اللسان ويتركها تذوب. 🫙 الحفظ أغلق البرطمان بإحكام بعد كل استعمال، وأبعده عن الرطوبة وضوء الشمس المباشر. 🤝 لماذا من عريش؟ عريش متجر عسل ومنتجات النحل، وكل طلب ب ضمان ذهبي. ❓ أسئلة شائعة ما هو غذاء ملكات النحل؟ مادة تفرزها النحلات العاملات لتغذي بها الملكة واليرقات الملكية. ماذا تعني بودرة؟ أن الغذاء الطازج جُفف حتى صار مسحوقًا ناعمًا. كيف أضيفه إلى الطعام؟ قلّب قليلًا منه في العسل أو الحليب أو الزبادي أو العصير. كم يستغرق من 1 إلى 3 أيام عمل.</g:description>
+      <g:link>https://areesh.sa/ar/بودرة-غذاء-ملكات-النحل-30-جم/p266726712?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/nYO6ApIfK3rgwGYtzbpVCy2E7tvk0ypFvHb7UA3r.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>عريش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>غذاء الملكات</g:product_type>
+      <g:item_group_id>0061009002</g:item_group_id>
+      <g:shipping_weight>0.03 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1957761862</guid>
       <g:id>1957761862</g:id>
