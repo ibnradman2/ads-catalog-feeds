@@ -457,6 +457,19 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=No
     return ET.tostring(root, encoding="utf-8", xml_declaration=True), len(items), changed
 
 
+def write_translation_guard(rows):
+    """حارس الترجمة (المادة 61 البند 9): نسبة المنتجات المكتملة الترجمة لكل متجر ولغة، ويكتب تغطيته
+    (المجموع والمفحوص وما تعذّر) في BUILD/translation_guard.json ليقرأها حارس G-34 وشيخ الحراس."""
+    total = sum(r["total"] for r in rows)
+    done = sum(r["translated"] for r in rows)
+    out = {"as_of": dt.datetime.now().isoformat(timespec="seconds"),
+           "coverage": {"total": total, "checked": done, "unchecked": total - done,
+                        "pct": round(done / total * 100, 1) if total else 100.0},
+           "rows": [dict(r, pct=round(r["translated"] / r["total"] * 100, 1) if r["total"] else 100.0) for r in rows],
+           "stopped": sorted({r["stopped"] for r in rows if r.get("stopped")})}
+    json.dump(out, open(os.path.join(BUILD, "translation_guard.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
 def main():
     check = "--check" in sys.argv
     os.makedirs(OUT, exist_ok=True)
@@ -501,6 +514,12 @@ def main():
                 print(f"[{store}] google-{lang}: تعذّر البناء — {r['error']}")
                 continue
             idx = ar_google[store][0]
+            report.setdefault("translations", []).append({
+                "store": store, "lang": r["mlang"], "total": r["kept"] + len(r["excluded"]), "translated": r["kept"],
+                "fetched": r["info"]["fetched"], "stopped": r["info"]["stopped"],
+                # عيوب الترجمة التي استبعدت منتجًا بعد جلب نصه (الأرقام والموسم وغير المترجم)، لا «لم تُجلب بعد»
+                "defects": sum(1 for _, w in r["excluded"] if not w.startswith("لا صفحة")),
+                "published": bool(r["kept"])})
             name = f"{store}-{idx+1}-google-{r['mlang']}.xml"
             info = r["info"]
             if not r["kept"]:      # لغة بلا منتج مترجم: لا ملف فارغ يُنشر ولا يُرسل إلى Merchant
@@ -517,6 +536,8 @@ def main():
                                     "size_kb": round(len(r["xml"]) / 1024),
                                     "excluded": [{"id": p, "why": w} for p, w in r["excluded"]],
                                     "en_pages": info})
+    if report.get("translations") and not check:
+        write_translation_guard(report["translations"])
     json.dump(report, open(os.path.join(BUILD, "catalog_feed_proxy.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
     print("\nالملفات جاهزة في build\\feeds. تبقّى نشرها على رابط https ثابت وتوجيه المنصة إليه.")
