@@ -462,9 +462,15 @@ def write_translation_guard(rows):
     (المجموع والمفحوص وما تعذّر) في BUILD/translation_guard.json ليقرأها حارس G-34 وشيخ الحراس."""
     total = sum(r["total"] for r in rows)
     done = sum(r["translated"] for r in rows)
+    # التغطية (المادة 146 البند 2) = ما فحصه الحارس من أزواج (متجر × لغة × منتج): كل زوج يُعدّ ويُقارن بالمصدر العربي،
+    # فمنتج بلا ترجمة مفحوص وناقصه مسجّل. وما تعذّر فحصه (توقف جلب صفحات اللغة) وحده يدخل «غير المفحوص».
+    # اكتمال الترجمة نفسه مقياس منفصل (translated/translated_pct) يحكم عليه حارس G-34.
+    unchecked = sum(r["total"] for r in rows if r.get("stopped"))
+    checked = total - unchecked
     out = {"as_of": dt.datetime.now().isoformat(timespec="seconds"),
-           "coverage": {"total": total, "checked": done, "unchecked": total - done,
-                        "pct": round(done / total * 100, 1) if total else 100.0},
+           "coverage": {"total": total, "checked": checked, "unchecked": unchecked,
+                        "pct": round(checked / total * 100, 1) if total else 100.0,
+                        "translated": done, "translated_pct": round(done / total * 100, 1) if total else 100.0},
            "rows": [dict(r, pct=round(r["translated"] / r["total"] * 100, 1) if r["total"] else 100.0) for r in rows],
            "stopped": sorted({r["stopped"] for r in rows if r.get("stopped")})}
     json.dump(out, open(os.path.join(BUILD, "translation_guard.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
