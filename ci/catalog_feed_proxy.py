@@ -465,6 +465,7 @@ def main():
         print("لا مصادر ملفات معروفة — شغّل catalog_audit_snap_meta.py أولًا أو اكتب build\\catalog_feeds.json")
         return
     report = {"as_of": dt.date.today().isoformat(), "params": PARAMS, "files": []}
+    ar_google = {}
     for store, feeds in sources.items():
         for i, f in enumerate(feeds):
             if f.get("retired"):  # مصدر متقاعد: يُتخطّى ويبقى ترقيم الملفات كما هو
@@ -490,24 +491,32 @@ def main():
                 report["files"].append({"store": store, "platform": platform, "file": name,
                                         "products": n_items, "links": n_links,
                                         "size_kb": round(len(out_xml) / 1024)})
-                # ملف جوجل الإنجليزي من ملف جوجل العربي (البند P-asal-merchant-008). فشله لا يوقف العربي.
                 if platform == "google" and store in feed_english.STORES:
-                    try:
-                        en_xml, n_en, excluded, info = feed_english.build(out_xml, store)
-                    except Exception as e:  # noqa: BLE001
-                        print(f"[{store}] google-en: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
-                        continue
-                    en_name = f"{store}-{i+1}-google-en.xml"
-                    if not check:
-                        open(os.path.join(OUT, en_name), "wb").write(en_xml)
-                    print(f"[{store}] google-en منتجات {n_en} · مستبعد {len(excluded)} · صفحات /en حُدّثت "
-                          f"{info['fetched']}" + (f" (توقف: {info['stopped']})" if info["stopped"] else "")
-                          + f" → build\\feeds\\{en_name}")
-                    report["files"].append({"store": store, "platform": "google-en", "file": en_name,
-                                            "products": n_en, "links": n_en,
-                                            "size_kb": round(len(en_xml) / 1024),
-                                            "excluded": [{"id": p, "why": w} for p, w in excluded],
-                                            "en_pages": info})
+                    ar_google.setdefault(store, (i, out_xml))
+    # ملفات جوجل للغات من ملف جوجل العربي (P-asal-merchant-008، المادة 61 البنود 7 إلى 9). فشلها لا يوقف العربي.
+    if ar_google:
+        for r in feed_english.build_all({st: x for st, (_, x) in ar_google.items()}):
+            store, lang = r["store"], r["lang"]
+            if r.get("error"):
+                print(f"[{store}] google-{lang}: تعذّر البناء — {r['error']}")
+                continue
+            idx = ar_google[store][0]
+            name = f"{store}-{idx+1}-google-{r['mlang']}.xml"
+            info = r["info"]
+            if not r["kept"]:      # لغة بلا منتج مترجم: لا ملف فارغ يُنشر ولا يُرسل إلى Merchant
+                print(f"[{store}] google-{lang} منتجات 0 · مستبعد {len(r['excluded'])} · صفحات حُدّثت {info['fetched']}"
+                      + (f" (توقف: {info['stopped']})" if info["stopped"] else "") + " · بلا ملف")
+                continue
+            if not check:
+                open(os.path.join(OUT, name), "wb").write(r["xml"])
+            print(f"[{store}] google-{lang} منتجات {r['kept']} · مستبعد {len(r['excluded'])} · صفحات حُدّثت "
+                  f"{info['fetched']}" + (f" (توقف: {info['stopped']})" if info["stopped"] else "")
+                  + f" → build/feeds/{name}")
+            report["files"].append({"store": store, "platform": f"google-{r['mlang']}", "file": name,
+                                    "products": r["kept"], "links": r["kept"],
+                                    "size_kb": round(len(r["xml"]) / 1024),
+                                    "excluded": [{"id": p, "why": w} for p, w in r["excluded"]],
+                                    "en_pages": info})
     json.dump(report, open(os.path.join(BUILD, "catalog_feed_proxy.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
     print("\nالملفات جاهزة في build\\feeds. تبقّى نشرها على رابط https ثابت وتوجيه المنصة إليه.")

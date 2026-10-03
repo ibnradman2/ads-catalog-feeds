@@ -104,7 +104,7 @@ def gate(proxy_report):
         f = fresh.get(name)
         if not f:
             msg = f"{name}: كان منشورًا ولم يُولَّد الآن (تعذّر تحميل ملف سلة المصدر)."
-            if name.endswith("-en.xml"):
+            if LANG_FILE.search(name):
                 print("تحذير: " + msg + " تبقى النسخة المنشورة.")
             else:
                 problems.append(msg)
@@ -112,7 +112,7 @@ def gate(proxy_report):
         new_n = f.get("products") or 0
         if old_n and new_n < old_n * MIN_RATIO:
             msg = f"{name}: المنتجات {new_n} مقابل {old_n} منشورة — أقلّ من {int(MIN_RATIO*100)}%."
-            if name.endswith("-en.xml"):
+            if LANG_FILE.search(name):
                 # الملف الإنجليزي يستبعد كل ترجمة قديمة عمدًا، فنقصه تحذير لا يوقف نشر الملفات العربية.
                 print("تحذير: " + msg)
             else:
@@ -130,6 +130,7 @@ def gate(proxy_report):
     return rows
 
 
+LANG_FILE = re.compile(r"-google-[a-z]{2,3}\.xml$")   # ملفات اللغات: نقصها تحذير لا يوقف العربي
 VOLATILE = re.compile(rb"<lastBuildDate>.*?</lastBuildDate>", re.S)
 
 

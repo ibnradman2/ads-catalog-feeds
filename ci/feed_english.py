@@ -21,11 +21,17 @@ import requests
 
 G = "{http://base.google.com/ns/1.0}"
 REPO = os.environ.get("FEEDS_REPO_DIR") or r"C:\ads-api\feeds_repo"
-CACHE = os.path.join(REPO, "en_texts.json")
-STORES = {"asal": "https://asalaljebal.sa"}
+CACHE = os.path.join(REPO, "en_texts.json")          # كاش الإنجليزية (اسمه القديم باقٍ)
+STORES = {"asal": "https://asalaljebal.sa", "hayala": "https://hayala.co", "areesh": "https://areesh.sa"}
+# اللغات بترتيب المادة 61 البند 3: (رمز سلة في الرابط، رمز Merchant في اسم الملف ولغة المحتوى، النظام الكتابي)
+LANGS = [("en", "en", "latin"), ("ur", "ur", "arabic"), ("hi", "hi", "devanagari"), ("tl", "tl", "latin"),
+         ("ind", "id", "latin"), ("fr", "fr", "latin"), ("tr", "tr", "latin"), ("zh", "zh", "cjk")]
+SCRIPT_RE = {"latin": re.compile(r"[A-Za-zÀ-ɏ]"), "arabic": re.compile(r"[؀-ۿ]"),
+             "devanagari": re.compile(r"[ऀ-ॿ]"), "cjk": re.compile(r"[一-鿿]")}
+UNTRANSLATED_RECHECK_HOURS = 48   # صفحة لغة لم تُترجم بعد (نصها = العربي) لا تُجلب أكثر من مرة كل يومين
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
-MAX_FETCH = 140
+MAX_FETCH = 140   # حد طلبات واحد لكل تشغيل موزّع على كل المتاجر واللغات (سلة تردّ 429 بعد نحو 300)
 FRESH_HOURS = 24
 AR = re.compile(r"[\u0600-\u06FF]")
 LETTER = re.compile(r"[A-Za-z\u0600-\u06FF]")
@@ -53,7 +59,7 @@ EN_CLAIM_RE = re.compile(
 YEARS_RE = re.compile(r"\b3[68](\s*)years", re.I)   # عسل الجبال منذ 40 عامًا (أمر المالك 2026-09-24)
 
 # العلامة الإنجليزية الموحدة بدل القيم العربية الثلاث (قرار المالك 2026-09-28، البند P-merchant-011)
-EN_BRAND = {"asal": "Asal Aljebal"}
+EN_BRAND = {"asal": "Asal Aljebal", "areesh": "Areesh", "hayala": "Hayala"}
 # نوع المنتج بالإنجليزية. القيمة الجديدة غير المترجمة يُحذف حقلها من الملف الإنجليزي وتُذكر في
 # ملخص التشغيل، حتى لا يصل نص عربي إلى المصدر الإنجليزي.
 EN_PRODUCT_TYPE = {
@@ -96,18 +102,24 @@ def _now():
     return dt.datetime.now(dt.timezone.utc)
 
 
-def load_cache():
+def cache_path(lang):
+    """كاش مستقل لكل لغة: en_texts.json للإنجليزية، وtexts_<لغة>.json لغيرها."""
+    return CACHE if lang == "en" else os.path.join(REPO, f"texts_{lang}.json")
+
+
+def load_cache(lang="en"):
     try:
-        return json.load(open(CACHE, encoding="utf-8"))
+        return json.load(open(cache_path(lang), encoding="utf-8"))
     except (OSError, ValueError):
         return {}
 
 
-def save_cache(cache):
-    os.makedirs(os.path.dirname(CACHE), exist_ok=True)
-    tmp = CACHE + ".tmp"
+def save_cache(cache, lang="en"):
+    path = cache_path(lang)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + ".tmp"
     json.dump(cache, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, indent=0, sort_keys=True)
-    os.replace(tmp, CACHE)
+    os.replace(tmp, path)
 
 
 def parse_page(text):
@@ -131,41 +143,59 @@ def parse_page(text):
     return html.unescape(title).strip(), (body.group(1) if body else "")
 
 
-def refresh(store, ids, cache):
-    """يحدّث نصوص /en لما مضى عليه يوم أو لم يُجلب. يعيد (المحدَّث، سبب التوقف أو None)."""
+class Budget:
+    """حد طلبات مشترك بين المتاجر واللغات في التشغيل الواحد، وتوقف مشترك عند أول 429."""
+    def __init__(self, n=MAX_FETCH):
+        self.left, self.stop = n, None
+
+
+def refresh(store, ids, cache, lang="en", budget=None, ar_titles=None):
+    """يحدّث نصوص صفحات اللغة لما مضى عليه يوم أو لم يُجلب. يعيد (المحدَّث، سبب التوقف أو None).
+    صفحة لغة نصها هو العربي نفسه (لم تُترجم) تُعاد بعد 48 ساعة لا يوميًّا، توفيرًا للحد."""
+    budget = budget or Budget()
+    if budget.stop:
+        return 0, budget.stop
     base = STORES[store]
     sc = cache.setdefault(store, {})
-    limit = _now() - dt.timedelta(hours=FRESH_HOURS)
+    now = _now()
+    ar_titles = ar_titles or {}
 
     def age(pid):
         at = (sc.get(pid) or {}).get("at")
         return dt.datetime.fromisoformat(at) if at else dt.datetime.min.replace(tzinfo=dt.timezone.utc)
 
-    due = sorted((p for p in ids if age(p) < limit), key=age)[:MAX_FETCH]
+    def hours(pid):
+        e = sc.get(pid) or {}
+        same = bool(e.get("title")) and lang != "en" and e["title"].strip() == (ar_titles.get(pid) or "").strip()
+        return UNTRANSLATED_RECHECK_HOURS if same else FRESH_HOURS
+
+    due = sorted((p for p in ids if age(p) < now - dt.timedelta(hours=hours(p))), key=age)[:budget.left]
     s = requests.Session()
     s.headers["User-Agent"] = UA
-    done, stop = 0, None
+    done = 0
     for pid in due:
         try:
-            r = s.get(f"{base}/en/x/p{pid}", timeout=30)   # سلة تصل إلى المنتج بمعرّفه أيًّا كان المقطع قبله
+            r = s.get(f"{base}/{lang}/x/p{pid}", timeout=30)   # سلة تصل إلى المنتج بمعرّفه أيًّا كان المقطع قبله
         except requests.RequestException as e:
-            stop = type(e).__name__
+            budget.stop = type(e).__name__
             break
         if r.status_code == 429 or (r.status_code == 200 and not r.url.rstrip("/").endswith(f"/p{pid}")):
-            stop = f"{r.status_code} {r.url[:40]}"
+            budget.stop = f"{r.status_code} {r.url[:40]}"
             break
         if r.status_code in (404, 410):
             sc[pid] = {"gone": True, "at": _now().isoformat(timespec="seconds")}
         elif r.status_code == 200:
+            r.encoding = "utf-8"
             title, body = parse_page(r.text)
             if title:
                 sc[pid] = {"title": title, "desc": body, "at": _now().isoformat(timespec="seconds")}
         else:
-            stop = str(r.status_code)
+            budget.stop = str(r.status_code)
             break
         done += 1
+        budget.left -= 1
         time.sleep(0.3)
-    return done, stop
+    return done, budget.stop
 
 
 def _arabic_share(text):
@@ -177,7 +207,7 @@ def _season(text):
     return next((name for name, rx in EN_SEASONS if rx.search(text or "")), None)
 
 
-AR_DIGITS = str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
+AR_DIGITS = str.maketrans("٠١٢٣٤٥٦٧٨٩۰۱۲۳۴۵۶۷۸۹०१२३४५६७८९", "0123456789" * 3)
 
 
 EN_NUMBER_WORDS = {"one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6",
@@ -222,41 +252,58 @@ def clean_title(title):
     return t[:1].upper() + t[1:] if len(t) >= 10 else title
 
 
-def build(xml_bytes, store):
-    """يعيد (xml الإنجليزي، عدد المنتجات، قائمة المستبعد [(المعرّف، السبب)], ملخص التحديث)."""
-    cache = load_cache()
+def _script_ok(lang_script, text):
+    """النص مكتوب بنظام اللغة المطلوبة (لا عربي في لغة لاتينية، ولا لاتيني خالص في الهندية والصينية)."""
+    if lang_script == "latin":
+        return _arabic_share(text) <= 0.05
+    letters = re.findall(r"[^\W\d_]", text or "")
+    return bool(letters) and len(SCRIPT_RE[lang_script].findall(text or "")) / len(letters) >= 0.3
+
+
+def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
+    """يعيد (xml اللغة، عدد المنتجات، قائمة المستبعد [(المعرّف، السبب)], ملخص التحديث).
+    en: السلوك الأصلي كما هو. وغير الإنجليزية: وصف المنتج = عنوانه المترجم (فلا تمرّ ادّعاءات الشحن والصحة
+    بلا فاحص للغة، حتى يُبنى فاحص كل لغة)، والمنتج يُستبعد إن لم يُترجم عنوانه."""
+    cache = load_cache(lang)
     root = safe_fromstring(xml_bytes)
     items = root.findall(".//item")
     ids = [(it.findtext(G + "id") or "").strip() for it in items]
-    fetched, stop = refresh(store, [i for i in ids if i], cache)
-    save_cache(cache)
+    ar_t = {pid: (it.findtext(G + "title") or it.findtext("title") or "").strip() for it, pid in zip(items, ids)}
+    fetched, stop = refresh(store, [i for i in ids if i], cache, lang, budget, ar_t)
+    save_cache(cache, lang)
     sc = cache.get(store, {})
     parent = {c: p for p in root.iter() for c in p}
     excluded, kept, untranslated = [], 0, set()
     for it, pid in zip(items, ids):
         e = sc.get(pid) or {}
-        ar_title = (it.findtext(G + "title") or it.findtext("title") or "").strip()
+        ar_title = ar_t[pid]
         ar_season = (it.findtext(G + "custom_label_1") or "دائم").strip()
         title = (e.get("title") or "").strip()
-        desc = clean_desc(e.get("desc"), title) if title else ""
-        en_season = _season(title)
+        if lang == "en":
+            desc = clean_desc(e.get("desc"), title) if title else ""
+        else:
+            desc = title
+        en_season = _season(title) if lang == "en" else None
         if e.get("gone") or not title:
-            why = "لا صفحة إنجليزية محفوظة بعد"
-        elif AR.search(title):
+            why = "لا صفحة محفوظة بعد للغة " + lang
+        elif title == ar_title or (lang != "ur" and AR.search(title) and lang != "ar"):
             why = "العنوان بلا ترجمة"
-        elif _arabic_share(desc) > 0.05:
+        elif not _script_ok(script, title):
+            why = "العنوان بغير نظام اللغة"
+        elif lang == "en" and _arabic_share(desc) > 0.05:
             why = "الوصف بلا ترجمة"
         elif en_season and en_season != ar_season:
             why = f"موسم العنوان الإنجليزي ({en_season}) يخالف العربي ({ar_season})"
         elif _numbers(ar_title) - _numbers(title):
-            why = "أرقام العنوان العربي غائبة عن الإنجليزي: " + " ".join(sorted(_numbers(ar_title) - _numbers(title)))
+            why = "أرقام العنوان العربي غائبة عن الترجمة: " + " ".join(sorted(_numbers(ar_title) - _numbers(title)))
         else:
             why = None
         if why:
             excluded.append((pid, why))
             parent[it].remove(it)
             continue
-        title = clean_title(title)
+        if lang == "en":
+            title = clean_title(title)
         for tag, value in (("title", title[:150]), ("description", desc[:4900])):
             el = it.find(G + tag)
             if el is None:
@@ -269,7 +316,7 @@ def build(xml_bytes, store):
             brand = ET.SubElement(it, G + "brand")
         brand.text = EN_BRAND[store]
         for pt in it.findall(G + "product_type"):
-            en = en_product_type(pt.text)
+            en = en_product_type(pt.text) if lang == "en" else None
             if en:
                 pt.text = en
             else:
@@ -279,13 +326,32 @@ def build(xml_bytes, store):
         for tag in ("link", G + "link", "mobile_link", G + "mobile_link"):
             el = it.find(tag)
             if el is not None and el.text:
-                # مقطع إنجليزي من العنوان بدل المقطع العربي؛ سلة تصل إلى المنتج بمعرّفه، وتبقى معاملات التتبع
+                # مقطع لاتيني من العنوان بدل المقطع العربي؛ سلة تصل إلى المنتج بمعرّفه، وتبقى معاملات التتبع
                 q = el.text.strip().partition("?")
-                el.text = f"{STORES[store]}/en/{slug}/p{pid}" + (q[1] + q[2] if q[1] else "")
+                el.text = f"{STORES[store]}/{lang}/{slug}/p{pid}" + (q[1] + q[2] if q[1] else "")
         kept += 1
     ch = root.find("./channel/link")                     # رابط القناة نفسها
     if ch is not None and ch.text:
-        ch.text = re.sub(r"/ar/?$", "/en", ch.text.strip())
+        ch.text = re.sub(r"/ar/?$", "/" + lang, ch.text.strip())
     info = {"fetched": fetched, "stopped": stop, "cached": len(sc),
             "untranslated_product_types": sorted(untranslated)}
     return ET.tostring(root, encoding="utf-8", xml_declaration=True), kept, excluded, info
+
+
+def build_all(google_xml):
+    """google_xml: {المتجر: ملف جوجل العربي بايتات}. يبني ملف كل متجر ولغة بحد طلبات واحد مشترك.
+    الترتيب: الإنجليزية لكل المتاجر (عسل الجبال ← هيالة ← عريش)، ثم باقي اللغات بترتيب المادة 61.
+    يعيد قائمة {store, lang, mlang, xml, kept, excluded, info}؛ لغة بلا منتج مترجم واحد لا ملف لها."""
+    budget = Budget()
+    order = [s for s in ("asal", "hayala", "areesh") if s in google_xml]
+    out = []
+    for lang, mlang, script in LANGS:
+        for store in order:
+            try:
+                xml, kept, excluded, info = build(google_xml[store], store, lang, budget, mlang, script)
+            except Exception as e:  # noqa: BLE001
+                out.append({"store": store, "lang": lang, "mlang": mlang, "error": f"{type(e).__name__}: {str(e)[:80]}"})
+                continue
+            out.append({"store": store, "lang": lang, "mlang": mlang, "xml": xml, "kept": kept,
+                        "excluded": excluded, "info": info})
+    return out
