@@ -361,7 +361,9 @@ GOOGLE_SOURCES = {
     "asal":   (acc("asal", "merchant_center", "262993710"), "204430403", "asal-2-google.xml"),
     "asal-en": (acc("asal", "merchant_center", "262993710"), "10749387459", "asal-2-google-en.xml"),   # المصدر الإنجليزي (P-asal-merchant-008)
     "areesh": (acc("areesh", "merchant_center", "742634052"), "10086822428", "areesh-1-google.xml"),
+    "areesh-en": (acc("areesh", "merchant_center", "742634052"), "10759279300", "areesh-1-google-en.xml"),   # المصدر الإنجليزي 2026-10-04
     "hayala": (acc("hayala", "merchant_center", "683146519"), "10086393943", "hayala-2-google.xml"),
+    "hayala-en": (acc("hayala", "merchant_center", "683146519"), "10758050925", "hayala-2-google-en.xml"),   # المصدر الإنجليزي 2026-10-04
 }
 
 
