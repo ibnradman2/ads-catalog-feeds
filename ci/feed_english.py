@@ -218,7 +218,9 @@ EN_NUMBER_WORD_RE = re.compile(r"\b(" + "|".join(EN_NUMBER_WORDS) + r")\b", re.I
 def _numbers(text):
     # العدد المكتوب بالكلمات في الإنجليزية (Three jars) يُعدّ رقمًا حتى لا يُستبعد المنتج خطأً
     text = EN_NUMBER_WORD_RE.sub(lambda m: EN_NUMBER_WORDS[m.group(1).lower()], text or "")
-    return set(re.findall(r"\d+(?:\.\d+)?", text.translate(AR_DIGITS)))
+    # نسبة الخصم (37%) ترويج لا هوية منتج: عنوان الإنجليزية النظيف بلا خصم صحيح، فلا تُعدّ رقمًا ناقصًا
+    text = re.sub(r"\d+(?:\.\d+)?\s*[%٪]", " ", text.translate(AR_DIGITS))
+    return set(re.findall(r"\d+(?:\.\d+)?", text))
 
 
 def clean_desc(body_html, title):
