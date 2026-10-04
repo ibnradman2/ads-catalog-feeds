@@ -100,6 +100,8 @@ def gate(proxy_report):
     published = sorted(n for n in os.listdir(REPO) if n.endswith(".xml"))
     rows, problems = [], []
     for name in published:
+        if name.endswith("-reviews.xml"):
+            continue   # ملف التقييمات (P-merchant-022) يولّده feed_reviews لا المولّد الوسيط
         old_n = count_products(os.path.join(REPO, name))
         f = fresh.get(name)
         if not f:
@@ -443,6 +445,13 @@ def main():
                                for n in sorted(os.listdir(FEEDS)) if n.endswith(".xml")]}
                     if "--no-build" in sys.argv else build_feeds())
     rows = gate(proxy_report)
+    if not IN_CI and not dry:
+        try:   # ملف تقييمات عسل الجبال: مرة يوميًّا، وفشله لا يوقف النشر (P-merchant-022)
+            sys.path.insert(0, DASH)
+            import feed_reviews
+            feed_reviews.run()
+        except Exception as e:  # noqa: BLE001
+            print("ملف التقييمات: تعذّر — " + type(e).__name__ + ": " + str(e)[:150])
     changed = copy_in(rows)
     if dry:
         print("تجربة فقط — لم يُرفع شيء. المتغيّر: " + (", ".join(changed) or "لا شيء"))

@@ -329,11 +329,19 @@ def trim_promo(it):
     return new != t.replace("\n", " ")
 
 
+def _load_skus(store):
+    """معرّف المنتج ← رمز sku من صفحة المتجر (يكتبه dashboard\feed_reviews.py)."""
+    try:
+        return json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", store + "_skus.json"), encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
 def enrich_google(items, store):
     """يضيف الحقول الناقصة لكل منتج في ملف جوجل. يعيد عدّاد التغطية."""
     tiers = PERF_TIERS.get(store, {})
     n = {"category": 0, "label_0": 0, "label_1": 0, "label_2": 0, "label_3": 0, "unit_pricing": 0,
-         "shipping_label": 0,
+         "shipping_label": 0, "mpn": 0,
          "desc_trimmed": sum(trim_promo(it) for it in items)}
 
     def put(it, tag, value, key):
@@ -341,7 +349,9 @@ def enrich_google(items, store):
             ET.SubElement(it, G + tag).text = str(value)
             n[key] += 1
 
+    skus = _load_skus(store)
     for it in items:
+        put(it, "mpn", skus.get(_text(it, "id")), "mpn")   # P-merchant-022: مفتاح مطابقة ملف التقييمات
         text = _text(it, "title") + " " + _text(it, "product_type")
         fam = next(((name, cat) for name, cat, rx in FAMILIES if rx.search(text)), ("أخرى", None))
         season = next((name for name, rx in SEASONS if rx.search(text)), "دائم")
