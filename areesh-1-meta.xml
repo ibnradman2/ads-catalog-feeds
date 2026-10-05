@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:50:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -41,7 +41,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>015007006</g:item_group_id>
       <g:shipping_weight>6.0 kg</g:shipping_weight>
     </item>
@@ -207,7 +207,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر كشميري</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0041006010</g:item_group_id>
       <g:shipping_weight>10.0 kg</g:shipping_weight>
     </item>
@@ -332,7 +332,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>سدر طبيعي</g:product_type>
       <g:item_group_id>015007020</g:item_group_id>
       <g:shipping_weight>20.0 kg</g:shipping_weight>
     </item>
@@ -366,7 +366,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>151500012</g:item_group_id>
       <g:shipping_weight>12.0 kg</g:shipping_weight>
     </item>
@@ -382,7 +382,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل الأثل (الصال)</g:product_type>
       <g:item_group_id>0021003001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
@@ -398,7 +398,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل الأثل (الصال)</g:product_type>
       <g:item_group_id>0021003004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
@@ -414,7 +414,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل الأثل (الصال)</g:product_type>
       <g:item_group_id>0021003002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
@@ -430,7 +430,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل الأثل (الصال)</g:product_type>
       <g:item_group_id>0021003003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
@@ -670,7 +670,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل حبة البركة السوداء</g:product_type>
       <g:item_group_id>0041004002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
@@ -686,7 +686,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل حبة البركة السوداء</g:product_type>
       <g:item_group_id>0041004003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
@@ -718,7 +718,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل حبة البركة السوداء</g:product_type>
       <g:item_group_id>0041004007</g:item_group_id>
       <g:shipping_weight>7.0 kg</g:shipping_weight>
     </item>
@@ -1244,7 +1244,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>مشتقات النحل</g:product_type>
+      <g:product_type>عسل بالشمع</g:product_type>
       <g:item_group_id>0031015</g:item_group_id>
       <g:shipping_weight>0.4 kg</g:shipping_weight>
     </item>
@@ -1276,7 +1276,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>مشتقات النحل</g:product_type>
+      <g:product_type>عسل بالشمع</g:product_type>
       <g:item_group_id>0031017</g:item_group_id>
       <g:shipping_weight>1.25 kg</g:shipping_weight>
     </item>
@@ -1308,7 +1308,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -1356,7 +1356,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>مشتقات النحل</g:product_type>
+      <g:product_type>عسل بالشمع</g:product_type>
       <g:item_group_id>0031016</g:item_group_id>
       <g:shipping_weight>0.4 kg</g:shipping_weight>
     </item>
@@ -1436,7 +1436,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر كشميري</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0041006005</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
@@ -1469,7 +1469,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -1515,7 +1515,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر ملكي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>001002003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
@@ -1547,7 +1547,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر ملكي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>001002001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
@@ -1563,7 +1563,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر ملكي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>001002002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
@@ -1665,7 +1665,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0150070105</g:item_group_id>
       <g:shipping_weight>6.3 kg</g:shipping_weight>
     </item>
@@ -1782,7 +1782,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
+      <g:product_type>الغابة السوداء</g:product_type>
       <g:item_group_id>0041007003010</g:item_group_id>
       <g:shipping_weight>6.0 kg</g:shipping_weight>
     </item>
