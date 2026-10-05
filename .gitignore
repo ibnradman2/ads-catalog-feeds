@@ -27,6 +27,8 @@
 !ci/data/
 !ci/data/meta_desc_override.json
 !ci/data/feed_labels.json
+# تصدير سجل المتاجر غير السرّي (نطاقات ومعرّفات عامة فقط، بلا مفتاح ولا توكن)؛ يقرؤه المولّد والناشر محليًّا وعلى Actions (P-merchant-025).
+!ci/data/stores.json
 
 # صور المنتجات المعتمدة من المالك (المادتان 21 و112): ملفات PNG تحت img فقط
 !img/

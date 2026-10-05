@@ -1,0 +1,77 @@
+{
+ "version": 1,
+ "note": "تصدير غير سرّي: نطاقات ومعرّفات عامة فقط، من سجل المتاجر adsops/config/stores.yaml ومن ملفات الكتالوجات. يحدّثه publish_feeds.py --export-stores في كل مزامنة محلية (P-merchant-025).",
+ "stores": {
+  "asal": {
+   "domain": "asalaljebal.sa"
+  },
+  "hayala": {
+   "domain": "hayala.co"
+  },
+  "areesh": {
+   "domain": "areesh.sa"
+  }
+ },
+ "snap_repoint_default": [
+  "asal",
+  "hayala"
+ ],
+ "snap_feeds": {
+  "asal": {
+   "account_id": "dc254711-b3de-4f26-9484-364e2c91bdc5",
+   "catalog_id": "4bdcb0aa-7c90-4091-a7b1-0530c28dc418",
+   "feed_id": "5f86e501-50bb-44c8-b6d2-9a76beab1683",
+   "file": "asal-2-snap.xml"
+  },
+  "hayala": {
+   "account_id": "f46b3709-d6c4-46b6-b144-e6dc8b18af23",
+   "catalog_id": "586237b2-9d83-46b7-a557-a8a0e34e27a9",
+   "feed_id": "28123ee3-3446-4666-837d-5c0cf34fa9ea",
+   "file": "hayala-2-snap.xml"
+  },
+  "areesh": {
+   "account_id": "66d50fe5-5ca2-49b6-be7f-9b13989b95a1",
+   "catalog_id": "370e2192-af56-4f55-a09f-d5b95f7a80f9",
+   "feed_id": "06bd5e11-6d75-437d-a0d2-8dd234fdc410",
+   "file": "areesh-1-snap.xml"
+  }
+ },
+ "google_sources": {
+  "asal": {
+   "store": "asal",
+   "account_id": "262993710",
+   "data_source_id": "204430403",
+   "file": "asal-2-google.xml"
+  },
+  "asal-en": {
+   "store": "asal",
+   "account_id": "262993710",
+   "data_source_id": "10749387459",
+   "file": "asal-2-google-en.xml"
+  },
+  "areesh": {
+   "store": "areesh",
+   "account_id": "742634052",
+   "data_source_id": "10086822428",
+   "file": "areesh-1-google.xml"
+  },
+  "areesh-en": {
+   "store": "areesh",
+   "account_id": "742634052",
+   "data_source_id": "10759279300",
+   "file": "areesh-1-google-en.xml"
+  },
+  "hayala": {
+   "store": "hayala",
+   "account_id": "683146519",
+   "data_source_id": "10086393943",
+   "file": "hayala-2-google.xml"
+  },
+  "hayala-en": {
+   "store": "hayala",
+   "account_id": "683146519",
+   "data_source_id": "10758050925",
+   "file": "hayala-2-google-en.xml"
+  }
+ }
+}

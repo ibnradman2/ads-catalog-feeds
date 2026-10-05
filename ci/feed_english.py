@@ -2,7 +2,7 @@
 r"""ملف جوجل الإنجليزي لـMerchant Center (البند P-asal-merchant-008، أمر المالك 2026-09-27).
 
 لماذا: ملف سلة للمنصات عربي فقط حتى برابط /en، والمالك يريد منتجات إنجليزية حقيقية في
-Merchant Center 262993710. فنأخذ ملف جوجل العربي بعد معالجته (السعر والتوفر والصور وروابط
+Merchant Center عسل الجبال. فنأخذ ملف جوجل العربي بعد معالجته (السعر والتوفر والصور وروابط
 التتبع والتسميات كما هي)، ونضع مكان العنوان والوصف نصّ صفحة المنتج الإنجليزية /en في المتجر،
 ونحوّل الرابط إلى /en. المصدر في Merchant له لغة en، فيبقى الملف العربي كما هو.
 
@@ -22,7 +22,20 @@ import requests
 G = "{http://base.google.com/ns/1.0}"
 REPO = os.environ.get("FEEDS_REPO_DIR") or r"C:\ads-api\feeds_repo"
 CACHE = os.path.join(REPO, "en_texts.json")          # كاش الإنجليزية (اسمه القديم باقٍ)
-STORES = {"asal": "https://asalaljebal.sa", "hayala": "https://hayala.co", "areesh": "https://areesh.sa"}
+
+
+def _load_stores():
+    """نطاقات المتاجر بترتيب البناء، من ci/data/stores.json (تصدير غير سرّي من سجل المتاجر، P-merchant-025).
+    لا معرّف مكتوبًا في الكود. وغيابه أو فساده يوقف التشغيل قبل أي توليد أو نشر."""
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "stores.json")
+    try:
+        stores = json.load(open(path, encoding="utf-8"))["stores"]
+        return {k: "https://" + v["domain"] for k, v in stores.items()}
+    except (OSError, ValueError, KeyError, TypeError) as e:
+        raise RuntimeError(f"تعذّرت قراءة {path}: {type(e).__name__}. صدّره بـ: python dashboard/publish_feeds.py --export-stores") from e
+
+
+STORES = _load_stores()   # المتجر ← رابطه؛ ترتيب المفاتيح = ترتيب بناء الملفات
 # اللغات بترتيب المادة 61 البند 3: (رمز سلة في الرابط، رمز Merchant في اسم الملف ولغة المحتوى، النظام الكتابي)
 LANGS = [("en", "en", "latin"), ("ur", "ur", "arabic"), ("hi", "hi", "devanagari"), ("tl", "tl", "latin"),
          ("ind", "id", "latin"), ("fr", "fr", "latin"), ("tr", "tr", "latin"), ("zh", "zh", "cjk")]
@@ -345,7 +358,7 @@ def build_all(google_xml):
     الترتيب: الإنجليزية لكل المتاجر (عسل الجبال ← هيالة ← عريش)، ثم باقي اللغات بترتيب المادة 61.
     يعيد قائمة {store, lang, mlang, xml, kept, excluded, info}؛ لغة بلا منتج مترجم واحد لا ملف لها."""
     budget = Budget()
-    order = [s for s in ("asal", "hayala", "areesh") if s in google_xml]
+    order = [s for s in STORES if s in google_xml]
     out = []
     for lang, mlang, script in LANGS:
         for store in order:

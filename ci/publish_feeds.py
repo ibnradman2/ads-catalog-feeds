@@ -12,6 +12,11 @@ r"""ينشر ملفات المنتجات الوسيطة على رابط https ث
   python dashboard\publish_feeds.py             # توليد ونشر وتحقّق
   python dashboard\publish_feeds.py --dry-run   # توليد وفحص بلا رفع
   python dashboard\publish_feeds.py --no-build  # ينشر الملفات الموجودة كما هي
+  python dashboard\publish_feeds.py --export-stores  # يحدّث ci\data\stores.json من سجل المتاجر (محليًّا)
+  python dashboard\publish_feeds.py --check-stores   # يفحص أنه مطابق للسجل (الرمز 1 عند الاختلاف)
+
+لا معرّف حساب مكتوب في الكود (P-merchant-025): النطاقات ومعرّفات الحسابات والملفات تُقرأ من ci\data\stores.json،
+وهو تصدير غير سرّي من سجل المتاجر (adsops\config\stores.yaml) يُحدَّث تلقائيًّا في كل تشغيل محلي.
 
 وتوجيه سناب إلى الروابط المنشورة (عملية منفصلة، تُنفَّذ يدويًّا لا في المهمة اليوميّة):
   python dashboard\publish_feeds.py --snap-status              # قراءة فقط
@@ -21,15 +26,10 @@ r"""ينشر ملفات المنتجات الوسيطة على رابط https ث
 import json, sys, os, re, subprocess, time, datetime as dt
 import requests
 
-try:   # محليًّا: سجل المتاجر الموحّد (P-onboarding-001). على GitHub لا سجل (المستودع عام)، فتُستعمل القيم
-    import stores_registry as R   # المكتوبة، ويطابقها feeds_sync_check.py بالسجل (M-32).
+try:   # محليًّا: سجل المتاجر الموحّد (P-onboarding-001) لتصدير ci/data/stores.json وحده. على GitHub لا سجل
+    import stores_registry as R   # (المستودع عام)، فيقرأ كل شيء من stores.json المرفوع (P-merchant-025).
 except Exception:  # noqa: BLE001
     R = None
-
-
-def acc(store, platform, written):
-    """معرّف الحساب من السجل إن وُجد، وإلا القيمة المكتوبة."""
-    return R.account_id(store, platform) if R else written
 
 DASH = os.path.dirname(os.path.abspath(__file__))
 # على GitHub Actions يُمرَّر المجلدان عبر متغيّرات البيئة؛ ومحليًّا تبقى القيم كما كانت.
@@ -210,15 +210,101 @@ def verify(rows, pushed):
     return rows
 
 
+# ===== سجل المتاجر المصدَّر (P-merchant-025): ci/data/stores.json، ولا معرّف حساب مكتوب في هذا الملف =====
+STORES_FILE = os.path.join(DASH, "data", "stores.json")
+# الحقول المطلوبة لكل قسم. المصدَّر من السجل وحده: النطاق ومعرّفات الحسابات العامة (لا مفتاح ولا توكن ولا اتصال).
+# معرّفات الملفات (الكتالوج وملف سناب ومصدر Merchant) لا مصدر لها في السجل، فتبقى في stores.json كما هي.
+SHAPE = {"stores": ("domain",), "snap_feeds": ("account_id", "catalog_id", "feed_id", "file"),
+         "google_sources": ("store", "account_id", "data_source_id", "file")}
+
+
+def shape_problems(data):
+    bad = []
+    for sec, keys in SHAPE.items():
+        entries = data.get(sec)
+        if not isinstance(entries, dict) or not entries:
+            bad.append(f"القسم {sec} غائب أو فارغ")
+            continue
+        for k, v in entries.items():
+            for key in keys:
+                if not isinstance(v, dict) or not isinstance(v.get(key), str) or not v[key].strip():
+                    bad.append(f"{sec}/{k}/{key}")
+    if not isinstance(data.get("snap_repoint_default"), list):
+        bad.append("snap_repoint_default")
+    return bad
+
+
+def load_stores():
+    try:
+        with open(STORES_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, ValueError) as e:
+        die(f"تعذّرت قراءة {STORES_FILE}: {type(e).__name__}. صدّره بـ: python dashboard" + chr(92) + "publish_feeds.py --export-stores")
+    bad = shape_problems(data)
+    if bad:
+        die("stores.json ناقص أو فاسد: " + " · ".join(bad[:8]))
+    return data
+
+
+def _snap_feeds(data):
+    """المتجر ← (حساب الإعلانات، الكتالوج، الملف داخل سناب، الملف المنشور)."""
+    return {k: (v["account_id"], v["catalog_id"], v["feed_id"], v["file"]) for k, v in data["snap_feeds"].items()}
+
+
+def _google_sources(data):
+    """المفتاح ← (حساب Merchant، مصدر البيانات، الملف المنشور)."""
+    return {k: (v["account_id"], v["data_source_id"], v["file"]) for k, v in data["google_sources"].items()}
+
+
+STORES_DATA = load_stores()
 # كتالوجات سناب المقابلة لكل ملف منشور: المتجر → (حساب الإعلانات، الكتالوج، الملف داخل سناب، الملف المنشور)
-SNAP_FEEDS = {
-    "asal":   (acc("asal", "snap", "dc254711-b3de-4f26-9484-364e2c91bdc5"), "4bdcb0aa-7c90-4091-a7b1-0530c28dc418",
-               "5f86e501-50bb-44c8-b6d2-9a76beab1683", "asal-2-snap.xml"),
-    "hayala": (acc("hayala", "snap", "f46b3709-d6c4-46b6-b144-e6dc8b18af23"), "586237b2-9d83-46b7-a557-a8a0e34e27a9",
-               "28123ee3-3446-4666-837d-5c0cf34fa9ea", "hayala-2-snap.xml"),
-    "areesh": (acc("areesh", "snap", "66d50fe5-5ca2-49b6-be7f-9b13989b95a1"), "370e2192-af56-4f55-a09f-d5b95f7a80f9",
-               "06bd5e11-6d75-437d-a0d2-8dd234fdc410", "areesh-1-snap.xml"),
-}
+SNAP_FEEDS = _snap_feeds(STORES_DATA)
+
+
+def export_stores(write=True):
+    """يصدّر من سجل المتاجر النطاق ومعرّفات الحسابات العامة إلى stores.json. يعيد True إن اختلف الملف عن السجل
+    (ويُكتب إن كان write). يرفع RuntimeError إن لم يوجد سجل أو نقص فيه شيء، فلا يُكتب ملف ناقص أبدًا."""
+    global STORES_DATA, SNAP_FEEDS, GOOGLE_SOURCES
+    if R is None:
+        raise RuntimeError("لا سجل متاجر في هذه البيئة (التصدير محلي فقط)")
+    cur = STORES_DATA
+    new = json.loads(json.dumps(cur))
+    try:
+        for k, st in new["stores"].items():
+            st["domain"] = R.domain(k)
+        for k, v in new["snap_feeds"].items():
+            v["account_id"] = R.account_id(k, "snap")
+        for k, v in new["google_sources"].items():
+            v["account_id"] = R.account_id(v["store"], "merchant_center")
+    except Exception as e:  # noqa: BLE001
+        raise RuntimeError(f"السجل لا يحوي ما يلزم: {type(e).__name__}: {str(e)[:100]}") from e
+    bad = shape_problems(new)
+    if bad:
+        raise RuntimeError("التصدير ناقص: " + " · ".join(bad[:8]))
+    if new == cur:
+        return False
+    if write:
+        tmp = STORES_FILE + ".tmp"
+        with open(tmp, "w", encoding="utf-8", newline="\n") as f:
+            json.dump(new, f, ensure_ascii=False, indent=1)
+            f.write("\n")
+        os.replace(tmp, STORES_FILE)
+        STORES_DATA = new
+        SNAP_FEEDS, GOOGLE_SOURCES = _snap_feeds(new), _google_sources(new)
+    return True
+
+
+def stores_command(write):
+    """--export-stores (يكتب) و--check-stores (يفحص ويخرج بالرمز 1 عند الاختلاف)."""
+    try:
+        changed = export_stores(write=write)
+    except RuntimeError as e:
+        die(str(e))
+    if write:
+        print("stores.json: " + ("حُدّث من السجل." if changed else "مطابق للسجل، لا تغيير."))
+        return
+    print("stores.json: " + ("يختلف عن السجل. شغّل --export-stores." if changed else "مطابق للسجل."))
+    sys.exit(1 if changed else 0)
 
 
 def _snap():
@@ -359,14 +445,7 @@ def snap_uploads(stores=None, wait=0):
 
 # مصادر Merchant Center الأساسية التي تسحب ملفات جوجل المنشورة: المتجر → (الحساب، المصدر، الملف)
 # جوجل لا يقبل جدولة سحب أقصر من يومية، فتطلب هذه المهمة الساعية سحبًا فوريًّا بعد كل نشر.
-GOOGLE_SOURCES = {
-    "asal":   (acc("asal", "merchant_center", "262993710"), "204430403", "asal-2-google.xml"),
-    "asal-en": (acc("asal", "merchant_center", "262993710"), "10749387459", "asal-2-google-en.xml"),   # المصدر الإنجليزي (P-asal-merchant-008)
-    "areesh": (acc("areesh", "merchant_center", "742634052"), "10086822428", "areesh-1-google.xml"),
-    "areesh-en": (acc("areesh", "merchant_center", "742634052"), "10759279300", "areesh-1-google-en.xml"),   # المصدر الإنجليزي 2026-10-04
-    "hayala": (acc("hayala", "merchant_center", "683146519"), "10086393943", "hayala-2-google.xml"),
-    "hayala-en": (acc("hayala", "merchant_center", "683146519"), "10758050925", "hayala-2-google-en.xml"),   # المصدر الإنجليزي 2026-10-04
-}
+GOOGLE_SOURCES = _google_sources(STORES_DATA)
 
 
 def _ci_google_fetch(changed):
@@ -421,6 +500,10 @@ def google_fetch(changed=None):
 
 def main():
     dry = "--dry-run" in sys.argv
+    if "--export-stores" in sys.argv:
+        return stores_command(write=True)
+    if "--check-stores" in sys.argv:
+        return stores_command(write=False)
     if "--google-fetch" in sys.argv:
         return google_fetch()
     if "--snap-uploads" in sys.argv:
@@ -430,7 +513,7 @@ def main():
     if "--repoint" in sys.argv:
         i = sys.argv.index("--repoint")
         stores = [a for a in sys.argv[i + 1:] if not a.startswith("-")]
-        return repoint(stores or ["asal", "hayala"])
+        return repoint(stores or STORES_DATA["snap_repoint_default"])
     if "--restore" in sys.argv:
         return restore(sys.argv[sys.argv.index("--restore") + 1])
     if "--snap-status" in sys.argv:
@@ -441,6 +524,13 @@ def main():
     # جلب آخر نسخة أولًا: قد يكون الناشر الآخر (المهمة المحلية أو Actions) رفع قبلنا.
     # بلا check: إن فشل الجلب يكمل كما كان، والرفع نفسه يرفض إن كان المستودع متأخّرًا.
     sh(["git", "pull", "-q", "--ff-only", "origin", "main"], check=False)
+    if not IN_CI and R is not None:   # كل مزامنة محلية تحدّث التصدير من السجل، فيرفعه copy_in مع الملفات (P-merchant-025)
+        try:
+            drift = export_stores(write=not dry)
+            if drift:
+                print("stores.json: " + ("يختلف عن السجل (تجربة: لم يُكتب)." if dry else "حُدّث من السجل."))
+        except RuntimeError as e:
+            print("تحذير: تعذّر تصدير سجل المتاجر — " + str(e)[:150] + ". يبقى stores.json المرفوع.")
     proxy_report = ({"files": [{"file": n, "products": count_products(os.path.join(FEEDS, n)), "links": None}
                                for n in sorted(os.listdir(FEEDS)) if n.endswith(".xml")]}
                     if "--no-build" in sys.argv else build_feeds())
