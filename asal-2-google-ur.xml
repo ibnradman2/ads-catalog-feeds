@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:09:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -23,7 +23,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101027</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>OogvjY</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1016153732</guid>
       <g:id>1016153732</g:id>
@@ -40,7 +40,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>ZqoxgZ</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">331024429</guid>
       <g:id>331024429</g:id>
@@ -55,7 +55,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>00910080004</g:item_group_id>
       <g:shipping_weight>0.02754 kg</g:shipping_weight>
-    <g:mpn>jZnKVod</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3></item>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">987199113</guid>
       <g:id>987199113</g:id>
@@ -71,204 +71,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101006</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>rZqQly</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">756867072</guid>
-      <g:id>756867072</g:id>
-      <g:title>نصف كيلو سدر جبلي + نصف كيلو شوكة +  نصف كيلو مجرى + نصف كيلو الغابة السوداء + نصف كيلو زهور برية (شحن مجاني)</g:title>
-      <g:description>نصف كيلو سدر جبلي + نصف كيلو شوكة +  نصف كيلو مجرى + نصف كيلو الغابة السوداء + نصف كيلو زهور برية (شحن مجاني)</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p756867072?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FHx31nu90sFPLHLHFC4G9WOlGMvwSIkPwGKl5VcF.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>852.00 SAR</g:price>
-      <g:sale_price>525.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101024</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>nznwzw</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">36619997</guid>
-      <g:id>36619997</g:id>
-      <g:title>عسل مانوكا نيوزلندي  Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm</g:title>
-      <g:description>عسل مانوكا نيوزلندي  Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm</g:description>
-      <g:link>https://asalaljebal.sa/ur/honey-bros-premium-manuka-honey-umf-20-mgo-850-250-gm/p36619997?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/kkxW6uvrk65XFjTzd5OcSsrd1xBQvN4KXXDIeiJo.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/4nkuFDw7t0LUHmSyg9rQ4zRQeRefzJ41xsQ26vH9.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/SJ9vfyesdD21BgrlLmEXTQkj03N6hmWP7WEobD0N.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Jb3p7XSAHB7ObSh8ldBwuCf32MCHEyUfuaMVYaSq.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>500.00 SAR</g:price>
-      <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041051001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:mpn>XPPyeO</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1250122150</guid>
-      <g:id>1250122150</g:id>
-      <g:title>عرض اليوم الوطني : 5 كيلو عسل سدر كشميري بخصم 37% + عبوة حبوب اللقاح + شحن مجاني  + دفع عند الاستلام أو بالتقسيط (قطفة نادرة الجودة بكمية محدودة جداً)</g:title>
-      <g:description>عرض اليوم الوطني : 5 كيلو عسل سدر كشميري بخصم 37% + عبوة حبوب اللقاح + شحن مجاني  + دفع عند الاستلام أو بالتقسيط (قطفة نادرة الجودة بكمية محدودة جداً)</g:description>
-      <g:link>https://asalaljebal.sa/ur/5-37/p1250122150?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/7ckqEgHOPNuQKAR67H26jjv7i9w5U4TLP6DsXxHP.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>425.01 SAR</g:price>
-      <g:sale_price>275.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101030</g:item_group_id>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:mpn>YggYrWp</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">612621130</guid>
-      <g:id>612621130</g:id>
-      <g:title>عرض عسل زهور برية - عسل سدر جبلي - عسل شوكة سمر  (شحن مجاني)</g:title>
-      <g:description>عرض عسل زهور برية - عسل سدر جبلي - عسل شوكة سمر  (شحن مجاني)</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p612621130?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/wPuTDmkKL9Ghd30UmKmKe6tMGFklKaRhhbUrbdSA.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>627.00 SAR</g:price>
-      <g:sale_price>417.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>Gqpqvj</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1999644171</guid>
-      <g:id>1999644171</g:id>
-      <g:title>تمر عجوة عالية المدينة الفاخر  (1) كيلو</g:title>
-      <g:description>تمر عجوة عالية المدينة الفاخر  (1) كيلو</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1999644171?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/xU0TvXgkeAQUDWS2AlL7faMn62GStzSnqEDD1y3s.jpeg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/ApZiDJFARpaWRCoPfqBdUjMojpURmEy6M57bCeXy.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Yx4exnPeFapP1nX9w9xonLPg94HsvWNh2lKakgsX.jpeg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>85.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0051020001</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>oqOqdG</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1228632179</guid>
-      <g:id>1228632179</g:id>
-      <g:title>عسل مجرى أبيض (مرديسيا)  1 كيلو</g:title>
-      <g:description>عسل مجرى أبيض (مرديسيا)  1 كيلو</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1228632179?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Md6HMOjLr0EK1CrE3xBHfW2saeTJYAGAgJivswcx.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/UOLpEawgmd9klmOurybFvG3oOT5tIe4bl5oiJMbn.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
-      <g:sale_price>200.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041012002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>xvNrao</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">149216914</guid>
-      <g:id>149216914</g:id>
-      <g:title>عرض اليوم الوطني : عبوة عسل مانوكا نيوزلندي  +20  + عبوة عسل مانوكا نيوزلندي  +5</g:title>
-      <g:description>عرض اليوم الوطني : عبوة عسل مانوكا نيوزلندي  +20  + عبوة عسل مانوكا نيوزلندي  +5</g:description>
-      <g:link>https://asalaljebal.sa/ur/20-5/p149216914?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.files.salla.network/products/337286117/4fecbf71-9eda-49c3-a1b3-e88687adef98-original.webp</g:image_link>
-      <g:additional_image_link>https://cdn.files.salla.network/other/337286117/82f22175-c41b-4c3f-89e2-9383b749eb44-original.webp</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>650.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0502001</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>GqjaNEl</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1750448135</guid>
-      <g:id>1750448135</g:id>
-      <g:title>عسل سدر حضرمي  دوعني 7 كيلو</g:title>
-      <g:description>عسل سدر حضرمي  دوعني 7 كيلو</g:description>
-      <g:link>https://asalaljebal.sa/ur/7/p1750448135?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/DSCOR7067o8zBnh2A6zQW0j8yZOsIgvXJ9PGaeSz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>2100.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011222005</g:item_group_id>
-      <g:shipping_weight>7.0 kg</g:shipping_weight>
-    <g:mpn>zvvNnbx</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">555928119</guid>
-      <g:id>555928119</g:id>
-      <g:title>زيت زيتون عضوي بكر درجة اولى  4 لتر</g:title>
-      <g:description>زيت زيتون عضوي بكر درجة اولى  4 لتر</g:description>
-      <g:link>https://asalaljebal.sa/ur/4/p555928119?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/mKueCLp85ZY6EbxB8mAtPTt1AmhdEKlzeUQzd06R.jpg</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>009-1004002</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:mpn>jZpbAYd</g:mpn><g:google_product_category>2126</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زيوت</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">2132768220</guid>
-      <g:id>2132768220</g:id>
-      <g:title>زيت زيتون عضوي بكر درجة اولى  1 لتر</g:title>
-      <g:description>زيت زيتون عضوي بكر درجة اولى  1 لتر</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p2132768220?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/7P6GfQftUjCj1YJAN7sLCaY9sATRXXofVyNjn9Yr.jpg</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>79.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>009-1004</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>KjpBDaq</g:mpn><g:google_product_category>2126</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زيوت</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1190839815</guid>
-      <g:id>1190839815</g:id>
-      <g:title>1 كيلو سدر جبلي + 1 كيلو زهور برية  + 1 كيلو طلح فاخر (شحن مجاني)</g:title>
-      <g:description>1 كيلو سدر جبلي + 1 كيلو زهور برية  + 1 كيلو طلح فاخر (شحن مجاني)</g:description>
-      <g:link>https://asalaljebal.sa/ur/1-1-1/p1190839815?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/0uBQIWRApBR0GUA87MKLlxyP3dxcxdAhTqirE90g.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1090.00 SAR</g:price>
-      <g:sale_price>695.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101033</g:item_group_id>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>rAAZBEd</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1092237227</guid>
-      <g:id>1092237227</g:id>
-      <g:title>عرض اليوم الوطني : عرض عسل سدر كشميري 10 كيلو جالون مع حبوب لقاح  (شحن مجاني)</g:title>
-      <g:description>عرض اليوم الوطني : عرض عسل سدر كشميري 10 كيلو جالون مع حبوب لقاح  (شحن مجاني)</g:description>
-      <g:link>https://asalaljebal.sa/ur/10/p1092237227?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/PHam4U6yY5rn3Vc9PYbaT9Log4QkL3qI3Vj41UIA.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/9XYNFldRUfteFdq82qdb9lt8yp9LY5bX8agiWsUP.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/ZNbB94P9pzkNE7nsgjjMxpwmIN0s2TKduKLytF5w.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/lgyJdOUPFnC9uxUj6PZW9zWxia8gSs0PbD3Ymxp7.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>850.00 SAR</g:price>
-      <g:sale_price>550.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006007</g:item_group_id>
-      <g:shipping_weight>10.0 kg</g:shipping_weight>
-    <g:mpn>vANjDv</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3></item>
     </channel>
 </rss>
