@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 05 Oct 2026 21:50:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -41,7 +41,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أعسال عالمية</g:product_type>
+      <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:item_group_id>015007006</g:item_group_id>
       <g:shipping_weight>6.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -207,7 +207,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أعسال عالمية</g:product_type>
+      <g:product_type>عسل سدر كشميري</g:product_type>
       <g:item_group_id>0041006010</g:item_group_id>
       <g:shipping_weight>10.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -332,7 +332,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سدر طبيعي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>015007020</g:item_group_id>
       <g:shipping_weight>20.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>20kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -349,7 +349,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عروض اليوم الوطني 96</g:product_type>
+      <g:product_type>مشروب الشتاء</g:product_type>
       <g:item_group_id>00401050003</g:item_group_id>
       <g:shipping_weight>0.47 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مشروب عسل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -366,7 +366,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أعسال عالمية</g:product_type>
+      <g:product_type>سدر طبيعي</g:product_type>
       <g:item_group_id>151500012</g:item_group_id>
       <g:shipping_weight>12.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>12kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure><g:shipping_label>free</g:shipping_label></item>
@@ -435,22 +435,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1599820545</guid>
-      <g:id>1599820545</g:id>
-      <g:title>عسل مجرى أبيض 1 كيلو</g:title>
-      <g:description>جرة عسل مجرى أبيض وزن 1 كيلو من متجر عريش، عسل أبيض اللون حلو الطعم لزج القوام برائحة عطرية مميزة، يُصنع من رحيق الأزهار البيضاء. يصلك 🍯 لمحة سريعة الصنف: عسل المجرى الأبيض. الوزن: 1 كيلو في جرة واحدة. اللون: أبيض يميزه عن أغلب أنواع العسل. القوام: لزج يثبت على الخبز ولا يسيل بسرعة. الطعم والرائحة: حلو برائحة عطرية خاصة. المصدر: رحيق الأزهار البيضاء. 🌼 من أين يأتي لونه الأبيض؟ يجمع النحل رحيق الأزهار البيضاء، فيخرج العسل فاتح اللون صافيًا، وبقوام كثيف يُغرف بالملعقة. وتناسب الجرة الكبيرة البيوت التي تحب العسل على مائدة الإفطار كل يوم. 📋 المواصفات البند التفصيل الصنف عسل مجرى أبيض الوزن 1 كيلو اللون أبيض القوام لزج كثيف المصدر رحيق الأزهار البيضاء الحفظ في جرة مغلقة بعيدًا عن الرطوبة والشمس 🥄 طرق التقديم ملعقة صغيرة مع الحليب الدافئ أو الماء الدافئ في الصباح. على الخبز الساخن أو الفطير مع الزبدة. فوق القشطة أو اللبنة أو الفاكهة الطازجة. في وعاء زجاجي مع التمر والقهوة العربية للضيوف. 🏺 الحفظ احفظ الجرة مغلقة في درجة حرارة الغرفة، وبعيدًا عن الرطوبة وأشعة الشمس. واستعمل ملعقة جافة في كل مرة. 🛒 لماذا تطلبه من عريش؟ نعرض لك الصنف والوزن بوضوح كما هما في الجرة، ونوصل طلبك إلى باب بيتك في كل مدن المملكة. ❓ أسئلة شائعة ما لون عسل المجرى الأبيض؟ لونه أبيض فاتح، لأنه يُصنع من رحيق الأزهار البيضاء. هل قوامه سائل أم لزج؟ قوامه لزج كثيف، يُغرف بالملعقة ويثبت على الخبز. كم وزن الجرة؟ وزنها 1 كيلو. هل يناسب الأطفال دون السنة؟ لا يُعطى العسل للرضع تحت 12 شهرًا. كيف أحفظه بعد الفتح؟ في جرة مغلقة بدرجة حرارة الغرفة، بعيدًا عن الرطوبة والشمس.</g:description>
-      <g:link>https://areesh.sa/ar/عسل-مجرى-أبيض-1-كيلو/p1599820545?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/xMvEGeW3rbgohpAWjbHgl29hDneeGqOhE2HIlzOv.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
-      <g:brand>عريش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل المجرى الأبيض</g:product_type>
-      <g:item_group_id>0041012002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">689992194</guid>
       <g:id>689992194</g:id>
       <g:title>عسل مجرى أبيض 500جم</g:title>
@@ -462,10 +446,26 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل المجرى الأبيض</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041012001</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1599820545</guid>
+      <g:id>1599820545</g:id>
+      <g:title>عسل مجرى أبيض 1 كيلو</g:title>
+      <g:description>جرة عسل مجرى أبيض وزن 1 كيلو من متجر عريش، عسل أبيض اللون حلو الطعم لزج القوام برائحة عطرية مميزة، يُصنع من رحيق الأزهار البيضاء. يصلك 🍯 لمحة سريعة الصنف: عسل المجرى الأبيض. الوزن: 1 كيلو في جرة واحدة. اللون: أبيض يميزه عن أغلب أنواع العسل. القوام: لزج يثبت على الخبز ولا يسيل بسرعة. الطعم والرائحة: حلو برائحة عطرية خاصة. المصدر: رحيق الأزهار البيضاء. 🌼 من أين يأتي لونه الأبيض؟ يجمع النحل رحيق الأزهار البيضاء، فيخرج العسل فاتح اللون صافيًا، وبقوام كثيف يُغرف بالملعقة. وتناسب الجرة الكبيرة البيوت التي تحب العسل على مائدة الإفطار كل يوم. 📋 المواصفات البند التفصيل الصنف عسل مجرى أبيض الوزن 1 كيلو اللون أبيض القوام لزج كثيف المصدر رحيق الأزهار البيضاء الحفظ في جرة مغلقة بعيدًا عن الرطوبة والشمس 🥄 طرق التقديم ملعقة صغيرة مع الحليب الدافئ أو الماء الدافئ في الصباح. على الخبز الساخن أو الفطير مع الزبدة. فوق القشطة أو اللبنة أو الفاكهة الطازجة. في وعاء زجاجي مع التمر والقهوة العربية للضيوف. 🏺 الحفظ احفظ الجرة مغلقة في درجة حرارة الغرفة، وبعيدًا عن الرطوبة وأشعة الشمس. واستعمل ملعقة جافة في كل مرة. 🛒 لماذا تطلبه من عريش؟ نعرض لك الصنف والوزن بوضوح كما هما في الجرة، ونوصل طلبك إلى باب بيتك في كل مدن المملكة. ❓ أسئلة شائعة ما لون عسل المجرى الأبيض؟ لونه أبيض فاتح، لأنه يُصنع من رحيق الأزهار البيضاء. هل قوامه سائل أم لزج؟ قوامه لزج كثيف، يُغرف بالملعقة ويثبت على الخبز. كم وزن الجرة؟ وزنها 1 كيلو. هل يناسب الأطفال دون السنة؟ لا يُعطى العسل للرضع تحت 12 شهرًا. كيف أحفظه بعد الفتح؟ في جرة مغلقة بدرجة حرارة الغرفة، بعيدًا عن الرطوبة والشمس.</g:description>
+      <g:link>https://areesh.sa/ar/عسل-مجرى-أبيض-1-كيلو/p1599820545?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/xMvEGeW3rbgohpAWjbHgl29hDneeGqOhE2HIlzOv.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>عريش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:item_group_id>0041012002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">401594117</guid>
       <g:id>401594117</g:id>
@@ -478,7 +478,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل طلح جنوبي</g:product_type>
+      <g:product_type>أعسال محلية</g:product_type>
       <g:item_group_id>0041029002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -526,7 +526,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل طلح جنوبي</g:product_type>
+      <g:product_type>أعسال محلية</g:product_type>
       <g:item_group_id>0041029007</g:item_group_id>
       <g:shipping_weight>7.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -558,7 +558,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل طلح جنوبي</g:product_type>
+      <g:product_type>أعسال محلية</g:product_type>
       <g:item_group_id>0041029005</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -734,7 +734,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل زهرة البرسيم</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041003002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -750,7 +750,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر جبلي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041021003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -766,7 +766,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر جبلي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041021001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -782,7 +782,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر جبلي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041021002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -798,7 +798,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل زهرة البرسيم</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041003003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -814,7 +814,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر جبلي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041021007</g:item_group_id>
       <g:shipping_weight>7.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -830,7 +830,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر جبلي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041021005</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -846,7 +846,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر جبلي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041021004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -862,7 +862,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل الزهور البرية</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0021002003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -878,7 +878,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل الزهور البرية</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0021002001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -894,7 +894,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل الزهور البرية</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0021002002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -911,7 +911,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل الزهور البرية</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0021002004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -927,7 +927,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر بيشاوري</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041007001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -944,7 +944,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل الزهور البرية</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0021002005</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -960,7 +960,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر بيشاوري</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041007002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -976,7 +976,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر بيشاوري</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041007003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -1008,7 +1008,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر بيشاوري</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041007004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -1024,7 +1024,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر بيشاوري</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041007005</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -1058,7 +1058,7 @@
       <g:brand>متجر عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل المانوكا النيوزلندي</g:product_type>
       <g:item_group_id>0041046001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
@@ -1091,7 +1091,7 @@
       <g:brand>متجر عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عسل المانوكا النيوزلندي</g:product_type>
       <g:item_group_id>0041047001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
@@ -1227,7 +1227,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>الغابة السوداء</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0041010003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -1243,7 +1243,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل بالشمع</g:product_type>
+      <g:product_type>مشتقات النحل</g:product_type>
       <g:item_group_id>0031015</g:item_group_id>
       <g:shipping_weight>0.4 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -1259,7 +1259,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>الغابة السوداء</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0041010001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -1275,7 +1275,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل بالشمع</g:product_type>
+      <g:product_type>مشتقات النحل</g:product_type>
       <g:item_group_id>0031017</g:item_group_id>
       <g:shipping_weight>1.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -1307,7 +1307,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أعسال عالمية</g:product_type>
+      <g:product_type>سدر طبيعي</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
@@ -1339,7 +1339,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر حضرمي</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0011207002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -1355,7 +1355,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل بالشمع</g:product_type>
+      <g:product_type>مشتقات النحل</g:product_type>
       <g:item_group_id>0031016</g:item_group_id>
       <g:shipping_weight>0.4 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -1387,7 +1387,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>الغابة السوداء</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0041010002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -1435,7 +1435,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أعسال عالمية</g:product_type>
+      <g:product_type>عسل سدر كشميري</g:product_type>
       <g:item_group_id>0041006005</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -1498,7 +1498,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر حضرمي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0011207003</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
@@ -1578,7 +1578,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل سدر حضرمي</g:product_type>
+      <g:product_type>أعسال عالمية</g:product_type>
       <g:item_group_id>0011207001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
@@ -1611,7 +1611,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل الزهور البرية</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0021002007</g:item_group_id>
       <g:shipping_weight>7.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -1664,7 +1664,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أعسال عالمية</g:product_type>
+      <g:product_type>سدر طبيعي</g:product_type>
       <g:item_group_id>0150070105</g:item_group_id>
       <g:shipping_weight>6.3 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
@@ -1730,7 +1730,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>أصناف العسل الطبيعي</g:product_type>
+      <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:item_group_id>0151007006</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -1764,7 +1764,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عروض اليوم الوطني 96</g:product_type>
+      <g:product_type>عسل حبة البركة السوداء</g:product_type>
       <g:item_group_id>014101037</g:item_group_id>
       <g:shipping_weight>6.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -1815,7 +1815,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عروض اليوم الوطني 96</g:product_type>
+      <g:product_type>سدر طبيعي</g:product_type>
       <g:item_group_id>00410031515</g:item_group_id>
       <g:shipping_weight>6.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
@@ -1849,7 +1849,7 @@
       <g:brand>عريش</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عروض اليوم الوطني 96</g:product_type>
+      <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>002100200212</g:item_group_id>
       <g:shipping_weight>12.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>12kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure><g:shipping_label>free</g:shipping_label></item>
