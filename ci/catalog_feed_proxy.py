@@ -495,6 +495,7 @@ def main():
         return
     report = {"as_of": dt.date.today().isoformat(), "params": PARAMS, "files": []}
     ar_google = {}
+    ar_platform = {}   # ملفات ميتا وسناب العربية، لتوليد نسخها الإنجليزية (المادة 61، المرحلة 5)
     for store, feeds in sources.items():
         for i, f in enumerate(feeds):
             if f.get("retired"):  # مصدر متقاعد: يُتخطّى ويبقى ترقيم الملفات كما هو
@@ -522,6 +523,8 @@ def main():
                                         "size_kb": round(len(out_xml) / 1024)})
                 if platform == "google" and store in feed_english.STORES:
                     ar_google.setdefault(store, (i, out_xml))
+                if platform in ("meta", "snap") and store in feed_english.STORES:
+                    ar_platform.setdefault((store, platform), (i, out_xml))
     # ملفات جوجل للغات من ملف جوجل العربي (P-asal-merchant-008، المادة 61 البنود 7 إلى 9). فشلها لا يوقف العربي.
     if ar_google:
         for r in feed_english.build_all({st: x for st, (_, x) in ar_google.items()}):
@@ -552,6 +555,25 @@ def main():
                                     "size_kb": round(len(r["xml"]) / 1024),
                                     "excluded": [{"id": p, "why": w} for p, w in r["excluded"]],
                                     "en_pages": info})
+    # ملفات ميتا وسناب الإنجليزية: النص من كاش /en نفسه (بلا جلب جديد) والرابط /en مع وسم المنصة. فشلها لا يوقف العربي.
+    if ar_platform:
+        budget = feed_english.Budget(0)
+        for (store, platform), (idx, xml_in) in ar_platform.items():
+            try:
+                xml_en, kept, excluded, _ = feed_english.build(xml_in, store, "en", budget, "en", "latin")
+            except Exception as e:  # noqa: BLE001
+                print(f"[{store}] {platform}-en: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
+                continue
+            name = f"{store}-{idx+1}-{platform}-en.xml"
+            if not kept:
+                print(f"[{store}] {platform}-en منتجات 0 · مستبعد {len(excluded)} · بلا ملف")
+                continue
+            if not check:
+                open(os.path.join(OUT, name), "wb").write(xml_en)
+            print(f"[{store}] {platform}-en منتجات {kept} · مستبعد {len(excluded)} → build/feeds/{name}")
+            report["files"].append({"store": store, "platform": f"{platform}-en", "file": name,
+                                    "products": kept, "links": kept, "size_kb": round(len(xml_en) / 1024),
+                                    "excluded": [{"id": p, "why": w} for p, w in excluded]})
     if report.get("translations") and not check:
         write_translation_guard(report["translations"])
     json.dump(report, open(os.path.join(BUILD, "catalog_feed_proxy.json"), "w", encoding="utf-8"),

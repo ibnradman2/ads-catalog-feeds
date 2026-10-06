@@ -132,7 +132,7 @@ def gate(proxy_report):
     return rows
 
 
-LANG_FILE = re.compile(r"-google-[a-z]{2,3}\.xml$")   # ملفات اللغات: نقصها تحذير لا يوقف العربي
+LANG_FILE = re.compile(r"-(google|meta|snap)-[a-z]{2,3}\.xml$")   # ملفات اللغات: نقصها تحذير لا يوقف العربي
 VOLATILE = re.compile(rb"<lastBuildDate>.*?</lastBuildDate>", re.S)
 
 
