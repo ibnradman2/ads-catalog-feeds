@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:04:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:05:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -87,7 +87,6 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>0.028 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
@@ -106,7 +105,6 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>0.012 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
@@ -158,7 +156,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">403378241</guid>
       <g:id>403378241</g:id>
@@ -336,6 +334,7 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
+      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>1868</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>بن وقهوة</g:custom_label_3></item>
     <item>
@@ -449,7 +448,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">140660040</guid>
       <g:id>140660040</g:id>
@@ -463,7 +462,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">518818921</guid>
       <g:id>518818921</g:id>
@@ -477,7 +476,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1072059977</guid>
       <g:id>1072059977</g:id>
@@ -519,7 +518,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1559719230</guid>
       <g:id>1559719230</g:id>
@@ -603,7 +602,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1832849003</guid>
       <g:id>1832849003</g:id>
@@ -702,7 +701,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1924754372</guid>
       <g:id>1924754372</g:id>
@@ -814,7 +813,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1468610802</guid>
       <g:id>1468610802</g:id>
@@ -842,7 +841,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2139954028</guid>
       <g:id>2139954028</g:id>
@@ -941,7 +940,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">704453922</guid>
       <g:id>704453922</g:id>
@@ -1097,7 +1096,7 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Local Ghee</g:product_type>
+      <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.68 kg</g:shipping_weight>
     <g:google_product_category>5827</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سمن</g:custom_label_3></item>
     <item>
@@ -1128,7 +1127,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>دقيق</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2065623105</guid>
       <g:id>2065623105</g:id>
@@ -1142,7 +1141,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>دقيق</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2006358433</guid>
       <g:id>2006358433</g:id>
@@ -1169,7 +1168,7 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Black Raisins</g:product_type>
+      <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>1755</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>فواكه مجففة</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
@@ -1227,8 +1226,7 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Natural Products</g:product_type>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">196436999</guid>
       <g:id>196436999</g:id>
@@ -1242,7 +1240,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1003247052</guid>
       <g:id>1003247052</g:id>
@@ -1270,7 +1268,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1665411110</guid>
       <g:id>1665411110</g:id>
@@ -1284,7 +1282,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">115531510</guid>
       <g:id>115531510</g:id>
@@ -1342,7 +1340,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2045612049</guid>
       <g:id>2045612049</g:id>
@@ -1454,9 +1452,8 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>أخرى</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1073244520</guid>
       <g:id>1073244520</g:id>
@@ -1525,9 +1522,8 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.05 kg</g:shipping_weight>
-    <g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>أخرى</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1956516321</guid>
       <g:id>1956516321</g:id>
@@ -1555,7 +1551,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1511230577</guid>
       <g:id>1511230577</g:id>
@@ -1583,7 +1579,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1701109911</guid>
       <g:id>1701109911</g:id>
@@ -1597,7 +1593,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">373779673</guid>
       <g:id>373779673</g:id>
@@ -1625,7 +1621,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1467466677</guid>
       <g:id>1467466677</g:id>
@@ -1639,7 +1635,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">834579494</guid>
       <g:id>834579494</g:id>
@@ -1681,7 +1677,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1218370784</guid>
       <g:id>1218370784</g:id>
@@ -1805,9 +1801,8 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">863440747</guid>
       <g:id>863440747</g:id>
@@ -1963,9 +1958,8 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.45 kg</g:shipping_weight>
-    <g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>أخرى</g:custom_label_3><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1959531644</guid>
       <g:id>1959531644</g:id>
@@ -2021,7 +2015,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1859497066</guid>
       <g:id>1859497066</g:id>
@@ -2035,7 +2029,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1376854197</guid>
       <g:id>1376854197</g:id>
@@ -2195,6 +2189,7 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
+      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>1.6 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3></item>
     <item>
@@ -2210,6 +2205,7 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
+      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>0.024 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زعفران</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
@@ -2225,7 +2221,6 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>0.018 kg</g:shipping_weight>
     <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
@@ -2255,6 +2250,7 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
+      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
@@ -2270,7 +2266,6 @@
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>Saudi National Day 96 Offers</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هيل</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
