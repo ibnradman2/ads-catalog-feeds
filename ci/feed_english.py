@@ -216,6 +216,12 @@ def _arabic_share(text):
     return (len(AR.findall(text or "")) / len(letters)) if letters else 0.0
 
 
+def _same_text(a, b):
+    """الأردية تكتب بالحرف العربي، فنص صفحة /ur الذي يطابق العربي (أو يكاد) لم يُترجم بعد (2026-10-06)."""
+    import difflib
+    return difflib.SequenceMatcher(None, " ".join((a or "").split()), " ".join((b or "").split())).ratio() >= 0.6
+
+
 def _season(text):
     return next((name for name, rx in EN_SEASONS if rx.search(text or "")), None)
 
@@ -301,7 +307,7 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
         en_season = _season(title) if lang == "en" else None
         if e.get("gone") or not title:
             why = "لا صفحة محفوظة بعد للغة " + lang
-        elif title == ar_title or (lang != "ur" and AR.search(title) and lang != "ar"):
+        elif title == ar_title or (lang != "ur" and AR.search(title) and lang != "ar")                 or (lang == "ur" and _same_text(title, ar_title)):
             why = "العنوان بلا ترجمة"
         elif not _script_ok(script, title):
             why = "العنوان بغير نظام اللغة"
