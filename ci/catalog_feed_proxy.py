@@ -486,6 +486,20 @@ def write_translation_guard(rows):
     json.dump(out, open(os.path.join(BUILD, "translation_guard.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
+def _meta_language_override(xml_bytes, lang):
+    """يحوّل ملف ميتا الكامل إلى ملف لغة: g:id وg:override وtitle وdescription وlink وmobile_link فقط."""
+    G = "{http://base.google.com/ns/1.0}"
+    root = safe_fromstring(xml_bytes)
+    keep = {G + "id", G + "title", G + "description", G + "link", G + "mobile_link",
+            "title", "description", "link", "mobile_link"}
+    for it in root.iter("item"):
+        for ch in list(it):
+            if ch.tag not in keep:
+                it.remove(ch)
+        ET.SubElement(it, G + "override").text = lang
+    return ET.tostring(root, encoding="utf-8", xml_declaration=True)
+
+
 def main():
     check = "--check" in sys.argv
     os.makedirs(OUT, exist_ok=True)
@@ -564,6 +578,8 @@ def main():
             except Exception as e:  # noqa: BLE001
                 print(f"[{store}] {platform}-en: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
                 continue
+            if platform == "meta":   # ميتا: ملف لغة (override) فيه المعرّف والنص والرابط وحدها، بلا سعر ولا توفر (شرط ميتا)
+                xml_en = _meta_language_override(xml_en, "en")
             name = f"{store}-{idx+1}-{platform}-en.xml"
             if not kept:
                 print(f"[{store}] {platform}-en منتجات 0 · مستبعد {len(excluded)} · بلا ملف")
