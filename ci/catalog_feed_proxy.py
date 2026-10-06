@@ -406,7 +406,37 @@ def merchant_image_overrides(items, store):
 BRAND_FIX = {"asal": {"شركة عسل الجبال": "عسل الجبال", "عروض العسل": "عسل الجبال"}}
 
 
-def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=None):
+EXTRA_IMAGES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "extra_images.json")
+
+
+def extra_image_links(items, store):
+    """صور إضافية لمنتجات بعينها في ملفي سناب وجوجل (أمر المالك 2026-10-06، عسل الجبال 6).
+    الخريطة ci\data\extra_images.json بالشكل {"asal": {"<المعرّف>": ["<رابط https>"]}}.
+    تُضاف بعد image_link، ولا تغيّر الصورة الرئيسية، ولا تكرّر رابطًا موجودًا."""
+    try:
+        with open(EXTRA_IMAGES, encoding="utf-8") as fh:
+            m = (json.load(fh) or {}).get(store) or {}
+    except (OSError, ValueError):
+        return 0
+    done = 0
+    for it in items:
+        urls = m.get(_text(it, "id")) or []
+        img = it.find(G + "image_link")
+        if img is None:
+            continue
+        have = {(e.text or "").strip() for e in it.findall(G + "additional_image_link")}
+        pos = list(it).index(img) + 1
+        for u in urls:
+            if str(u).startswith("https://") and u not in have:
+                e = ET.Element(G + "additional_image_link")
+                e.text = u
+                it.insert(pos, e)
+                pos += 1
+                done += 1
+    return done
+
+
+def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=None, platform=None):
     """يعيد (xml جديد، عدد المنتجات، عدد الروابط المعدَّلة). enrich = مفتاح المتجر لإثراء ملف جوجل."""
     root = safe_fromstring(xml_bytes)
     items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
@@ -464,6 +494,8 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=No
     if enrich:
         n = enrich_google(items, enrich)
         print("   إثراء: " + " · ".join(f"{k} {v}" for k, v in n.items()))
+    if platform in ("google", "snap") and store:
+        extra_image_links(items, store)
     return ET.tostring(root, encoding="utf-8", xml_declaration=True), len(items), changed
 
 
@@ -524,7 +556,7 @@ def main():
                 try:
                     out_xml, n_items, n_links = rewrite(raw, suffix, (store, platform) in CLEAN,
                                                         CLAIMS_IDS.get((store, platform), ()),
-                                                        store if platform == "google" else None, store)
+                                                        store if platform == "google" else None, store, platform)
                 except Exception as e:
                     print(f"[{store}] {f.get('name')}: ملف غير صالح — {str(e)[:80]}")
                     break
