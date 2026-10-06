@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 05 Oct 2026 21:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -25,7 +25,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي</g:product_type>
+      <g:product_type>هيل أمريكي أخضر رقم 1</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي</g:product_type>
+      <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -74,7 +74,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي أخضر رقم 2</g:product_type>
+      <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -110,7 +110,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>زعفران سوبر نقيل</g:product_type>
+      <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>0.012 kg</g:shipping_weight>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عروض اليوم الوطني 96</g:product_type>
+      <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -380,7 +380,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>لقمتي باشنفر</g:product_type>
+      <g:product_type>البن</g:product_type>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -469,7 +469,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>زعتر بري</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
     <item>
@@ -544,7 +544,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
+      <g:product_type>اكليل الجبل</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -559,7 +559,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>اكليل الجبل</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -634,7 +634,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>اكليل الجبل</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
     <item>
@@ -664,7 +664,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>زبيب أسود</g:product_type>
+      <g:product_type>منتجات طبيعية</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -679,7 +679,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
+      <g:product_type>بذور الشيا</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -694,7 +694,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور الشيا</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
     <item>
@@ -709,7 +709,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
+      <g:product_type>بذور الشيا</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -724,7 +724,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>زعتر مطحون</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
     <item>
@@ -739,7 +739,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
+      <g:product_type>زعتر مطحون</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -814,7 +814,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>زعتر مطحون</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -919,7 +919,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
+      <g:product_type>بذور القطونة</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -934,7 +934,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>زعفران سوبر نقيل</g:product_type>
+      <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>0.7 kg</g:shipping_weight>
     </item>
     <item>
@@ -949,7 +949,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
+      <g:product_type>بذور الكتان</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -1040,7 +1040,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>تمور</g:product_type>
+      <g:product_type>تمر عجوة عالية المدينة</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -1160,7 +1160,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>سمن بلدي</g:product_type>
+      <g:product_type>منتجات طبيعية</g:product_type>
       <g:shipping_weight>0.68 kg</g:shipping_weight>
     </item>
     <item>
@@ -1250,7 +1250,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>شمر</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -1386,7 +1386,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>البن</g:product_type>
+      <g:product_type>هرري باشنفر</g:product_type>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -1417,7 +1417,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>يانسون</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
     <item>
@@ -1613,7 +1613,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>منتجات طبيعية</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.05 kg</g:shipping_weight>
     </item>
     <item>
@@ -1927,7 +1927,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>منتجات طبيعية</g:product_type>
+      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -2080,7 +2080,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>منتجات طبيعية</g:product_type>
+      <g:product_type>بهارات</g:product_type>
       <g:shipping_weight>0.45 kg</g:shipping_weight>
     </item>
     <item>
@@ -2155,7 +2155,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>بذور وأعشاب طبيعية</g:product_type>
+      <g:product_type>نخوة</g:product_type>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     </item>
     <item>
@@ -2291,7 +2291,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي أخضر رقم 3</g:product_type>
+      <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -2370,7 +2370,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي أخضر رقم 2</g:product_type>
+      <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -2385,7 +2385,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي أخضر رقم 3</g:product_type>
+      <g:product_type>هيل أمريكي</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -2401,7 +2401,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي</g:product_type>
+      <g:product_type>عروض اليوم الوطني 96</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
@@ -2417,7 +2417,7 @@
       <g:brand>هيالة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>هيل أمريكي</g:product_type>
+      <g:product_type>هيل أمريكي أخضر رقم 1</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
   </channel>
