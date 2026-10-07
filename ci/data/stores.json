@@ -10,6 +10,9 @@
   },
   "areesh": {
    "domain": "areesh.sa"
+  },
+  "insaf": {
+   "domain": "insafcompany.sa"
   }
  },
  "snap_repoint_default": [
@@ -34,6 +37,12 @@
    "catalog_id": "370e2192-af56-4f55-a09f-d5b95f7a80f9",
    "feed_id": "06bd5e11-6d75-437d-a0d2-8dd234fdc410",
    "file": "areesh-1-snap.xml"
+  },
+  "insaf": {
+   "account_id": "be9d1d3f-7068-46ed-b604-9d9b37b89861",
+   "catalog_id": "d6ca2230-2946-47a3-94d5-28684cbfa42a",
+   "feed_id": "b06cea11-b193-427e-9d7c-c46dddbe74cd",
+   "file": "insaf-1-snap.xml"
   }
  },
  "google_sources": {
@@ -72,6 +81,12 @@
    "account_id": "683146519",
    "data_source_id": "10758050925",
    "file": "hayala-2-google-en.xml"
+  },
+  "insaf": {
+   "store": "insaf",
+   "account_id": "5870732001",
+   "data_source_id": "10761468783",
+   "file": "insaf-1-google.xml"
   }
  }
 }
