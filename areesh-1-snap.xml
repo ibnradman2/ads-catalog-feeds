@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 07 Oct 2026 20:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:09:46 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1055,7 +1055,7 @@
       <g:availability>in stock</g:availability>
       <g:price>148.99 SAR</g:price>
       <g:sale_price>118.99 SAR</g:sale_price>
-      <g:brand>متجر عريش</g:brand>
+      <g:brand>مؤسسة خيرات عريش للتجارة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال عالمية</g:product_type>
@@ -1072,7 +1072,7 @@
       <g:availability>in stock</g:availability>
       <g:price>300.00 SAR</g:price>
       <g:sale_price>269.00 SAR</g:sale_price>
-      <g:brand>متجر عريش</g:brand>
+      <g:brand>مؤسسة خيرات عريش للتجارة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل المانوكا النيوزلندي</g:product_type>
@@ -1089,7 +1089,7 @@
       <g:availability>in stock</g:availability>
       <g:price>500.00 SAR</g:price>
       <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>متجر عريش</g:brand>
+      <g:brand>مؤسسة خيرات عريش للتجارة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>أعسال عالمية</g:product_type>
@@ -1106,7 +1106,7 @@
       <g:availability>in stock</g:availability>
       <g:price>199.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>متجر عريش</g:brand>
+      <g:brand>مؤسسة خيرات عريش للتجارة</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل المانوكا النيوزلندي</g:product_type>
