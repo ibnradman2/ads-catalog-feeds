@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 07 Oct 2026 13:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:11:43 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -354,6 +354,53 @@
       <g:item_group_id>0140101015</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>KZaZwg</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشروب عسل</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">472529251</guid>
+      <g:id>472529251</g:id>
+      <g:title>قتاد شہد (1 کلو)</g:title>
+      <g:description>قتاد شہد (1 کلو)</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p472529251?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/3dacf640-d0e6-4a84-91ad-42ae531fc807-500x500-PRu7z1m46lWnViMOWnM1leRsLroBjFp5Czj8e6hE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>400.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>01088503</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>azBxpxg</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1204991584</guid>
+      <g:id>1204991584</g:id>
+      <g:title>شہد کی مکھی کے زہر والی کریم</g:title>
+      <g:description>شہد کی مکھی کے زہر والی کریم</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p1204991584?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GoahIgiBak8hPpD5x96nuNnTaDfjTinBp3yZcJSV.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jGGkQkTAOD5M1YA4TBfQa1utpWRE27wtCb0AE4b6.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006006006001</g:item_group_id>
+      <g:shipping_weight>0.02 kg</g:shipping_weight>
+    <g:mpn>qQrnaND</g:mpn><g:google_product_category>567</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عناية بالبشرة</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">991857534</guid>
+      <g:id>991857534</g:id>
+      <g:title>ہسپانوی بلیک فاریسٹ شہد، 500 گرام کے 3 ڈبے</g:title>
+      <g:description>ہسپانوی بلیک فاریسٹ شہد، 500 گرام کے 3 ڈبے</g:description>
+      <g:link>https://asalaljebal.sa/ur/500-3/p991857534?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/DDlYjWI0vOWq4KUA8hBUGmP6m2EJsxg0Ftq6rjLA.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>317.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>2020202003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>wAEVGyz</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">987199113</guid>
       <g:id>987199113</g:id>
