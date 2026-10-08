@@ -159,15 +159,19 @@ def parse_page(text):
 class Budget:
     """حد طلبات مشترك بين المتاجر واللغات في التشغيل الواحد، وتوقف مشترك عند أول 429."""
     def __init__(self, n=MAX_FETCH):
-        self.left, self.stop = n, None
+        self.left, self.stop_by = n, {}      # التوقف لكل متجر: 429 في متجر لا يوقف جلب غيره (2026-10-08)
+
+    @property
+    def stop(self):
+        return next(iter(self.stop_by.values()), None)
 
 
 def refresh(store, ids, cache, lang="en", budget=None, ar_titles=None):
     """يحدّث نصوص صفحات اللغة لما مضى عليه يوم أو لم يُجلب. يعيد (المحدَّث، سبب التوقف أو None).
     صفحة لغة نصها هو العربي نفسه (لم تُترجم) تُعاد بعد 48 ساعة لا يوميًّا، توفيرًا للحد."""
     budget = budget or Budget()
-    if budget.stop:
-        return 0, budget.stop
+    if budget.stop_by.get(store):
+        return 0, budget.stop_by[store]
     base = STORES[store]
     sc = cache.setdefault(store, {})
     now = _now()
@@ -190,10 +194,10 @@ def refresh(store, ids, cache, lang="en", budget=None, ar_titles=None):
         try:
             r = s.get(f"{base}/{lang}/x/p{pid}", timeout=30)   # سلة تصل إلى المنتج بمعرّفه أيًّا كان المقطع قبله
         except requests.RequestException as e:
-            budget.stop = type(e).__name__
+            budget.stop_by[store] = type(e).__name__
             break
         if r.status_code == 429 or (r.status_code == 200 and not r.url.rstrip("/").endswith(f"/p{pid}")):
-            budget.stop = f"{r.status_code} {r.url[:40]}"
+            budget.stop_by[store] = f"{r.status_code} {r.url[:40]}"
             break
         if r.status_code in (404, 410):
             sc[pid] = {"gone": True, "at": _now().isoformat(timespec="seconds")}
@@ -203,12 +207,12 @@ def refresh(store, ids, cache, lang="en", budget=None, ar_titles=None):
             if title:
                 sc[pid] = {"title": title, "desc": body, "at": _now().isoformat(timespec="seconds")}
         else:
-            budget.stop = str(r.status_code)
+            budget.stop_by[store] = str(r.status_code)
             break
         done += 1
         budget.left -= 1
         time.sleep(0.3)
-    return done, budget.stop
+    return done, budget.stop_by.get(store)
 
 
 def _arabic_share(text):
