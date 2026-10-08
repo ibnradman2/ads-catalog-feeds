@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -26,5 +26,1187 @@
       <g:item_group_id>0401006010</g:item_group_id>
       <g:shipping_weight>10.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1122433710</guid>
+      <g:id>1122433710</g:id>
+      <g:title>शौक़ा (समरा प्रीमियम) शहद 500 ग्राम</g:title>
+      <g:description>शौक़ा (समरा प्रीमियम) शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1122433710?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/jcRKDeDHCD8SGhbxRzbmdFsKVhbyoq1GyuE55mZO.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021092002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1714110187</guid>
+      <g:id>1714110187</g:id>
+      <g:title>कश्मीरी सिदर (बेर) शहद 250 ग्राम</g:title>
+      <g:description>कश्मीरी सिदर (बेर) शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p1714110187?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/nqAcOpGLuXx7ZBcT1NitzEzImXoqZ4jPkiKZVywo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1404273996</guid>
+      <g:id>1404273996</g:id>
+      <g:title>जिनसेंग 15 ग्राम</g:title>
+      <g:description>जिनसेंग 15 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/15/p1404273996?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Qjd53H08V3SN5ZPPZkm7QcdCmRTuPPBaCo5lyPnv.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">957180464</guid>
+      <g:id>957180464</g:id>
+      <g:title>खजूर का पराग (तल्अ)</g:title>
+      <g:description>खजूर का पराग (तल्अ)</g:description>
+      <g:link>https://areesh.sa/hi/product/p957180464?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/AfvdUO88Kr2lPSY2uNGiZEOf5dCvL5ntFNVRDUct.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1036170524</guid>
+      <g:id>1036170524</g:id>
+      <g:title>प्राकृतिक सिद्र शहद ऑफ़र: 2 किलो + 2 किलो मुफ़्त</g:title>
+      <g:description>प्राकृतिक सिद्र शहद ऑफ़र: 2 किलो + 2 किलो मुफ़्त</g:description>
+      <g:link>https://areesh.sa/hi/2-2/p1036170524?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/QsvJDuVC0z17RwjDImPaDKUdcSdl3rINi2Nt91Mk.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>398.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>015007004</g:item_group_id>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1611390490</guid>
+      <g:id>1611390490</g:id>
+      <g:title>राष्ट्रीय दिवस ऑफर: अदरक शहद पेय, नींबू और हल्दी के साथ, 3 बोतलें, हर एक 470 ग्राम</g:title>
+      <g:description>राष्ट्रीय दिवस ऑफर: अदरक शहद पेय, नींबू और हल्दी के साथ, 3 बोतलें, हर एक 470 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/3-470/p1611390490?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/nNkFckdgGuMyukcpUJ0pw9LUFVKMyjAA4PpItFaT.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>189.00 SAR</g:price>
+      <g:sale_price>169.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00401050003</g:item_group_id>
+      <g:shipping_weight>0.47 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مشروب عسل</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">940145162</guid>
+      <g:id>940145162</g:id>
+      <g:title>अथल (सल) शहद 250 ग्राम</g:title>
+      <g:description>अथल (सल) शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p940145162?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/NwXhXDKpUNQMJBeyfIlmUGQVGv4Tl4Il4wtMA9RX.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">649125645</guid>
+      <g:id>649125645</g:id>
+      <g:title>अथल (अस-साल) शहद 2 किलो</g:title>
+      <g:description>अथल (अस-साल) शहद 2 किलो</g:description>
+      <g:link>https://areesh.sa/hi/2/p649125645?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/notNCZh1VKAwg84ntiveCiTVAQ997VRTKB6R6dQ4.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>580.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1115299087</guid>
+      <g:id>1115299087</g:id>
+      <g:title>अथल (सल) शहद 500 ग्राम</g:title>
+      <g:description>अथल (सल) शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1115299087?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/YiR4vDHjYxdqbbqzCJBOyimrZkv8N3uGUhbfb4Qt.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>165.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1889402382</guid>
+      <g:id>1889402382</g:id>
+      <g:title>अथल (सल) शहद 1 किलो</g:title>
+      <g:description>अथल (सल) शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p1889402382?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/ebPr8iVzJuQ5YR4J50dnyZwtG0CQe1SB37DkfTLf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>300.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">689992194</guid>
+      <g:id>689992194</g:id>
+      <g:title>सफ़ेद मजरा शहद 500 ग्राम</g:title>
+      <g:description>सफ़ेद मजरा शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p689992194?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/WijCXW3hc5D9ooAXJ37ClrKipuKchaJHijGR3Q4Q.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041012001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1599820545</guid>
+      <g:id>1599820545</g:id>
+      <g:title>सफ़ेद मजरा शहद 1 किलो</g:title>
+      <g:description>सफ़ेद मजरा शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p1599820545?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/xMvEGeW3rbgohpAWjbHgl29hDneeGqOhE2HIlzOv.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041012002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">401594117</guid>
+      <g:id>401594117</g:id>
+      <g:title>प्रीमियम तलह शहद 500 ग्राम</g:title>
+      <g:description>प्रीमियम तलह शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p401594117?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Nj8AArPFm5FUHFbLocYSBtmh8w3btu0cE00qa2J8.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">226374656</guid>
+      <g:id>226374656</g:id>
+      <g:title>प्रीमियम तलह शहद 250 ग्राम</g:title>
+      <g:description>प्रीमियम तलह शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p226374656?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/f9hSnY2dKIkeWQ0Lmcd35AZsDFusjS25eDec0HkF.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">973260804</guid>
+      <g:id>973260804</g:id>
+      <g:title>प्रीमियम तलह शहद 1 किलो</g:title>
+      <g:description>प्रीमियम तलह शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p973260804?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/2TI1QhpxGZXfnrappXLh3kTpuHH1kPw0B8yTlIG7.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>402.01 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1457720894</guid>
+      <g:id>1457720894</g:id>
+      <g:title>7 किलो का गैलन प्रीमियम तलह शहद + (मुफ़्त डिलीवरी)</g:title>
+      <g:description>7 किलो का गैलन प्रीमियम तलह शहद + (मुफ़्त डिलीवरी)</g:description>
+      <g:link>https://areesh.sa/hi/7/p1457720894?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/dnHGZVl5T8288tEyD3hoDdxqQmLmP3hRQvy7Lmk3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2814.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029007</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">509119034</guid>
+      <g:id>509119034</g:id>
+      <g:title>प्रीमियम तलह शहद 2 किलो</g:title>
+      <g:description>प्रीमियम तलह शहद 2 किलो</g:description>
+      <g:link>https://areesh.sa/hi/2/p509119034?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/P9v18xrgJMLYM9Q66dj2rRXmz3UXwisSXxSKS3sb.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>804.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1282566969</guid>
+      <g:id>1282566969</g:id>
+      <g:title>5 किलो का गैलन प्रीमियम तलह शहद</g:title>
+      <g:description>5 किलो का गैलन प्रीमियम तलह शहद</g:description>
+      <g:link>https://areesh.sa/hi/5/p1282566969?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/ftsDo7dEvNBmlWLCu91zCVWRcuc4aZnmsKsru802.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2010.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">482548143</guid>
+      <g:id>482548143</g:id>
+      <g:title>शौका शहद (प्रीमियम समरा) 250 ग्राम</g:title>
+      <g:description>शौका शहद (प्रीमियम समरा) 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p482548143?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/LXLS06xMTRIUQRwvoLKPtLL7fVhNacc8BKBJYnzE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>86.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021092001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1897520045</guid>
+      <g:id>1897520045</g:id>
+      <g:title>शौक़ा (समरा प्रीमियम) शहद 1 किलो</g:title>
+      <g:description>शौक़ा (समरा प्रीमियम) शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p1897520045?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/dODDIChO7tWl2g4v80X2oRcCvICXamRLLyrbSNdZ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021092003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">658291884</guid>
+      <g:id>658291884</g:id>
+      <g:title>शौक़ा (समरा प्रीमियम) शहद 2 किलो</g:title>
+      <g:description>शौक़ा (समरा प्रीमियम) शहद 2 किलो</g:description>
+      <g:link>https://areesh.sa/hi/2/p658291884?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/EOub4q2y41wdEWCk8NRFYOn7VhGMlY7djUOnnn8s.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>688.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021092004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">699162529</guid>
+      <g:id>699162529</g:id>
+      <g:title>7 किलो गैलन शौक़ा समरा प्रीमियम शहद + (मुफ़्त डिलीवरी)</g:title>
+      <g:description>7 किलो गैलन शौक़ा समरा प्रीमियम शहद + (मुफ़्त डिलीवरी)</g:description>
+      <g:link>https://areesh.sa/hi/7/p699162529?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/haeo04yf9t7TPMWtgzRwXJOL71oLtLxryThQrElR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2409.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021092007</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1606889632</guid>
+      <g:id>1606889632</g:id>
+      <g:title>ब्लैक सीड (कलौंजी) शहद 250 ग्राम</g:title>
+      <g:description>ब्लैक सीड (कलौंजी) शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p1606889632?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/47ZrAEGmC1us10DS83H51mCeXE2NuLarrLalJABr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2072608418</guid>
+      <g:id>2072608418</g:id>
+      <g:title>5 किलो गैलन शौक़ा (समरा प्रीमियम) शहद + (मुफ़्त डिलीवरी)</g:title>
+      <g:description>5 किलो गैलन शौक़ा (समरा प्रीमियम) शहद + (मुफ़्त डिलीवरी)</g:description>
+      <g:link>https://areesh.sa/hi/5/p2072608418?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/cRPBB5Go9bksuohrmQq49IGT5DN535B9aHndMmti.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1721.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021092005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">234492327</guid>
+      <g:id>234492327</g:id>
+      <g:title>ब्लैक सीड (कलौंजी) शहद 500 ग्राम</g:title>
+      <g:description>ब्लैक सीड (कलौंजी) शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p234492327?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/ahzFDzhPS4A9LpPjRuku7fok6Hivb3K1rCNgoevJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>88.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">807269030</guid>
+      <g:id>807269030</g:id>
+      <g:title>ब्लैक सीड (कलौंजी) शहद 1 किलो</g:title>
+      <g:description>ब्लैक सीड (कलौंजी) शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p807269030?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/kta06bdjIgsx5IJkK1SeNB65kd9PHJt6KcvHvceN.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>145.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1714475941</guid>
+      <g:id>1714475941</g:id>
+      <g:title>ब्लैक सीड (कलौंजी) शहद 2 किलो</g:title>
+      <g:description>ब्लैक सीड (कलौंजी) शहद 2 किलो</g:description>
+      <g:link>https://areesh.sa/hi/2/p1714475941?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/TPx4VxtWWskEs0NR5n6XfJCmmm0mRXDAbU3zVXFo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">982423131</guid>
+      <g:id>982423131</g:id>
+      <g:title>7 किलो गैलन ब्लैक सीड (कलौंजी) शहद + (मुफ़्त डिलीवरी)</g:title>
+      <g:description>7 किलो गैलन ब्लैक सीड (कलौंजी) शहद + (मुफ़्त डिलीवरी)</g:description>
+      <g:link>https://areesh.sa/hi/7/p982423131?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/brb37iULGcTRGk08U1PfOSfABbotth4Ti18svuNF.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>803.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004007</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1930504799</guid>
+      <g:id>1930504799</g:id>
+      <g:title>तिपतिया फूल का शहद 500 ग्राम</g:title>
+      <g:description>तिपतिया फूल का शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1930504799?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/BBywEXrNcGWLCO79ixXYMKZbueWiFA1ztpGhSDLG.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">450163781</guid>
+      <g:id>450163781</g:id>
+      <g:title>पहाड़ी सिदर शहद 1 किलो</g:title>
+      <g:description>पहाड़ी सिदर शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p450163781?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/0NrOwtTtyPkeFBqMX6xH0vT1nN4eQnHI1K7cS4Ry.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>459.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">276517184</guid>
+      <g:id>276517184</g:id>
+      <g:title>पहाड़ी सिदर शहद 250 ग्राम</g:title>
+      <g:description>पहाड़ी सिदर शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p276517184?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/DF6tLY4dAzDHNNfSAm3YOnzUJPFFl1UhtCEaI6lu.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1957761862</guid>
+      <g:id>1957761862</g:id>
+      <g:title>पहाड़ी सिदर शहद 500 ग्राम</g:title>
+      <g:description>पहाड़ी सिदर शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1957761862?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/78hvWvsY1IgbOvGVvLP9bUpvt8o5G1viZyBlr5Je.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>258.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">557058910</guid>
+      <g:id>557058910</g:id>
+      <g:title>तिपतिया फूल का शहद 1 किलो</g:title>
+      <g:description>तिपतिया फूल का शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p557058910?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/7lgRrpd6mpAr2aWL2FwDYcKoO1Trp7LwPTEvtP1K.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1400408185</guid>
+      <g:id>1400408185</g:id>
+      <g:title>पहाड़ी सिदर शहद 7 किलो गैलन + मुफ़्त डिलीवरी</g:title>
+      <g:description>पहाड़ी सिदर शहद 7 किलो गैलन + मुफ़्त डिलीवरी</g:description>
+      <g:link>https://areesh.sa/hi/7/p1400408185?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/NoiLxOHjIRLXAoRdJ1r5iHpNp9nnpbCjQZLPqzRM.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3212.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021007</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">2132981371</guid>
+      <g:id>2132981371</g:id>
+      <g:title>पहाड़ी सिदर शहद 5 किलो</g:title>
+      <g:description>पहाड़ी सिदर शहद 5 किलो</g:description>
+      <g:link>https://areesh.sa/hi/5/p2132981371?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/rtA4zst9LpHawvL78J2Ompj3Nb71Z9yOiV49Wh3p.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2294.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1225774404</guid>
+      <g:id>1225774404</g:id>
+      <g:title>पहाड़ी सिदर शहद 2 किलो</g:title>
+      <g:description>पहाड़ी सिदर शहद 2 किलो</g:description>
+      <g:link>https://areesh.sa/hi/2/p1225774404?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/SAQ9E9yYKsJVPTJchn6vQITnz5tqcKV9bFqWTdrJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>918.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1882360715</guid>
+      <g:id>1882360715</g:id>
+      <g:title>जंगली फूलों का शहद 1 किलो</g:title>
+      <g:description>जंगली फूलों का शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p1882360715?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Cg15ZccTNYhU2Hg3lrLGvx7ZuBfeix2xpV2pECHY.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1774315670</guid>
+      <g:id>1774315670</g:id>
+      <g:title>जंगली फूलों का शहद 250 ग्राम</g:title>
+      <g:description>जंगली फूलों का शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p1774315670?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/5DS9pFpf613uwQjY4wFBmKrtNWkmtfE8CisHFBbQ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>69.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1109371540</guid>
+      <g:id>1109371540</g:id>
+      <g:title>जंगली फूलों का शहद 500 ग्राम</g:title>
+      <g:description>जंगली फूलों का शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1109371540?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/El1GnVOD35tZb0KJumDFLTuPScdWriSpmLjLgzMp.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">643067018</guid>
+      <g:id>643067018</g:id>
+      <g:title>जंगली फूलों का शहद 2 किलो</g:title>
+      <g:description>जंगली फूलों का शहद 2 किलो</g:description>
+      <g:link>https://areesh.sa/hi/2/p643067018?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/8ToVvlq7GS7cB6QedIFPTqSBTsxA1AVNSzKWOH7X.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>459.00 SAR</g:price>
+      <g:sale_price>436.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1281556169</guid>
+      <g:id>1281556169</g:id>
+      <g:title>पेशावरी सिदर (बेर) शहद 250 ग्राम</g:title>
+      <g:description>पेशावरी सिदर (बेर) शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p1281556169?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/C8JU80lCWqncEI0e4Dr25QW65ywp22x9dKQzfsyl.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>29.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2057449096</guid>
+      <g:id>2057449096</g:id>
+      <g:title>5 किलो गैलन जंगली फूलों का शहद</g:title>
+      <g:description>5 किलो गैलन जंगली फूलों का शहद</g:description>
+      <g:link>https://areesh.sa/hi/5/p2057449096?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/h6bPyWova5Rg12fEk7eipmC30vkWMS7mSp8KPVpJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1147.00 SAR</g:price>
+      <g:sale_price>918.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1921376200</guid>
+      <g:id>1921376200</g:id>
+      <g:title>पेशावरी सिदर (बेर) शहद 500 ग्राम</g:title>
+      <g:description>पेशावरी सिदर (बेर) शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1921376200?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/tYiYegcKr4ttV5U1VXTe5dm89nfVPBAhstlmshQM.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>60.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">548974799</guid>
+      <g:id>548974799</g:id>
+      <g:title>पेशावरी सिदर (बेर) शहद 1 किलो</g:title>
+      <g:description>पेशावरी सिदर (बेर) शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p548974799?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/68qdJLl81NKC65WrDOZlb1JGKGuiyP2fjmp5PCkv.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">979497193</guid>
+      <g:id>979497193</g:id>
+      <g:title>कश्मीरी सिदर शहद 500 ग्राम</g:title>
+      <g:description>कश्मीरी सिदर शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p979497193?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/pfmDvmQJvTfnunY1ulJ6Qnt0zbjRCflj5xXuFitJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>43.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1456705998</guid>
+      <g:id>1456705998</g:id>
+      <g:title>पेशावरी सिदर (बेर) शहद 2 किलो</g:title>
+      <g:description>पेशावरी सिदर (बेर) शहद 2 किलो</g:description>
+      <g:link>https://areesh.sa/hi/2/p1456705998?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/e1vE6cU3sRz1Ik1LraVS8lTb3E1e6Wn980kEwk5J.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>230.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">83194573</guid>
+      <g:id>83194573</g:id>
+      <g:title>5 किलो पेशावरी सिदर (बेर) शहद</g:title>
+      <g:description>5 किलो पेशावरी सिदर (बेर) शहद</g:description>
+      <g:link>https://areesh.sa/hi/5/p83194573?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/sbwLr8GH2EiWaM0GjFlsTSXb7R1P32CWr5TsNZsz.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>575.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1206195242</guid>
+      <g:id>1206195242</g:id>
+      <g:title>न्यूज़ीलैंड मनुका शहद Homeland Premium Manuka Honey UMF+5, MGO 100+, 250 gm</g:title>
+      <g:description>न्यूज़ीलैंड मनुका शहद Homeland Premium Manuka Honey UMF+5, MGO 100+, 250 gm</g:description>
+      <g:link>https://areesh.sa/hi/homeland-premium-manuka-honey-umf-5-mgo-100-250-gm/p1206195242?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/y0wjcf9KzXhopKlvsDGpK54S7U0pRGT4RaGqx1pL.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>148.99 SAR</g:price>
+      <g:sale_price>118.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041045001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">732821654</guid>
+      <g:id>732821654</g:id>
+      <g:title>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+15, MGO 550+, 250 gm</g:title>
+      <g:description>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+15, MGO 550+, 250 gm</g:description>
+      <g:link>https://areesh.sa/hi/homeland-premium-manuka-honey-umf-15-mgo-550-250-gm/p732821654?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/VSgGcb8INCa4jY1hI0wOGKqznHkOyLH20Eh9yOUS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>300.00 SAR</g:price>
+      <g:sale_price>269.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041046001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">552143552</guid>
+      <g:id>552143552</g:id>
+      <g:title>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+20, MGO 830+, 250 gm</g:title>
+      <g:description>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+20, MGO 830+, 250 gm</g:description>
+      <g:link>https://areesh.sa/hi/homeland-premium-manuka-honey-umf-20-mgo-830-250-gm/p552143552?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/1mrXQSiPaYO45MRHX5U4os9cxYg4IeZ37plxXKxg.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>500.00 SAR</g:price>
+      <g:sale_price>399.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041051001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1394374627</guid>
+      <g:id>1394374627</g:id>
+      <g:title>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm</g:title>
+      <g:description>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm</g:description>
+      <g:link>https://areesh.sa/hi/homeland-premium-manuka-honey-umf-10-mgo-300-250-gm/p1394374627?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/WSSkShcmYsV3dcgINonjE7MaXTE6BQvBo9GtDFJz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>199.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041047001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">266726712</guid>
+      <g:id>266726712</g:id>
+      <g:title>रानी मधुमक्खी के आहार का पाउडर - 30 ग्राम</g:title>
+      <g:description>रानी मधुमक्खी के आहार का पाउडर - 30 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/30/p266726712?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/nYO6ApIfK3rgwGYtzbpVCy2E7tvk0ypFvHb7UA3r.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061009002</g:item_group_id>
+      <g:shipping_weight>0.03 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">581260348</guid>
+      <g:id>581260348</g:id>
+      <g:title>लग्ज़री बॉक्स (प्राकृतिक सिद्र शहद के 2 जार)</g:title>
+      <g:description>लग्ज़री बॉक्स (प्राकृतिक सिद्र शहद के 2 जार)</g:description>
+      <g:link>https://areesh.sa/hi/2/p581260348?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/fC9eRTb9c4kKCskqR7jwRSoM6K3wuNIIwXUcwxhl.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/G6gl8bKXEOEDWco37zY0hv7gO5pbhVyYC1aWdjUM.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/fN0zV071PfVeubrp5bCpLg0jdLeLdhlTcErDBTJv.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/b6DthAAhp2R57u8Wx6kiFo2riVD5XWhx9yqYd746.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/ugT6nKxlp6YeHKgPudC6lIV1TSTYvsg6BDkEkXz2.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>250.00 SAR</g:price>
+      <g:sale_price>138.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>014001003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1808589975</guid>
+      <g:id>1808589975</g:id>
+      <g:title>3 जार मधुमक्खी पराग 500 ग्राम</g:title>
+      <g:description>3 जार मधुमक्खी पराग 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/3-500/p1808589975?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>270.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007004</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">587159425</guid>
+      <g:id>587159425</g:id>
+      <g:title>समरा (शोक) मोम शहद 1 किलो</g:title>
+      <g:description>समरा (शोक) मोम शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p587159425?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/M4n6TJlJ7CLYMyI9OnvE28AGcKq8maro3CrMX0pE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">561200214</guid>
+      <g:id>561200214</g:id>
+      <g:title>शोक मोम शहद 500 ग्राम</g:title>
+      <g:description>शोक मोम शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p561200214?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/khtpqzh0eVcarkiubKMIuLLexYU9jL1LIzzQHBSo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>200.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">765679051</guid>
+      <g:id>765679051</g:id>
+      <g:title>आरिश शाही मिश्रण (500 ग्राम पैक)</g:title>
+      <g:description>आरिश शाही मिश्रण (500 ग्राम पैक)</g:description>
+      <g:link>https://areesh.sa/hi/500/p765679051?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Z1ABM5RCxcWQqYXPQSWdgO8291kSASmn8nyQVFhN.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/irWb4WEsJ9or9qbAAYcN3HO46Kbalr0H9EWrsKE1.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/MFDl8ZIKYtEx6xAzQ1MnFA5PZHxGx4S48686lJ9F.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/TymjdoDSTEWajtTUJczOjQ94fEc5BxyYJ6O23SVK.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>199.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>014001001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>خلطات العسل</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">115482841</guid>
+      <g:id>115482841</g:id>
+      <g:title>मधुमक्खी पराग - 30 ग्राम</g:title>
+      <g:description>मधुमक्खी पराग - 30 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/30/p115482841?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/putIg7IsnmqnW0uYErZEMMJqaRAe53ABOOoTffip.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/jS4d0Yi0RlJ9iFwPsqqZRBGTnF2NyDqK4ML45VUt.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007030</g:item_group_id>
+      <g:shipping_weight>0.03 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">547643097</guid>
+      <g:id>547643097</g:id>
+      <g:title>ब्लैक फ़ॉरेस्ट शहद 1 किलो</g:title>
+      <g:description>ब्लैक फ़ॉरेस्ट शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p547643097?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/cCDh74Ib3VqS2wuPTjVZuCsngcvAvKoA0yvGlqlR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1307810461</guid>
+      <g:id>1307810461</g:id>
+      <g:title>प्राकृतिक मोम वाला शहद 200 ग्राम</g:title>
+      <g:description>प्राकृतिक मोम वाला शहद 200 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/200/p1307810461?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/3GVwyVd3Zh7gytSCM16urysElpxHtRf38Bu5nFdu.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031015</g:item_group_id>
+      <g:shipping_weight>0.4 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">769082882</guid>
+      <g:id>769082882</g:id>
+      <g:title>ब्लैक फ़ॉरेस्ट शहद 250 ग्राम</g:title>
+      <g:description>ब्लैक फ़ॉरेस्ट शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p769082882?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/X21NBmmELIX9Zd4S416sdB00PQxGukbOHQrvjpva.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>43.45 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2144586991</guid>
+      <g:id>2144586991</g:id>
+      <g:title>प्राकृतिक मोम वाला शहद 1250 ग्राम</g:title>
+      <g:description>प्राकृतिक मोम वाला शहद 1250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/1250/p2144586991?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/2oE7MWZkN5V4FxoA2iu0sOkWuo4u7CEsnfsk91BJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031017</g:item_group_id>
+      <g:shipping_weight>1.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">527688141</guid>
+      <g:id>527688141</g:id>
+      <g:title>देसी जंगली फूलों का मोम शहद 1 किलो</g:title>
+      <g:description>देसी जंगली फूलों का मोम शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p527688141?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/NamGp6oUL9vgAeKAjAQEuD5m3okXTkHFibMWBgDR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>400.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">687552137</guid>
+      <g:id>687552137</g:id>
+      <g:title>अलिया मदीना प्रीमियम अजवा खजूर 5 किलो (मुफ़्त डिलीवरी)</g:title>
+      <g:description>अलिया मदीना प्रीमियम अजवा खजूर 5 किलो (मुफ़्त डिलीवरी)</g:description>
+      <g:link>https://areesh.sa/hi/5/p687552137?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/DrdxAW6Pat5tyZGYHN4fxPriXgkXU1b12C2DEVn9.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>455.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1126573678</guid>
+      <g:id>1126573678</g:id>
+      <g:title>हद्रमी सिदर शहद 500 ग्राम</g:title>
+      <g:description>हद्रमी सिदर शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1126573678?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/BxyoSUIZ4KH0IwUBnpFZ1WHIKnQuSnlXPxZunbaa.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/iCSY5yovBOzxsmqVPaMqtUgo0VeB7wvqKrVmyFsz.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1525447859</guid>
+      <g:id>1525447859</g:id>
+      <g:title>प्राकृतिक मोम वाला शहद 400 ग्राम</g:title>
+      <g:description>प्राकृतिक मोम वाला शहद 400 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/400/p1525447859?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/LuHbx4EawLh862KrdFOlfcYKLcJRoXdoMIALBG7I.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031016</g:item_group_id>
+      <g:shipping_weight>0.4 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1339577181</guid>
+      <g:id>1339577181</g:id>
+      <g:title>ब्लैक फ़ॉरेस्ट शहद 500 ग्राम</g:title>
+      <g:description>ब्लैक फ़ॉरेस्ट शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1339577181?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/GR7P1LaQXH2aj9DDRyfKel2m8PgurmmrIHahLNWZ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>79.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">682371662</guid>
+      <g:id>682371662</g:id>
+      <g:title>अलिया मदीना प्रीमियम अजवा खजूर 1 किलो</g:title>
+      <g:description>अलिया मदीना प्रीमियम अजवा खजूर 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p682371662?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/MApHPnMEHBp8mstZy8UzUQ0cDuUiZlcTPR1lRPCU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">283801056</guid>
+      <g:id>283801056</g:id>
+      <g:title>देसी प्राकृतिक प्रोपोलिस - 65 ग्राम</g:title>
+      <g:description>देसी प्राकृतिक प्रोपोलिस - 65 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/65/p283801056?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/s9O9j1rxvZv3tVLfMQfi4VLbwWsWuh1hW9xGfX7D.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.08 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1559827680</guid>
+      <g:id>1559827680</g:id>
+      <g:title>5 किलो कश्मीरी सिद्र शहद + मुफ़्त डिलीवरी</g:title>
+      <g:description>5 किलो कश्मीरी सिद्र शहद + मुफ़्त डिलीवरी</g:description>
+      <g:link>https://areesh.sa/hi/5/p1559827680?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/66f6897d-a5dc-47a8-b447-143d7c876dd9-500x500-3NnOcvbds4KTM6SbTMVrPjFMV9dsRqn9kVlVo9vz.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>424.99 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">311732055</guid>
+      <g:id>311732055</g:id>
+      <g:title>प्रोपोलिस पाउडर (प्रोपोलिस या मधुमक्खी का गोंद) 15 ग्राम</g:title>
+      <g:description>प्रोपोलिस पाउडर (प्रोपोलिस या मधुमक्खी का गोंद) 15 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/15/p311732055?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/qOZfxUPWR3ICLPBYyzRo1N32dfI4T6sCt4s68rN6.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006-1005</g:item_group_id>
+      <g:shipping_weight>0.015 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">162309629</guid>
+      <g:id>162309629</g:id>
+      <g:title>पहाड़ी सिदर मोम शहद 1 किलो</g:title>
+      <g:description>पहाड़ी सिदर मोम शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p162309629?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/dcR95uSPq2g8blc8FnBCV7rG2qo3VjY9Rd2jEFv8.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>390.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">378951093</guid>
+      <g:id>378951093</g:id>
+      <g:title>हद्रमी सिद्र शहद 1 किलो</g:title>
+      <g:description>हद्रमी सिद्र शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p378951093?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/xok4Bbw7fjjxNzsgtrqwlqoVKTOToaVXrFR6AFDr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>450.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">399980213</guid>
+      <g:id>399980213</g:id>
+      <g:title>आसीमी शाही सिद्र शहद 1 किलो</g:title>
+      <g:description>आसीमी शाही सिद्र शहद 1 किलो</g:description>
+      <g:link>https://areesh.sa/hi/1/p399980213?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/9AlLVVvgQFgf9aUk7BfzU7jWZ0wLDx6gSpeLOgnR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>680.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">427525089</guid>
+      <g:id>427525089</g:id>
+      <g:title>आसीमी शाही सिद्र शहद 250 ग्राम</g:title>
+      <g:description>आसीमी शाही सिद्र शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p427525089?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Kywlg8BoSYhjO7VnjtnY0ACbQ48bUrPbJqKIodoH.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>169.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1700113743</guid>
+      <g:id>1700113743</g:id>
+      <g:title>आसीमी शाही सिद्र शहद 500 ग्राम</g:title>
+      <g:description>आसीमी शाही सिद्र शहद 500 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/500/p1700113743?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/RGKlMExd48ZB4GI5Lc1cJjP17Qv6fCjnoB07Necf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>340.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1749454899</guid>
+      <g:id>1749454899</g:id>
+      <g:title>हद्रमी सिद्र शहद 250 ग्राम</g:title>
+      <g:description>हद्रमी सिद्र शहद 250 ग्राम</g:description>
+      <g:link>https://areesh.sa/hi/250/p1749454899?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/PVuidvrDbMOaudZZrz4wOpNfBn9I9SWXRLOwTSNr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>124.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">146284993</guid>
+      <g:id>146284993</g:id>
+      <g:title>राष्ट्रीय दिवस ऑफर: 3 किलो प्राकृतिक सिदर शहद</g:title>
+      <g:description>राष्ट्रीय दिवस ऑफर: 3 किलो प्राकृतिक सिदर शहद</g:description>
+      <g:link>https://areesh.sa/hi/3/p146284993?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/vsbslWe9BdbDvgwtuvp7Csc22w8aBtEjaf4yEA8F.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>299.00 SAR</g:price>
+      <g:sale_price>149.01 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>15152003</g:item_group_id>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>اليوم الوطني</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>3kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure><g:shipping_label>free</g:shipping_label></item>
     </channel>
 </rss>
