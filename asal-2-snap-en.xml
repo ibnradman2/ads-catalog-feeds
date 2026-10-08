@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 08 Oct 2026 16:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:21:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -39,6 +39,60 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>Local Saudi Honey</g:product_type>
       <g:item_group_id>00410290002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">863927234</guid>
+      <g:id>863927234</g:id>
+      <g:title>Black Forest Honeydew Honey, 2 kg Pack, Dark and Mellow</g:title>
+      <g:description>🏆 Ordered more than 70 times Black Forest honey in a 2 kg pack: a dark honey with a character of its own that does not resemble flower honey. This pack is for anyone who wants something different on the family table. Type: Black Forest honey Weight: 2 kg Colour: dark Simple sugars: low Testing: laboratory tested, certificate on request 🌲 What is Black Forest honey A special type of honey common in some African and European countries. It is known as honeydew honey, because bees collect it from tree secretions rather than flower nectar, so it is darker and less sweet than flower honeys. 📋 Specifications Item Detail Product Black Forest honey Weight 2 kg Colour Dark Source Honeydew from tree secretions Returns Within 7 days 🍞 How to serve it A spoon on warm bread with white cheese at breakfast, in a glass of warm milk in the evening, or over yoghurt and oats. Its body and sweetness suit those who prefer a calm flavour to a sharp sweetness. 🔬 Testing and returns The honey is tested in the laboratory before sale and you may ask for the test certificate. ❓ Frequently asked questions How is it different from flower honey? It is a honeydew honey, so its colour is darker and its flavour calmer. Can I ask for the test certificate? How many spoons does a 2 kg pack give? About 100 tablespoons, counting a spoon as 20 g. Is it suitable for children? Honey should not be given to children under one year old.</g:description>
+      <g:link>https://asalaljebal.sa/en/black-forest-honeydew-honey-2-kg-pack-dark-and-mellow/p863927234?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0syxg8VnJhvhojLchND8UGRoxkuzTMLF4NwGThHJ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>280.00 SAR</g:price>
+      <g:sale_price>196.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>Black Forest Honey</g:product_type>
+      <g:item_group_id>0140101051</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">464019410</guid>
+      <g:id>464019410</g:id>
+      <g:title>3 Jars of New Zealand Manuka Honey UMF+20, MGO 850+, 250 g Each</g:title>
+      <g:description>🏆 Ordered more than 100 times Genuine Manuka honey from New Zealand, graded UMF 20+ and MGO 850+ printed on every jar. 🍯 The story and its origin New Zealand is home to the Manuka bush, and its nectar is lab-tested before export, under the rules of the Ministry for Primary Industries (MPI). These jars are from the brand Honey Bros, carrying UMF 20+ and MGO 850+ grades printed on every jar. High grade: UMF 20+ and MGO 850+, among the top Manuka grades in our store. Documented origin: New Zealand Manuka honey from Honey Bros. Generous quantity: 750 g in three sealed jars. Certified testing: the UMF Honey Association and New Zealand's MPI test the honey before export. A great gift: three sealed jars — give some away and keep the rest. 😋 Taste and how to use it Rich and herbal with the gentle bitterness typical of Manuka. 🧊 Storage Keep the jar sealed, in a mild spot away from sunlight, and always use a dry spoon to keep its quality. 🏅 Why order from us We select high Manuka grades and verify their seal before listing them. Spec Details Type Manuka honey from the nectar of the Manuka bush Origin New Zealand Brand Honey Bros Grade UMF 20+ · MGO 850+ Quantity 3 jars × 250 g Taste Rich and herbal with the gentle bitterness typical of Manuka Storage Sealed jar, mild spot out of the sun, dry spoon What does UMF 20+ mean? UMF is a grade awarded by the UMF Honey Association after lab testing, and 20+ sits high on its scale. What is the difference between UMF and MGO? MGO measures one natural compound, methylglyoxal, while UMF combines several markers, which is why we show both numbers. Does it make a good gift? Yes, three sealed jars let you give one or two away and keep the third. 1 to 3 working days. We refund the full amount. 👈 Order your jars today.</g:description>
+      <g:link>https://asalaljebal.sa/en/3-jars-of-new-zealand-manuka-honey-umf-20-mgo-850-250-g-each/p464019410?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/CFHZAEc5wlrlpaALUwYaP4vpJwOHj5uQqNRVAhay.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1500.00 SAR</g:price>
+      <g:sale_price>796.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>New Zealand Manuka Honey</g:product_type>
+      <g:item_group_id>0041051003</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1372377871</guid>
+      <g:id>1372377871</g:id>
+      <g:title>Hail Talh Comb Honey, Local Acacia Honey in the Comb, 1 kg</g:title>
+      <g:description>🏆 Ordered more than 30 times Talh comb honey , local, from the Hail region, weighing 1 kg. You see the honey inside the wax cells exactly as the bees capped it. 📌 Quick facts Type: Talh (acacia) honey in the comb Origin: Hail region Weight: 1 kg Form: honey in intact wax cells 🌳 The story of Talh Talh is a tree of the acacia family that grows in the Hail region, and bees feed on its blossoms to make this local honey. We offer it in the comb just as the bees capped it with wax. 🍽️ For hosting Set the comb on a wooden board in the middle of the table and let guests cut their own pieces to eat with warm bread, samn and dates. 🥞 At breakfast Let honey run from the cut edge over pancakes or fresh white cheese. 📋 Kilo card Specification Value Product Talh comb honey Origin Hail region Weight 1 kg Form Inside wax cells Storage Closed, room temperature 🧊 Storage Keep the honey closed at room temperature, away from moisture, and cut the comb with a completely dry knife or spoon. 🎁 A gift A kilo of Hail comb honey wrapped with a green ribbon is a gift people remember, for relatives and friends. We offer the comb just as the bees capped it, from the Hail region that honey lovers know. ❓ FAQ What is Talh? A tree of the acacia family; bees feed on its blossoms to make this honey. Can I eat the wax? How do I cut the comb? With a completely dry knife or spoon. How far does a kilo go? It serves a full hosting table and leaves plenty for the family. 🛡️ You may return it within 7 days</g:description>
+      <g:link>https://asalaljebal.sa/en/hail-talh-comb-honey-local-acacia-honey-in-the-comb-1-kg/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PL32O5k7qO2Qb5GP4yyYxo76t6oiaewgYWVQtTGv.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/F1SWxzxJr00K9o07h10O2DC4ycLiGibdmTObbksm.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/d0wirinLaPeLfydLuIu4pOpTz13pPpPS2UjaxRa1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.files.salla.network/other/337286117/82f22175-c41b-4c3f-89e2-9383b749eb44-original.webp</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>500.00 SAR</g:price>
+      <g:sale_price>396.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>Honey Varieties</g:product_type>
+      <g:item_group_id>0031033001</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
