@@ -4,10 +4,38 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 08 Oct 2026 15:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:05:23 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">2038336306</guid>
+      <g:id>2038336306</g:id>
+      <g:title>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
+      <g:description>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:description>
+      <g:link>https://hayala.co/hi/10/p2038336306?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/GgCXve5lFnpSkUBfsHZxaJ8M9xaQOuqydTM2qL62.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>349.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>بن وقهوة</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">669353113</guid>
+      <g:id>669353113</g:id>
+      <g:title>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए</g:title>
+      <g:description>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए</g:description>
+      <g:link>https://hayala.co/hi/10/p669353113?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Q2YrrfgyTVv1Mp8rWqg61Fp6QcRmzguH1pJX2LDn.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>460.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>بن وقهوة</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1643632887</guid>
       <g:id>1643632887</g:id>
@@ -2119,34 +2147,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>2073</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>منقوعات</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">669353113</guid>
-      <g:id>669353113</g:id>
-      <g:title>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए</g:title>
-      <g:description>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए</g:description>
-      <g:link>https://hayala.co/hi/10/p669353113?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Q2YrrfgyTVv1Mp8rWqg61Fp6QcRmzguH1pJX2LDn.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>460.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>10.0 kg</g:shipping_weight>
-    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>بن وقهوة</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2038336306</guid>
-      <g:id>2038336306</g:id>
-      <g:title>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
-      <g:description>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:description>
-      <g:link>https://hayala.co/hi/10/p2038336306?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/GgCXve5lFnpSkUBfsHZxaJ8M9xaQOuqydTM2qL62.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>349.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>10.0 kg</g:shipping_weight>
-    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>بن وقهوة</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1621826523</guid>
       <g:id>1621826523</g:id>
