@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 08 Oct 2026 04:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:09:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1047,6 +1047,21 @@
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:mpn>AzzgAKQ</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
+      <guid isPermaLink="false">1750448135</guid>
+      <g:id>1750448135</g:id>
+      <g:title>Pulot na Sidr ng Hadhramaut na Doani 7 Kilo</g:title>
+      <g:description>Pulot na Sidr ng Hadhramaut na Doani 7 Kilo</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-na-sidr-ng-hadhramaut-na-doani-7-kilo/p1750448135?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/DSCOR7067o8zBnh2A6zQW0j8yZOsIgvXJ9PGaeSz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2100.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011222005</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:mpn>zvvNnbx</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
       <guid isPermaLink="false">1758124226</guid>
       <g:id>1758124226</g:id>
       <g:title>Dalawang Pakete ng Katutubong Samn ng Tupa, 680 Gramo</g:title>
@@ -1325,6 +1340,22 @@
       <g:item_group_id>0081002004</g:item_group_id>
       <g:shipping_weight>4.0 kg</g:shipping_weight>
     <g:mpn>XeEBrQd</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>فواكه مجففة</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1190839815</guid>
+      <g:id>1190839815</g:id>
+      <g:title>1 Kilo ng Pulot na Sidr ng Bundok + 1 Kilo ng Pulot ng Ligaw na Bulaklak + 1 Kilo ng Premium na Pulot na Talh (Libreng Pagpapadala)</g:title>
+      <g:description>1 Kilo ng Pulot na Sidr ng Bundok + 1 Kilo ng Pulot ng Ligaw na Bulaklak + 1 Kilo ng Premium na Pulot na Talh (Libreng Pagpapadala)</g:description>
+      <g:link>https://asalaljebal.sa/tl/1-kilo-ng-pulot-na-sidr-ng-bundok-1-kilo-ng-pulot-ng-ligaw-na-bulaklak-1-kilo-ng/p1190839815?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0uBQIWRApBR0GUA87MKLlxyP3dxcxdAhTqirE90g.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1090.00 SAR</g:price>
+      <g:sale_price>695.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101033</g:item_group_id>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    <g:mpn>rAAZBEd</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1170804255</guid>
       <g:id>1170804255</g:id>
