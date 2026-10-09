@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:47:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">765679051</guid>
+      <g:id>765679051</g:id>
+      <g:title>عریش شاہی مکسچر (500 گرام پیک)</g:title>
+      <g:description>عریش شاہی مکسچر (500 گرام پیک)</g:description>
+      <g:link>https://areesh.sa/ur/500/p765679051?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Z1ABM5RCxcWQqYXPQSWdgO8291kSASmn8nyQVFhN.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/irWb4WEsJ9or9qbAAYcN3HO46Kbalr0H9EWrsKE1.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/MFDl8ZIKYtEx6xAzQ1MnFA5PZHxGx4S48686lJ9F.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/TymjdoDSTEWajtTUJczOjQ94fEc5BxyYJ6O23SVK.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>199.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>014001001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>خلطات العسل</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1927503162</guid>
       <g:id>1927503162</g:id>
@@ -1080,24 +1098,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">765679051</guid>
-      <g:id>765679051</g:id>
-      <g:title>عریش شاہی مکسچر (500 گرام پیک)</g:title>
-      <g:description>عریش شاہی مکسچر (500 گرام پیک)</g:description>
-      <g:link>https://areesh.sa/ur/500/p765679051?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Z1ABM5RCxcWQqYXPQSWdgO8291kSASmn8nyQVFhN.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/irWb4WEsJ9or9qbAAYcN3HO46Kbalr0H9EWrsKE1.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/MFDl8ZIKYtEx6xAzQ1MnFA5PZHxGx4S48686lJ9F.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/TymjdoDSTEWajtTUJczOjQ94fEc5BxyYJ6O23SVK.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>199.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>014001001</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>خلطات العسل</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">115482841</guid>
       <g:id>115482841</g:id>
