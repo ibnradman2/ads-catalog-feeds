@@ -611,7 +611,7 @@ def main():
                 print(f"[{store}] {platform}-en: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
                 continue
             if platform == "meta":   # ميتا: ملف لغة (override) فيه المعرّف والنص والرابط وحدها، بلا سعر ولا توفر (شرط ميتا)
-                xml_en = _meta_language_override(xml_en, "en")
+                xml_en = _meta_language_override(xml_en, "en_XX")
             name = f"{store}-{idx+1}-{platform}-en.xml"
             if not kept:
                 print(f"[{store}] {platform}-en منتجات 0 · مستبعد {len(excluded)} · بلا ملف")
