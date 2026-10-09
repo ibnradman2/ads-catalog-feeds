@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 09 Oct 2026 14:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:04:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">162134594</guid>
+      <g:id>162134594</g:id>
+      <g:title>Pulot ng Qatad (500 gramo)</g:title>
+      <g:description>Pulot ng Qatad (500 gramo)</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-qatad-500-gramo/p162134594?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/80c175ee-7405-421c-86e4-4ae9caf1116b-500x500-JKK4lgecrKodTq7uXH8yRHfpx32EFuov2XuWBy4i.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>01088502</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:mpn>KRBqVeb</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1517848832</guid>
       <g:id>1517848832</g:id>
@@ -25,36 +40,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>lvrQgAD</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>2.5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">162134594</guid>
-      <g:id>162134594</g:id>
-      <g:title>Pulot ng Qatad (500 gramo)</g:title>
-      <g:description>Pulot ng Qatad (500 gramo)</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-qatad-500-gramo/p162134594?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/80c175ee-7405-421c-86e4-4ae9caf1116b-500x500-JKK4lgecrKodTq7uXH8yRHfpx32EFuov2XuWBy4i.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>220.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>01088502</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>KRBqVeb</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">653909050</guid>
-      <g:id>653909050</g:id>
-      <g:title>Pulot-pukyutan ng Samra na Tinik 500 Gramo</g:title>
-      <g:description>Pulot-pukyutan ng Samra na Tinik 500 Gramo</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-pukyutan-ng-samra-na-tinik-500-gramo/p653909050?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/KOjGYpmC91GSMMg24nb2qN9BYHFZYD2lYr1JHlmf.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>200.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031009002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>lvpaBjn</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">473047885</guid>
       <g:id>473047885</g:id>
       <g:title>Giniling na Indian Qust (150 gramo)</g:title>
@@ -70,6 +55,21 @@
       <g:item_group_id>0091005</g:item_group_id>
       <g:shipping_weight>0.15 kg</g:shipping_weight>
     <g:mpn>yKzKRWq</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>150g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">653909050</guid>
+      <g:id>653909050</g:id>
+      <g:title>Pulot-pukyutan ng Samra na Tinik 500 Gramo</g:title>
+      <g:description>Pulot-pukyutan ng Samra na Tinik 500 Gramo</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-pukyutan-ng-samra-na-tinik-500-gramo/p653909050?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/KOjGYpmC91GSMMg24nb2qN9BYHFZYD2lYr1JHlmf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>200.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031009002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:mpn>lvpaBjn</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1281597213</guid>
       <g:id>1281597213</g:id>
