@@ -4,10 +4,24 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:47:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 20:47:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1303550999</guid>
+      <g:id>1303550999</g:id>
+      <g:title>پہاڑی سدر شہد کا چھتہ 500 گرام</g:title>
+      <g:description>پہاڑی سدر شہد کا چھتہ 500 گرام</g:description>
+      <g:link>https://areesh.sa/ur/500/p1303550999?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/MSnHM5i8k2tNPKlX2zQnxMhL4oBtSbdEZdhOKwxn.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">765679051</guid>
       <g:id>765679051</g:id>
@@ -389,20 +403,6 @@
       <g:item_group_id>0041006010</g:item_group_id>
       <g:shipping_weight>10.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">1303550999</guid>
-      <g:id>1303550999</g:id>
-      <g:title>پہاڑی سدر شہد کا چھتہ 500 گرام</g:title>
-      <g:description>پہاڑی سدر شہد کا چھتہ 500 گرام</g:description>
-      <g:link>https://areesh.sa/ur/500/p1303550999?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/MSnHM5i8k2tNPKlX2zQnxMhL4oBtSbdEZdhOKwxn.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>220.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">26663992</guid>
       <g:id>26663992</g:id>
