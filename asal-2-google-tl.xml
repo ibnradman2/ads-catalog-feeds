@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:10:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -18,11 +18,10 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/pH1EMCxmwr1VeUbm5IIOiQmQ6gIXVzXOobMN1ePL.png</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/5z47kzkPgJ16ggiwnWYlk9eYZOpdGwZEnyvwe15l.png</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/9EvKP5BBB97jPaARPwDdKQotZPZEZNNCtWhfDUkd.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Sxph0b97qHktLWARoMqtx0QX09qnOGVBCOch93dd.png</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/GXg3JwHQYAgC1jt4yLwICuhqSfzzOwVT3sQw5K2q.png</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>210.00 SAR</g:price>
-      <g:sale_price>169.00 SAR</g:sale_price>
+      <g:sale_price>179.00 SAR</g:sale_price>
       <g:brand>Asal Aljebal</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
