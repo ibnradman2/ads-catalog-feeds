@@ -4,10 +4,70 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 10 Oct 2026 04:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:05:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1843875892</guid>
+      <g:id>1843875892</g:id>
+      <g:title>देसी जंगली फूलों का मोम वाला शहद, एक बर्तन</g:title>
+      <g:description>देसी जंगली फूलों का मोम वाला शहद, एक बर्तन</g:description>
+      <g:link>https://hayala.co/hi/product/p1843875892?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/otH9XEQuZzDdxmWYpPXy469BO89hL0wE1tDX67g6.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/KewZ6Y5ktKZBWqC2csSJ9UaGTBG4cxYTqPM5nfdi.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1000.00 SAR</g:price>
+      <g:sale_price>399.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">656732927</guid>
+      <g:id>656732927</g:id>
+      <g:title>ज़कर हौजरी लोबान (50 ग्राम)</g:title>
+      <g:description>ज़कर हौजरी लोबान (50 ग्राम)</g:description>
+      <g:link>https://hayala.co/hi/50/p656732927?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Ef5u57IlxyTfwhblGX9FrfHu5Wb61mkw64VfdMuK.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.05 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1376854197</guid>
+      <g:id>1376854197</g:id>
+      <g:title>गिफ़्ट बॉक्स - सुपर नक़ील केसर की उक़िया 50 ग्राम</g:title>
+      <g:description>गिफ़्ट बॉक्स - सुपर नक़ील केसर की उक़िया 50 ग्राम</g:description>
+      <g:link>https://hayala.co/hi/50/p1376854197?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/qDdNN1yfWiccKKZziMFQiHSzx4YfVCC4GZT8Jmly.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/JAqglFpvJLdXBNRMI5XGg0ABovo1f30bY7EKaoBW.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>970.00 SAR</g:price>
+      <g:sale_price>499.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.05 kg</g:shipping_weight>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1071630418</guid>
+      <g:id>1071630418</g:id>
+      <g:title>हिमालयन गुलाबी नमक (450 ग्राम)</g:title>
+      <g:description>हिमालयन गुलाबी नमक (450 ग्राम)</g:description>
+      <g:link>https://hayala.co/hi/450/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.45 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">999818845</guid>
       <g:id>999818845</g:id>
@@ -107,20 +167,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">656732927</guid>
-      <g:id>656732927</g:id>
-      <g:title>ज़कर हौजरी लोबान (50 ग्राम)</g:title>
-      <g:description>ज़कर हौजरी लोबान (50 ग्राम)</g:description>
-      <g:link>https://hayala.co/hi/50/p656732927?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Ef5u57IlxyTfwhblGX9FrfHu5Wb61mkw64VfdMuK.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>25.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.05 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1126381181</guid>
       <g:id>1126381181</g:id>
       <g:title>पिसी हुई मोरिंगा (500 ग्राम)</g:title>
@@ -180,22 +226,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1843875892</guid>
-      <g:id>1843875892</g:id>
-      <g:title>देसी जंगली फूलों का मोम वाला शहद, एक बर्तन</g:title>
-      <g:description>देसी जंगली फूलों का मोम वाला शहद, एक बर्तन</g:description>
-      <g:link>https://hayala.co/hi/product/p1843875892?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/otH9XEQuZzDdxmWYpPXy469BO89hL0wE1tDX67g6.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/KewZ6Y5ktKZBWqC2csSJ9UaGTBG4cxYTqPM5nfdi.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1000.00 SAR</g:price>
-      <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2038336306</guid>
       <g:id>2038336306</g:id>
@@ -2034,20 +2064,6 @@
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1071630418</guid>
-      <g:id>1071630418</g:id>
-      <g:title>हिमालयन गुलाबी नमक (450 ग्राम)</g:title>
-      <g:description>हिमालयन गुलाबी नमक (450 ग्राम)</g:description>
-      <g:link>https://hayala.co/hi/450/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>9.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.45 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1959531644</guid>
       <g:id>1959531644</g:id>
       <g:title>पिसी मीठी मिर्च (पपरिका) 500 ग्राम</g:title>
@@ -2117,22 +2133,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>بهارات وأعشاب</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1376854197</guid>
-      <g:id>1376854197</g:id>
-      <g:title>गिफ़्ट बॉक्स - सुपर नक़ील केसर की उक़िया 50 ग्राम</g:title>
-      <g:description>गिफ़्ट बॉक्स - सुपर नक़ील केसर की उक़िया 50 ग्राम</g:description>
-      <g:link>https://hayala.co/hi/50/p1376854197?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/qDdNN1yfWiccKKZziMFQiHSzx4YfVCC4GZT8Jmly.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/JAqglFpvJLdXBNRMI5XGg0ABovo1f30bY7EKaoBW.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>970.00 SAR</g:price>
-      <g:sale_price>499.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.05 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">357854595</guid>
       <g:id>357854595</g:id>
