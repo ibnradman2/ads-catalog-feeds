@@ -4,10 +4,24 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:10:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1033561560</guid>
+      <g:id>1033561560</g:id>
+      <g:title>ہرری باشنفر کافی 2 کلو - بن الخیر ایتھوپیا، درجہ اول، برائے عربی قہوہ</g:title>
+      <g:description>ہرری باشنفر کافی 2 کلو - بن الخیر ایتھوپیا، درجہ اول، برائے عربی قہوہ</g:description>
+      <g:link>https://hayala.co/ur/2/p1033561560?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/obkLBi6BEVbBGzB8gyxF2ah9WPHg0omBEwMPbwb6.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>بن وقهوة</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1843875892</guid>
       <g:id>1843875892</g:id>
@@ -1048,20 +1062,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>433</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مكسرات وبذور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1033561560</guid>
-      <g:id>1033561560</g:id>
-      <g:title>ہرری باشنفر کافی 2 کلو - بن الخیر ایتھوپیا، درجہ اول، برائے عربی قہوہ</g:title>
-      <g:description>ہرری باشنفر کافی 2 کلو - بن الخیر ایتھوپیا، درجہ اول، برائے عربی قہوہ</g:description>
-      <g:link>https://hayala.co/ur/2/p1033561560?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/obkLBi6BEVbBGzB8gyxF2ah9WPHg0omBEwMPbwb6.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>120.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>بن وقهوة</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">222295925</guid>
       <g:id>222295925</g:id>
