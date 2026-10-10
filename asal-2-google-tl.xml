@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:06:34 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -437,7 +437,7 @@
       <g:description>Kahon ng Datiles na Khalas ng Qassim, 8 Kilo</g:description>
       <g:link>https://asalaljebal.sa/tl/kahon-ng-datiles-na-khalas-ng-qassim-8-kilo/p34055028?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
       <g:sale_price>99.00 SAR</g:sale_price>
       <g:brand>Asal Aljebal</g:brand>
