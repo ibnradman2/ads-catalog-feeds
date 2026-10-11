@@ -4,10 +4,1585 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 10:48:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:48:18 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1500398965</guid>
+      <g:id>1500398965</g:id>
+      <g:title>茴芹蜂蜜 5公斤桶装 批发价</g:title>
+      <g:description>茴芹蜂蜜 5公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p1500398965?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/uiNrdH41QAYRzQCFuZng9Fo9aE4aSi0cHL11akGK.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>900.00 SAR</g:price>
+      <g:sale_price>795.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049005</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">35110238</guid>
+      <g:id>35110238</g:id>
+      <g:title>正宗黑森林蜂蜜 2公斤</g:title>
+      <g:description>正宗黑森林蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p35110238?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/s5za3IZ79Thj0yHzKdb5zRRpkB4m5PRTzFNrMOna.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>276.00 SAR</g:price>
+      <g:sale_price>252.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1080100078</guid>
+      <g:id>1080100078</g:id>
+      <g:title>组合优惠：半公斤天然西德尔蜂蜜 + 半公斤匈牙利白蜜（Mardisia）+ 半公斤黑森林蜂蜜（包邮）</g:title>
+      <g:description>组合优惠：半公斤天然西德尔蜂蜜 + 半公斤匈牙利白蜜（Mardisia）+ 半公斤黑森林蜂蜜（包邮）</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia/p1080100078?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/4oF9aFZomwhRWjkP098wz7qAxsWMEqQwsmkDJ4Od.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>457.00 SAR</g:price>
+      <g:sale_price>330.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101012</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">486057126</guid>
+      <g:id>486057126</g:id>
+      <g:title>三叶草花蜂蜜 1公斤</g:title>
+      <g:description>三叶草花蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p486057126?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FbfBY6utAcecxkvmwRMrOJYUOI8aWJseeFfUCXNx.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">661149787</guid>
+      <g:id>661149787</g:id>
+      <g:title>三叶草蜂蜜 7公斤桶装 批发价</g:title>
+      <g:description>三叶草蜂蜜 7公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p661149787?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/YStwkxotwRT5YsPqXTcurEjrdSvfGP9kd0QmdEns.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>803.00 SAR</g:price>
+      <g:sale_price>631.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003006</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">625331805</guid>
+      <g:id>625331805</g:id>
+      <g:title>克什米尔西德尔蜂蜜（600克）</g:title>
+      <g:description>克什米尔西德尔蜂蜜（600克）</g:description>
+      <g:link>https://asalaljebal.sa/zh/600/p625331805?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Ubkvwyx6Io0aD5xHs7egMddnWHVGGoLiO4h7NzPJ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006008</g:item_group_id>
+      <g:shipping_weight>0.6 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>600g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2024213782</guid>
+      <g:id>2024213782</g:id>
+      <g:title>洋槐蜂蜜 2公斤</g:title>
+      <g:description>洋槐蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p2024213782?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VGaqoM6aHOf8BvEsltxmms9iFwzJ1DeVzcV2aZII.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">220790277</guid>
+      <g:id>220790277</g:id>
+      <g:title>洋槐蜂蜜 500克</g:title>
+      <g:description>洋槐蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p220790277?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BomsIw7Nk7as27ZChU3A3YG0UF3kCxzQr1CXYWUO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>95.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1152618316</guid>
+      <g:id>1152618316</g:id>
+      <g:title>高级萨姆拉刺树蜂蜜 500克</g:title>
+      <g:description>高级萨姆拉刺树蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1152618316?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/clrNlh5pc0i2wHG1QBnmISONJ4qvzySo7kTEgpmc.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1792368707</guid>
+      <g:id>1792368707</g:id>
+      <g:title>高级萨姆拉刺树蜂蜜 1公斤</g:title>
+      <g:description>高级萨姆拉刺树蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1792368707?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/iT1UjEKqoDTHU4xO8GZ7KLt4qhZikgWxaj258aZM.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2125447012</guid>
+      <g:id>2125447012</g:id>
+      <g:title>洋槐蜂蜜 5公斤桶装 批发价</g:title>
+      <g:description>洋槐蜂蜜 5公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p2125447012?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0L9ldvtKMBZrUKkQcbzKdYw6HeaUeZotnsxX0dww.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>900.00 SAR</g:price>
+      <g:sale_price>800.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1497729139</guid>
+      <g:id>1497729139</g:id>
+      <g:title>洋槐蜂蜜 10公斤桶装 批发价</g:title>
+      <g:description>洋槐蜂蜜 10公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p1497729139?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ywoHyTSPtVwraTAGmTj5JAgd5RoAxLlgZiQx1Azo.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1800.00 SAR</g:price>
+      <g:sale_price>1200.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035006</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">696442397</guid>
+      <g:id>696442397</g:id>
+      <g:title>蜂胶粉 15克</g:title>
+      <g:description>蜂胶粉 15克</g:description>
+      <g:link>https://asalaljebal.sa/zh/15/p696442397?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/9dWDM4f6YflS5FrcIdkyB8eDIXIYUgfmMR0cw4vS.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/TIBRKiS3sBmvu5PHZ40H7StjRjmWm2d3NUQsA1ub.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/c69cCC15wTiHX6dI1GG57F7m5qMD3t4QQeOvHgPM.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/wKBXWyHXuPDHSMxFOORpQ9VSObE95WaKw6pkzhoF.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>10050001</g:item_group_id>
+      <g:shipping_weight>0.15 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2070936862</guid>
+      <g:id>2070936862</g:id>
+      <g:title>椰枣花粉 15克</g:title>
+      <g:description>椰枣花粉 15克</g:description>
+      <g:link>https://asalaljebal.sa/zh/15/p2070936862?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/t6kZS9JEE0DGVug4FoClTbwKmnuIv84HFKeCSMYF.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>10020001</g:item_group_id>
+      <g:shipping_weight>0.15 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1870910750</guid>
+      <g:id>1870910750</g:id>
+      <g:title>黑葡萄干1公斤 + 天然西德尔蜂蜜600克</g:title>
+      <g:description>黑葡萄干1公斤 + 天然西德尔蜂蜜600克</g:description>
+      <g:link>https://asalaljebal.sa/zh/1-600/p1870910750?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/yEhp2ShQ2Hqmv7ayQAeP8Llhc8bzhb83lf1hHJiz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:sale_price>98.99 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081002001</g:item_group_id>
+      <g:shipping_weight>1.6 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1327702593</guid>
+      <g:id>1327702593</g:id>
+      <g:title>高级萨姆拉刺树蜂蜜 5公斤桶装 批发价</g:title>
+      <g:description>高级萨姆拉刺树蜂蜜 5公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p1327702593?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ECEFUvIoeaj499Wfk1vvPmtsAfTDPpdIX2YY1OUQ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1721.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1429478431</guid>
+      <g:id>1429478431</g:id>
+      <g:title>本地羊酥油 680克</g:title>
+      <g:description>本地羊酥油 680克</g:description>
+      <g:link>https://asalaljebal.sa/zh/680/p1429478431?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LaAiZVx0kFiB8BXJtkmSVVhJhdN0iQirX7nr1Z3S.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>148.06 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0091001</g:item_group_id>
+      <g:shipping_weight>0.68 kg</g:shipping_weight>
+    <g:google_product_category>5827</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>酥油</g:custom_label_3><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1695821747</guid>
+      <g:id>1695821747</g:id>
+      <g:title>辣木蜂蜜 250克</g:title>
+      <g:description>辣木蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1695821747?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LZoLxvSe4p9XV64LBCwWXDlyFhdLhJSdgdiEfiRM.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>65.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1590017383</guid>
+      <g:id>1590017383</g:id>
+      <g:title>山地西德尔蜂巢蜜 1公斤</g:title>
+      <g:description>山地西德尔蜂巢蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1590017383?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/4VShuAa32u0STWzJk4fiUSiLZTUQEoBavSYJGL6H.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>390.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>003-10015002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">402261162</guid>
+      <g:id>402261162</g:id>
+      <g:title>辣木蜂蜜 500克</g:title>
+      <g:description>辣木蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p402261162?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/paqQaTgIgyWUKy5TbbztSfCyNbBCQHifR9WJzrbR.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">595190855</guid>
+      <g:id>595190855</g:id>
+      <g:title>顶级萨姆拉刺蜂蜜 10公斤桶装 批发价</g:title>
+      <g:description>顶级萨姆拉刺蜂蜜 10公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p595190855?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/DfyoC5yhzg1Ff946Eh4HYcwidi2itRnYBiSG3WbE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3441.00 SAR</g:price>
+      <g:sale_price>2294.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091007</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1895717401</guid>
+      <g:id>1895717401</g:id>
+      <g:title>蜂花粉（花粉粒）30克</g:title>
+      <g:description>蜂花粉（花粉粒）30克</g:description>
+      <g:link>https://asalaljebal.sa/zh/30/p1895717401?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/zUc1AK3gziL2CPIKI8qW81ZwKueXiGAKtQrt9xV3.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007</g:item_group_id>
+      <g:shipping_weight>0.3 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">802419986</guid>
+      <g:id>802419986</g:id>
+      <g:title>大麦粉（先知式大麦粥 Talbina）500克</g:title>
+      <g:description>大麦粉（先知式大麦粥 Talbina）500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/talbina-500/p802419986?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/TcEtQwnLzIeix7Tsave57btzeJHARzBCY6ieOdOj.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>13.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>03030334</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>面粉</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1369228614</guid>
+      <g:id>1369228614</g:id>
+      <g:title>萨姆拉刺蜂蜜巢蜜 1公斤</g:title>
+      <g:description>萨姆拉刺蜂蜜巢蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1369228614?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/na0d1a8fJdIIBbQ2zLqU26oa1PBT1orFiey6MDRi.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031009001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">650316978</guid>
+      <g:id>650316978</g:id>
+      <g:title>辣木蜂蜜 1公斤</g:title>
+      <g:description>辣木蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p650316978?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/cJ5mT62n8Msax9UgnSe9uog7dPezNrc1yj6viRMS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>230.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1121679642</guid>
+      <g:id>1121679642</g:id>
+      <g:title>韩国人参 15克</g:title>
+      <g:description>韩国人参 15克</g:description>
+      <g:link>https://asalaljebal.sa/zh/15/p1121679642?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/DMNrAswj8b3v5rn62lgcmMpqTkuym9XBmSzAsZj4.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>10010001</g:item_group_id>
+      <g:shipping_weight>0.15 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1517173604</guid>
+      <g:id>1517173604</g:id>
+      <g:title>大麦粉（先知式大麦粥）250克</g:title>
+      <g:description>大麦粉（先知式大麦粥）250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1517173604?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0GQhJjrBzM7aM7ynhUj39a2TGre7QcOqxybW03Zm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>03030335</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>面粉</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">453091196</guid>
+      <g:id>453091196</g:id>
+      <g:title>匈牙利白蜜（Mardisia）500克</g:title>
+      <g:description>匈牙利白蜜（Mardisia）500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia-500/p453091196?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/grvyAaElUebjlzYYMJs4hLGXOnS8pMsHsKy3o97a.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041012001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">480352283</guid>
+      <g:id>480352283</g:id>
+      <g:title>中国蜂王浆 15克</g:title>
+      <g:description>中国蜂王浆 15克</g:description>
+      <g:link>https://asalaljebal.sa/zh/15/p480352283?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/U5TC5X2vvywkk88ePGvQCH4XcohfACtFYIFhcFdH.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061003</g:item_group_id>
+      <g:shipping_weight>0.15 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1123362063</guid>
+      <g:id>1123362063</g:id>
+      <g:title>整粒黑种草籽 500克</g:title>
+      <g:description>整粒黑种草籽 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1123362063?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/p8cG6zwtBwXVoH7P3eiZPAT59IENtl7JE9pmLPA1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006-10015002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1257152391</guid>
+      <g:id>1257152391</g:id>
+      <g:title>5公斤桶装辣木蜂蜜 批发价</g:title>
+      <g:description>5公斤桶装辣木蜂蜜 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p1257152391?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/lqtj43x6i9IrhC8MEyrCapOrwmk2O923pIu11xnf.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1150.00 SAR</g:price>
+      <g:sale_price>990.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1849198782</guid>
+      <g:id>1849198782</g:id>
+      <g:title>辣木蜂蜜 2公斤</g:title>
+      <g:description>辣木蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1849198782?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/zqtjBQDohoRtAyIvSJ0vpMdbsFxvh46S2EofH13u.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>450.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1314226407</guid>
+      <g:id>1314226407</g:id>
+      <g:title>约旦蜜蜂花粉 250克</g:title>
+      <g:description>约旦蜜蜂花粉 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1314226407?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001007003</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1854842724</guid>
+      <g:id>1854842724</g:id>
+      <g:title>埃及蜂王浆 10克</g:title>
+      <g:description>埃及蜂王浆 10克</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p1854842724?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5TwcPNte3twR6YVb33KhFcwn5X81iMuv6so7vLYT.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061008</g:item_group_id>
+      <g:shipping_weight>0.11 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>10g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">313018985</guid>
+      <g:id>313018985</g:id>
+      <g:title>哈伊勒塔勒赫蜂蜜 1公斤</g:title>
+      <g:description>哈伊勒塔勒赫蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p313018985?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/JNRQAkdSmy1umGcMswQiB7SnCqNnA6lThxH4Lhza.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>574.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021010002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">24757641</guid>
+      <g:id>24757641</g:id>
+      <g:title>10公斤桶装辣木蜂蜜 批发价</g:title>
+      <g:description>10公斤桶装辣木蜂蜜 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p24757641?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/AxyF7Hmhkiu331w61cwNzphJKpuK1Su7DpcXyvm0.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2300.00 SAR</g:price>
+      <g:sale_price>1610.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034006</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1605830592</guid>
+      <g:id>1605830592</g:id>
+      <g:title>大麦粉（先知式大麦粥 Talbina）1公斤</g:title>
+      <g:description>大麦粉（先知式大麦粥 Talbina）1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/talbina-1/p1605830592?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/R7SdGJ2ILb7UbQD0pf1sTKNAENHr4m74YVd7IH2t.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>030303033</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>面粉</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">946587237</guid>
+      <g:id>946587237</g:id>
+      <g:title>也门黑葡萄干 1公斤</g:title>
+      <g:description>也门黑葡萄干 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p946587237?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/gYI3aRhGxvOwr7mcAh6ZyQdznrpFOHGLrqG4U7Rh.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>008100201</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>干果</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1086532456</guid>
+      <g:id>1086532456</g:id>
+      <g:title>顶级塔勒赫蜂蜜 250克</g:title>
+      <g:description>顶级塔勒赫蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1086532456?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5a4uygUDnooo7GIHHeAA3eMIr76xG4R9q0HyNl6W.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">272226114</guid>
+      <g:id>272226114</g:id>
+      <g:title>马郁兰蜂蜜 250克</g:title>
+      <g:description>马郁兰蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p272226114?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/KlVNEsiNnCt22pMIM5ePQ5IfS2RY0UC72gwgnFTs.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041018001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1679623271</guid>
+      <g:id>1679623271</g:id>
+      <g:title>也门红葡萄干 1公斤</g:title>
+      <g:description>也门红葡萄干 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1679623271?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/x5pkmwIrF0SHKVpDI42XrAsjyYlrEb4m1o7addlN.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>008100101</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>干果</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1883389928</guid>
+      <g:id>1883389928</g:id>
+      <g:title>马郁兰蜂蜜 10公斤桶装批发价</g:title>
+      <g:description>马郁兰蜂蜜 10公斤桶装批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p1883389928?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/HtepJE9QaVRB6ZUgNDmjZMxBoKSBZFoJt02nnZmO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1800.00 SAR</g:price>
+      <g:sale_price>1400.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041018006</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">690835588</guid>
+      <g:id>690835588</g:id>
+      <g:title>整粒黑种草籽 250克</g:title>
+      <g:description>整粒黑种草籽 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p690835588?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ZnwiuqKnaqhfMFWGcCrZURNYmSLKooxragFlu3ld.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006-10015001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1528377487</guid>
+      <g:id>1528377487</g:id>
+      <g:title>马郁兰蜂蜜 5公斤桶装批发价</g:title>
+      <g:description>马郁兰蜂蜜 5公斤桶装批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p1528377487?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5eRhFugwXMOAR1bNjdInyKr3rcliJsszvCQegfM6.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>900.00 SAR</g:price>
+      <g:sale_price>795.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041018005</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">622456174</guid>
+      <g:id>622456174</g:id>
+      <g:title>特级塔勒蜂蜜 1公斤</g:title>
+      <g:description>特级塔勒蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p622456174?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>402.01 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1620894175</guid>
+      <g:id>1620894175</g:id>
+      <g:title>马郁兰蜂蜜 500克</g:title>
+      <g:description>马郁兰蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1620894175?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/hvrmnXKZGN37xxftiJfacAUvdI6MKeM30DbLX7Y9.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>95.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041018002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">250040053</guid>
+      <g:id>250040053</g:id>
+      <g:title>整粒黑种草籽 1公斤</g:title>
+      <g:description>整粒黑种草籽 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p250040053?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/urv1wnENS9JL1jcCvZzV8pKInhEbHUF3mpgUOzrP.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006-10015003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">838476640</guid>
+      <g:id>838476640</g:id>
+      <g:title>也门红葡萄干 500克</g:title>
+      <g:description>也门红葡萄干 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p838476640?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5ToNK4YUsyJUGVOMdad3zHL3glQv3aibFycWNoaa.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>92.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>008100102</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>干果</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1725149288</guid>
+      <g:id>1725149288</g:id>
+      <g:title>马郁兰蜂蜜 1公斤</g:title>
+      <g:description>马郁兰蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1725149288?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/YyiUGTjIChleaWrXXZfw9C92W7jjg0XL144PAZaG.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>180.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041018003</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1819634026</guid>
+      <g:id>1819634026</g:id>
+      <g:title>哈伊勒塔勒赫蜂蜜 500克</g:title>
+      <g:description>哈伊勒塔勒赫蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1819634026?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/2kSpTIfJmnpTHuH1Qsnsx1c0sy4gqmvOMCNwwaiR.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>287.01 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021010001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">640611244</guid>
+      <g:id>640611244</g:id>
+      <g:title>马郁兰蜂蜜 2公斤</g:title>
+      <g:description>马郁兰蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p640611244?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/4IaExBjVjIefqKBgFMRZeDVo50rSwCjGyVwNY15I.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041018004</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">525279123</guid>
+      <g:id>525279123</g:id>
+      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 1公斤</g:title>
+      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p525279123?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/mOCCjNJDcBJOdVegRp8uJzH5ZprK0vAMekIzWbOv.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2101740352</guid>
+      <g:id>2101740352</g:id>
+      <g:title>顶级萨姆拉刺蜂蜜 7公斤桶装 批发价</g:title>
+      <g:description>顶级萨姆拉刺蜂蜜 7公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p2101740352?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/dz5RpFDNlzutRyUYGMdOUrm8BAI1xpqCikMN13qn.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2409.00 SAR</g:price>
+      <g:sale_price>1835.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091006</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1571578210</guid>
+      <g:id>1571578210</g:id>
+      <g:title>特级塔勒蜂蜜 7公斤桶装 批发价</g:title>
+      <g:description>特级塔勒蜂蜜 7公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p1571578210?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/7Q2iWSTsxNbCX4AhQFrVXIhv6HzRY6rVwCpsrRma.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2814.00 SAR</g:price>
+      <g:sale_price>2409.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029006</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">419971394</guid>
+      <g:id>419971394</g:id>
+      <g:title>高级萨姆拉刺树蜂蜜 2公斤</g:title>
+      <g:description>高级萨姆拉刺树蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p419971394?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/82NHLS2xjp3hk6MXxyZYldcsiDXImjqsg8lTyYsG.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>688.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2144594011</guid>
+      <g:id>2144594011</g:id>
+      <g:title>洋茴香蜂蜜 250克</g:title>
+      <g:description>洋茴香蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p2144594011?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/G0u3Zy19mPdLLbgsVJqTvrkHHALJKdHuToalZT45.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">565752464</guid>
+      <g:id>565752464</g:id>
+      <g:title>白沙瓦西德尔蜂蜜 7公斤桶装 批发价</g:title>
+      <g:description>白沙瓦西德尔蜂蜜 7公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p565752464?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VDKNugvPrHdXxXmHRyjAnKnRImUWFM4YmwzLMSUl.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Miaghrh1vgVLImknwz8QpkWDLh8DS1MYu3POoHPw.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>835.00 SAR</g:price>
+      <g:sale_price>599.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007006</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1191377337</guid>
+      <g:id>1191377337</g:id>
+      <g:title>皇家阿西米西德尔蜂蜜10公斤桶装，批发价</g:title>
+      <g:description>皇家阿西米西德尔蜂蜜10公斤桶装，批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p1191377337?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ELOq8UCB1I2tRzhD4WQd4WCvpEDQlFnzeg48rAXl.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>6883.00 SAR</g:price>
+      <g:sale_price>4818.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024007</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">284104890</guid>
+      <g:id>284104890</g:id>
+      <g:title>皇家阿西米西德尔蜂蜜7公斤桶装，批发价</g:title>
+      <g:description>皇家阿西米西德尔蜂蜜7公斤桶装，批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p284104890?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BvoUCpZYSlpI2hcMmoREQWoGUaqvzIfHByAOv8sY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4818.01 SAR</g:price>
+      <g:sale_price>4015.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024006</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">715471592</guid>
+      <g:id>715471592</g:id>
+      <g:title>洋茴香蜂蜜 500克</g:title>
+      <g:description>洋茴香蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p715471592?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/CurSLYDM4AiL9GbAguKdUtJSyQC4g4LCxLXWNB2P.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>95.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">843246671</guid>
+      <g:id>843246671</g:id>
+      <g:title>南部或哈德拉毛野花蜂蜜 10公斤桶装 批发价</g:title>
+      <g:description>南部或哈德拉毛野花蜂蜜 10公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p843246671?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/95l2SMIpPPD4uqNasrk7GIiUYJwdD1PK8fJlQlth.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2294.00 SAR</g:price>
+      <g:sale_price>1377.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002007</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">204409672</guid>
+      <g:id>204409672</g:id>
+      <g:title>南部或哈德拉毛野花蜂蜜 7公斤桶装 批发价</g:title>
+      <g:description>南部或哈德拉毛野花蜂蜜 7公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p204409672?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/L1UgKrxMrObiA7f2uwm5lt8zMtWAwHGVv6f4hhQC.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1606.00 SAR</g:price>
+      <g:sale_price>1205.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002006</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1212649180</guid>
+      <g:id>1212649180</g:id>
+      <g:title>洋茴香蜂蜜 1公斤</g:title>
+      <g:description>洋茴香蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1212649180?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/TJJiNF8dJhJ7JJDvs2tScM2tbgbnWf2wf9q7fVI0.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>180.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1798147214</guid>
+      <g:id>1798147214</g:id>
+      <g:title>山区西德尔蜂蜜 500克</g:title>
+      <g:description>山区西德尔蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1798147214?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LMcQQKerpXtDMQuDZEYcZ0KtPzhv9bAnVzw2n8R3.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>258.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021009</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1017059861</guid>
+      <g:id>1017059861</g:id>
+      <g:title>套装：1公斤黑种草蜂蜜 + 1公斤三叶草花蜂蜜（免运费）</g:title>
+      <g:description>套装：1公斤黑种草蜂蜜 + 1公斤三叶草花蜂蜜（免运费）</g:description>
+      <g:link>https://asalaljebal.sa/zh/1-1/p1017059861?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/uVpQmN8mb8fAqldr01pXGwxvhI89OvQ0jtOcLDCT.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101010</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1374413185</guid>
+      <g:id>1374413185</g:id>
+      <g:title>山地西德尔蜂蜜10公斤桶装，批发价</g:title>
+      <g:description>山地西德尔蜂蜜10公斤桶装，批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p1374413185?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/6NVtVzahntKIK9m024xB4VUqTOrir5jYucQVN6rU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4588.99 SAR</g:price>
+      <g:sale_price>3441.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021014</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1293030213</guid>
+      <g:id>1293030213</g:id>
+      <g:title>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）</g:title>
+      <g:description>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1293030213?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PWaiFy3Ln8sxgn7hL3QCJAPTGblqz5OOLvabAgCX.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/nZcjXaBOu2tjeanR2tFaHg8GMHdpsmiQnmcLi1F9.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>489.00 SAR</g:price>
+      <g:sale_price>397.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101057</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1735868163</guid>
+      <g:id>1735868163</g:id>
+      <g:title>茴芹蜂蜜 2公斤</g:title>
+      <g:description>茴芹蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1735868163?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/trawHAL7jgRgoz9ZGD0xGd6u8RErpgeG8LcmjZ0f.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049004</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">424111501</guid>
+      <g:id>424111501</g:id>
+      <g:title>山区西德尔蜂蜜 1公斤</g:title>
+      <g:description>山区西德尔蜂蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p424111501?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5131hrBlqkuwvXS0krmoaUB9AxlJCah4w0K3etOX.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>459.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021010</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">534917756</guid>
+      <g:id>534917756</g:id>
+      <g:title>黄金套装（Shawka蜂蜜 - 塔勒蜂蜜 - 森林蜂蜜）（免运费）</g:title>
+      <g:description>黄金套装（Shawka蜂蜜 - 塔勒蜂蜜 - 森林蜂蜜）（免运费）</g:description>
+      <g:link>https://asalaljebal.sa/zh/shawka/p534917756?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/N0uMXXvG4S07bK1FRveXD3ypjQVqMY7wWiVOpH4P.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>483.00 SAR</g:price>
+      <g:sale_price>340.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101005</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">423197268</guid>
+      <g:id>423197268</g:id>
+      <g:title>山地王室西德尔混合蜂蜜 250克</g:title>
+      <g:description>山地王室西德尔混合蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂蜜混合</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1142835467</guid>
+      <g:id>1142835467</g:id>
+      <g:title>2 公斤德国白色马吉拉（马尔迪西亚）蜂蜜 + （免费配送）</g:title>
+      <g:description>2 公斤德国白色马吉拉（马尔迪西亚）蜂蜜 + （免费配送）</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1142835467?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ZMGCgs7VhigwuggYpteXmXBZFJGcgItYfxevO0Za.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>688.00 SAR</g:price>
+      <g:sale_price>349.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101038</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1158327183</guid>
+      <g:id>1158327183</g:id>
+      <g:title>山区西德尔蜂蜜 250克</g:title>
+      <g:description>山区西德尔蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1158327183?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Kd32QHiB0eYSMRnbTwXPUPxLvLSpmvhMvk3Ya1Re.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021008</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1079393632</guid>
+      <g:id>1079393632</g:id>
+      <g:title>西班牙黑森林蜂蜜 500克</g:title>
+      <g:description>西班牙黑森林蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1079393632?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/NFiMNkw6zZ0pRxaoqMa6VqeCddJsGh7r1gj16Q4y.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/atDIe8hLLAfz3wfeLpPqpCC3S7LjcT8VoaCGtrJC.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Q4DlUxyOc0aGR5N9aWpX0Ip9aouSQHk04VfZFZIz.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/dg2Bt7p1O7aaPPul1Vu5xjDes6xxYgmP8plarnQ3.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:sale_price>99.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>20202020</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1519634473</guid>
+      <g:id>1519634473</g:id>
+      <g:title>本地萨拉姆巢蜜 1公斤</g:title>
+      <g:description>本地萨拉姆巢蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1519634473?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/18968b9c-8915-4213-9536-14d38b386a25-500x500-xxxt0NlaiOUxE8tNc6SEOYZkQET6ar8dDhNE4nLq.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>460.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>003-10008003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">283420378</guid>
+      <g:id>283420378</g:id>
+      <g:title>约旦蜜蜂花粉 50克</g:title>
+      <g:description>约旦蜜蜂花粉 50克</g:description>
+      <g:link>https://asalaljebal.sa/zh/50/p283420378?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VuLO1AMXvFDoYqnYgXAUJ32n5ZVs36HFGgoveJcg.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>55.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001007002</g:item_group_id>
+      <g:shipping_weight>0.05 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1919160088</guid>
+      <g:id>1919160088</g:id>
+      <g:title>3罐装皇家山地蜂蜜混合装（每罐半公斤）</g:title>
+      <g:description>3罐装皇家山地蜂蜜混合装（每罐半公斤）</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p1919160088?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Nul8bc5cHxTut6MO9bl9R8L2NzlQsGkCYPmH4Dln.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1050.00 SAR</g:price>
+      <g:sale_price>399.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101066</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>蜂蜜混合</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">54884563</guid>
+      <g:id>54884563</g:id>
+      <g:title>蜜蜂花粉 500克</g:title>
+      <g:description>蜜蜂花粉 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p54884563?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/leWoYbMgfTqBGa5eeMsSVtvRX3spPjuzkcFzwBxn.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/us4hMgGXikh3PuHoAGXvPD97dzyFqQ6v797s9vxR.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>140.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">658342130</guid>
+      <g:id>658342130</g:id>
+      <g:title>有机苹果醋 500毫升</g:title>
+      <g:description>有机苹果醋 500毫升</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p658342130?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/uluCv6UyHnyNlabjiqCsM4lpYSCMxfhreVPfa5I9.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006-1013</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>2140</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>醋</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1702586333</guid>
+      <g:id>1702586333</g:id>
+      <g:title>2公斤特级塔勒蜂蜜 + 免运费</g:title>
+      <g:description>2公斤特级塔勒蜂蜜 + 免运费</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1702586333?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/nPDiWaPMow0a0DZCKSMTXgUhPSLVVbu9vd17zHNN.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>804.00 SAR</g:price>
+      <g:sale_price>496.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00410290004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">501836455</guid>
+      <g:id>501836455</g:id>
+      <g:title>蜜蜂花粉 1公斤</g:title>
+      <g:description>蜜蜂花粉 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p501836455?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/7rUruUjMjkGqgWBirn0qLINcb8QGfInckhSFeXPi.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>200.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">633389672</guid>
+      <g:id>633389672</g:id>
+      <g:title>蜜蜂花粉 250克</g:title>
+      <g:description>蜜蜂花粉 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p633389672?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FHLUuYrr9fueIJKlb33UcuxRD2qKlmia282sNvz9.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>95.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">577031151</guid>
+      <g:id>577031151</g:id>
+      <g:title>约旦蜂花粉 100克</g:title>
+      <g:description>约旦蜂花粉 100克</g:description>
+      <g:link>https://asalaljebal.sa/zh/100/p577031151?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/UFMjcd7PHpJDKCiRxZyfongEfEeTY9URP4qe4V3W.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00-1007005</g:item_group_id>
+      <g:shipping_weight>0.1 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>100g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1376557630</guid>
+      <g:id>1376557630</g:id>
+      <g:title>炸弹特惠 3罐坚果蜂蜜</g:title>
+      <g:description>炸弹特惠 3罐坚果蜂蜜</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p1376557630?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/QHIERl2qcONQ9h22yi2CQ09aQmbdCPnwsKy1jg8G.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/T8HP6vSJmUCqDs63WWtXW0MaRFumDWSvfYClLn1t.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>320.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0304010703</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1704938777</guid>
+      <g:id>1704938777</g:id>
+      <g:title>约旦液体蜂胶 50毫升</g:title>
+      <g:description>约旦液体蜂胶 50毫升</g:description>
+      <g:link>https://asalaljebal.sa/zh/50/p1704938777?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/kUdideE63YJ3QZbK6slqYgXj9Xk1sj1hhYsx7BLf.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/glVtWHjWNfnOskYeCT6KPqkkRvmYFMWosaTWYeSa.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>65.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0060104801</g:item_group_id>
+      <g:shipping_weight>0.05 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">371437637</guid>
+      <g:id>371437637</g:id>
+      <g:title>西班牙栗子蜂蜜 500克</g:title>
+      <g:description>西班牙栗子蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p371437637?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/1UBllFknx171DqiFyomTF5eT4AwxXsmTCYgBjjjs.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/t5fah1SIdGU0iYwriljsVEjnGrtdhbKpDKdpNDHR.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/nmp7fTOTb8RJ6SwjEL9ZYGfH7t1p23WOXn3lP0cX.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/ElNx5DIyhEwHi8WP6ANwsq6cBLqoLQ3bg8zPMj3J.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.00 SAR</g:price>
+      <g:sale_price>119.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>202020201</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1165273283</guid>
+      <g:id>1165273283</g:id>
+      <g:title>整根人参</g:title>
+      <g:description>整根人参</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p1165273283?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/dbf74y6fqMRmpRJs8n9ThNKT7aAHYl1OxB6DpR3g.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061001001</g:item_group_id>
+      <g:shipping_weight>0.025 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1829509087</guid>
+      <g:id>1829509087</g:id>
+      <g:title>3罐天然西德尔蜂蜜 + 免运费</g:title>
+      <g:description>3罐天然西德尔蜂蜜 + 免运费</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p1829509087?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PrzrC6v2qhDP1Iva3TF4XODuW5OmArFsme8ePXlU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007009</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">991857534</guid>
+      <g:id>991857534</g:id>
+      <g:title>3罐西班牙黑森林蜂蜜 500克</g:title>
+      <g:description>3罐西班牙黑森林蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/3-500/p991857534?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/DDlYjWI0vOWq4KUA8hBUGmP6m2EJsxg0Ftq6rjLA.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>317.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>2020202003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1204991584</guid>
+      <g:id>1204991584</g:id>
+      <g:title>蜂毒霜</g:title>
+      <g:description>蜂毒霜</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p1204991584?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GoahIgiBak8hPpD5x96nuNnTaDfjTinBp3yZcJSV.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jGGkQkTAOD5M1YA4TBfQa1utpWRE27wtCb0AE4b6.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006006006001</g:item_group_id>
+      <g:shipping_weight>0.02 kg</g:shipping_weight>
+    <g:google_product_category>567</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>护肤</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">63390305</guid>
+      <g:id>63390305</g:id>
+      <g:title>特级塔勒蜂蜜 10公斤桶装 批发价</g:title>
+      <g:description>特级塔勒蜂蜜 10公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p63390305?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/1cFROcsW3CHXj6ZzLFvE7SRk5YglCc5XMY0rkJAw.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4020.00 SAR</g:price>
+      <g:sale_price>2868.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029007</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">275181506</guid>
+      <g:id>275181506</g:id>
+      <g:title>姜柠檬姜黄蜂蜜饮品（470克）+ 四分之一公斤克什米尔西德尔蜂蜜 + 四分之一公斤黑种草蜂蜜 + 黑种草籽</g:title>
+      <g:description>姜柠檬姜黄蜂蜜饮品（470克）+ 四分之一公斤克什米尔西德尔蜂蜜 + 四分之一公斤黑种草蜂蜜 + 黑种草籽</g:description>
+      <g:link>https://asalaljebal.sa/zh/470/p275181506?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/jfbEwZkRD1LgI8kKWXPybQpUlH4p5TUqIWPV87lK.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:sale_price>99.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101015</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂蜜饮品</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1688053025</guid>
+      <g:id>1688053025</g:id>
+      <g:title>坚果蜂蜜（杏仁、腰果、核桃、碧根果、榛子、开心果）500克</g:title>
+      <g:description>坚果蜂蜜（杏仁、腰果、核桃、碧根果、榛子、开心果）500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1688053025?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LKu6Pz3TUzjMPlSbl6AyGne9g3LYiRr2ylC6ob0Y.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/a48MgweLMOrxTp9dha3VK8JwbQLhO4ujCDJ1HWvB.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>99.00 SAR</g:price>
+      <g:sale_price>79.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041053001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1741453097</guid>
+      <g:id>1741453097</g:id>
+      <g:title>6罐克什米尔西德尔蜂蜜（600克）</g:title>
+      <g:description>6罐克什米尔西德尔蜂蜜（600克）</g:description>
+      <g:link>https://asalaljebal.sa/zh/6-600/p1741453097?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/G3JKdsTnVI7fTvdVaFQaRgfRkg2JEOlX6ixj1kXa.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>420.00 SAR</g:price>
+      <g:sale_price>240.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101017</g:item_group_id>
+      <g:shipping_weight>3.6 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1030292422</guid>
+      <g:id>1030292422</g:id>
+      <g:title>500克克什米尔西德尔蜂蜜 + 500克黑种草蜂蜜 + 2罐姜柠檬姜黄蜂蜜饮品（470克）+ 黑种草籽</g:title>
+      <g:description>500克克什米尔西德尔蜂蜜 + 500克黑种草蜂蜜 + 2罐姜柠檬姜黄蜂蜜饮品（470克）+ 黑种草籽</g:description>
+      <g:link>https://asalaljebal.sa/zh/500-500-2-470/p1030292422?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/aBbjs7mIXEvl88UzjFTskUEsMX3jnw1jVfX0obHj.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>226.00 SAR</g:price>
+      <g:sale_price>174.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101019</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">803494818</guid>
+      <g:id>803494818</g:id>
+      <g:title>什锦坚果（椰枣、杏仁、松子、鲜枣、开心果、核桃、椰子、黑种草籽、葛缕子、花生、大核桃仁）</g:title>
+      <g:description>什锦坚果（椰枣、杏仁、松子、鲜枣、开心果、核桃、椰子、黑种草籽、葛缕子、花生、大核桃仁）</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p803494818?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VjqjHAZplAIhQpQthcVT39IR8phxtoQrZZJS73ZX.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/OYYCSdMz34ZBqS3SrxdFxmxCKBogl4an9vg4QJQE.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>38.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041017001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂蜜混合</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1372377871</guid>
+      <g:id>1372377871</g:id>
+      <g:title>哈伊勒塔勒赫巢蜜 1公斤</g:title>
+      <g:description>哈伊勒塔勒赫巢蜜 1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1372377871?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PL32O5k7qO2Qb5GP4yyYxo76t6oiaewgYWVQtTGv.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/F1SWxzxJr00K9o07h10O2DC4ycLiGibdmTObbksm.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/d0wirinLaPeLfydLuIu4pOpTz13pPpPS2UjaxRa1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.files.salla.network/other/337286117/82f22175-c41b-4c3f-89e2-9383b749eb44-original.webp</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>500.00 SAR</g:price>
+      <g:sale_price>396.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031033001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1853234062</guid>
+      <g:id>1853234062</g:id>
+      <g:title>茴芹蜂蜜 10公斤桶装 批发价</g:title>
+      <g:description>茴芹蜂蜜 10公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p1853234062?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/CwiSwFYIgDLFX4DLFJxLna19rbK9rBl39xXH8eLW.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1800.00 SAR</g:price>
+      <g:sale_price>1400.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049006</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1249051573</guid>
+      <g:id>1249051573</g:id>
+      <g:title>1公斤沙瓦卡（萨姆尔）蜂蜜 + 1公斤（免运费）</g:title>
+      <g:description>1公斤沙瓦卡（萨姆尔）蜂蜜 + 1公斤（免运费）</g:description>
+      <g:link>https://asalaljebal.sa/zh/1-1/p1249051573?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/HpYISd66IKHSmL0rss6ICg88nKqk3bZdEEbjAx9B.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>918.00 SAR</g:price>
+      <g:sale_price>496.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101029</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">863927234</guid>
+      <g:id>863927234</g:id>
+      <g:title>黑森林蜂蜜 2公斤 免运费</g:title>
+      <g:description>黑森林蜂蜜 2公斤 免运费</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p863927234?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0syxg8VnJhvhojLchND8UGRoxkuzTMLF4NwGThHJ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>280.00 SAR</g:price>
+      <g:sale_price>196.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101051</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">797605987</guid>
+      <g:id>797605987</g:id>
+      <g:title>特级塔勒蜂蜜 5公斤桶装 批发价</g:title>
+      <g:description>特级塔勒蜂蜜 5公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p797605987?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Q606qwsNZ8aBHErrtKbhUs2AxPlZIBn6kJaZj1PE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2010.00 SAR</g:price>
+      <g:sale_price>1835.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">622236865</guid>
       <g:id>622236865</g:id>
@@ -48,5 +1623,617 @@
       <g:item_group_id>004-1050002</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>蜂蜜饮品</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1262276205</guid>
+      <g:id>1262276205</g:id>
+      <g:title>特级塔勒蜂蜜 2公斤</g:title>
+      <g:description>特级塔勒蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1262276205?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/E0uUGovbSvlVlkKXjScM8bSYLJ8PNA6LSuzKSs26.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>804.00 SAR</g:price>
+      <g:sale_price>746.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2136887666</guid>
+      <g:id>2136887666</g:id>
+      <g:title>匈牙利白蜜（Mardisia）10公斤桶装 批发价</g:title>
+      <g:description>匈牙利白蜜（Mardisia）10公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia-10/p2136887666?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/OIn72HllyfcPpS6ESgJPMXBPmqeGT3yDfg1VIC3k.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/KJAZGBvKNPEteUDgbBkpXFLuFVFqKrgK8V1GzPKG.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3441.00 SAR</g:price>
+      <g:sale_price>2524.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041012003</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">598737026</guid>
+      <g:id>598737026</g:id>
+      <g:title>山区西德尔蜂蜜 7公斤桶装 批发价</g:title>
+      <g:description>山区西德尔蜂蜜 7公斤桶装 批发价</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p598737026?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VC4RTrSQbliaYkcHmZQD6ZZI4mxAzJMJuY9OJpdp.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3200.00 SAR</g:price>
+      <g:sale_price>2889.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021013</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1994787951</guid>
+      <g:id>1994787951</g:id>
+      <g:title>顶级塔勒赫蜂蜜 500克</g:title>
+      <g:description>顶级塔勒赫蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1994787951?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/X7L4ffJ4EejkFLZ2MROYGFuB1q95R43eQgYwH4IU.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1590568579</guid>
+      <g:id>1590568579</g:id>
+      <g:title>3罐姜柠檬姜黄蜂蜜饮品</g:title>
+      <g:description>3罐姜柠檬姜黄蜂蜜饮品</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p1590568579?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/vSetQXxwOstzPlo4ZWxQKK4XNMAzveez8Pe4D0mR.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/pH1EMCxmwr1VeUbm5IIOiQmQ6gIXVzXOobMN1ePL.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/5z47kzkPgJ16ggiwnWYlk9eYZOpdGwZEnyvwe15l.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/9EvKP5BBB97jPaARPwDdKQotZPZEZNNCtWhfDUkd.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/GXg3JwHQYAgC1jt4yLwICuhqSfzzOwVT3sQw5K2q.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>210.00 SAR</g:price>
+      <g:sale_price>179.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>004-1050001</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂蜜饮品</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">464019410</guid>
+      <g:id>464019410</g:id>
+      <g:title>正宗新西兰麦卢卡蜂蜜 UMF 20+ MGO 850+ – 3罐 × 250克</g:title>
+      <g:description>正宗新西兰麦卢卡蜂蜜 UMF 20+ MGO 850+ – 3罐 × 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/umf-20-mgo-850-3-250/p464019410?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/CFHZAEc5wlrlpaALUwYaP4vpJwOHj5uQqNRVAhay.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1500.00 SAR</g:price>
+      <g:sale_price>796.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041051003</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>麦卢卡</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">2062622663</guid>
+      <g:id>2062622663</g:id>
+      <g:title>3罐西班牙栗子蜂蜜 500克</g:title>
+      <g:description>3罐西班牙栗子蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/3-500/p2062622663?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/fdTDNk3VeckiZuxVzorAGLjkF7nFiHRC9WnOLOrf.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>381.00 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>202004</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">2138516999</guid>
+      <g:id>2138516999</g:id>
+      <g:title>3公斤黑种草蜂蜜桶装 附赠黑种草籽</g:title>
+      <g:description>3公斤黑种草蜂蜜桶装 附赠黑种草籽</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p2138516999?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/dr381b2x7swCfEUSpUpJRj7q5jlGy7LtUaPNiAIN.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>450.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00410040101</g:item_group_id>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1941051716</guid>
+      <g:id>1941051716</g:id>
+      <g:title>本地野花蜂巢蜜（1公斤）</g:title>
+      <g:description>本地野花蜂巢蜜（1公斤）</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1941051716?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/srpwU7E0y0BzFtxUeBGuUc2lmzRZKzhESXd5SOjQ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>400.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">472529251</guid>
+      <g:id>472529251</g:id>
+      <g:title>沙漠黄芪蜂蜜（1公斤）</g:title>
+      <g:description>沙漠黄芪蜂蜜（1公斤）</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p472529251?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/3dacf640-d0e6-4a84-91ad-42ae531fc807-500x500-PRu7z1m46lWnViMOWnM1leRsLroBjFp5Czj8e6hE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>400.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>01088503</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">473047885</guid>
+      <g:id>473047885</g:id>
+      <g:title>印度木香粉（150克）</g:title>
+      <g:description>印度木香粉（150克）</g:description>
+      <g:link>https://asalaljebal.sa/zh/150/p473047885?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/afxqiBpABId9tihLb7OFc1YU3bVIA87DWdMlOXvj.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/3kHLtUbfIZw5qpDeldxieBoj9bxGbkw6gOSgrFH3.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0091005</g:item_group_id>
+      <g:shipping_weight>0.15 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3><g:unit_pricing_measure>150g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">200318229</guid>
+      <g:id>200318229</g:id>
+      <g:title>天然西德尔蜂蜜便携小勺 50支</g:title>
+      <g:description>天然西德尔蜂蜜便携小勺 50支</g:description>
+      <g:link>https://asalaljebal.sa/zh/50/p200318229?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/MvfjTwlCp9DCyppDaesResMr9HpgaaOpIZ4gl2uv.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>250.00 SAR</g:price>
+      <g:sale_price>196.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041036002</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">425796384</guid>
+      <g:id>425796384</g:id>
+      <g:title>两罐皇家山地混合蜜500克 + 一罐半公斤坚果蜂蜜</g:title>
+      <g:description>两罐皇家山地混合蜜500克 + 一罐半公斤坚果蜂蜜</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p425796384?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GqNGfX6V6lVIOOrdqUtOWP3RJ00ozAXfBbqZymA2.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>780.00 SAR</g:price>
+      <g:sale_price>349.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041005047</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>蜂蜜混合</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1303334119</guid>
+      <g:id>1303334119</g:id>
+      <g:title>3公斤克什米尔西德尔蜂蜜桶装 + 3公斤三叶草花蜂蜜桶装</g:title>
+      <g:description>3公斤克什米尔西德尔蜂蜜桶装 + 3公斤三叶草花蜂蜜桶装</g:description>
+      <g:link>https://asalaljebal.sa/zh/3-3/p1303334119?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/JMKh0NpuZczBMNKvopDgxBsroK7xoc9zmDk6C3SE.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/p4f6bW63LGe5NUEGh5oakInLrpT29DbMuMliJbN3.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/3knNePG9CmpVjyKLAeU5Px6rlWGi3aPyT56H8GxE.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>600.00 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101011</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">216808863</guid>
+      <g:id>216808863</g:id>
+      <g:title>黑种草籽蜂蜜 5 公斤 + （免费配送）</g:title>
+      <g:description>黑种草籽蜂蜜 5 公斤 + （免费配送）</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p216808863?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/aU1C61sj5oGQn1TBMxyJtGerppttjoZq0yLLUC9X.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>724.99 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101036</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">957082464</guid>
+      <g:id>957082464</g:id>
+      <g:title>皇家奥西米西德尔蜂蜜特惠 - 带蜂巢皇家西德尔蜂蜜 免运费</g:title>
+      <g:description>皇家奥西米西德尔蜂蜜特惠 - 带蜂巢皇家西德尔蜂蜜 免运费</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p957082464?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/JG7Ldwk3ssZJkn7XDmGxKDHpCWFN2DdTmCAIsa0d.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/sYiuTDssWrgvjpxE67GtkHYx9RNBK4mK02pKwccu.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1400.00 SAR</g:price>
+      <g:sale_price>950.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101008</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1688919538</guid>
+      <g:id>1688919538</g:id>
+      <g:title>5公斤黑种草蜂蜜 + 2罐姜柠檬姜黄蜂蜜饮品（470克）+ 黑种草籽</g:title>
+      <g:description>5公斤黑种草蜂蜜 + 2罐姜柠檬姜黄蜂蜜饮品（470克）+ 黑种草籽</g:description>
+      <g:link>https://asalaljebal.sa/zh/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/2MUZPm4Ur4PSSwAsaaFig12u524ZLzqRrYZB5Zmq.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>730.00 SAR</g:price>
+      <g:sale_price>389.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101018</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>蜂蜜饮品</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">345536874</guid>
+      <g:id>345536874</g:id>
+      <g:title>沙兹利咖啡：用咖啡豆、小豆蔻和藏红花调制的高级阿拉伯研磨咖啡</g:title>
+      <g:description>沙兹利咖啡：用咖啡豆、小豆蔻和藏红花调制的高级阿拉伯研磨咖啡</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p345536874?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Z26d28Hk7DusWl0ZktZcLKZpD9TiwKQqWoMqQRO7.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>54.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081010001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>藏红花</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">394421153</guid>
+      <g:id>394421153</g:id>
+      <g:title>韩国红参精华液 30克</g:title>
+      <g:description>韩国红参精华液 30克</g:description>
+      <g:link>https://asalaljebal.sa/zh/30/p394421153?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FhtEGkiJGWrh91Vy8uyR9xUTYZw9jXOQKEEhQz40.jpeg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b4z6MLwlPKyJOHWA525U5FKqGfqBzdDeoNRcoPDX.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/6ghzQQ36ZFXxPj9bAhUG7z1URP03kqqZZ1nMCQB6.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Wj76CXk30oT8SkwrpFQ2wa3A0cOnPlQGUCjt6PZy.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/8z7OM6ZeDuSwMLKpqd0DudnD14nF0IqLRAt10OmE.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>175.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>10010002</g:item_group_id>
+      <g:shipping_weight>0.3 kg</g:shipping_weight>
+    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>椰枣</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">608043670</guid>
+      <g:id>608043670</g:id>
+      <g:title>柽柳蜂蜜（Al Sal）2公斤</g:title>
+      <g:description>柽柳蜂蜜（Al Sal）2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/al-sal-2/p608043670?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/mJXr32QYeuOF11YjkNjAIRHkhKehIigjZQWLdYMy.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>580.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003004</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2140503485</guid>
+      <g:id>2140503485</g:id>
+      <g:title>带蜂巢的皇家西德尔蜂蜜5公斤</g:title>
+      <g:description>带蜂巢的皇家西德尔蜂蜜5公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p2140503485?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LOBFTDmAF0lKJPqwIEzcO7Qh2WtnxEL4zxM3Sugr.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b2pdN4oTjKvhFsOneNqLhwfBiChH7RlqmOuBmTF4.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3441.00 SAR</g:price>
+      <g:sale_price>2731.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024011</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1059074726</guid>
+      <g:id>1059074726</g:id>
+      <g:title>柽柳蜂蜜（Al Sal）500克</g:title>
+      <g:description>柽柳蜂蜜（Al Sal）500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/al-sal-500/p1059074726?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VncitdKlT1bI6j8YM6MRzdl3t4NVFOoi7KZllVoW.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>165.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">327789971</guid>
+      <g:id>327789971</g:id>
+      <g:title>麦地那高地阿杰瓦椰枣 优质2公斤</g:title>
+      <g:description>麦地那高地阿杰瓦椰枣 优质2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p327789971?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/sbuuqMxqmcKJFUalupUPekYQTXqjyfwGWmne9GMD.jpeg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/a1i3Ia0h4mMG01ztJrJUluaW0jMHAYeEusETNMLW.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/rJDjtgwV8B5EJT64ENTB4a6duhUn9RKWorURcINe.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>170.00 SAR</g:price>
+      <g:sale_price>150.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0051020002</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>椰枣</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1232313534</guid>
+      <g:id>1232313534</g:id>
+      <g:title>带蜂巢的皇家西德尔蜂蜜2公斤，阿西尔山区</g:title>
+      <g:description>带蜂巢的皇家西德尔蜂蜜2公斤，阿西尔山区</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1232313534?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/XeQILTGvZ9GoSWUfSH3419TXX4kYoVl51SsszT6H.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/p5yFFCn7DMrjGzUAyvAPZ3i6MG0G9Ni9LQ8SjCgG.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1377.00 SAR</g:price>
+      <g:sale_price>1100.09 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024010</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">177144225</guid>
+      <g:id>177144225</g:id>
+      <g:title>三叶草蜂蜜 250克</g:title>
+      <g:description>三叶草蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p177144225?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/elZtZGranD1HNGFDS8p1LO2tUWwJ7szF582SIP43.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">909201315</guid>
+      <g:id>909201315</g:id>
+      <g:title>黑种草籽蜂蜜 10公斤桶装家庭装优惠（包邮）</g:title>
+      <g:description>黑种草籽蜂蜜 10公斤桶装家庭装优惠（包邮）</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p909201315?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/yWGRvwSsoI8MBunBzrfA6pt8rpLEtDtKr0c6yHUh.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/RL8gK2ypKM66i4iOntInAX02Ut346GiFyqPrLWow.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1180.00 SAR</g:price>
+      <g:sale_price>708.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004007</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">431101948</guid>
+      <g:id>431101948</g:id>
+      <g:title>洋槐蜂蜜 250克</g:title>
+      <g:description>洋槐蜂蜜 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p431101948?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/QwBiP3gMYHZOHn7gNCP1iHtnYY4sRN4PxZ4Xm12f.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1298329746</guid>
+      <g:id>1298329746</g:id>
+      <g:title>白沙瓦西德尔蜂蜜 2公斤</g:title>
+      <g:description>白沙瓦西德尔蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1298329746?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/iLarCm6xDO6kloFpBmnF4EvPZJYu1VJCoVGg99uY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:sale_price>206.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">950198944</guid>
+      <g:id>950198944</g:id>
+      <g:title>三叶草蜂蜜 500克</g:title>
+      <g:description>三叶草蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p950198944?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/14ysYYrnPzV6vn9MJrRjVRfoiawsh4aN9FlCKyiV.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">985280850</guid>
+      <g:id>985280850</g:id>
+      <g:title>野花蜂蜜 南部或哈德拉毛 250克</g:title>
+      <g:description>野花蜂蜜 南部或哈德拉毛 250克</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p985280850?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/tea7gH1begC6jdkj7G7Ee6v3totAuycO5vRLKCV4.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>69.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2030973022</guid>
+      <g:id>2030973022</g:id>
+      <g:title>蜂蜜套装：萨姆拉刺蜂蜜 + 黑森林蜂蜜 + 黑种草蜂蜜（免运费）</g:title>
+      <g:description>蜂蜜套装：萨姆拉刺蜂蜜 + 黑森林蜂蜜 + 黑种草蜂蜜（免运费）</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p2030973022?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/YyyZqycPFoDCLReTLGdsVAHcaHLZDvAfTx6vrmhF.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>345.00 SAR</g:price>
+      <g:sale_price>260.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">2006758939</guid>
+      <g:id>2006758939</g:id>
+      <g:title>蜂胶（Propolis 蜜蜂树胶）15克</g:title>
+      <g:description>蜂胶（Propolis 蜜蜂树胶）15克</g:description>
+      <g:link>https://asalaljebal.sa/zh/propolis-15/p2006758939?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/scgtk0VfujxdpqIcPJ1tR2zqWnRU77VApJxBSI34.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/CHgtebITBwgvNKezSF2mTxFisxJMz9MM17NVosUp.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061041001</g:item_group_id>
+      <g:shipping_weight>0.15 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">810196573</guid>
+      <g:id>810196573</g:id>
+      <g:title>正宗黑森林蜂蜜 5公斤桶装 批发</g:title>
+      <g:description>正宗黑森林蜂蜜 5公斤桶装 批发</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p810196573?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/V5PSF9yeUNPPnNOY593SrwGGXyqOciICDC4FLtiT.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>688.00 SAR</g:price>
+      <g:sale_price>574.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">768106172</guid>
+      <g:id>768106172</g:id>
+      <g:title>带蜂巢的皇家西德尔蜂蜜7公斤</g:title>
+      <g:description>带蜂巢的皇家西德尔蜂蜜7公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p768106172?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/6RSkUUMgTVRJeGlU3pmb6PUpWIsa1V615yBxoUgS.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/1DePzNStmErgm8tnYuF0lSqScWGesDDZnIoCj0L2.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4818.01 SAR</g:price>
+      <g:sale_price>4015.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024012</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1516032688</guid>
+      <g:id>1516032688</g:id>
+      <g:title>克什米尔西德尔蜂蜜1公斤</g:title>
+      <g:description>克什米尔西德尔蜂蜜1公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1516032688?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1125352869</guid>
+      <g:id>1125352869</g:id>
+      <g:title>三叶草蜂蜜 2公斤</g:title>
+      <g:description>三叶草蜂蜜 2公斤</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1125352869?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GfW3qSXGGFDQBVxfooRAraXqAnj9TcQqhgUoLUkR.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:sale_price>206.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1759318609</guid>
+      <g:id>1759318609</g:id>
+      <g:title>野花蜂蜜 南部或哈德拉毛 500克</g:title>
+      <g:description>野花蜂蜜 南部或哈德拉毛 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1759318609?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/4ccZnasalMehbhnRdXvY7HqZqBPxWVZpCs5cDYIn.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1762934428</guid>
+      <g:id>1762934428</g:id>
+      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 500克</g:title>
+      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 500克</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1762934428?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/dMUHlXjB536wG4lMdJtlWXlvDAFL8PGS6NyLuZMv.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     </channel>
 </rss>
