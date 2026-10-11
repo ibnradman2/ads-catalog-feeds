@@ -76,6 +76,12 @@ YEARS_RE = re.compile(r"\b3[68](\s*)years", re.I)   # عسل الجبال منذ
 
 # العلامة الإنجليزية الموحدة بدل القيم العربية الثلاث (قرار المالك 2026-09-28، البند P-merchant-011)
 EN_BRAND = {"asal": "Asal Aljebal", "areesh": "Areesh", "hayala": "Hayala"}
+# علامة المتجر بحروف لغة الملف حين تكون غير لاتينية (أمر المالك 2026-10-11: لا بيانات بغير لغة الملف)
+BRAND_L = {"hi": {"asal": "असल अल-जबल", "areesh": "अरीश", "hayala": "हयाला"},
+           "zh": {"asal": "阿萨尔·阿尔杰巴勒", "areesh": "阿里什", "hayala": "哈亚拉"}}
+# كلمات إنجليزية دخيلة في عناوين اللغات اللاتينية (ترجمة مختلطة تُستبعد حتى تُصلح)
+MIXED_EN = re.compile(r"(the|with|and|of|for|honey|jar|jars|natural|pure|box|bottle|delivery|free|offer|gift)", re.I)
+BRAND_PHRASES = re.compile(r"Honey Bros|Premium Manuka Honey|Manuka Honey|Black Seed Honey", re.I)
 # نوع المنتج بالإنجليزية. القيمة الجديدة غير المترجمة يُحذف حقلها من الملف الإنجليزي وتُذكر في
 # ملخص التشغيل، حتى لا يصل نص عربي إلى المصدر الإنجليزي.
 EN_PRODUCT_TYPE = {
@@ -320,6 +326,8 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
             why = "العنوان بلا ترجمة"
         elif not _script_ok(script, title):
             why = "العنوان بغير نظام اللغة"
+        elif lang in ("tl", "id", "fr", "tr") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 1                 and lang != "fr" or (lang in ("fr", "tr") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 2):
+            why = "ترجمة مختلطة بكلمات إنجليزية"
         elif lang == "en" and _arabic_share(desc) > 0.05:
             why = "الوصف بلا ترجمة"
         elif en_season and en_season != ar_season:
@@ -344,7 +352,7 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
         brand = it.find(G + "brand")
         if brand is None:
             brand = ET.SubElement(it, G + "brand")
-        brand.text = EN_BRAND[store]
+        brand.text = BRAND_L.get(lang, {}).get(store) or EN_BRAND[store]
         for pt in it.findall(G + "product_type"):
             en = en_product_type(pt.text) if lang == "en" else None
             if en:
@@ -368,6 +376,12 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
                 # مقطع لاتيني من العنوان بدل المقطع العربي؛ سلة تصل إلى المنتج بمعرّفه، وتبقى معاملات التتبع
                 q = el.text.strip().partition("?")
                 el.text = f"{STORES[store]}/{lang}/{slug}/p{pid}" + (q[1] + q[2] if q[1] else "")
+        if lang != "en":    # وصف من حقائق الملف بلغته وحدها: العنوان + العائلة (مترجمة) + الوزن؛ بلا ادّعاءات
+            fam = (it.findtext(G + "custom_label_3") or "").strip()
+            wt = (it.findtext(G + "shipping_weight") or "").strip()
+            dsc = it.find(G + "description")
+            if dsc is not None:
+                dsc.text = (". ".join(x for x in (title.rstrip(". "), fam, wt) if x) + ".")[:4900]
         bad = next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)
                     and not (c.tag.replace(G, "") in ("title", "description") and lang == "ur")), None)
         if bad:                                  # حارس النقاء: أي نص عربي في أي حقل يستبعد المنتج
