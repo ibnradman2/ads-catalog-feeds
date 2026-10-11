@@ -4,26 +4,151 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:05:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <guid isPermaLink="false">827374682</guid>
-      <g:id>827374682</g:id>
-      <g:title>6 kilos de miel de comino negro (envío gratis)</g:title>
-      <g:description>6 kilos de miel de comino negro (envío gratis). Otras mieles. 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/6-kilos-de-miel-de-comino-negro-env-o-gratis/p827374682?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/piTqGO4MAtXg1oOMiiO4WFibp4skK9XbVBJC6O4h.png</g:image_link>
+      <guid isPermaLink="false">979497193</guid>
+      <g:id>979497193</g:id>
+      <g:title>Miel de Sidr de Cachemira 500 g</g:title>
+      <g:description>Miel de Sidr de Cachemira 500 g. Miel de Sidr. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-de-cachemira-500-g/p979497193?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/pfmDvmQJvTfnunY1ulJ6Qnt0zbjRCflj5xXuFitJ.jpg</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>690.00 SAR</g:price>
-      <g:sale_price>255.00 SAR</g:sale_price>
+      <g:price>43.00 SAR</g:price>
       <g:brand>Areesh</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>014101037</g:item_group_id>
-      <g:shipping_weight>6.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+      <g:item_group_id>0041006002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">283801056</guid>
+      <g:id>283801056</g:id>
+      <g:title>Propóleo natural del país - 65 gramos</g:title>
+      <g:description>Propóleo natural del país - 65 gramos. Productos de la colmena. 0.08 kg.</g:description>
+      <g:link>https://areesh.sa/es/prop-leo-natural-del-pa-s-65-gramos/p283801056?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/s9O9j1rxvZv3tVLfMQfi4VLbwWsWuh1hW9xGfX7D.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.08 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">732821654</guid>
+      <g:id>732821654</g:id>
+      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 15+, MGO 550+, 250 g</g:title>
+      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 15+, MGO 550+, 250 g. Manuka. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-15-mgo-550-250-g/p732821654?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/VSgGcb8INCa4jY1hI0wOGKqznHkOyLH20Eh9yOUS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>300.00 SAR</g:price>
+      <g:sale_price>269.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041046001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">311732055</guid>
+      <g:id>311732055</g:id>
+      <g:title>Propóleo en polvo (própolis o pegamento de abejas) 15 g</g:title>
+      <g:description>Propóleo en polvo (própolis o pegamento de abejas) 15 g. Productos de la colmena. 0.015 kg.</g:description>
+      <g:link>https://areesh.sa/es/prop-leo-en-polvo-pr-polis-o-pegamento-de-abejas-15-g/p311732055?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/qOZfxUPWR3ICLPBYyzRo1N32dfI4T6sCt4s68rN6.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006-1005</g:item_group_id>
+      <g:shipping_weight>0.015 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">547643097</guid>
+      <g:id>547643097</g:id>
+      <g:title>Miel de la Selva Negra 1 kg</g:title>
+      <g:description>Miel de la Selva Negra 1 kg. Otras mieles. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-la-selva-negra-1-kg/p547643097?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/cCDh74Ib3VqS2wuPTjVZuCsngcvAvKoA0yvGlqlR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1700113743</guid>
+      <g:id>1700113743</g:id>
+      <g:title>Miel de Sidr real Asimi 500 g</g:title>
+      <g:description>Miel de Sidr real Asimi 500 g. Miel de Sidr. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-real-asimi-500-g/p1700113743?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/RGKlMExd48ZB4GI5Lc1cJjP17Qv6fCjnoB07Necf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>340.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">581260348</guid>
+      <g:id>581260348</g:id>
+      <g:title>Box de Lujo (dos envases de miel de Sidr natural)</g:title>
+      <g:description>Box de Lujo (dos envases de miel de Sidr natural). Regalos. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/box-de-lujo-dos-envases-de-miel-de-sidr-natural/p581260348?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/fC9eRTb9c4kKCskqR7jwRSoM6K3wuNIIwXUcwxhl.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/G6gl8bKXEOEDWco37zY0hv7gO5pbhVyYC1aWdjUM.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/fN0zV071PfVeubrp5bCpLg0jdLeLdhlTcErDBTJv.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/b6DthAAhp2R57u8Wx6kiFo2riVD5XWhx9yqYd746.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/ugT6nKxlp6YeHKgPudC6lIV1TSTYvsg6BDkEkXz2.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>250.00 SAR</g:price>
+      <g:sale_price>138.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>014001003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Regalos</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">399980213</guid>
+      <g:id>399980213</g:id>
+      <g:title>Miel de Sidr real Asimi 1 kg</g:title>
+      <g:description>Miel de Sidr real Asimi 1 kg. Miel de Sidr. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-real-asimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/9AlLVVvgQFgf9aUk7BfzU7jWZ0wLDx6gSpeLOgnR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>680.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">427525089</guid>
+      <g:id>427525089</g:id>
+      <g:title>Miel de Sidr Asimi real 250 g</g:title>
+      <g:description>Miel de Sidr Asimi real 250 g. Miel de Sidr. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-asimi-real-250-g/p427525089?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Kywlg8BoSYhjO7VnjtnY0ACbQ48bUrPbJqKIodoH.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>169.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">14589094</guid>
       <g:id>14589094</g:id>
@@ -56,180 +181,6 @@
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">940145162</guid>
-      <g:id>940145162</g:id>
-      <g:title>Miel de Athl (Saal) 250 g</g:title>
-      <g:description>Miel de Athl (Saal) 250 g. Otras mieles. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-athl-saal-250-g/p940145162?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/NwXhXDKpUNQMJBeyfIlmUGQVGv4Tl4Il4wtMA9RX.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021003001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1115299087</guid>
-      <g:id>1115299087</g:id>
-      <g:title>Miel de Athl (Saal) 500 g</g:title>
-      <g:description>Miel de Athl (Saal) 500 g. Otras mieles. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-athl-saal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/YiR4vDHjYxdqbbqzCJBOyimrZkv8N3uGUhbfb4Qt.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>165.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021003002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">979497193</guid>
-      <g:id>979497193</g:id>
-      <g:title>Miel de Sidr de Cachemira 500 g</g:title>
-      <g:description>Miel de Sidr de Cachemira 500 g. Miel de Sidr. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-de-cachemira-500-g/p979497193?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/pfmDvmQJvTfnunY1ulJ6Qnt0zbjRCflj5xXuFitJ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>43.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1206195242</guid>
-      <g:id>1206195242</g:id>
-      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
-      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g. Manuka. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/y0wjcf9KzXhopKlvsDGpK54S7U0pRGT4RaGqx1pL.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>148.99 SAR</g:price>
-      <g:sale_price>118.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041045001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">732821654</guid>
-      <g:id>732821654</g:id>
-      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 15+, MGO 550+, 250 g</g:title>
-      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 15+, MGO 550+, 250 g. Manuka. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-15-mgo-550-250-g/p732821654?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/VSgGcb8INCa4jY1hI0wOGKqznHkOyLH20Eh9yOUS.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>300.00 SAR</g:price>
-      <g:sale_price>269.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041046001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">266726712</guid>
-      <g:id>266726712</g:id>
-      <g:title>Jalea real en polvo - 30 g</g:title>
-      <g:description>Jalea real en polvo - 30 g. Productos de la colmena. 0.03 kg.</g:description>
-      <g:link>https://areesh.sa/es/jalea-real-en-polvo-30-g/p266726712?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/nYO6ApIfK3rgwGYtzbpVCy2E7tvk0ypFvHb7UA3r.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061009002</g:item_group_id>
-      <g:shipping_weight>0.03 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">581260348</guid>
-      <g:id>581260348</g:id>
-      <g:title>Box de Lujo (dos envases de miel de Sidr natural)</g:title>
-      <g:description>Box de Lujo (dos envases de miel de Sidr natural). Regalos. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/box-de-lujo-dos-envases-de-miel-de-sidr-natural/p581260348?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/fC9eRTb9c4kKCskqR7jwRSoM6K3wuNIIwXUcwxhl.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/G6gl8bKXEOEDWco37zY0hv7gO5pbhVyYC1aWdjUM.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/fN0zV071PfVeubrp5bCpLg0jdLeLdhlTcErDBTJv.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/b6DthAAhp2R57u8Wx6kiFo2riVD5XWhx9yqYd746.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/ugT6nKxlp6YeHKgPudC6lIV1TSTYvsg6BDkEkXz2.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>250.00 SAR</g:price>
-      <g:sale_price>138.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>014001003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Regalos</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1808589975</guid>
-      <g:id>1808589975</g:id>
-      <g:title>3 envases de polen de abeja de 500 g</g:title>
-      <g:description>3 envases de polen de abeja de 500 g. Productos de la colmena. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/3-envases-de-polen-de-abeja-de-500-g/p1808589975?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>270.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007004</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">115482841</guid>
-      <g:id>115482841</g:id>
-      <g:title>Polen de abeja - 30 g</g:title>
-      <g:description>Polen de abeja - 30 g. Productos de la colmena. 0.03 kg.</g:description>
-      <g:link>https://areesh.sa/es/polen-de-abeja-30-g/p115482841?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/putIg7IsnmqnW0uYErZEMMJqaRAe53ABOOoTffip.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/jS4d0Yi0RlJ9iFwPsqqZRBGTnF2NyDqK4ML45VUt.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>17.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007030</g:item_group_id>
-      <g:shipping_weight>0.03 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">547643097</guid>
-      <g:id>547643097</g:id>
-      <g:title>Miel de la Selva Negra 1 kg</g:title>
-      <g:description>Miel de la Selva Negra 1 kg. Otras mieles. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-la-selva-negra-1-kg/p547643097?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/cCDh74Ib3VqS2wuPTjVZuCsngcvAvKoA0yvGlqlR.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>138.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">769082882</guid>
-      <g:id>769082882</g:id>
-      <g:title>Miel del Bosque Negro (miel de mielada) 250 g</g:title>
-      <g:description>Miel del Bosque Negro (miel de mielada) 250 g. Otras mieles. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-del-bosque-negro-miel-de-mielada-250-g/p769082882?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/X21NBmmELIX9Zd4S416sdB00PQxGukbOHQrvjpva.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>43.45 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1126573678</guid>
       <g:id>1126573678</g:id>
       <g:title>Miel de Sidr hadrami 500 g</g:title>
@@ -246,35 +197,51 @@
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1339577181</guid>
-      <g:id>1339577181</g:id>
-      <g:title>Miel del Bosque Negro (miel de mielada) 500 g</g:title>
-      <g:description>Miel del Bosque Negro (miel de mielada) 500 g. Otras mieles. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-del-bosque-negro-miel-de-mielada-500-g/p1339577181?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/GR7P1LaQXH2aj9DDRyfKel2m8PgurmmrIHahLNWZ.jpg</g:image_link>
+      <guid isPermaLink="false">277670775</guid>
+      <g:id>277670775</g:id>
+      <g:title>4 kg de miel de flores natural</g:title>
+      <g:description>4 kg de miel de flores natural. Miel de flores. 4.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/4-kg-de-miel-de-flores-natural/p277670775?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/VFQUjfo4cIRtrUWzS4rxmheAxhsAnZjfmXS0kJ13.jpg</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>79.99 SAR</g:price>
+      <g:price>239.99 SAR</g:price>
+      <g:sale_price>120.99 SAR</g:sale_price>
       <g:brand>Areesh</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:item_group_id>00410030404</g:item_group_id>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">283801056</guid>
-      <g:id>283801056</g:id>
-      <g:title>Propóleo natural del país - 65 gramos</g:title>
-      <g:description>Propóleo natural del país - 65 gramos. Productos de la colmena. 0.08 kg.</g:description>
-      <g:link>https://areesh.sa/es/prop-leo-natural-del-pa-s-65-gramos/p283801056?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/s9O9j1rxvZv3tVLfMQfi4VLbwWsWuh1hW9xGfX7D.png</g:image_link>
+      <guid isPermaLink="false">1115299087</guid>
+      <g:id>1115299087</g:id>
+      <g:title>Miel de Athl (Saal) 500 g</g:title>
+      <g:description>Miel de Athl (Saal) 500 g. Otras mieles. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-athl-saal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/YiR4vDHjYxdqbbqzCJBOyimrZkv8N3uGUhbfb4Qt.jpg</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
+      <g:price>165.00 SAR</g:price>
       <g:brand>Areesh</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061040001</g:item_group_id>
-      <g:shipping_weight>0.08 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:item_group_id>0021003002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">940145162</guid>
+      <g:id>940145162</g:id>
+      <g:title>Miel de Athl (Saal) 250 g</g:title>
+      <g:description>Miel de Athl (Saal) 250 g. Otras mieles. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-athl-saal-250-g/p940145162?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/NwXhXDKpUNQMJBeyfIlmUGQVGv4Tl4Il4wtMA9RX.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1559827680</guid>
       <g:id>1559827680</g:id>
@@ -292,80 +259,20 @@
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
-      <guid isPermaLink="false">311732055</guid>
-      <g:id>311732055</g:id>
-      <g:title>Propóleo en polvo (própolis o pegamento de abejas) 15 g</g:title>
-      <g:description>Propóleo en polvo (própolis o pegamento de abejas) 15 g. Productos de la colmena. 0.015 kg.</g:description>
-      <g:link>https://areesh.sa/es/prop-leo-en-polvo-pr-polis-o-pegamento-de-abejas-15-g/p311732055?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/qOZfxUPWR3ICLPBYyzRo1N32dfI4T6sCt4s68rN6.png</g:image_link>
+      <guid isPermaLink="false">769082882</guid>
+      <g:id>769082882</g:id>
+      <g:title>Miel del Bosque Negro (miel de mielada) 250 g</g:title>
+      <g:description>Miel del Bosque Negro (miel de mielada) 250 g. Otras mieles. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-del-bosque-negro-miel-de-mielada-250-g/p769082882?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/X21NBmmELIX9Zd4S416sdB00PQxGukbOHQrvjpva.jpg</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
+      <g:price>43.45 SAR</g:price>
       <g:brand>Areesh</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>006-1005</g:item_group_id>
-      <g:shipping_weight>0.015 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">378951093</guid>
-      <g:id>378951093</g:id>
-      <g:title>Miel de Sidr de Hadramaut 1 kg</g:title>
-      <g:description>Miel de Sidr de Hadramaut 1 kg. Miel de Sidr. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-de-hadramaut-1-kg/p378951093?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/xok4Bbw7fjjxNzsgtrqwlqoVKTOToaVXrFR6AFDr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>450.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011207003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">399980213</guid>
-      <g:id>399980213</g:id>
-      <g:title>Miel de Sidr real Asimi 1 kg</g:title>
-      <g:description>Miel de Sidr real Asimi 1 kg. Miel de Sidr. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-real-asimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/9AlLVVvgQFgf9aUk7BfzU7jWZ0wLDx6gSpeLOgnR.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>680.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">427525089</guid>
-      <g:id>427525089</g:id>
-      <g:title>Miel de Sidr Asimi real 250 g</g:title>
-      <g:description>Miel de Sidr Asimi real 250 g. Miel de Sidr. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-asimi-real-250-g/p427525089?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Kywlg8BoSYhjO7VnjtnY0ACbQ48bUrPbJqKIodoH.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>169.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002001</g:item_group_id>
+      <g:item_group_id>0041010001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1700113743</guid>
-      <g:id>1700113743</g:id>
-      <g:title>Miel de Sidr real Asimi 500 g</g:title>
-      <g:description>Miel de Sidr real Asimi 500 g. Miel de Sidr. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-real-asimi-500-g/p1700113743?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/RGKlMExd48ZB4GI5Lc1cJjP17Qv6fCjnoB07Necf.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>340.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1749454899</guid>
       <g:id>1749454899</g:id>
@@ -382,20 +289,113 @@
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">277670775</guid>
-      <g:id>277670775</g:id>
-      <g:title>4 kg de miel de flores natural</g:title>
-      <g:description>4 kg de miel de flores natural. Miel de flores. 4.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/4-kg-de-miel-de-flores-natural/p277670775?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/VFQUjfo4cIRtrUWzS4rxmheAxhsAnZjfmXS0kJ13.jpg</g:image_link>
+      <guid isPermaLink="false">378951093</guid>
+      <g:id>378951093</g:id>
+      <g:title>Miel de Sidr de Hadramaut 1 kg</g:title>
+      <g:description>Miel de Sidr de Hadramaut 1 kg. Miel de Sidr. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-de-hadramaut-1-kg/p378951093?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/xok4Bbw7fjjxNzsgtrqwlqoVKTOToaVXrFR6AFDr.jpg</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>239.99 SAR</g:price>
-      <g:sale_price>120.99 SAR</g:sale_price>
+      <g:price>450.00 SAR</g:price>
       <g:brand>Areesh</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00410030404</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-  </channel>
+      <g:item_group_id>0011207003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1808589975</guid>
+      <g:id>1808589975</g:id>
+      <g:title>3 envases de polen de abeja de 500 g</g:title>
+      <g:description>3 envases de polen de abeja de 500 g. Productos de la colmena. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/3-envases-de-polen-de-abeja-de-500-g/p1808589975?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>270.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007004</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1339577181</guid>
+      <g:id>1339577181</g:id>
+      <g:title>Miel del Bosque Negro (miel de mielada) 500 g</g:title>
+      <g:description>Miel del Bosque Negro (miel de mielada) 500 g. Otras mieles. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-del-bosque-negro-miel-de-mielada-500-g/p1339577181?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/GR7P1LaQXH2aj9DDRyfKel2m8PgurmmrIHahLNWZ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>79.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">115482841</guid>
+      <g:id>115482841</g:id>
+      <g:title>Polen de abeja - 30 g</g:title>
+      <g:description>Polen de abeja - 30 g. Productos de la colmena. 0.03 kg.</g:description>
+      <g:link>https://areesh.sa/es/polen-de-abeja-30-g/p115482841?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/putIg7IsnmqnW0uYErZEMMJqaRAe53ABOOoTffip.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/jS4d0Yi0RlJ9iFwPsqqZRBGTnF2NyDqK4ML45VUt.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007030</g:item_group_id>
+      <g:shipping_weight>0.03 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">266726712</guid>
+      <g:id>266726712</g:id>
+      <g:title>Jalea real en polvo - 30 g</g:title>
+      <g:description>Jalea real en polvo - 30 g. Productos de la colmena. 0.03 kg.</g:description>
+      <g:link>https://areesh.sa/es/jalea-real-en-polvo-30-g/p266726712?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/nYO6ApIfK3rgwGYtzbpVCy2E7tvk0ypFvHb7UA3r.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061009002</g:item_group_id>
+      <g:shipping_weight>0.03 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">827374682</guid>
+      <g:id>827374682</g:id>
+      <g:title>6 kilos de miel de comino negro (envío gratis)</g:title>
+      <g:description>6 kilos de miel de comino negro (envío gratis). Otras mieles. 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/6-kilos-de-miel-de-comino-negro-env-o-gratis/p827374682?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/piTqGO4MAtXg1oOMiiO4WFibp4skK9XbVBJC6O4h.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>690.00 SAR</g:price>
+      <g:sale_price>255.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>014101037</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1206195242</guid>
+      <g:id>1206195242</g:id>
+      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
+      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g. Manuka. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/y0wjcf9KzXhopKlvsDGpK54S7U0pRGT4RaGqx1pL.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>148.99 SAR</g:price>
+      <g:sale_price>118.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041045001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    </channel>
 </rss>

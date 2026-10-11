@@ -4,10 +4,553 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:05:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1525447859</guid>
+      <g:id>1525447859</g:id>
+      <g:title>Doğal Petek Balı 400 gram</g:title>
+      <g:description>Doğal Petek Balı 400 gram. Diğer Ballar. 0.4 kg.</g:description>
+      <g:link>https://areesh.sa/tr/do-al-petek-bal-400-gram/p1525447859?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/LuHbx4EawLh862KrdFOlfcYKLcJRoXdoMIALBG7I.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031016</g:item_group_id>
+      <g:shipping_weight>0.4 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1307810461</guid>
+      <g:id>1307810461</g:id>
+      <g:title>Doğal Petek Balı 200 gram</g:title>
+      <g:description>Doğal Petek Balı 200 gram. Diğer Ballar. 0.4 kg.</g:description>
+      <g:link>https://areesh.sa/tr/do-al-petek-bal-200-gram/p1307810461?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/3GVwyVd3Zh7gytSCM16urysElpxHtRf38Bu5nFdu.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031015</g:item_group_id>
+      <g:shipping_weight>0.4 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2144586991</guid>
+      <g:id>2144586991</g:id>
+      <g:title>Doğal Petek Balı 1250 gram</g:title>
+      <g:description>Doğal Petek Balı 1250 gram. Diğer Ballar. 1.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/do-al-petek-bal-1250-gram/p2144586991?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/2oE7MWZkN5V4FxoA2iu0sOkWuo4u7CEsnfsk91BJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031017</g:item_group_id>
+      <g:shipping_weight>1.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">979497193</guid>
+      <g:id>979497193</g:id>
+      <g:title>Keşmir Sidr Balı 500 g</g:title>
+      <g:description>Keşmir Sidr Balı 500 g. Sidr Balı. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-500-g/p979497193?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/pfmDvmQJvTfnunY1ulJ6Qnt0zbjRCflj5xXuFitJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>43.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">170211675</guid>
+      <g:id>170211675</g:id>
+      <g:title>12 Kilo Doğal Sidr Balı</g:title>
+      <g:description>12 Kilo Doğal Sidr Balı. Sidr Balı. 12.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/12-kilo-do-al-sidr-bal/p170211675?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/9Dwz8Taes93AcsyOTe1eqJSnXgG1VNztEJYNXMJo.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1140.01 SAR</g:price>
+      <g:sale_price>396.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>151500012</g:item_group_id>
+      <g:shipping_weight>12.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>12kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">283801056</guid>
+      <g:id>283801056</g:id>
+      <g:title>Doğal Yöresel Propolis 65 Gram</g:title>
+      <g:description>Doğal Yöresel Propolis 65 Gram. Arı Ürünleri. 0.08 kg.</g:description>
+      <g:link>https://areesh.sa/tr/do-al-y-resel-propolis-65-gram/p283801056?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/s9O9j1rxvZv3tVLfMQfi4VLbwWsWuh1hW9xGfX7D.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.08 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">732821654</guid>
+      <g:id>732821654</g:id>
+      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 15+, MGO 550+, 250 g</g:title>
+      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 15+, MGO 550+, 250 g. Manuka. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-15-mgo-550-250-g/p732821654?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/VSgGcb8INCa4jY1hI0wOGKqznHkOyLH20Eh9yOUS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>300.00 SAR</g:price>
+      <g:sale_price>269.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041046001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">552143552</guid>
+      <g:id>552143552</g:id>
+      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g</g:title>
+      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g. Manuka. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-20-mgo-830-250-g/p552143552?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/1mrXQSiPaYO45MRHX5U4os9cxYg4IeZ37plxXKxg.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>500.00 SAR</g:price>
+      <g:sale_price>399.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041051001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1394374627</guid>
+      <g:id>1394374627</g:id>
+      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 10+, MGO 300+, 250 g</g:title>
+      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 10+, MGO 300+, 250 g. Manuka. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-10-mgo-300-250-g/p1394374627?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/WSSkShcmYsV3dcgINonjE7MaXTE6BQvBo9GtDFJz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>199.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041047001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">311732055</guid>
+      <g:id>311732055</g:id>
+      <g:title>Toz Propolis (Arı Zamkı) 15 g</g:title>
+      <g:description>Toz Propolis (Arı Zamkı) 15 g. Arı Ürünleri. 0.015 kg.</g:description>
+      <g:link>https://areesh.sa/tr/toz-propolis-ar-zamk-15-g/p311732055?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/qOZfxUPWR3ICLPBYyzRo1N32dfI4T6sCt4s68rN6.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006-1005</g:item_group_id>
+      <g:shipping_weight>0.015 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">547643097</guid>
+      <g:id>547643097</g:id>
+      <g:title>Kara Orman Balı 1 kg</g:title>
+      <g:description>Kara Orman Balı 1 kg. Diğer Ballar. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/kara-orman-bal-1-kg/p547643097?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/cCDh74Ib3VqS2wuPTjVZuCsngcvAvKoA0yvGlqlR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1386198566</guid>
+      <g:id>1386198566</g:id>
+      <g:title>Arı Sütü 15 g</g:title>
+      <g:description>Arı Sütü 15 g. Arı Ürünleri. 0.015 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ar-s-t-15-g/p1386198566?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/GhtTU0REJiol4iTq9QEDSbUiOokF9ZejZmbg9GkH.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061009015</g:item_group_id>
+      <g:shipping_weight>0.015 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1700113743</guid>
+      <g:id>1700113743</g:id>
+      <g:title>Kraliyet Asimi Sidr Balı 500 g</g:title>
+      <g:description>Kraliyet Asimi Sidr Balı 500 g. Sidr Balı. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/kraliyet-asimi-sidr-bal-500-g/p1700113743?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/RGKlMExd48ZB4GI5Lc1cJjP17Qv6fCjnoB07Necf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>340.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">515879663</guid>
+      <g:id>515879663</g:id>
+      <g:title>Keşmir Sidr Balı 2 Kilo</g:title>
+      <g:description>Keşmir Sidr Balı 2 Kilo. Sidr Balı. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-2-kilo/p515879663?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/CFlHtusVrxS6y5RCtKT7gA62nkesoKr1Fp6AOM7a.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>170.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">581260348</guid>
+      <g:id>581260348</g:id>
+      <g:title>Lüks Kutu (2 Kavanoz Doğal Sidr Balı)</g:title>
+      <g:description>Lüks Kutu (2 Kavanoz Doğal Sidr Balı). Hediyeler. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/l-ks-kutu-2-kavanoz-do-al-sidr-bal/p581260348?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/fC9eRTb9c4kKCskqR7jwRSoM6K3wuNIIwXUcwxhl.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/G6gl8bKXEOEDWco37zY0hv7gO5pbhVyYC1aWdjUM.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/fN0zV071PfVeubrp5bCpLg0jdLeLdhlTcErDBTJv.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/b6DthAAhp2R57u8Wx6kiFo2riVD5XWhx9yqYd746.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/ugT6nKxlp6YeHKgPudC6lIV1TSTYvsg6BDkEkXz2.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>250.00 SAR</g:price>
+      <g:sale_price>138.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>014001003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">399980213</guid>
+      <g:id>399980213</g:id>
+      <g:title>Kraliyet Asimi Sidr Balı 1 kg</g:title>
+      <g:description>Kraliyet Asimi Sidr Balı 1 kg. Sidr Balı. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/kraliyet-asimi-sidr-bal-1-kg/p399980213?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/9AlLVVvgQFgf9aUk7BfzU7jWZ0wLDx6gSpeLOgnR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>680.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1753534952</guid>
+      <g:id>1753534952</g:id>
+      <g:title>Keşmir Sidr Balı 1 Kilo</g:title>
+      <g:description>Keşmir Sidr Balı 1 Kilo. Sidr Balı. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-1-kilo/p1753534952?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/ADWqnYXGOetks2JDbpcZyA1A1cMeNISUJE44M4zL.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">427525089</guid>
+      <g:id>427525089</g:id>
+      <g:title>Kraliyet Asimi Sidr Balı 250 g</g:title>
+      <g:description>Kraliyet Asimi Sidr Balı 250 g. Sidr Balı. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/kraliyet-asimi-sidr-bal-250-g/p427525089?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Kywlg8BoSYhjO7VnjtnY0ACbQ48bUrPbJqKIodoH.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>169.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1714110187</guid>
+      <g:id>1714110187</g:id>
+      <g:title>Keşmir Sidr Balı 250 g</g:title>
+      <g:description>Keşmir Sidr Balı 250 g. Sidr Balı. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-250-g/p1714110187?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/nqAcOpGLuXx7ZBcT1NitzEzImXoqZ4jPkiKZVywo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">14589094</guid>
+      <g:id>14589094</g:id>
+      <g:title>4 kg Doğal Sidr Balı + 2 kg Çiçek Balı Hediye</g:title>
+      <g:description>4 kg Doğal Sidr Balı + 2 kg Çiçek Balı Hediye. Sidr Balı. 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/4-kg-do-al-sidr-bal-2-kg-i-ek-bal-hediye/p14589094?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/fKx1M1mIKS2YKWXycAoe0E5qYOAMMwfEHm7nnBDO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.00 SAR</g:price>
+      <g:sale_price>196.01 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00410031515</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">26663992</guid>
+      <g:id>26663992</g:id>
+      <g:title>Arı Poleni</g:title>
+      <g:description>Arı Poleni. Arı Ürünleri. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ar-poleni/p26663992?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Bvbe5atJtFlHGnQ3IccLEdK4S2CelRW5ZLOWmr1C.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>139.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">765679051</guid>
+      <g:id>765679051</g:id>
+      <g:title>Areesh Kraliyet Karışımı (500 g Kavanoz)</g:title>
+      <g:description>Areesh Kraliyet Karışımı (500 g Kavanoz). Bal Karışımları. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/areesh-kraliyet-kar-m-500-g-kavanoz/p765679051?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Z1ABM5RCxcWQqYXPQSWdgO8291kSASmn8nyQVFhN.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/irWb4WEsJ9or9qbAAYcN3HO46Kbalr0H9EWrsKE1.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/MFDl8ZIKYtEx6xAzQ1MnFA5PZHxGx4S48686lJ9F.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/TymjdoDSTEWajtTUJczOjQ94fEc5BxyYJ6O23SVK.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>199.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>014001001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Bal Karışımları</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">277670775</guid>
+      <g:id>277670775</g:id>
+      <g:title>4 kg Doğal Çiçek Balı</g:title>
+      <g:description>4 kg Doğal Çiçek Balı. Çiçek Balı. 4.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/4-kg-do-al-i-ek-bal/p277670775?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/VFQUjfo4cIRtrUWzS4rxmheAxhsAnZjfmXS0kJ13.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>239.99 SAR</g:price>
+      <g:sale_price>120.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00410030404</g:item_group_id>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Çiçek Balı</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1115299087</guid>
+      <g:id>1115299087</g:id>
+      <g:title>Athel Balı (Sal) 500 gram</g:title>
+      <g:description>Athel Balı (Sal) 500 gram. Diğer Ballar. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/athel-bal-sal-500-gram/p1115299087?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/YiR4vDHjYxdqbbqzCJBOyimrZkv8N3uGUhbfb4Qt.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>165.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">940145162</guid>
+      <g:id>940145162</g:id>
+      <g:title>Athel Balı (Sal) 250 gram</g:title>
+      <g:description>Athel Balı (Sal) 250 gram. Diğer Ballar. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/athel-bal-sal-250-gram/p940145162?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/NwXhXDKpUNQMJBeyfIlmUGQVGv4Tl4Il4wtMA9RX.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">503369224</guid>
+      <g:id>503369224</g:id>
+      <g:title>10 kg Keşmir Sidr Balı + Ücretsiz Kargo</g:title>
+      <g:description>10 kg Keşmir Sidr Balı + Ücretsiz Kargo. Sidr Balı. 10.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/10-kg-ke-mir-sidr-bal-cretsiz-kargo/p503369224?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/9442457d-275a-4216-921a-0330d53a8e0e-500x500-dAixw2zewYARey32efIzuaUnSvOH7wAlzighS7Rt.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>850.00 SAR</g:price>
+      <g:sale_price>598.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006010</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1559827680</guid>
+      <g:id>1559827680</g:id>
+      <g:title>5 kg Keşmir Sidr Balı + Ücretsiz Kargo</g:title>
+      <g:description>5 kg Keşmir Sidr Balı + Ücretsiz Kargo. Sidr Balı. 5.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/5-kg-ke-mir-sidr-bal-cretsiz-kargo/p1559827680?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/66f6897d-a5dc-47a8-b447-143d7c876dd9-500x500-3NnOcvbds4KTM6SbTMVrPjFMV9dsRqn9kVlVo9vz.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>424.99 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">769082882</guid>
+      <g:id>769082882</g:id>
+      <g:title>Kara Orman Balı 250 g</g:title>
+      <g:description>Kara Orman Balı 250 g. Diğer Ballar. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/kara-orman-bal-250-g/p769082882?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/X21NBmmELIX9Zd4S416sdB00PQxGukbOHQrvjpva.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>43.45 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">381216167</guid>
+      <g:id>381216167</g:id>
+      <g:title>5 kg Çörek Otu Balı + Ücretsiz Kargo</g:title>
+      <g:description>5 kg Çörek Otu Balı + Ücretsiz Kargo. Diğer Ballar. 5.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/5-kg-rek-otu-bal-cretsiz-kargo/p381216167?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/a4d1139d-10aa-448d-96ff-d9c18a6db9ab-500x500-oinD5pLnQFLgPb1wiVtxa3UHRUZITZ89bWGeahUM.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>690.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1749454899</guid>
+      <g:id>1749454899</g:id>
+      <g:title>Hadramut Sidr Balı 250 g</g:title>
+      <g:description>Hadramut Sidr Balı 250 g. Sidr Balı. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/tr/hadramut-sidr-bal-250-g/p1749454899?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/PVuidvrDbMOaudZZrz4wOpNfBn9I9SWXRLOwTSNr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>124.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">378951093</guid>
+      <g:id>378951093</g:id>
+      <g:title>Hadramut Sidr Balı 1 kg</g:title>
+      <g:description>Hadramut Sidr Balı 1 kg. Sidr Balı. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/hadramut-sidr-bal-1-kg/p378951093?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/xok4Bbw7fjjxNzsgtrqwlqoVKTOToaVXrFR6AFDr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>450.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1808589975</guid>
+      <g:id>1808589975</g:id>
+      <g:title>3 Paket Polen Taneleri 500 gram</g:title>
+      <g:description>3 Paket Polen Taneleri 500 gram. Arı Ürünleri. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/3-paket-polen-taneleri-500-gram/p1808589975?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>270.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007004</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1339577181</guid>
+      <g:id>1339577181</g:id>
+      <g:title>Kara Orman Balı 500 g</g:title>
+      <g:description>Kara Orman Balı 500 g. Diğer Ballar. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/kara-orman-bal-500-g/p1339577181?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/GR7P1LaQXH2aj9DDRyfKel2m8PgurmmrIHahLNWZ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>79.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">115482841</guid>
+      <g:id>115482841</g:id>
+      <g:title>Polen Taneleri - 30 g</g:title>
+      <g:description>Polen Taneleri - 30 g. Arı Ürünleri. 0.03 kg.</g:description>
+      <g:link>https://areesh.sa/tr/polen-taneleri-30-g/p115482841?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/putIg7IsnmqnW0uYErZEMMJqaRAe53ABOOoTffip.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/jS4d0Yi0RlJ9iFwPsqqZRBGTnF2NyDqK4ML45VUt.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007030</g:item_group_id>
+      <g:shipping_weight>0.03 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">266726712</guid>
+      <g:id>266726712</g:id>
+      <g:title>Arı Sütü Tozu - 30 g</g:title>
+      <g:description>Arı Sütü Tozu - 30 g. Arı Ürünleri. 0.03 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ar-s-t-tozu-30-g/p266726712?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/nYO6ApIfK3rgwGYtzbpVCy2E7tvk0ypFvHb7UA3r.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061009002</g:item_group_id>
+      <g:shipping_weight>0.03 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1882360715</guid>
       <g:id>1882360715</g:id>
@@ -596,24 +1139,6 @@
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Semure Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">765679051</guid>
-      <g:id>765679051</g:id>
-      <g:title>Areesh Kraliyet Karışımı (500 g Kavanoz)</g:title>
-      <g:description>Areesh Kraliyet Karışımı (500 g Kavanoz). Bal Karışımları. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/areesh-kraliyet-kar-m-500-g-kavanoz/p765679051?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Z1ABM5RCxcWQqYXPQSWdgO8291kSASmn8nyQVFhN.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/irWb4WEsJ9or9qbAAYcN3HO46Kbalr0H9EWrsKE1.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/MFDl8ZIKYtEx6xAzQ1MnFA5PZHxGx4S48686lJ9F.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/TymjdoDSTEWajtTUJczOjQ94fEc5BxyYJ6O23SVK.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>199.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>014001001</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Bal Karışımları</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">480738937</guid>
       <g:id>480738937</g:id>
       <g:title>2 Kilo Doğal Çiçek Balı</g:title>
@@ -901,22 +1426,6 @@
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">170211675</guid>
-      <g:id>170211675</g:id>
-      <g:title>12 Kilo Doğal Sidr Balı</g:title>
-      <g:description>12 Kilo Doğal Sidr Balı. Sidr Balı. 12.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/12-kilo-do-al-sidr-bal/p170211675?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/9Dwz8Taes93AcsyOTe1eqJSnXgG1VNztEJYNXMJo.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1140.01 SAR</g:price>
-      <g:sale_price>396.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>151500012</g:item_group_id>
-      <g:shipping_weight>12.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>12kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">827374682</guid>
       <g:id>827374682</g:id>
       <g:title>6 Kilo Çörek Otu Balı (Ücretsiz Kargo)</g:title>
@@ -985,174 +1494,6 @@
       <g:shipping_weight>12.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Çiçek Balı</g:custom_label_3><g:unit_pricing_measure>12kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">14589094</guid>
-      <g:id>14589094</g:id>
-      <g:title>4 kg Doğal Sidr Balı + 2 kg Çiçek Balı Hediye</g:title>
-      <g:description>4 kg Doğal Sidr Balı + 2 kg Çiçek Balı Hediye. Sidr Balı. 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/4-kg-do-al-sidr-bal-2-kg-i-ek-bal-hediye/p14589094?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/fKx1M1mIKS2YKWXycAoe0E5qYOAMMwfEHm7nnBDO.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>249.00 SAR</g:price>
-      <g:sale_price>196.01 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00410031515</g:item_group_id>
-      <g:shipping_weight>6.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1753534952</guid>
-      <g:id>1753534952</g:id>
-      <g:title>Keşmir Sidr Balı 1 Kilo</g:title>
-      <g:description>Keşmir Sidr Balı 1 Kilo. Sidr Balı. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-1-kilo/p1753534952?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/ADWqnYXGOetks2JDbpcZyA1A1cMeNISUJE44M4zL.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>85.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1714110187</guid>
-      <g:id>1714110187</g:id>
-      <g:title>Keşmir Sidr Balı 250 g</g:title>
-      <g:description>Keşmir Sidr Balı 250 g. Sidr Balı. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-250-g/p1714110187?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/nqAcOpGLuXx7ZBcT1NitzEzImXoqZ4jPkiKZVywo.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>22.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">515879663</guid>
-      <g:id>515879663</g:id>
-      <g:title>Keşmir Sidr Balı 2 Kilo</g:title>
-      <g:description>Keşmir Sidr Balı 2 Kilo. Sidr Balı. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-2-kilo/p515879663?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/CFlHtusVrxS6y5RCtKT7gA62nkesoKr1Fp6AOM7a.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>170.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006004</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">381216167</guid>
-      <g:id>381216167</g:id>
-      <g:title>5 kg Çörek Otu Balı + Ücretsiz Kargo</g:title>
-      <g:description>5 kg Çörek Otu Balı + Ücretsiz Kargo. Diğer Ballar. 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/5-kg-rek-otu-bal-cretsiz-kargo/p381216167?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/a4d1139d-10aa-448d-96ff-d9c18a6db9ab-500x500-oinD5pLnQFLgPb1wiVtxa3UHRUZITZ89bWGeahUM.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>690.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041004005</g:item_group_id>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">1386198566</guid>
-      <g:id>1386198566</g:id>
-      <g:title>Arı Sütü 15 g</g:title>
-      <g:description>Arı Sütü 15 g. Arı Ürünleri. 0.015 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ar-s-t-15-g/p1386198566?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/GhtTU0REJiol4iTq9QEDSbUiOokF9ZejZmbg9GkH.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061009015</g:item_group_id>
-      <g:shipping_weight>0.015 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">503369224</guid>
-      <g:id>503369224</g:id>
-      <g:title>10 kg Keşmir Sidr Balı + Ücretsiz Kargo</g:title>
-      <g:description>10 kg Keşmir Sidr Balı + Ücretsiz Kargo. Sidr Balı. 10.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/10-kg-ke-mir-sidr-bal-cretsiz-kargo/p503369224?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/9442457d-275a-4216-921a-0330d53a8e0e-500x500-dAixw2zewYARey32efIzuaUnSvOH7wAlzighS7Rt.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>850.00 SAR</g:price>
-      <g:sale_price>598.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006010</g:item_group_id>
-      <g:shipping_weight>10.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">26663992</guid>
-      <g:id>26663992</g:id>
-      <g:title>Arı Poleni</g:title>
-      <g:description>Arı Poleni. Arı Ürünleri. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ar-poleni/p26663992?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Bvbe5atJtFlHGnQ3IccLEdK4S2CelRW5ZLOWmr1C.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>139.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007001</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">940145162</guid>
-      <g:id>940145162</g:id>
-      <g:title>Athel Balı (Sal) 250 gram</g:title>
-      <g:description>Athel Balı (Sal) 250 gram. Diğer Ballar. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/athel-bal-sal-250-gram/p940145162?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/NwXhXDKpUNQMJBeyfIlmUGQVGv4Tl4Il4wtMA9RX.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021003001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1115299087</guid>
-      <g:id>1115299087</g:id>
-      <g:title>Athel Balı (Sal) 500 gram</g:title>
-      <g:description>Athel Balı (Sal) 500 gram. Diğer Ballar. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/athel-bal-sal-500-gram/p1115299087?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/YiR4vDHjYxdqbbqzCJBOyimrZkv8N3uGUhbfb4Qt.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>165.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021003002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">979497193</guid>
-      <g:id>979497193</g:id>
-      <g:title>Keşmir Sidr Balı 500 g</g:title>
-      <g:description>Keşmir Sidr Balı 500 g. Sidr Balı. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-500-g/p979497193?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/pfmDvmQJvTfnunY1ulJ6Qnt0zbjRCflj5xXuFitJ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>43.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1206195242</guid>
       <g:id>1206195242</g:id>
       <g:title>Homeland Premium Yeni Zelanda Manuka Balı UMF 5+ MGO 100+ 250 g</g:title>
@@ -1168,346 +1509,5 @@
       <g:item_group_id>0041045001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">732821654</guid>
-      <g:id>732821654</g:id>
-      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 15+, MGO 550+, 250 g</g:title>
-      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 15+, MGO 550+, 250 g. Manuka. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-15-mgo-550-250-g/p732821654?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/VSgGcb8INCa4jY1hI0wOGKqznHkOyLH20Eh9yOUS.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>300.00 SAR</g:price>
-      <g:sale_price>269.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041046001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">552143552</guid>
-      <g:id>552143552</g:id>
-      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g</g:title>
-      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g. Manuka. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-20-mgo-830-250-g/p552143552?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/1mrXQSiPaYO45MRHX5U4os9cxYg4IeZ37plxXKxg.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>500.00 SAR</g:price>
-      <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041051001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1394374627</guid>
-      <g:id>1394374627</g:id>
-      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 10+, MGO 300+, 250 g</g:title>
-      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 10+, MGO 300+, 250 g. Manuka. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-10-mgo-300-250-g/p1394374627?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/WSSkShcmYsV3dcgINonjE7MaXTE6BQvBo9GtDFJz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>199.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041047001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">266726712</guid>
-      <g:id>266726712</g:id>
-      <g:title>Arı Sütü Tozu - 30 g</g:title>
-      <g:description>Arı Sütü Tozu - 30 g. Arı Ürünleri. 0.03 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ar-s-t-tozu-30-g/p266726712?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/nYO6ApIfK3rgwGYtzbpVCy2E7tvk0ypFvHb7UA3r.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061009002</g:item_group_id>
-      <g:shipping_weight>0.03 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">581260348</guid>
-      <g:id>581260348</g:id>
-      <g:title>Lüks Kutu (2 Kavanoz Doğal Sidr Balı)</g:title>
-      <g:description>Lüks Kutu (2 Kavanoz Doğal Sidr Balı). Hediyeler. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/l-ks-kutu-2-kavanoz-do-al-sidr-bal/p581260348?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/fC9eRTb9c4kKCskqR7jwRSoM6K3wuNIIwXUcwxhl.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/G6gl8bKXEOEDWco37zY0hv7gO5pbhVyYC1aWdjUM.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/fN0zV071PfVeubrp5bCpLg0jdLeLdhlTcErDBTJv.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/b6DthAAhp2R57u8Wx6kiFo2riVD5XWhx9yqYd746.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/ugT6nKxlp6YeHKgPudC6lIV1TSTYvsg6BDkEkXz2.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>250.00 SAR</g:price>
-      <g:sale_price>138.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>014001003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1808589975</guid>
-      <g:id>1808589975</g:id>
-      <g:title>3 Paket Polen Taneleri 500 gram</g:title>
-      <g:description>3 Paket Polen Taneleri 500 gram. Arı Ürünleri. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/3-paket-polen-taneleri-500-gram/p1808589975?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>270.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007004</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">115482841</guid>
-      <g:id>115482841</g:id>
-      <g:title>Polen Taneleri - 30 g</g:title>
-      <g:description>Polen Taneleri - 30 g. Arı Ürünleri. 0.03 kg.</g:description>
-      <g:link>https://areesh.sa/tr/polen-taneleri-30-g/p115482841?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/putIg7IsnmqnW0uYErZEMMJqaRAe53ABOOoTffip.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/jS4d0Yi0RlJ9iFwPsqqZRBGTnF2NyDqK4ML45VUt.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>17.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007030</g:item_group_id>
-      <g:shipping_weight>0.03 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">547643097</guid>
-      <g:id>547643097</g:id>
-      <g:title>Kara Orman Balı 1 kg</g:title>
-      <g:description>Kara Orman Balı 1 kg. Diğer Ballar. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/kara-orman-bal-1-kg/p547643097?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/cCDh74Ib3VqS2wuPTjVZuCsngcvAvKoA0yvGlqlR.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>138.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1307810461</guid>
-      <g:id>1307810461</g:id>
-      <g:title>Doğal Petek Balı 200 gram</g:title>
-      <g:description>Doğal Petek Balı 200 gram. Diğer Ballar. 0.4 kg.</g:description>
-      <g:link>https://areesh.sa/tr/do-al-petek-bal-200-gram/p1307810461?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/3GVwyVd3Zh7gytSCM16urysElpxHtRf38Bu5nFdu.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031015</g:item_group_id>
-      <g:shipping_weight>0.4 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">769082882</guid>
-      <g:id>769082882</g:id>
-      <g:title>Kara Orman Balı 250 g</g:title>
-      <g:description>Kara Orman Balı 250 g. Diğer Ballar. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/kara-orman-bal-250-g/p769082882?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/X21NBmmELIX9Zd4S416sdB00PQxGukbOHQrvjpva.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>43.45 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2144586991</guid>
-      <g:id>2144586991</g:id>
-      <g:title>Doğal Petek Balı 1250 gram</g:title>
-      <g:description>Doğal Petek Balı 1250 gram. Diğer Ballar. 1.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/do-al-petek-bal-1250-gram/p2144586991?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/2oE7MWZkN5V4FxoA2iu0sOkWuo4u7CEsnfsk91BJ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031017</g:item_group_id>
-      <g:shipping_weight>1.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1525447859</guid>
-      <g:id>1525447859</g:id>
-      <g:title>Doğal Petek Balı 400 gram</g:title>
-      <g:description>Doğal Petek Balı 400 gram. Diğer Ballar. 0.4 kg.</g:description>
-      <g:link>https://areesh.sa/tr/do-al-petek-bal-400-gram/p1525447859?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/LuHbx4EawLh862KrdFOlfcYKLcJRoXdoMIALBG7I.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>50.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031016</g:item_group_id>
-      <g:shipping_weight>0.4 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1339577181</guid>
-      <g:id>1339577181</g:id>
-      <g:title>Kara Orman Balı 500 g</g:title>
-      <g:description>Kara Orman Balı 500 g. Diğer Ballar. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/kara-orman-bal-500-g/p1339577181?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/GR7P1LaQXH2aj9DDRyfKel2m8PgurmmrIHahLNWZ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>79.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">283801056</guid>
-      <g:id>283801056</g:id>
-      <g:title>Doğal Yöresel Propolis 65 Gram</g:title>
-      <g:description>Doğal Yöresel Propolis 65 Gram. Arı Ürünleri. 0.08 kg.</g:description>
-      <g:link>https://areesh.sa/tr/do-al-y-resel-propolis-65-gram/p283801056?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/s9O9j1rxvZv3tVLfMQfi4VLbwWsWuh1hW9xGfX7D.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061040001</g:item_group_id>
-      <g:shipping_weight>0.08 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1559827680</guid>
-      <g:id>1559827680</g:id>
-      <g:title>5 kg Keşmir Sidr Balı + Ücretsiz Kargo</g:title>
-      <g:description>5 kg Keşmir Sidr Balı + Ücretsiz Kargo. Sidr Balı. 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/5-kg-ke-mir-sidr-bal-cretsiz-kargo/p1559827680?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/66f6897d-a5dc-47a8-b447-143d7c876dd9-500x500-3NnOcvbds4KTM6SbTMVrPjFMV9dsRqn9kVlVo9vz.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>424.99 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006005</g:item_group_id>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">311732055</guid>
-      <g:id>311732055</g:id>
-      <g:title>Toz Propolis (Arı Zamkı) 15 g</g:title>
-      <g:description>Toz Propolis (Arı Zamkı) 15 g. Arı Ürünleri. 0.015 kg.</g:description>
-      <g:link>https://areesh.sa/tr/toz-propolis-ar-zamk-15-g/p311732055?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/qOZfxUPWR3ICLPBYyzRo1N32dfI4T6sCt4s68rN6.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>006-1005</g:item_group_id>
-      <g:shipping_weight>0.015 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">378951093</guid>
-      <g:id>378951093</g:id>
-      <g:title>Hadramut Sidr Balı 1 kg</g:title>
-      <g:description>Hadramut Sidr Balı 1 kg. Sidr Balı. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/hadramut-sidr-bal-1-kg/p378951093?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/xok4Bbw7fjjxNzsgtrqwlqoVKTOToaVXrFR6AFDr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>450.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011207003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">399980213</guid>
-      <g:id>399980213</g:id>
-      <g:title>Kraliyet Asimi Sidr Balı 1 kg</g:title>
-      <g:description>Kraliyet Asimi Sidr Balı 1 kg. Sidr Balı. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/kraliyet-asimi-sidr-bal-1-kg/p399980213?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/9AlLVVvgQFgf9aUk7BfzU7jWZ0wLDx6gSpeLOgnR.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>680.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">427525089</guid>
-      <g:id>427525089</g:id>
-      <g:title>Kraliyet Asimi Sidr Balı 250 g</g:title>
-      <g:description>Kraliyet Asimi Sidr Balı 250 g. Sidr Balı. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/kraliyet-asimi-sidr-bal-250-g/p427525089?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Kywlg8BoSYhjO7VnjtnY0ACbQ48bUrPbJqKIodoH.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>169.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1700113743</guid>
-      <g:id>1700113743</g:id>
-      <g:title>Kraliyet Asimi Sidr Balı 500 g</g:title>
-      <g:description>Kraliyet Asimi Sidr Balı 500 g. Sidr Balı. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/kraliyet-asimi-sidr-bal-500-g/p1700113743?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/RGKlMExd48ZB4GI5Lc1cJjP17Qv6fCjnoB07Necf.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>340.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1749454899</guid>
-      <g:id>1749454899</g:id>
-      <g:title>Hadramut Sidr Balı 250 g</g:title>
-      <g:description>Hadramut Sidr Balı 250 g. Sidr Balı. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/tr/hadramut-sidr-bal-250-g/p1749454899?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/PVuidvrDbMOaudZZrz4wOpNfBn9I9SWXRLOwTSNr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>124.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011207001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">277670775</guid>
-      <g:id>277670775</g:id>
-      <g:title>4 kg Doğal Çiçek Balı</g:title>
-      <g:description>4 kg Doğal Çiçek Balı. Çiçek Balı. 4.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/4-kg-do-al-i-ek-bal/p277670775?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/VFQUjfo4cIRtrUWzS4rxmheAxhsAnZjfmXS0kJ13.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>239.99 SAR</g:price>
-      <g:sale_price>120.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00410030404</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Çiçek Balı</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-  </channel>
+    </channel>
 </rss>
