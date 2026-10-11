@@ -105,6 +105,22 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     </item>
     <item>
+      <guid isPermaLink="false">52483795</guid>
+      <g:id>52483795</g:id>
+      <g:title>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g</g:title>
+      <g:description>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/dos-envases-de-mezcla-de-miel-al-jabal-con-sidr-natural-polen-jalea-real-y-ginse/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/bfsCkqy0KIz6MhqIUemK0hgJMnDBuYvDITfHre9P.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>780.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005002001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
       <guid isPermaLink="false">863586339</guid>
       <g:id>863586339</g:id>
       <g:title>4 kilos de pasas negras de Yemen</g:title>
@@ -1348,6 +1364,25 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0061041001</g:item_group_id>
       <g:shipping_weight>0.15 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">394421153</guid>
+      <g:id>394421153</g:id>
+      <g:title>Extracto líquido de ginseng rojo coreano 30 gramos</g:title>
+      <g:description>Extracto líquido de ginseng rojo coreano 30 gramos. 0.3 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/extracto-l-quido-de-ginseng-rojo-coreano-30-gramos/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FhtEGkiJGWrh91Vy8uyR9xUTYZw9jXOQKEEhQz40.jpeg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b4z6MLwlPKyJOHWA525U5FKqGfqBzdDeoNRcoPDX.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/6ghzQQ36ZFXxPj9bAhUG7z1URP03kqqZZ1nMCQB6.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Wj76CXk30oT8SkwrpFQ2wa3A0cOnPlQGUCjt6PZy.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/8z7OM6ZeDuSwMLKpqd0DudnD14nF0IqLRAt10OmE.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>175.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>10010002</g:item_group_id>
+      <g:shipping_weight>0.3 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">608043670</guid>
@@ -2682,6 +2717,21 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>202020201</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1165273283</guid>
+      <g:id>1165273283</g:id>
+      <g:title>Raíces de Ginseng</g:title>
+      <g:description>Raíces de Ginseng. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/ra-ces-de-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/dbf74y6fqMRmpRJs8n9ThNKT7aAHYl1OxB6DpR3g.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061001001</g:item_group_id>
+      <g:shipping_weight>0.025 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1829509087</guid>
