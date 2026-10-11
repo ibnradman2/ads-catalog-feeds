@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:17:46 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -529,12 +529,6 @@
       <g:title>Hurma Polen Tozu</g:title>
       <g:description>Hurma Polen Tozu.</g:description>
       <g:link>https://areesh.sa/tr/hurma-polen-tozu/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1404273996</g:id>
-      <g:title>Ginseng 15 Gram</g:title>
-      <g:description>Ginseng 15 Gram.</g:description>
-      <g:link>https://areesh.sa/tr/ginseng-15-gram/p1404273996?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1303550999</g:id>

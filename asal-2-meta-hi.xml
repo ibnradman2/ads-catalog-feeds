@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:17:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1125352869</g:id>
+      <g:title>बरसीम शहद (क्लोवर) 2 किलो</g:title>
+      <g:description>बरसीम शहद (क्लोवर) 2 किलो. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>985280850</g:id>
+      <g:title>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम</g:title>
+      <g:description>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>957082464</g:id>
       <g:title>रॉयल उसैमी सिद्र शहद ऑफर - मोम-छत्ते वाला रॉयल सिद्र शहद, मुफ़्त डिलीवरी के साथ</g:title>
@@ -31,12 +43,6 @@
       <g:title>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम</g:title>
       <g:description>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/3-umf-10-mgo-300-250/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>52483795</g:id>
-      <g:title>प्राकृतिक सिद्र, पराग कण, रॉयल जेली और जिनसेंग वाला ख़लतत अल जबल शहद मिक्स, 2 जार, वज़न 500 ग्राम</g:title>
-      <g:description>प्राकृतिक सिद्र, पराग कण, रॉयल जेली और जिनसेंग वाला ख़लतत अल जबल शहद मिक्स, 2 जार, वज़न 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2-500/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>863586339</g:id>
@@ -393,12 +399,6 @@
       <g:link>https://asalaljebal.sa/hi/500/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1125352869</g:id>
-      <g:title>बरसीम शहद (क्लोवर) 2 किलो</g:title>
-      <g:description>बरसीम शहद (क्लोवर) 2 किलो. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>768106172</g:id>
       <g:title>रॉयल सिद्र मोम-छत्ता शहद 7 किलो</g:title>
       <g:description>रॉयल सिद्र मोम-छत्ता शहद 7 किलो. 7.0 kg.</g:description>
@@ -421,12 +421,6 @@
       <g:title>पाकिस्तानी पेशावरी सिद्र शहद 2 किलो</g:title>
       <g:description>पाकिस्तानी पेशावरी सिद्र शहद 2 किलो. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>985280850</g:id>
-      <g:title>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम</g:title>
-      <g:description>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>950198944</g:id>
@@ -525,12 +519,6 @@
       <g:link>https://asalaljebal.sa/hi/propolis-bee-glue-15/p2006758939?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>394421153</g:id>
-      <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
-      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. 0.3 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>608043670</g:id>
       <g:title>अथल शहद (अल-साल) 2 किलो</g:title>
       <g:description>अथल शहद (अल-साल) 2 किलो. 0.5 kg.</g:description>
@@ -621,12 +609,6 @@
       <g:link>https://asalaljebal.sa/hi/15/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>2070936862</g:id>
-      <g:title>खजूर का पराग 15 ग्राम</g:title>
-      <g:description>खजूर का पराग 15 ग्राम. 0.15 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/15/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1870910750</g:id>
       <g:title>1 किलो काली किशमिश + 600 ग्राम प्राकृतिक सिद्र शहद</g:title>
       <g:description>1 किलो काली किशमिश + 600 ग्राम प्राकृतिक सिद्र शहद. 1.6 kg.</g:description>
@@ -691,12 +673,6 @@
       <g:title>मोरिंगा शहद 1 किलो</g:title>
       <g:description>मोरिंगा शहद 1 किलो. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/1/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1121679642</g:id>
-      <g:title>कोरियाई जिनसेंग 15 ग्राम</g:title>
-      <g:description>कोरियाई जिनसेंग 15 ग्राम. 0.15 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/15/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1517173604</g:id>
@@ -1149,12 +1125,6 @@
       <g:link>https://asalaljebal.sa/hi/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1165273283</g:id>
-      <g:title>जिनसेंग जड़ी-बूटी की जड़ें</g:title>
-      <g:description>जिनसेंग जड़ी-बूटी की जड़ें. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/product/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1829509087</g:id>
       <g:title>प्राकृतिक सिद्र शहद के 3 जार + मुफ़्त डिलीवरी</g:title>
       <g:description>प्राकृतिक सिद्र शहद के 3 जार + मुफ़्त डिलीवरी. 1.5 kg.</g:description>
@@ -1264,14 +1234,14 @@
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>622236865</g:id>
-      <g:title>अदरक, नींबू और हल्दी वाला शहद ड्रिंक, 9 जार</g:title>
-      <g:description>अदरक, नींबू और हल्दी वाला शहद ड्रिंक, 9 जार. 4.5 kg.</g:description>
+      <g:title>अदरक, नींबू और हल्दी वाले शहद पेय की 9 बोतलें</g:title>
+      <g:description>अदरक, नींबू और हल्दी वाले शहद पेय की 9 बोतलें. 4.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/9/p622236865?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1349303537</g:id>
-      <g:title>अदरक, नींबू और हल्दी वाला शहद ड्रिंक, 6 जार</g:title>
-      <g:description>अदरक, नींबू और हल्दी वाला शहद ड्रिंक, 6 जार. 3.0 kg.</g:description>
+      <g:title>अदरक, नींबू और हल्दी वाले शहद पेय की 6 बोतलें</g:title>
+      <g:description>अदरक, नींबू और हल्दी वाले शहद पेय की 6 बोतलें. 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/6/p1349303537?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 19:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:17:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1125352869</g:id>
+      <g:title>Miel de flor de trébol 2 kg</g:title>
+      <g:description>Miel de flor de trébol 2 kg. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>985280850</g:id>
+      <g:title>Miel de flores silvestres del sur o de Hadramaut 250 g</g:title>
+      <g:description>Miel de flores silvestres del sur o de Hadramaut 250 g. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-250-g/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>957082464</g:id>
       <g:title>Oferta de miel Sidr real Usaymi: miel Sidr real con panal y envío gratis</g:title>
@@ -31,12 +43,6 @@
       <g:title>3 Frascos de Miel de Manuka de Nueva Zelanda UMF+10, MGO 300+, 250 g</g:title>
       <g:description>3 Frascos de Miel de Manuka de Nueva Zelanda UMF+10, MGO 300+, 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/3-frascos-de-miel-de-manuka-de-nueva-zelanda-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>52483795</g:id>
-      <g:title>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g</g:title>
-      <g:description>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/dos-envases-de-mezcla-de-miel-al-jabal-con-sidr-natural-polen-jalea-real-y-ginse/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>863586339</g:id>
@@ -387,12 +393,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-500-g/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1125352869</g:id>
-      <g:title>Miel de flor de trébol 2 kg</g:title>
-      <g:description>Miel de flor de trébol 2 kg. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>768106172</g:id>
       <g:title>Miel en panal de Sidr real 7 kg</g:title>
       <g:description>Miel en panal de Sidr real 7 kg. 7.0 kg.</g:description>
@@ -415,12 +415,6 @@
       <g:title>Miel de Sidr Peshawari pakistaní, 2 kg</g:title>
       <g:description>Miel de Sidr Peshawari pakistaní, 2 kg. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-pakistan-2-kg/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>985280850</g:id>
-      <g:title>Miel de flores silvestres del sur o de Hadramaut 250 g</g:title>
-      <g:description>Miel de flores silvestres del sur o de Hadramaut 250 g. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-250-g/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>950198944</g:id>
@@ -517,12 +511,6 @@
       <g:title>Propóleo (propolis o pegamento de abejas Bee Glue) 15 g</g:title>
       <g:description>Propóleo (propolis o pegamento de abejas Bee Glue) 15 g. 0.15 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/prop-leo-propolis-o-pegamento-de-abejas-bee-glue-15-g/p2006758939?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>Extracto líquido de ginseng rojo coreano 30 gramos</g:title>
-      <g:description>Extracto líquido de ginseng rojo coreano 30 gramos. 0.3 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/extracto-l-quido-de-ginseng-rojo-coreano-30-gramos/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>608043670</g:id>
@@ -1039,12 +1027,6 @@
       <g:title>Miel de castaño española de 500 g</g:title>
       <g:description>Miel de castaño española de 500 g. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-casta-o-espa-ola-de-500-g/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1165273283</g:id>
-      <g:title>Raíces de Ginseng</g:title>
-      <g:description>Raíces de Ginseng. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/ra-ces-de-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1829509087</g:id>

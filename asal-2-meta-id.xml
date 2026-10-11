@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:17:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1125352869</g:id>
+      <g:title>Madu Semanggi 2 Kg</g:title>
+      <g:description>Madu Semanggi 2 Kg. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-semanggi-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>985280850</g:id>
+      <g:title>Madu Bunga Liar Selatan atau Hadramaut 250 Gram</g:title>
+      <g:description>Madu Bunga Liar Selatan atau Hadramaut 250 Gram. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-bunga-liar-selatan-atau-hadramaut-250-gram/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>957082464</g:id>
       <g:title>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis</g:title>
@@ -31,12 +43,6 @@
       <g:title>3 Kemasan Madu Manuka Selandia Baru UMF+10, MGO 300+, 250 gram</g:title>
       <g:description>3 Kemasan Madu Manuka Selandia Baru UMF+10, MGO 300+, 250 gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/3-kemasan-madu-manuka-selandia-baru-umf-10-mgo-300-250-gram/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>52483795</g:id>
-      <g:title>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram</g:title>
-      <g:description>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/dua-kemasan-madu-campuran-pegunungan-dengan-sidr-serbuk-sari-royal-jelly-dan-gin/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>863586339</g:id>
@@ -339,12 +345,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-bunga-liar-selatan-atau-hadramaut-500-gram/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1125352869</g:id>
-      <g:title>Madu Semanggi 2 Kg</g:title>
-      <g:description>Madu Semanggi 2 Kg. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-semanggi-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>2030973022</g:id>
       <g:title>Paket Madu Syauka Samar - Madu Hutan Hitam - Madu Habbatussauda (Gratis Ongkir)</g:title>
       <g:description>Paket Madu Syauka Samar - Madu Hutan Hitam - Madu Habbatussauda (Gratis Ongkir). 2.0 kg.</g:description>
@@ -361,12 +361,6 @@
       <g:title>Madu Sidr Peshawari Pakistan 2 Kg</g:title>
       <g:description>Madu Sidr Peshawari Pakistan 2 Kg. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-sidr-peshawari-pakistan-2-kg/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>985280850</g:id>
-      <g:title>Madu Bunga Liar Selatan atau Hadramaut 250 Gram</g:title>
-      <g:description>Madu Bunga Liar Selatan atau Hadramaut 250 Gram. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-bunga-liar-selatan-atau-hadramaut-250-gram/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>950198944</g:id>
@@ -451,12 +445,6 @@
       <g:title>Propolis (Lem Lebah / Bee Glue) 15 gram</g:title>
       <g:description>Propolis (Lem Lebah / Bee Glue) 15 gram. 0.15 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/propolis-lem-lebah-bee-glue-15-gram/p2006758939?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>Ekstrak Ginseng Merah Korea Cair 30 gram</g:title>
-      <g:description>Ekstrak Ginseng Merah Korea Cair 30 gram. 0.3 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/ekstrak-ginseng-merah-korea-cair-30-gram/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>608043670</g:id>
@@ -549,12 +537,6 @@
       <g:link>https://asalaljebal.sa/ind/propolis-bubuk-perekat-lebah-15-gram/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>2070936862</g:id>
-      <g:title>Serbuk Sari Kurma 15 gram</g:title>
-      <g:description>Serbuk Sari Kurma 15 gram. 0.15 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/serbuk-sari-kurma-15-gram/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1870910750</g:id>
       <g:title>1 Kilo Kismis Hitam + 600 Gram Madu Sidr Alami</g:title>
       <g:description>1 Kilo Kismis Hitam + 600 Gram Madu Sidr Alami. 1.6 kg.</g:description>
@@ -619,12 +601,6 @@
       <g:title>Madu Moringa 1 Kilo</g:title>
       <g:description>Madu Moringa 1 Kilo. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-moringa-1-kilo/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1121679642</g:id>
-      <g:title>Ginseng Korea 15 gram</g:title>
-      <g:description>Ginseng Korea 15 gram. 0.15 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/ginseng-korea-15-gram/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1517173604</g:id>
@@ -1027,12 +1003,6 @@
       <g:title>Madu Kastanye Spanyol 500 gram</g:title>
       <g:description>Madu Kastanye Spanyol 500 gram. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-kastanye-spanyol-500-gram/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1165273283</g:id>
-      <g:title>Akar Ginseng</g:title>
-      <g:description>Akar Ginseng. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/akar-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1829509087</g:id>

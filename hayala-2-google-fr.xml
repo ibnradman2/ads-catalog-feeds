@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:17:47 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1575,19 +1575,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Café</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1285757989</guid>
-      <g:id>1285757989</g:id>
-      <g:title>Ginseng 15 g</g:title>
-      <g:description>Ginseng 15 g. Autres miels.</g:description>
-      <g:link>https://hayala.co/fr/ginseng-15-g/p1285757989?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/tM5IhcWlNIH9nL5wkziO0ij07hWq8xz7w3KpiLdt.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">65975421</guid>
       <g:id>65975421</g:id>
