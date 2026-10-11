@@ -609,7 +609,9 @@ def main():
         for (store, platform), (idx, xml_in) in ar_platform.items():
           for lang, mlang, script in feed_english.LANGS:     # كل اللغات لكتالوجي ميتا وسناب (أمر المالك 2026-10-11)
             try:
+                feed_english.PLATFORM = platform
                 xml_en, kept, excluded, _ = feed_english.build(xml_in, store, lang, budget, mlang, script)
+                feed_english.PLATFORM = "google"
             except Exception as e:  # noqa: BLE001
                 print(f"[{store}] {platform}-{mlang}: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
                 continue

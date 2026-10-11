@@ -83,6 +83,9 @@ BRAND_L = {"hi": {"asal": "असल अल-जबल", "areesh": "अरीश"
 # منتجات حساسة سياسيًّا في سناب وميتا (جنسنج ومنشطات وطلع النخل): تُستبعد من كل ملفات اللغات (رُفضت حملتا سناب fr/zh، 2026-10-11)
 SENSITIVE_AR = re.compile(r"جنس|جينس|انتصاب|فياجرا|فياغرا|قذف|للمتزوجين|المتزوجين|مقوي|منشط|ابيميديوم|إبيميديوم|"
                           r"السعادة الزوجية|عسل السعادة|خلطة الاسد|خلطة الأسد|عسل الطاقة|طلع النخل|باور")
+PLATFORM = "google"   # يضبطه catalog_feed_proxy قبل بناء ملفات ميتا وسناب
+# مشتقات النحل (حبوب لقاح، غذاء ملكات، عكبر، سم) تُستبعد من ملفات ميتا وسناب بغير الإنجليزية: كتالوجات سناب fr/zh رُفضت بمنتجات مخالفة (2026-10-11)
+PLATFORM_BLOCK_FAMILIES = {"مشتقات النحل"}
 MIXED_EN = re.compile(r"(the|with|and|of|for|honey|jar|jars|natural|pure|box|bottle|delivery|free|offer|gift)", re.I)
 BRAND_PHRASES = re.compile(r"Honey Bros|Premium Manuka Honey|Manuka Honey|Black Seed Honey", re.I)
 # نوع المنتج بالإنجليزية. القيمة الجديدة غير المترجمة يُحذف حقلها من الملف الإنجليزي وتُذكر في
@@ -329,6 +332,8 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
             why = "العنوان بلا ترجمة"
         elif not _script_ok(script, title):
             why = "العنوان بغير نظام اللغة"
+        elif PLATFORM in ("snap", "meta") and lang != "en" and (it.findtext(G + "custom_label_3") or "").strip() in PLATFORM_BLOCK_FAMILIES:
+            why = "مشتقات نحل محجوبة في ميتا وسناب"
         elif SENSITIVE_AR.search(ar_title):
             why = "منتج حساس سياسيًّا في المنصات"
         elif lang in ("tl", "id", "fr", "tr", "es", "it", "pt") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 1                 and lang != "fr" or (lang in ("fr", "tr", "es", "it", "pt") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 2):
