@@ -4,15 +4,621 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:05:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
+      <guid isPermaLink="false">2069148014</guid>
+      <g:id>2069148014</g:id>
+      <g:title>Öğütülmüş Kimyon 500 gr</g:title>
+      <g:description>Öğütülmüş Kimyon 500 gr. Baharat ve Bitkiler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-kimyon-500-gr/p2069148014?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/XJdaF5kCpXoMjlMim3h3AmbNFPD94nBia4UrlDer.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>46.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">196436999</guid>
+      <g:id>196436999</g:id>
+      <g:title>Rezene Tohumu 250 gram</g:title>
+      <g:description>Rezene Tohumu 250 gram. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/rezene-tohumu-250-gram/p196436999?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/QvAm3REx9SlfnCV8E8aW6O88yoLMnbKy3bNGyy33.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>13.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1666335790</guid>
+      <g:id>1666335790</g:id>
+      <g:title>Rezene Tohumu 500 gram</g:title>
+      <g:description>Rezene Tohumu 500 gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/rezene-tohumu-500-gram/p1666335790?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/wneeC4pOR9istASoVycMQum3gwm1EioJBQlYAeZq.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>18.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2006358433</guid>
+      <g:id>2006358433</g:id>
+      <g:title>Öğütülmüş Sarımsak 500 gr</g:title>
+      <g:description>Öğütülmüş Sarımsak 500 gr. Baharat ve Bitkiler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-sar-msak-500-gr/p2006358433?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/c5Camb1y9hc5mAGUwMJLVSoa7kOZOEH3QNLk4wrB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.25 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">497613295</guid>
+      <g:id>497613295</g:id>
+      <g:title>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo)</g:title>
+      <g:description>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo). Diğer Ballar. 5.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/5-kg-kara-rek-otu-bal-bidonu-cretsiz-kargo/p497613295?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/c2808e6d-38f5-4576-b07d-c1f1a8a554f2-500x500-8PiesXBPqZEiMYDd6m9Ba0SIyb7nfoltnSBBpO0N.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>725.00 SAR</g:price>
+      <g:sale_price>290.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">2023441167</guid>
+      <g:id>2023441167</g:id>
+      <g:title>Rezene Tohumu 1 kilo</g:title>
+      <g:description>Rezene Tohumu 1 kilo. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/rezene-tohumu-1-kilo/p2023441167?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/pM8GuDbWkxAF8VTF1u2KseYsU2A90IwmvFRWs82W.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1381474212</guid>
+      <g:id>1381474212</g:id>
+      <g:title>Yemen Siyah Kuru Üzümü - 1 kg</g:title>
+      <g:description>Yemen Siyah Kuru Üzümü - 1 kg. Kuru Meyveler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/yemen-siyah-kuru-z-m-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/M7eifqEQAtCA93csULm7sAm7AOJM5PhveXibqdId.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2065623105</guid>
+      <g:id>2065623105</g:id>
+      <g:title>Arpa Unu 250 g</g:title>
+      <g:description>Arpa Unu 250 g. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/arpa-unu-250-g/p2065623105?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/1uhTcx3fxgxRP1nmmINi3Pvh9JHF7Cq80Du3mpPr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">638751991</guid>
+      <g:id>638751991</g:id>
+      <g:title>Yerli Koyun Sadeyağı 680 g</g:title>
+      <g:description>Yerli Koyun Sadeyağı 680 g. Sade Yağ (Ghee). 0.68 kg.</g:description>
+      <g:link>https://hayala.co/tr/yerli-koyun-sadeya-680-g/p638751991?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/DDGs1Jbk4Z51IMXT1S0NYuIozZyfMogktAbi7cK3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>148.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.68 kg</g:shipping_weight>
+    <g:google_product_category>5827</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sade Yağ (Ghee)</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">597312706</guid>
+      <g:id>597312706</g:id>
+      <g:title>Organik Elma Sirkesi 500 ml</g:title>
+      <g:description>Organik Elma Sirkesi 500 ml. Sirke. 0.6 kg.</g:description>
+      <g:link>https://hayala.co/tr/organik-elma-sirkesi-500-ml/p597312706?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/sVS1wVVavpQIT9PSKGPQtmehMVhTPiiXEy8pGXEo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.6 kg</g:shipping_weight>
+    <g:google_product_category>2140</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sirke</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1171722381</guid>
+      <g:id>1171722381</g:id>
+      <g:title>Arpa Unu 500 g</g:title>
+      <g:description>Arpa Unu 500 g. Un. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/arpa-unu-500-g/p1171722381?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/YAUMjTtqDxMHnvuUkU4tnkzR4Boh4JoFUmpgPHyH.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>13.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Un</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">5849117</guid>
+      <g:id>5849117</g:id>
+      <g:title>Kuru İncir 500 g</g:title>
+      <g:description>Kuru İncir 500 g. Kuru Meyveler. 500.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kuru-i-ncir-500-g/p5849117?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Vt7XzuIv3U3t80gfxixLoymhJ3jmOZzkwABgyWz5.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>500.0 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">130562279</guid>
+      <g:id>130562279</g:id>
+      <g:title>Papatya Çiçeği 250 g</g:title>
+      <g:description>Papatya Çiçeği 250 g. Bitki Çayları. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/papatya-i-e-i-250-g/p130562279?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/IPnV5xupDWV0fRxqvpzv85qHjQpkZ1ruPTlEkM1O.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>16.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Bitki Çayları</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">863172740</guid>
+      <g:id>863172740</g:id>
+      <g:title>Papatya Çiçeği 500 g</g:title>
+      <g:description>Papatya Çiçeği 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/papatya-i-e-i-500-g/p863172740?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/cszc2VVA8k4n3zjoLrROSKxOQGnlgZRCKHtcgCZ1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1833333665</guid>
+      <g:id>1833333665</g:id>
+      <g:title>Kuru İncir 1 kg</g:title>
+      <g:description>Kuru İncir 1 kg. Kuru Meyveler. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kuru-i-ncir-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/czUrRY9UgHnQdsnZPxXqHecUue7ukfbcNSFbVBeM.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>73.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1732878396</guid>
+      <g:id>1732878396</g:id>
+      <g:title>Karışık Öğütülmüş Baharat 500 gr</g:title>
+      <g:description>Karışık Öğütülmüş Baharat 500 gr. Baharat ve Bitkiler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kar-k-t-lm-baharat-500-gr/p1732878396?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/bzbOxKnhJ7grJC7KJSZ1tcA5GKpJB7q2APnP0AwI.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.30 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1632683015</guid>
+      <g:id>1632683015</g:id>
+      <g:title>Papatya Çiçeği 1 kg</g:title>
+      <g:description>Papatya Çiçeği 1 kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/papatya-i-e-i-1-kg/p1632683015?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/TKjfUXES3TvUoVbKFJIrWjoTSWYVK497nZpCRbPE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">351659116</guid>
+      <g:id>351659116</g:id>
+      <g:title>Öğütülmüş Kekik 500 gram</g:title>
+      <g:description>Öğütülmüş Kekik 500 gram. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-kekik-500-gram/p351659116?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/kZH9Ns6EsVSMxGGMGf4mts6yl6Dpyeq7AQqJXYt6.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2082144846</guid>
+      <g:id>2082144846</g:id>
+      <g:title>Öğütülmüş Kekik 1 kilo</g:title>
+      <g:description>Öğütülmüş Kekik 1 kilo. Baharat ve Bitkiler. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-kekik-1-kilo/p2082144846?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/kcmAKjyxXIJeV0u2OBYMzkxthoyQ2vwb2pYDjgk7.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>26.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1466026704</guid>
+      <g:id>1466026704</g:id>
+      <g:title>Öğütülmüş Kekik 250 gram</g:title>
+      <g:description>Öğütülmüş Kekik 250 gram. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-kekik-250-gram/p1466026704?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Vi5tJjiwRXytRukWe0RJo1uJlIHRGSZO9wQflKGf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>8.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">540081798</guid>
+      <g:id>540081798</g:id>
+      <g:title>Chia Tohumu - 500 g</g:title>
+      <g:description>Chia Tohumu - 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/chia-tohumu-500-g/p540081798?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/nvdIh9oLjkm6R4UqQon3fXPGwUlRXPLHCCgsgNVf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1378639718</guid>
+      <g:id>1378639718</g:id>
+      <g:title>Chia Tohumu - 250 g</g:title>
+      <g:description>Chia Tohumu - 250 g. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/chia-tohumu-250-g/p1378639718?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/yYtSwFboyC9uRsiU3xJld7Yp5zCWAeTdfhxvu2GY.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>27.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1669542650</guid>
+      <g:id>1669542650</g:id>
+      <g:title>Chia Tohumu - 1 kg</g:title>
+      <g:description>Chia Tohumu - 1 kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/chia-tohumu-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/An13FEjcEaCvxxJZpaOkQKFmU2bD0lG4iPNh8tXT.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">533576722</guid>
+      <g:id>533576722</g:id>
+      <g:title>Kurutulmuş Papaya 250 g</g:title>
+      <g:description>Kurutulmuş Papaya 250 g. Kuru Meyveler. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-papaya-250-g/p533576722?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/sP6fUgdDMJRKFBifcJfmvb6TQHs3NcrlC0lPoWl1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">482971108</guid>
+      <g:id>482971108</g:id>
+      <g:title>Biberiye (Rozmarin) 250 g</g:title>
+      <g:description>Biberiye (Rozmarin) 250 g. Baharat ve Bitkiler. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/biberiye-rozmarin-250-g/p482971108?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/N1taKaOLVCuHVC4NFWeRTFbTd9mOGG9dfT542BON.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>10.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">770458728</guid>
+      <g:id>770458728</g:id>
+      <g:title>Yemen Siyah Kuru Üzümü - 500 g</g:title>
+      <g:description>Yemen Siyah Kuru Üzümü - 500 g. Kuru Meyveler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/yemen-siyah-kuru-z-m-500-g/p770458728?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/c2IGPaXgwOEKakRXMcpid4RwAtnZg0SgaeSbEq9L.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">94425611</guid>
+      <g:id>94425611</g:id>
+      <g:title>Kurutulmuş Papaya 1 kg</g:title>
+      <g:description>Kurutulmuş Papaya 1 kg. Kuru Meyveler. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-papaya-1-kg/p94425611?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/P8D0wFSHm35YHdLHFprhAeH0xVpqXgkgeSbChaCG.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1559719230</guid>
+      <g:id>1559719230</g:id>
+      <g:title>Biberiye (Rozmarin) 500 g</g:title>
+      <g:description>Biberiye (Rozmarin) 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/biberiye-rozmarin-500-g/p1559719230?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/rA9QSjgpOY3mtwmAFpiRSmldqSo4DnZPuvYfSLnB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">897901817</guid>
+      <g:id>897901817</g:id>
+      <g:title>Kurutulmuş Papaya 500 g</g:title>
+      <g:description>Kurutulmuş Papaya 500 g. Kuru Meyveler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-papaya-500-g/p897901817?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/atWf5BznZq0jlX10AqKL5b235MF4nsM6uZFFet8E.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">441888257</guid>
+      <g:id>441888257</g:id>
+      <g:title>Kurutulmuş Avokado 500 g</g:title>
+      <g:description>Kurutulmuş Avokado 500 g. Kuru Meyveler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-avokado-500-g/p441888257?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/eWjKQE3bgY6oCYRKoi1LcOEp0ntg6A2EAiybnsXI.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">522208565</guid>
+      <g:id>522208565</g:id>
+      <g:title>Biberiye (Rozmarin) 1 kg</g:title>
+      <g:description>Biberiye (Rozmarin) 1 kg. Baharat ve Bitkiler. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/biberiye-rozmarin-1-kg/p522208565?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/KMcpcDhrEad78MZ8ZPnzOJZ0whJv1oChZkrumckE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>28.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2059144227</guid>
+      <g:id>2059144227</g:id>
+      <g:title>Kurutulmuş Avokado 250 g</g:title>
+      <g:description>Kurutulmuş Avokado 250 g. Kuru Meyveler. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-avokado-250-g/p2059144227?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/lDbnl4Oprxsn1MM9s2K2WESJ4GhzHaelgrr6GSvk.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">518818921</guid>
+      <g:id>518818921</g:id>
+      <g:title>Yabani Kekik Yaprağı 500 gram</g:title>
+      <g:description>Yabani Kekik Yaprağı 500 gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/yabani-kekik-yapra-500-gram/p518818921?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/TtBKBZ3ylRKN6qv1GXObKZePwaV4hNokHzGeHoLm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>18.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">583414674</guid>
+      <g:id>583414674</g:id>
+      <g:title>Yabani Kekik Yaprağı 250 gram</g:title>
+      <g:description>Yabani Kekik Yaprağı 250 gram. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/yabani-kekik-yapra-250-gram/p583414674?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/JPIxgEZlZWmQZ5a6jGO8iu22nA5Ej93fLL6vd0Rl.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>13.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1072059977</guid>
+      <g:id>1072059977</g:id>
+      <g:title>Kurutulmuş Avokado 1 kg</g:title>
+      <g:description>Kurutulmuş Avokado 1 kg. Kuru Meyveler. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-avokado-1-kg/p1072059977?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/BWydtZhtfEpzMAUuoTNaIKywFXDvL5td9EiAn2Vi.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2080319034</guid>
+      <g:id>2080319034</g:id>
+      <g:title>Premium Sri Lanka Karanfili 1 Kg</g:title>
+      <g:description>Premium Sri Lanka Karanfili 1 Kg. Baharat ve Bitkiler. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/premium-sri-lanka-karanfili-1-kg/p2080319034?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/dWOtTz4g3KwziU0n9f4MpjX8xxDCy7hMaTCV6n3M.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>99.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1730613591</guid>
+      <g:id>1730613591</g:id>
+      <g:title>Kurutulmuş Ananas 250 gram</g:title>
+      <g:description>Kurutulmuş Ananas 250 gram. Kuru Meyveler. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-ananas-250-gram/p1730613591?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/iLV31auN5qLKyEOVteVezLAWddqnky6XaUuCLGSy.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>27.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1433640019</guid>
+      <g:id>1433640019</g:id>
+      <g:title>Kurutulmuş Ananas 500 gram</g:title>
+      <g:description>Kurutulmuş Ananas 500 gram. Kuru Meyveler. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-ananas-500-gram/p1433640019?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/s1bG0EQSEH2glSPF2CePy1yE9y7fBrdNa98dmNgC.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>42.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">428797377</guid>
+      <g:id>428797377</g:id>
+      <g:title>Kurutulmuş Ananas 1 kg</g:title>
+      <g:description>Kurutulmuş Ananas 1 kg. Kuru Meyveler. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-ananas-1-kg/p428797377?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/zpq2GkiH7izKGDd8tRKdORRCuSiwtFb8ZwrWm7z0.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>72.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1147148756</guid>
+      <g:id>1147148756</g:id>
+      <g:title>2 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
+      <g:description>2 kg Doğal Sidr Balı + 2 kg Hediye. Sidr Balı. 4.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/2-kg-do-al-sidr-bal-2-kg-hediye/p1147148756?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/yyExsm6WO6ofxrQLnbgfnOLYFhnNgapiTTM8OWet.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>410.00 SAR</g:price>
+      <g:sale_price>196.01 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1718132750</guid>
+      <g:id>1718132750</g:id>
+      <g:title>Ekonomik Set (Kakule + Safran + Bal + Baharat + Çorba Baharatı)</g:title>
+      <g:description>Ekonomik Set (Kakule + Safran + Bal + Baharat + Çorba Baharatı). Hediyeler. 3.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/ekonomik-set-kakule-safran-bal-baharat-orba-baharat/p1718132750?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/7929qXmEkc5hv4KnTG4EfYh6hKnTbFTBPxxZmiiw.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>389.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1567920614</guid>
+      <g:id>1567920614</g:id>
+      <g:title>4 Ambalaj Şazliye Kahvesi</g:title>
+      <g:description>4 Ambalaj Şazliye Kahvesi. Kahve. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/4-ambalaj-azliye-kahvesi/p1567920614?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/KHkrqM65dUzJ5ofOb2TMU6t1mgwL3RDsHA9zpXcY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>207.79 SAR</g:price>
+      <g:sale_price>152.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kahve</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">578517759</guid>
+      <g:id>578517759</g:id>
+      <g:title>Lokmati Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:title>
+      <g:description>Lokmati Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi. Kahve. 5.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/lokmati-ba-enfer-kahvesi-5-kg-el-hayr-etiyopya-birinci-s-n-f-arap-kahvesi/p578517759?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/MQEJFImfXFPfRBnzs41cAANLWgHS6wGHrSEt970l.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>199.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kahve</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
       <guid isPermaLink="false">2139954028</guid>
       <g:id>2139954028</g:id>
       <g:title>Psyllium (Katune) Tohumu - 250 g</g:title>
-      <g:description>Psyllium (Katune) Tohumu - 250 g</g:description>
+      <g:description>Psyllium (Katune) Tohumu - 250 g. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/psyllium-katune-tohumu-250-g/p2139954028?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/jshmOrZtkb30SAiZwAAUFcNBRRBLyVThyPwweHKT.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -26,7 +632,7 @@
       <guid isPermaLink="false">2133906442</guid>
       <g:id>2133906442</g:id>
       <g:title>Pakistan Çam Fıstığı 1 kg</g:title>
-      <g:description>Pakistan Çam Fıstığı 1 kg</g:description>
+      <g:description>Pakistan Çam Fıstığı 1 kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/pakistan-am-f-st-1-kg/p2133906442?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/76e8TNEYLE44mMMjaAnidW0VjyQPFZd2mRHwkMlj.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -40,7 +646,7 @@
       <guid isPermaLink="false">1932133262</guid>
       <g:id>1932133262</g:id>
       <g:title>Öğütülmüş Karabiber 500 Gram</g:title>
-      <g:description>Öğütülmüş Karabiber 500 Gram</g:description>
+      <g:description>Öğütülmüş Karabiber 500 Gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-karabiber-500-gram/p1932133262?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/XJFH8PUwnCELG2btPEVXtt2l79fy8OHhoufMPjtw.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -54,7 +660,7 @@
       <guid isPermaLink="false">1959531644</guid>
       <g:id>1959531644</g:id>
       <g:title>Öğütülmüş Tatlı Biber (Paprika) 500 Gram</g:title>
-      <g:description>Öğütülmüş Tatlı Biber (Paprika) 500 Gram</g:description>
+      <g:description>Öğütülmüş Tatlı Biber (Paprika) 500 Gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-tatl-biber-paprika-500-gram/p1959531644?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/nGtTWhwD7bZ2nQ9JTP2Mbs9Y9f1ICoDULFCyeqbT.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -68,7 +674,7 @@
       <guid isPermaLink="false">1832849003</guid>
       <g:id>1832849003</g:id>
       <g:title>Bütün Baharat 500 Gram</g:title>
-      <g:description>Bütün Baharat 500 Gram</g:description>
+      <g:description>Bütün Baharat 500 Gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/b-t-n-baharat-500-gram/p1832849003?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/FBKUae5HoTXVYh2hpHYu74noaQn8J4vHRcKzYeJ5.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -82,7 +688,7 @@
       <guid isPermaLink="false">1635363747</guid>
       <g:id>1635363747</g:id>
       <g:title>Pakistan Çam Fıstığı 250 g</g:title>
-      <g:description>Pakistan Çam Fıstığı 250 g</g:description>
+      <g:description>Pakistan Çam Fıstığı 250 g. Kuruyemiş ve Tohumlar.</g:description>
       <g:link>https://hayala.co/tr/pakistan-am-f-st-250-g/p1635363747?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/CCg4sUBthZdmAzvGOasUUj1njhCOQLv0s6DmTLzI.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -95,7 +701,7 @@
       <guid isPermaLink="false">1841971411</guid>
       <g:id>1841971411</g:id>
       <g:title>Keten Tohumu - 250 g</g:title>
-      <g:description>Keten Tohumu - 250 g</g:description>
+      <g:description>Keten Tohumu - 250 g. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/keten-tohumu-250-g/p1841971411?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/eoZBMN8bjIUHnEZ2S8m9fZT0xTLIT6q4zV8ogRbJ.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -109,7 +715,7 @@
       <guid isPermaLink="false">1565509631</guid>
       <g:id>1565509631</g:id>
       <g:title>Pakistan Çam Fıstığı 500 g</g:title>
-      <g:description>Pakistan Çam Fıstığı 500 g</g:description>
+      <g:description>Pakistan Çam Fıstığı 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/pakistan-am-f-st-500-g/p1565509631?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ygmLN8oKv2y9BBivM3gX5BNgSnI1QwlU3iC9R7ZS.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -123,7 +729,7 @@
       <guid isPermaLink="false">1468610802</guid>
       <g:id>1468610802</g:id>
       <g:title>Amerikan Ceviz 500 g</g:title>
-      <g:description>Amerikan Ceviz 500 g</g:description>
+      <g:description>Amerikan Ceviz 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-ceviz-500-g/p1468610802?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ROjCz2Anqu4E7xS4aYkxHaIyLt7toDXIK6mAVgVs.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -137,7 +743,7 @@
       <guid isPermaLink="false">1002050183</guid>
       <g:id>1002050183</g:id>
       <g:title>Keten Tohumu - 1 kg</g:title>
-      <g:description>Keten Tohumu - 1 kg</g:description>
+      <g:description>Keten Tohumu - 1 kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/keten-tohumu-1-kg/p1002050183?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ryaiDu4nxYiiVUA0YVsLA89VsFCTiJ6pu99sclmk.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -151,7 +757,7 @@
       <guid isPermaLink="false">1079475470</guid>
       <g:id>1079475470</g:id>
       <g:title>Keten Tohumu - 500 g</g:title>
-      <g:description>Keten Tohumu - 500 g</g:description>
+      <g:description>Keten Tohumu - 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/keten-tohumu-500-g/p1079475470?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/b1NgHQubQDjEpQsNZ10TT6rCHWYgtJGxdN2UopYt.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -165,7 +771,7 @@
       <guid isPermaLink="false">1297784385</guid>
       <g:id>1297784385</g:id>
       <g:title>Psyllium (Katune) Tohumu - 500 g</g:title>
-      <g:description>Psyllium (Katune) Tohumu - 500 g</g:description>
+      <g:description>Psyllium (Katune) Tohumu - 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/psyllium-katune-tohumu-500-g/p1297784385?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/bt9EJ5AU1WVsrRFngS2E5KV5bBKOKsm6qJUX0a9N.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -179,7 +785,7 @@
       <guid isPermaLink="false">757548514</guid>
       <g:id>757548514</g:id>
       <g:title>6 Paket Süper Negin Safran 6 Gram</g:title>
-      <g:description>6 Paket Süper Negin Safran 6 Gram</g:description>
+      <g:description>6 Paket Süper Negin Safran 6 Gram. Safran. 0.006 kg.</g:description>
       <g:link>https://hayala.co/tr/6-paket-s-per-negin-safran-6-gram/p757548514?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/CRnZ4B3XBOPT8PqzQEUEDLvvjcz3528T92sFBE7b.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -193,7 +799,7 @@
       <guid isPermaLink="false">816858337</guid>
       <g:id>816858337</g:id>
       <g:title>Öğütülmüş Köri 500 Gram</g:title>
-      <g:description>Öğütülmüş Köri 500 Gram</g:description>
+      <g:description>Öğütülmüş Köri 500 Gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-k-ri-500-gram/p816858337?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/hQlzvLQDkaGi2M4RpDeFQxy2qauIhF9W5RuYv8cy.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -207,7 +813,7 @@
       <guid isPermaLink="false">758738089</guid>
       <g:id>758738089</g:id>
       <g:title>Süper Nakil Safran 1.75 g</g:title>
-      <g:description>Süper Nakil Safran 1.75 g</g:description>
+      <g:description>Süper Nakil Safran 1.75 g. Safran. 0.00175 kg.</g:description>
       <g:link>https://hayala.co/tr/s-per-nakil-safran-1-75-g/p758738089?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/re4CKvzpAMcr2msC3LJCbtKkepzUHOLwUKpISC1t.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -221,7 +827,7 @@
       <guid isPermaLink="false">988412748</guid>
       <g:id>988412748</g:id>
       <g:title>Psyllium (Katune) Tohumu - 1 kg</g:title>
-      <g:description>Psyllium (Katune) Tohumu - 1 kg</g:description>
+      <g:description>Psyllium (Katune) Tohumu - 1 kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/psyllium-katune-tohumu-1-kg/p988412748?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/m57yU8GKmq8fRJFPYKwvH7matdCcL3HDnNjkJPUS.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -235,7 +841,7 @@
       <guid isPermaLink="false">692080584</guid>
       <g:id>692080584</g:id>
       <g:title>Kızarmış Soğan (Kaşne) Birinci Sınıf 500 g</g:title>
-      <g:description>Kızarmış Soğan (Kaşne) Birinci Sınıf 500 g</g:description>
+      <g:description>Kızarmış Soğan (Kaşne) Birinci Sınıf 500 g. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/k-zarm-so-an-ka-ne-birinci-s-n-f-500-g/p692080584?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/nUrFg9f1HGRoYPzzEcaUxzTTtzvjM251Zdb1B63I.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -249,7 +855,7 @@
       <guid isPermaLink="false">398016781</guid>
       <g:id>398016781</g:id>
       <g:title>Süper Negin Safran 5 Gram</g:title>
-      <g:description>Süper Negin Safran 5 Gram</g:description>
+      <g:description>Süper Negin Safran 5 Gram. Safran. 0.005 kg.</g:description>
       <g:link>https://hayala.co/tr/s-per-negin-safran-5-gram/p398016781?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Z9iu6HON8RbUVuJN2yiTjbCKeiVGQZoQ6tY468Un.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -263,7 +869,7 @@
       <guid isPermaLink="false">655013926</guid>
       <g:id>655013926</g:id>
       <g:title>Öğütülmüş Kişniş 500 Gram</g:title>
-      <g:description>Öğütülmüş Kişniş 500 Gram</g:description>
+      <g:description>Öğütülmüş Kişniş 500 Gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-ki-ni-500-gram/p655013926?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/6XWNagbvgI7EbEWFMuBcaaiEWCKtEISLiStBER0J.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -277,7 +883,7 @@
       <guid isPermaLink="false">348925444</guid>
       <g:id>348925444</g:id>
       <g:title>Ceviz İçi (Amerikan) - 1 kg</g:title>
-      <g:description>Ceviz İçi (Amerikan) - 1 kg</g:description>
+      <g:description>Ceviz İçi (Amerikan) - 1 kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/ceviz-i-i-amerikan-1-kg/p348925444?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/vsDJGNjVKMqVOfRrYTotjnaT6l7im0OHyueqxgk6.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -291,7 +897,7 @@
       <guid isPermaLink="false">339666110</guid>
       <g:id>339666110</g:id>
       <g:title>Amerikan Ceviz 250 g</g:title>
-      <g:description>Amerikan Ceviz 250 g</g:description>
+      <g:description>Amerikan Ceviz 250 g. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-ceviz-250-g/p339666110?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Zv5YQUG1KsctYwKGoe61KO04aYv1WyALDpEIbz59.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -305,7 +911,7 @@
       <guid isPermaLink="false">74605069</guid>
       <g:id>74605069</g:id>
       <g:title>Öğütülmüş Zencefil 500 Gram</g:title>
-      <g:description>Öğütülmüş Zencefil 500 Gram</g:description>
+      <g:description>Öğütülmüş Zencefil 500 Gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-zencefil-500-gram/p74605069?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/sZAQeToEkccMDunKWdJK5mEJ1iclJESr1lS0Sxmj.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -319,7 +925,7 @@
       <guid isPermaLink="false">140660040</guid>
       <g:id>140660040</g:id>
       <g:title>Yabani Kekik Yaprağı 1 Kg</g:title>
-      <g:description>Yabani Kekik Yaprağı 1 Kg</g:description>
+      <g:description>Yabani Kekik Yaprağı 1 Kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/yabani-kekik-yapra-1-kg/p140660040?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/WDYgzF4EMp11bCQ96EZf6QMpL5auwWlWAwzv3sLY.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -333,7 +939,7 @@
       <guid isPermaLink="false">2045612049</guid>
       <g:id>2045612049</g:id>
       <g:title>Anason 500 Gram</g:title>
-      <g:description>Anason 500 Gram</g:description>
+      <g:description>Anason 500 Gram. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/anason-500-gram/p2045612049?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/gVvUb4J6z4BndLRFDIDOQtNm0ShMJGwfgULiV9Ms.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -347,7 +953,7 @@
       <guid isPermaLink="false">222295925</guid>
       <g:id>222295925</g:id>
       <g:title>Anason 250 Gram</g:title>
-      <g:description>Anason 250 Gram</g:description>
+      <g:description>Anason 250 Gram. Bitki Çayları. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/anason-250-gram/p222295925?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/kzifTnhjOXUKYYiCMh62n7R9jbHvIENBeAQhY96D.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -361,7 +967,7 @@
       <guid isPermaLink="false">357854595</guid>
       <g:id>357854595</g:id>
       <g:title>Anason 1 Kg</g:title>
-      <g:description>Anason 1 Kg</g:description>
+      <g:description>Anason 1 Kg. Bitki Çayları. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/anason-1-kg/p357854595?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/FFoEi1O62XoMZyzig5EV4a3j7UihVMdmgihzn1bd.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -375,7 +981,7 @@
       <guid isPermaLink="false">1759502471</guid>
       <g:id>1759502471</g:id>
       <g:title>Bütün Çemen Otu Tohumu 250 Gram</g:title>
-      <g:description>Bütün Çemen Otu Tohumu 250 Gram</g:description>
+      <g:description>Bütün Çemen Otu Tohumu 250 Gram. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/b-t-n-emen-otu-tohumu-250-gram/p1759502471?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/NmS7BknhP9NQwSkvrG5cj1HGKw62aKHPjc2wOmDF.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -389,7 +995,7 @@
       <guid isPermaLink="false">190195544</guid>
       <g:id>190195544</g:id>
       <g:title>Bütün Çemen Otu Tohumu 500 Gram</g:title>
-      <g:description>Bütün Çemen Otu Tohumu 500 Gram</g:description>
+      <g:description>Bütün Çemen Otu Tohumu 500 Gram. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/b-t-n-emen-otu-tohumu-500-gram/p190195544?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/XNtLqzKoddm8rJHqLuMhGywg5XuzmTZQCytOhVfr.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -403,7 +1009,7 @@
       <guid isPermaLink="false">1017600485</guid>
       <g:id>1017600485</g:id>
       <g:title>Öğütülmüş Arap Zamkı Sudan 250 Gram</g:title>
-      <g:description>Öğütülmüş Arap Zamkı Sudan 250 Gram</g:description>
+      <g:description>Öğütülmüş Arap Zamkı Sudan 250 Gram. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-arap-zamk-sudan-250-gram/p1017600485?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Wp7lBAt2ghXShFb7lcWVJBMh3U1SAJEsSnDxBo3j.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -417,7 +1023,7 @@
       <guid isPermaLink="false">1665411110</guid>
       <g:id>1665411110</g:id>
       <g:title>Öğütülmüş Arap Zamkı Sudan 500 Gram</g:title>
-      <g:description>Öğütülmüş Arap Zamkı Sudan 500 Gram</g:description>
+      <g:description>Öğütülmüş Arap Zamkı Sudan 500 Gram. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-arap-zamk-sudan-500-gram/p1665411110?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/RD8e9zwKRciFsGRcWCYndEdPBDUY8KVawpUiFr5f.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -431,7 +1037,7 @@
       <guid isPermaLink="false">861941121</guid>
       <g:id>861941121</g:id>
       <g:title>Bütün Çemen Otu Tohumu 1 Kg</g:title>
-      <g:description>Bütün Çemen Otu Tohumu 1 Kg</g:description>
+      <g:description>Bütün Çemen Otu Tohumu 1 Kg. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/b-t-n-emen-otu-tohumu-1-kg/p861941121?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/vgAGnDx93Y1WZmFJEVdxh1vkKryWasGvlPvzPdSj.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -445,7 +1051,7 @@
       <guid isPermaLink="false">1087629233</guid>
       <g:id>1087629233</g:id>
       <g:title>Safran Rendesi Metal Orta Boy</g:title>
-      <g:description>Safran Rendesi Metal Orta Boy</g:description>
+      <g:description>Safran Rendesi Metal Orta Boy. Safran. 0.04 kg.</g:description>
       <g:link>https://hayala.co/tr/safran-rendesi-metal-orta-boy/p1087629233?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/QnlKUJLcGwIyLXlz8TAOoDh4dM061bjujXp3XIZ0.jpg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/Tmrz3XSV2N4m0j010FeW4GppjQzAgD5v51ZK38jH.jpg</g:additional_image_link>
@@ -460,7 +1066,7 @@
       <guid isPermaLink="false">1533464823</guid>
       <g:id>1533464823</g:id>
       <g:title>Lüks Medine Aliye Acve Hurması 5 kg (Ücretsiz Kargo)</g:title>
-      <g:description>Lüks Medine Aliye Acve Hurması 5 kg (Ücretsiz Kargo)</g:description>
+      <g:description>Lüks Medine Aliye Acve Hurması 5 kg (Ücretsiz Kargo). Hurma. 5.0 kg.</g:description>
       <g:link>https://hayala.co/tr/l-ks-medine-aliye-acve-hurmas-5-kg-cretsiz-kargo/p1533464823?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/85DdDgNFq7Zx9B8XYxO0FRVxND98swP8jJBEowEL.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -475,7 +1081,7 @@
       <guid isPermaLink="false">521440913</guid>
       <g:id>521440913</g:id>
       <g:title>Hediye Kutusu - Lüks Süper Negin Safran 2 Ambalaj + Rende Hediyesi</g:title>
-      <g:description>Hediye Kutusu - Lüks Süper Negin Safran 2 Ambalaj + Rende Hediyesi</g:description>
+      <g:description>Hediye Kutusu - Lüks Süper Negin Safran 2 Ambalaj + Rende Hediyesi. Hediyeler. 0.01 kg.</g:description>
       <g:link>https://hayala.co/tr/hediye-kutusu-l-ks-s-per-negin-safran-2-ambalaj-rende-hediyesi/p521440913?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/OSTmCzOmPo2KHRnJhvRluEmr84K0wKIsDEDRxFug.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -490,7 +1096,7 @@
       <guid isPermaLink="false">1033561560</guid>
       <g:id>1033561560</g:id>
       <g:title>Harari Başenfer Kahvesi 2 kg - Birinci Sınıf Etiyopya Bin Alhayr, Arap Kahvesi İçin</g:title>
-      <g:description>Harari Başenfer Kahvesi 2 kg - Birinci Sınıf Etiyopya Bin Alhayr, Arap Kahvesi İçin</g:description>
+      <g:description>Harari Başenfer Kahvesi 2 kg - Birinci Sınıf Etiyopya Bin Alhayr, Arap Kahvesi İçin. Kahve. 2.0 kg.</g:description>
       <g:link>https://hayala.co/tr/harari-ba-enfer-kahvesi-2-kg-birinci-s-n-f-etiyopya-bin-alhayr-arap-kahvesi-i-in/p1033561560?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/obkLBi6BEVbBGzB8gyxF2ah9WPHg0omBEwMPbwb6.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -504,7 +1110,7 @@
       <guid isPermaLink="false">1285757989</guid>
       <g:id>1285757989</g:id>
       <g:title>Ginseng (Ginseng) 15 g</g:title>
-      <g:description>Ginseng (Ginseng) 15 g</g:description>
+      <g:description>Ginseng (Ginseng) 15 g. Diğer Ballar.</g:description>
       <g:link>https://hayala.co/tr/ginseng-ginseng-15-g/p1285757989?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/tM5IhcWlNIH9nL5wkziO0ij07hWq8xz7w3KpiLdt.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -517,7 +1123,7 @@
       <guid isPermaLink="false">65975421</guid>
       <g:id>65975421</g:id>
       <g:title>Hurma Poleni 15 g</g:title>
-      <g:description>Hurma Poleni 15 g</g:description>
+      <g:description>Hurma Poleni 15 g. Arı Ürünleri.</g:description>
       <g:link>https://hayala.co/tr/hurma-poleni-15-g/p65975421?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/NxLhyBor96SwiLGzmjhzhgPJCOdGm75FYR4V4tti.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -530,7 +1136,7 @@
       <guid isPermaLink="false">1303028575</guid>
       <g:id>1303028575</g:id>
       <g:title>4'lü Çorba Baharatı Paketi</g:title>
-      <g:description>4'lü Çorba Baharatı Paketi</g:description>
+      <g:description>4'lü Çorba Baharatı Paketi. Baharat ve Bitkiler. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/4-l-orba-baharat-paketi/p1303028575?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/LWC8WrEVBYE2oenpE2LOC01V5PJsNdqXbnBYqo0Q.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -545,7 +1151,7 @@
       <guid isPermaLink="false">1939267679</guid>
       <g:id>1939267679</g:id>
       <g:title>24 Paket Süper Negin Safran 24 g + Ücretsiz Kargo</g:title>
-      <g:description>24 Paket Süper Negin Safran 24 g + Ücretsiz Kargo</g:description>
+      <g:description>24 Paket Süper Negin Safran 24 g + Ücretsiz Kargo. Safran. 0.024 kg.</g:description>
       <g:link>https://hayala.co/tr/24-paket-s-per-negin-safran-24-g-cretsiz-kargo/p1939267679?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/hGVQQV289AZ6PlJuIjjR5PBFuqsnlkW3nLfbMpF7.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -560,7 +1166,7 @@
       <guid isPermaLink="false">1621826523</guid>
       <g:id>1621826523</g:id>
       <g:title>Harari Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:title>
-      <g:description>Harari Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:description>
+      <g:description>Harari Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi. Kahve. 5.0 kg.</g:description>
       <g:link>https://hayala.co/tr/harari-ba-enfer-kahvesi-5-kg-el-hayr-etiyopya-birinci-s-n-f-arap-kahvesi/p1621826523?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/LLNBDiakgqBPVJ5xuFLrVl4UlPd63kSnCZGFmcWS.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -574,7 +1180,7 @@
       <guid isPermaLink="false">1643632887</guid>
       <g:id>1643632887</g:id>
       <g:title>Amerikan Kakule Birinci Sınıf Jumbo No. 2, 7 mm Kalınlık 1 Kg</g:title>
-      <g:description>Amerikan Kakule Birinci Sınıf Jumbo No. 2, 7 mm Kalınlık 1 Kg</g:description>
+      <g:description>Amerikan Kakule Birinci Sınıf Jumbo No. 2, 7 mm Kalınlık 1 Kg. Kakule. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-kakule-birinci-s-n-f-jumbo-no-2-7-mm-kal-nl-k-1-kg/p1643632887?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/bgGmjjWAslrknaK2CVYf5JoKgDjQX2XueWVD7Y3q.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/ErktMnlWtTecWkRZC74wU7ENE3eDsaLYKl0IuS4F.jpg</g:additional_image_link>
@@ -589,7 +1195,7 @@
       <guid isPermaLink="false">1434036849</guid>
       <g:id>1434036849</g:id>
       <g:title>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 5 Kg Karton</g:title>
-      <g:description>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 5 Kg Karton</g:description>
+      <g:description>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 5 Kg Karton. Kakule. 5.0 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-kakule-birinci-s-n-f-no-3-6-mm-kal-nl-k-5-kg-karton/p1434036849?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/tdtaXPnMvAj4Ln1eVmsaMZCEfhpZCCzblRum1g37.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/YfgFFiTXSfM2OHrb0tcTCauFyRa2Atw226lnIiqc.png</g:additional_image_link>
@@ -607,7 +1213,7 @@
       <guid isPermaLink="false">2106298714</guid>
       <g:id>2106298714</g:id>
       <g:title>Amerikan Kakule Jumbo Birinci Sınıf No. 2, 7 mm Kalınlık 5 Kg Karton</g:title>
-      <g:description>Amerikan Kakule Jumbo Birinci Sınıf No. 2, 7 mm Kalınlık 5 Kg Karton</g:description>
+      <g:description>Amerikan Kakule Jumbo Birinci Sınıf No. 2, 7 mm Kalınlık 5 Kg Karton. Kakule. 5.0 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-kakule-jumbo-birinci-s-n-f-no-2-7-mm-kal-nl-k-5-kg-karton/p2106298714?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/mlspMiIAJtk9xs5VKMJE7ZLSRtxDL4OCmqQU9M7i.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/P3WVvDizpVWq4blvaHEd1kA0tiz5xNT6RLOS5412.png</g:additional_image_link>
@@ -625,7 +1231,7 @@
       <guid isPermaLink="false">10846494</guid>
       <g:id>10846494</g:id>
       <g:title>Birinci Sınıf Amerikan Kakule No. 2 7 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
-      <g:description>Birinci Sınıf Amerikan Kakule No. 2 7 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:description>
+      <g:description>Birinci Sınıf Amerikan Kakule No. 2 7 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). Kakule. 2.5 kg.</g:description>
       <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-2-7-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p10846494?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Dny7sLfJLoTJquvpyI44D4woDpcsQdPWXts1AuNi.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -639,7 +1245,7 @@
       <guid isPermaLink="false">1270839426</guid>
       <g:id>1270839426</g:id>
       <g:title>Teklif Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 5 Kg Karton (Ücretsiz Kargo)</g:title>
-      <g:description>Teklif Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 5 Kg Karton (Ücretsiz Kargo)</g:description>
+      <g:description>Teklif Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 5 Kg Karton (Ücretsiz Kargo). Kakule. 5.0 kg.</g:description>
       <g:link>https://hayala.co/tr/teklif-amerikan-kakule-birinci-s-n-f-ekstra-jumbo-no-1-8-mm-kal-nl-k-5-kg-karton/p1270839426?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/456wzja72cCnhIOymmoimB1D9rfDk64m1aem3Z6E.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -654,7 +1260,7 @@
       <guid isPermaLink="false">1843875892</guid>
       <g:id>1843875892</g:id>
       <g:title>Yabani Yerli Çiçek Petek Balı Küpü</g:title>
-      <g:description>Yabani Yerli Çiçek Petek Balı Küpü</g:description>
+      <g:description>Yabani Yerli Çiçek Petek Balı Küpü. Çiçek Balı. 2.5 kg.</g:description>
       <g:link>https://hayala.co/tr/yabani-yerli-i-ek-petek-bal-k-p/p1843875892?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/otH9XEQuZzDdxmWYpPXy469BO89hL0wE1tDX67g6.jpg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/KewZ6Y5ktKZBWqC2csSJ9UaGTBG4cxYTqPM5nfdi.jpg</g:additional_image_link>
@@ -670,7 +1276,7 @@
       <guid isPermaLink="false">656732927</guid>
       <g:id>656732927</g:id>
       <g:title>Hojari Erkek Kündür (50 g)</g:title>
-      <g:description>Hojari Erkek Kündür (50 g)</g:description>
+      <g:description>Hojari Erkek Kündür (50 g). Kuruyemiş ve Tohumlar. 0.05 kg.</g:description>
       <g:link>https://hayala.co/tr/hojari-erkek-k-nd-r-50-g/p656732927?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Ef5u57IlxyTfwhblGX9FrfHu5Wb61mkw64VfdMuK.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -684,7 +1290,7 @@
       <guid isPermaLink="false">1376854197</guid>
       <g:id>1376854197</g:id>
       <g:title>Hediye Kutusu - Süper Negin Safran 50 g</g:title>
-      <g:description>Hediye Kutusu - Süper Negin Safran 50 g</g:description>
+      <g:description>Hediye Kutusu - Süper Negin Safran 50 g. Hediyeler. 0.05 kg.</g:description>
       <g:link>https://hayala.co/tr/hediye-kutusu-s-per-negin-safran-50-g/p1376854197?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/qDdNN1yfWiccKKZziMFQiHSzx4YfVCC4GZT8Jmly.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/JAqglFpvJLdXBNRMI5XGg0ABovo1f30bY7EKaoBW.png</g:additional_image_link>
@@ -700,7 +1306,7 @@
       <guid isPermaLink="false">1071630418</guid>
       <g:id>1071630418</g:id>
       <g:title>Himalaya Pembe Tuzu (450 g)</g:title>
-      <g:description>Himalaya Pembe Tuzu (450 g)</g:description>
+      <g:description>Himalaya Pembe Tuzu (450 g). Kuruyemiş ve Tohumlar. 0.45 kg.</g:description>
       <g:link>https://hayala.co/tr/himalaya-pembe-tuzu-450-g/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -714,7 +1320,7 @@
       <guid isPermaLink="false">999818845</guid>
       <g:id>999818845</g:id>
       <g:title>Dağ Sidr Petek Balı 500 g</g:title>
-      <g:description>Dağ Sidr Petek Balı 500 g</g:description>
+      <g:description>Dağ Sidr Petek Balı 500 g. Sidr Balı. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/da-sidr-petek-bal-500-g/p999818845?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/aFhiNY01xH4epYUqKsrbpv5deoBQ5k3qmdyHQ7cM.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -728,7 +1334,7 @@
       <guid isPermaLink="false">576004363</guid>
       <g:id>576004363</g:id>
       <g:title>Kırmızı Meşat Saç Bakım Tozu (500 Gram)</g:title>
-      <g:description>Kırmızı Meşat Saç Bakım Tozu (500 Gram)</g:description>
+      <g:description>Kırmızı Meşat Saç Bakım Tozu (500 Gram). Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/k-rm-z-me-at-sa-bak-m-tozu-500-gram/p576004363?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/6oqdPzwcnoiK6EvlXkbbxExp53GP477c6oW32w6C.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -742,7 +1348,7 @@
       <guid isPermaLink="false">323557872</guid>
       <g:id>323557872</g:id>
       <g:title>Mumlu Dikenli Bal 500 Gram</g:title>
-      <g:description>Mumlu Dikenli Bal 500 Gram</g:description>
+      <g:description>Mumlu Dikenli Bal 500 Gram. Diğer Ballar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/mumlu-dikenli-bal-500-gram/p323557872?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/PjyGptj2VWuhRaqFOnRcKaDpsMkrSUMx6d4B0ZVi.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -756,7 +1362,7 @@
       <guid isPermaLink="false">863440747</guid>
       <g:id>863440747</g:id>
       <g:title>Öğütülmüş Meyan Kökü (500 g)</g:title>
-      <g:description>Öğütülmüş Meyan Kökü (500 g)</g:description>
+      <g:description>Öğütülmüş Meyan Kökü (500 g). Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-meyan-k-k-500-g/p863440747?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/8FEic2h5is946jVNjIQEAvvqrP9ys01zMin4OMkE.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -770,7 +1376,7 @@
       <guid isPermaLink="false">1992072436</guid>
       <g:id>1992072436</g:id>
       <g:title>Mumlu Semer (Dikenli) Balı 1 Kg</g:title>
-      <g:description>Mumlu Semer (Dikenli) Balı 1 Kg</g:description>
+      <g:description>Mumlu Semer (Dikenli) Balı 1 Kg. Semure Balı. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/mumlu-semer-dikenli-bal-1-kg/p1992072436?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/9SwOGoVy24aOgepmAQrlBAbmx1ydZMJAfXGRE9Fm.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -784,7 +1390,7 @@
       <guid isPermaLink="false">158190096</guid>
       <g:id>158190096</g:id>
       <g:title>Öğütülmüş Nar Kabuğu (500 g)</g:title>
-      <g:description>Öğütülmüş Nar Kabuğu (500 g)</g:description>
+      <g:description>Öğütülmüş Nar Kabuğu (500 g). Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-nar-kabu-u-500-g/p158190096?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/iQ4sINAJILrTGRPMsh4T1Eodqk4tFJ057tNuNdqh.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -798,7 +1404,7 @@
       <guid isPermaLink="false">834579494</guid>
       <g:id>834579494</g:id>
       <g:title>Dağ Sidr Mumlu Bal 1 Kg</g:title>
-      <g:description>Dağ Sidr Mumlu Bal 1 Kg</g:description>
+      <g:description>Dağ Sidr Mumlu Bal 1 Kg. Sidr Balı. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/da-sidr-mumlu-bal-1-kg/p834579494?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/cA222JpEEMKN5mUcRykX4jj7rcNvRUrJaOSTPZVB.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -812,7 +1418,7 @@
       <guid isPermaLink="false">1126381181</guid>
       <g:id>1126381181</g:id>
       <g:title>Öğütülmüş Moringa (500 Gram)</g:title>
-      <g:description>Öğütülmüş Moringa (500 Gram)</g:description>
+      <g:description>Öğütülmüş Moringa (500 Gram). Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-moringa-500-gram/p1126381181?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/2PsFu0wYMxuUqG3yRbiID5l4m8iTUceq5dXETKZA.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -826,7 +1432,7 @@
       <guid isPermaLink="false">1038697929</guid>
       <g:id>1038697929</g:id>
       <g:title>Hediye Kutusu - Birinci Sınıf Amerikan Kakule + Süper Negin Safran + Rende Hediyesi</g:title>
-      <g:description>Hediye Kutusu - Birinci Sınıf Amerikan Kakule + Süper Negin Safran + Rende Hediyesi</g:description>
+      <g:description>Hediye Kutusu - Birinci Sınıf Amerikan Kakule + Süper Negin Safran + Rende Hediyesi. Hediyeler. 0.031 kg.</g:description>
       <g:link>https://hayala.co/tr/hediye-kutusu-birinci-s-n-f-amerikan-kakule-s-per-negin-safran-rende-hediyesi/p1038697929?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/2OcllDxbbon0dgw94xyRrzCA1m7WOImM1hW4EfnB.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/2IXRvRYgApN2HkuKiqj7BSbsnULq82b2hxbmRloY.png</g:additional_image_link>
@@ -842,7 +1448,7 @@
       <guid isPermaLink="false">115531510</guid>
       <g:id>115531510</g:id>
       <g:title>Yabani Yerli Çiçek Petek Balı 1 kg</g:title>
-      <g:description>Yabani Yerli Çiçek Petek Balı 1 kg</g:description>
+      <g:description>Yabani Yerli Çiçek Petek Balı 1 kg. Çiçek Balı. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/yabani-yerli-i-ek-petek-bal-1-kg/p115531510?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/uHaROXlVtGPgczCHC9WoFELTz5480Nsnl8xYQCYU.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -857,7 +1463,7 @@
       <guid isPermaLink="false">172198759</guid>
       <g:id>172198759</g:id>
       <g:title>Asir Bölgesinden Kraliyet Sidr Mumlu Bal Kazanı</g:title>
-      <g:description>Asir Bölgesinden Kraliyet Sidr Mumlu Bal Kazanı</g:description>
+      <g:description>Asir Bölgesinden Kraliyet Sidr Mumlu Bal Kazanı. Sidr Balı. 2.5 kg.</g:description>
       <g:link>https://hayala.co/tr/asir-b-lgesinden-kraliyet-sidr-mumlu-bal-kazan/p172198759?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/sbBdsqSUdCihuonN6lqmlzcXkZRT2Pj6Yu1UjieU.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -872,7 +1478,7 @@
       <guid isPermaLink="false">2038336306</guid>
       <g:id>2038336306</g:id>
       <g:title>Lokmati Başenfer Kahvesi 10 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:title>
-      <g:description>Lokmati Başenfer Kahvesi 10 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:description>
+      <g:description>Lokmati Başenfer Kahvesi 10 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi. Kahve. 10.0 kg.</g:description>
       <g:link>https://hayala.co/tr/lokmati-ba-enfer-kahvesi-10-kg-el-hayr-etiyopya-birinci-s-n-f-arap-kahvesi/p2038336306?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/GgCXve5lFnpSkUBfsHZxaJ8M9xaQOuqydTM2qL62.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -886,7 +1492,7 @@
       <guid isPermaLink="false">669353113</guid>
       <g:id>669353113</g:id>
       <g:title>Harari Başenfer Kahvesi 10 kg - Bin Al Khair Etiyopya Birinci Sınıf</g:title>
-      <g:description>Harari Başenfer Kahvesi 10 kg - Bin Al Khair Etiyopya Birinci Sınıf</g:description>
+      <g:description>Harari Başenfer Kahvesi 10 kg - Bin Al Khair Etiyopya Birinci Sınıf. Kahve. 10.0 kg.</g:description>
       <g:link>https://hayala.co/tr/harari-ba-enfer-kahvesi-10-kg-bin-al-khair-etiyopya-birinci-s-n-f/p669353113?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Q2YrrfgyTVv1Mp8rWqg61Fp6QcRmzguH1pJX2LDn.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -900,7 +1506,7 @@
       <guid isPermaLink="false">1051236094</guid>
       <g:id>1051236094</g:id>
       <g:title>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 1 Kg</g:title>
-      <g:description>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 1 Kg</g:description>
+      <g:description>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 1 Kg. Kakule. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-kakule-birinci-s-n-f-no-3-6-mm-kal-nl-k-1-kg/p1051236094?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ON3F139R9JbEHRk6jW5cAE8ADWW3UfGpJvM78TOB.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/1H0b2DFIlfX8eL0PovfnGGf2KAxSlODLG8u8eWiK.jpg</g:additional_image_link>
@@ -915,7 +1521,7 @@
       <guid isPermaLink="false">360158781</guid>
       <g:id>360158781</g:id>
       <g:title>18 Ambalaj Süper Nakil Safran 18 g + Hediye Safran Öğütücü</g:title>
-      <g:description>18 Ambalaj Süper Nakil Safran 18 g + Hediye Safran Öğütücü</g:description>
+      <g:description>18 Ambalaj Süper Nakil Safran 18 g + Hediye Safran Öğütücü. Hediyeler. 0.018 kg.</g:description>
       <g:link>https://hayala.co/tr/18-ambalaj-s-per-nakil-safran-18-g-hediye-safran-t-c/p360158781?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/o0AT1vRpvOmkqbpcXPcSC8a9z6ju7fapewEosQbT.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -927,40 +1533,10 @@
       <g:shipping_weight>0.018 kg</g:shipping_weight>
     <g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">1147148756</guid>
-      <g:id>1147148756</g:id>
-      <g:title>2 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
-      <g:description>2 kg Doğal Sidr Balı + 2 kg Hediye</g:description>
-      <g:link>https://hayala.co/tr/2-kg-do-al-sidr-bal-2-kg-hediye/p1147148756?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/yyExsm6WO6ofxrQLnbgfnOLYFhnNgapiTTM8OWet.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>410.00 SAR</g:price>
-      <g:sale_price>196.01 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1567920614</guid>
-      <g:id>1567920614</g:id>
-      <g:title>4 Ambalaj Şazliye Kahvesi</g:title>
-      <g:description>4 Ambalaj Şazliye Kahvesi</g:description>
-      <g:link>https://hayala.co/tr/4-ambalaj-azliye-kahvesi/p1567920614?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/KHkrqM65dUzJ5ofOb2TMU6t1mgwL3RDsHA9zpXcY.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>207.79 SAR</g:price>
-      <g:sale_price>152.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kahve</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">282374221</guid>
       <g:id>282374221</g:id>
       <g:title>4 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
-      <g:description>4 kg Doğal Sidr Balı + 2 kg Hediye</g:description>
+      <g:description>4 kg Doğal Sidr Balı + 2 kg Hediye. Sidr Balı. 6.0 kg.</g:description>
       <g:link>https://hayala.co/tr/4-kg-do-al-sidr-bal-2-kg-hediye/p282374221?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/1bKd9uS10LBHDOOYvklVlDcnSTldQHbdCJx3PSoc.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -975,7 +1551,7 @@
       <guid isPermaLink="false">895361493</guid>
       <g:id>895361493</g:id>
       <g:title>Süper Nakil Safran 28 g (Okka) + Ücretsiz Kargo</g:title>
-      <g:description>Süper Nakil Safran 28 g (Okka) + Ücretsiz Kargo</g:description>
+      <g:description>Süper Nakil Safran 28 g (Okka) + Ücretsiz Kargo. Safran. 0.028 kg.</g:description>
       <g:link>https://hayala.co/tr/s-per-nakil-safran-28-g-okka-cretsiz-kargo/p895361493?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/uYbhu8TRtjK4t1Yut8A9M4HUxoNSp78oBYhN4dTw.jpg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/1t4fs5x1us7HdShvToR92mTTLZxS0sGvBkhNTkbw.png</g:additional_image_link>
@@ -991,7 +1567,7 @@
       <guid isPermaLink="false">2071592201</guid>
       <g:id>2071592201</g:id>
       <g:title>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
-      <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:description>
+      <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). Kakule. 2.5 kg.</g:description>
       <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-1-8-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p2071592201?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/4iqgcFq1ACNpxDfYi1lCF6tgJ0CK9Bg2oQfIB3gM.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/l01UpaV8R5co0nzOcSiN1wi4ZWQmqqMcqc8Rz4Qg.png</g:additional_image_link>
@@ -1010,7 +1586,7 @@
       <guid isPermaLink="false">528140923</guid>
       <g:id>528140923</g:id>
       <g:title>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan</g:title>
-      <g:description>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan</g:description>
+      <g:description>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan. Baharat ve Bitkiler. 1.6 kg.</g:description>
       <g:link>https://hayala.co/tr/temel-baharatlar-12-ambalaj-yar-m-kilo-k-zarm-so-an/p528140923?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/uGkHQpTjguSoGQEgxudT5RaW3gKPvY7xWq9jblMd.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1025,7 +1601,7 @@
       <guid isPermaLink="false">1053775856</guid>
       <g:id>1053775856</g:id>
       <g:title>12 Paket Süper Negin Safran 12 Gram + Ücretsiz Kargo</g:title>
-      <g:description>12 Paket Süper Negin Safran 12 Gram + Ücretsiz Kargo</g:description>
+      <g:description>12 Paket Süper Negin Safran 12 Gram + Ücretsiz Kargo. Safran. 0.012 kg.</g:description>
       <g:link>https://hayala.co/tr/12-paket-s-per-negin-safran-12-gram-cretsiz-kargo/p1053775856?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/G6XHbbo1OcxnshhB2keetuQZQyp5WC5PZ3WYHUMl.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/DJMyKgxWmLtKWA4uOCXEzkzItKBnsjRp5bMcL6vz.png</g:additional_image_link>
@@ -1043,7 +1619,7 @@
       <guid isPermaLink="false">432604828</guid>
       <g:id>432604828</g:id>
       <g:title>Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 1 Kg</g:title>
-      <g:description>Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 1 Kg</g:description>
+      <g:description>Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 1 Kg. Kakule. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-kakule-birinci-s-n-f-ekstra-jumbo-no-1-8-mm-kal-nl-k-1-kg/p432604828?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/3jGTNROxdG5RTDb7pepwwGaGzw3sequOCqRAX5Gy.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/oksNeYtx50tku4GiezUMLuNCMoDeqqaanLmpPlTK.png</g:additional_image_link>
@@ -1061,7 +1637,7 @@
       <guid isPermaLink="false">1232653674</guid>
       <g:id>1232653674</g:id>
       <g:title>2 Paket Süper Negin Safran 10 Gram</g:title>
-      <g:description>2 Paket Süper Negin Safran 10 Gram</g:description>
+      <g:description>2 Paket Süper Negin Safran 10 Gram. Safran. 0.01 kg.</g:description>
       <g:link>https://hayala.co/tr/2-paket-s-per-negin-safran-10-gram/p1232653674?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/W3c2kUoKLmtqEi6SrKGj3Tn5CVLGbMngwrOJbQEb.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1073,572 +1649,10 @@
       <g:shipping_weight>0.01 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Safran</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">1718132750</guid>
-      <g:id>1718132750</g:id>
-      <g:title>Ekonomik Set (Kakule + Safran + Bal + Baharat + Çorba Baharatı)</g:title>
-      <g:description>Ekonomik Set (Kakule + Safran + Bal + Baharat + Çorba Baharatı)</g:description>
-      <g:link>https://hayala.co/tr/ekonomik-set-kakule-safran-bal-baharat-orba-baharat/p1718132750?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/7929qXmEkc5hv4KnTG4EfYh6hKnTbFTBPxxZmiiw.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>389.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">578517759</guid>
-      <g:id>578517759</g:id>
-      <g:title>Lokmati Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:title>
-      <g:description>Lokmati Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:description>
-      <g:link>https://hayala.co/tr/lokmati-ba-enfer-kahvesi-5-kg-el-hayr-etiyopya-birinci-s-n-f-arap-kahvesi/p578517759?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/MQEJFImfXFPfRBnzs41cAANLWgHS6wGHrSEt970l.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>199.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kahve</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2080319034</guid>
-      <g:id>2080319034</g:id>
-      <g:title>Premium Sri Lanka Karanfili 1 Kg</g:title>
-      <g:description>Premium Sri Lanka Karanfili 1 Kg</g:description>
-      <g:link>https://hayala.co/tr/premium-sri-lanka-karanfili-1-kg/p2080319034?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/dWOtTz4g3KwziU0n9f4MpjX8xxDCy7hMaTCV6n3M.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>99.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1730613591</guid>
-      <g:id>1730613591</g:id>
-      <g:title>Kurutulmuş Ananas 250 gram</g:title>
-      <g:description>Kurutulmuş Ananas 250 gram</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-ananas-250-gram/p1730613591?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/iLV31auN5qLKyEOVteVezLAWddqnky6XaUuCLGSy.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>27.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">428797377</guid>
-      <g:id>428797377</g:id>
-      <g:title>Kurutulmuş Ananas 1 kg</g:title>
-      <g:description>Kurutulmuş Ananas 1 kg</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-ananas-1-kg/p428797377?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/zpq2GkiH7izKGDd8tRKdORRCuSiwtFb8ZwrWm7z0.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>72.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1433640019</guid>
-      <g:id>1433640019</g:id>
-      <g:title>Kurutulmuş Ananas 500 gram</g:title>
-      <g:description>Kurutulmuş Ananas 500 gram</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-ananas-500-gram/p1433640019?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/s1bG0EQSEH2glSPF2CePy1yE9y7fBrdNa98dmNgC.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>42.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">583414674</guid>
-      <g:id>583414674</g:id>
-      <g:title>Yabani Kekik Yaprağı 250 gram</g:title>
-      <g:description>Yabani Kekik Yaprağı 250 gram</g:description>
-      <g:link>https://hayala.co/tr/yabani-kekik-yapra-250-gram/p583414674?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/JPIxgEZlZWmQZ5a6jGO8iu22nA5Ej93fLL6vd0Rl.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>13.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">518818921</guid>
-      <g:id>518818921</g:id>
-      <g:title>Yabani Kekik Yaprağı 500 gram</g:title>
-      <g:description>Yabani Kekik Yaprağı 500 gram</g:description>
-      <g:link>https://hayala.co/tr/yabani-kekik-yapra-500-gram/p518818921?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/TtBKBZ3ylRKN6qv1GXObKZePwaV4hNokHzGeHoLm.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>18.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1072059977</guid>
-      <g:id>1072059977</g:id>
-      <g:title>Kurutulmuş Avokado 1 kg</g:title>
-      <g:description>Kurutulmuş Avokado 1 kg</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-avokado-1-kg/p1072059977?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/BWydtZhtfEpzMAUuoTNaIKywFXDvL5td9EiAn2Vi.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2059144227</guid>
-      <g:id>2059144227</g:id>
-      <g:title>Kurutulmuş Avokado 250 g</g:title>
-      <g:description>Kurutulmuş Avokado 250 g</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-avokado-250-g/p2059144227?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/lDbnl4Oprxsn1MM9s2K2WESJ4GhzHaelgrr6GSvk.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>25.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">522208565</guid>
-      <g:id>522208565</g:id>
-      <g:title>Biberiye (Rozmarin) 1 kg</g:title>
-      <g:description>Biberiye (Rozmarin) 1 kg</g:description>
-      <g:link>https://hayala.co/tr/biberiye-rozmarin-1-kg/p522208565?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/KMcpcDhrEad78MZ8ZPnzOJZ0whJv1oChZkrumckE.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>28.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1559719230</guid>
-      <g:id>1559719230</g:id>
-      <g:title>Biberiye (Rozmarin) 500 g</g:title>
-      <g:description>Biberiye (Rozmarin) 500 g</g:description>
-      <g:link>https://hayala.co/tr/biberiye-rozmarin-500-g/p1559719230?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/rA9QSjgpOY3mtwmAFpiRSmldqSo4DnZPuvYfSLnB.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">441888257</guid>
-      <g:id>441888257</g:id>
-      <g:title>Kurutulmuş Avokado 500 g</g:title>
-      <g:description>Kurutulmuş Avokado 500 g</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-avokado-500-g/p441888257?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/eWjKQE3bgY6oCYRKoi1LcOEp0ntg6A2EAiybnsXI.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">897901817</guid>
-      <g:id>897901817</g:id>
-      <g:title>Kurutulmuş Papaya 500 g</g:title>
-      <g:description>Kurutulmuş Papaya 500 g</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-papaya-500-g/p897901817?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/atWf5BznZq0jlX10AqKL5b235MF4nsM6uZFFet8E.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">533576722</guid>
-      <g:id>533576722</g:id>
-      <g:title>Kurutulmuş Papaya 250 g</g:title>
-      <g:description>Kurutulmuş Papaya 250 g</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-papaya-250-g/p533576722?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/sP6fUgdDMJRKFBifcJfmvb6TQHs3NcrlC0lPoWl1.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>25.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">94425611</guid>
-      <g:id>94425611</g:id>
-      <g:title>Kurutulmuş Papaya 1 kg</g:title>
-      <g:description>Kurutulmuş Papaya 1 kg</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-papaya-1-kg/p94425611?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/P8D0wFSHm35YHdLHFprhAeH0xVpqXgkgeSbChaCG.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">482971108</guid>
-      <g:id>482971108</g:id>
-      <g:title>Biberiye (Rozmarin) 250 g</g:title>
-      <g:description>Biberiye (Rozmarin) 250 g</g:description>
-      <g:link>https://hayala.co/tr/biberiye-rozmarin-250-g/p482971108?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/N1taKaOLVCuHVC4NFWeRTFbTd9mOGG9dfT542BON.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>10.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">770458728</guid>
-      <g:id>770458728</g:id>
-      <g:title>Yemen Siyah Kuru Üzümü - 500 g</g:title>
-      <g:description>Yemen Siyah Kuru Üzümü - 500 g</g:description>
-      <g:link>https://hayala.co/tr/yemen-siyah-kuru-z-m-500-g/p770458728?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/c2IGPaXgwOEKakRXMcpid4RwAtnZg0SgaeSbEq9L.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1669542650</guid>
-      <g:id>1669542650</g:id>
-      <g:title>Chia Tohumu - 1 kg</g:title>
-      <g:description>Chia Tohumu - 1 kg</g:description>
-      <g:link>https://hayala.co/tr/chia-tohumu-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/An13FEjcEaCvxxJZpaOkQKFmU2bD0lG4iPNh8tXT.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1378639718</guid>
-      <g:id>1378639718</g:id>
-      <g:title>Chia Tohumu - 250 g</g:title>
-      <g:description>Chia Tohumu - 250 g</g:description>
-      <g:link>https://hayala.co/tr/chia-tohumu-250-g/p1378639718?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/yYtSwFboyC9uRsiU3xJld7Yp5zCWAeTdfhxvu2GY.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>27.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">540081798</guid>
-      <g:id>540081798</g:id>
-      <g:title>Chia Tohumu - 500 g</g:title>
-      <g:description>Chia Tohumu - 500 g</g:description>
-      <g:link>https://hayala.co/tr/chia-tohumu-500-g/p540081798?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/nvdIh9oLjkm6R4UqQon3fXPGwUlRXPLHCCgsgNVf.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1466026704</guid>
-      <g:id>1466026704</g:id>
-      <g:title>Öğütülmüş Kekik 250 gram</g:title>
-      <g:description>Öğütülmüş Kekik 250 gram</g:description>
-      <g:link>https://hayala.co/tr/t-lm-kekik-250-gram/p1466026704?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Vi5tJjiwRXytRukWe0RJo1uJlIHRGSZO9wQflKGf.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>8.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2082144846</guid>
-      <g:id>2082144846</g:id>
-      <g:title>Öğütülmüş Kekik 1 kilo</g:title>
-      <g:description>Öğütülmüş Kekik 1 kilo</g:description>
-      <g:link>https://hayala.co/tr/t-lm-kekik-1-kilo/p2082144846?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/kcmAKjyxXIJeV0u2OBYMzkxthoyQ2vwb2pYDjgk7.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>26.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1732878396</guid>
-      <g:id>1732878396</g:id>
-      <g:title>Karışık Öğütülmüş Baharat 500 gr</g:title>
-      <g:description>Karışık Öğütülmüş Baharat 500 gr</g:description>
-      <g:link>https://hayala.co/tr/kar-k-t-lm-baharat-500-gr/p1732878396?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/bzbOxKnhJ7grJC7KJSZ1tcA5GKpJB7q2APnP0AwI.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>25.30 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">351659116</guid>
-      <g:id>351659116</g:id>
-      <g:title>Öğütülmüş Kekik 500 gram</g:title>
-      <g:description>Öğütülmüş Kekik 500 gram</g:description>
-      <g:link>https://hayala.co/tr/t-lm-kekik-500-gram/p351659116?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/kZH9Ns6EsVSMxGGMGf4mts6yl6Dpyeq7AQqJXYt6.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1632683015</guid>
-      <g:id>1632683015</g:id>
-      <g:title>Papatya Çiçeği 1 kg</g:title>
-      <g:description>Papatya Çiçeği 1 kg</g:description>
-      <g:link>https://hayala.co/tr/papatya-i-e-i-1-kg/p1632683015?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/TKjfUXES3TvUoVbKFJIrWjoTSWYVK497nZpCRbPE.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">130562279</guid>
-      <g:id>130562279</g:id>
-      <g:title>Papatya Çiçeği 250 g</g:title>
-      <g:description>Papatya Çiçeği 250 g</g:description>
-      <g:link>https://hayala.co/tr/papatya-i-e-i-250-g/p130562279?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/IPnV5xupDWV0fRxqvpzv85qHjQpkZ1ruPTlEkM1O.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>16.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Bitki Çayları</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">863172740</guid>
-      <g:id>863172740</g:id>
-      <g:title>Papatya Çiçeği 500 g</g:title>
-      <g:description>Papatya Çiçeği 500 g</g:description>
-      <g:link>https://hayala.co/tr/papatya-i-e-i-500-g/p863172740?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/cszc2VVA8k4n3zjoLrROSKxOQGnlgZRCKHtcgCZ1.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1833333665</guid>
-      <g:id>1833333665</g:id>
-      <g:title>Kuru İncir 1 kg</g:title>
-      <g:description>Kuru İncir 1 kg</g:description>
-      <g:link>https://hayala.co/tr/kuru-i-ncir-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/czUrRY9UgHnQdsnZPxXqHecUue7ukfbcNSFbVBeM.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>73.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">5849117</guid>
-      <g:id>5849117</g:id>
-      <g:title>Kuru İncir 500 g</g:title>
-      <g:description>Kuru İncir 500 g</g:description>
-      <g:link>https://hayala.co/tr/kuru-i-ncir-500-g/p5849117?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Vt7XzuIv3U3t80gfxixLoymhJ3jmOZzkwABgyWz5.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>500.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">638751991</guid>
-      <g:id>638751991</g:id>
-      <g:title>Yerli Koyun Sadeyağı 680 g</g:title>
-      <g:description>Yerli Koyun Sadeyağı 680 g</g:description>
-      <g:link>https://hayala.co/tr/yerli-koyun-sadeya-680-g/p638751991?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/DDGs1Jbk4Z51IMXT1S0NYuIozZyfMogktAbi7cK3.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>148.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.68 kg</g:shipping_weight>
-    <g:google_product_category>5827</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sade Yağ (Ghee)</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">597312706</guid>
-      <g:id>597312706</g:id>
-      <g:title>Organik Elma Sirkesi 500 ml</g:title>
-      <g:description>Organik Elma Sirkesi 500 ml</g:description>
-      <g:link>https://hayala.co/tr/organik-elma-sirkesi-500-ml/p597312706?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/sVS1wVVavpQIT9PSKGPQtmehMVhTPiiXEy8pGXEo.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.6 kg</g:shipping_weight>
-    <g:google_product_category>2140</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sirke</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1171722381</guid>
-      <g:id>1171722381</g:id>
-      <g:title>Arpa Unu 500 g</g:title>
-      <g:description>Arpa Unu 500 g</g:description>
-      <g:link>https://hayala.co/tr/arpa-unu-500-g/p1171722381?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/YAUMjTtqDxMHnvuUkU4tnkzR4Boh4JoFUmpgPHyH.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>13.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Un</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2065623105</guid>
-      <g:id>2065623105</g:id>
-      <g:title>Arpa Unu 250 g</g:title>
-      <g:description>Arpa Unu 250 g</g:description>
-      <g:link>https://hayala.co/tr/arpa-unu-250-g/p2065623105?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/1uhTcx3fxgxRP1nmmINi3Pvh9JHF7Cq80Du3mpPr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>9.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2006358433</guid>
-      <g:id>2006358433</g:id>
-      <g:title>Öğütülmüş Sarımsak 500 gr</g:title>
-      <g:description>Öğütülmüş Sarımsak 500 gr</g:description>
-      <g:link>https://hayala.co/tr/t-lm-sar-msak-500-gr/p2006358433?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/c5Camb1y9hc5mAGUwMJLVSoa7kOZOEH3QNLk4wrB.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>17.25 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1381474212</guid>
-      <g:id>1381474212</g:id>
-      <g:title>Yemen Siyah Kuru Üzümü - 1 kg</g:title>
-      <g:description>Yemen Siyah Kuru Üzümü - 1 kg</g:description>
-      <g:link>https://hayala.co/tr/yemen-siyah-kuru-z-m-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/M7eifqEQAtCA93csULm7sAm7AOJM5PhveXibqdId.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2023441167</guid>
-      <g:id>2023441167</g:id>
-      <g:title>Rezene Tohumu 1 kilo</g:title>
-      <g:description>Rezene Tohumu 1 kilo</g:description>
-      <g:link>https://hayala.co/tr/rezene-tohumu-1-kilo/p2023441167?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/pM8GuDbWkxAF8VTF1u2KseYsU2A90IwmvFRWs82W.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">497613295</guid>
-      <g:id>497613295</g:id>
-      <g:title>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo)</g:title>
-      <g:description>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo)</g:description>
-      <g:link>https://hayala.co/tr/5-kg-kara-rek-otu-bal-bidonu-cretsiz-kargo/p497613295?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/c2808e6d-38f5-4576-b07d-c1f1a8a554f2-500x500-8PiesXBPqZEiMYDd6m9Ba0SIyb7nfoltnSBBpO0N.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>725.00 SAR</g:price>
-      <g:sale_price>290.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">196436999</guid>
-      <g:id>196436999</g:id>
-      <g:title>Rezene Tohumu 250 gram</g:title>
-      <g:description>Rezene Tohumu 250 gram</g:description>
-      <g:link>https://hayala.co/tr/rezene-tohumu-250-gram/p196436999?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/QvAm3REx9SlfnCV8E8aW6O88yoLMnbKy3bNGyy33.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>13.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1666335790</guid>
-      <g:id>1666335790</g:id>
-      <g:title>Rezene Tohumu 500 gram</g:title>
-      <g:description>Rezene Tohumu 500 gram</g:description>
-      <g:link>https://hayala.co/tr/rezene-tohumu-500-gram/p1666335790?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/wneeC4pOR9istASoVycMQum3gwm1EioJBQlYAeZq.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>18.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1091901970</guid>
       <g:id>1091901970</g:id>
       <g:title>Çorba Baharatı</g:title>
-      <g:description>Çorba Baharatı</g:description>
+      <g:description>Çorba Baharatı. Baharat ve Bitkiler. 0.2 kg.</g:description>
       <g:link>https://hayala.co/tr/orba-baharat/p1091901970?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/1oQsyaF0XonZJaUovmeyMIDbqzplngPa6JUwzjv5.jpg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/DnGQb/1OGO31voMKQqtk43NBbVIz8ZZ4vMUpDrzQSXW2fw.jpg</g:additional_image_link>
@@ -1650,24 +1664,10 @@
       <g:shipping_weight>0.2 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">2069148014</guid>
-      <g:id>2069148014</g:id>
-      <g:title>Öğütülmüş Kimyon 500 gr</g:title>
-      <g:description>Öğütülmüş Kimyon 500 gr</g:description>
-      <g:link>https://hayala.co/tr/t-lm-kimyon-500-gr/p2069148014?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/XJdaF5kCpXoMjlMim3h3AmbNFPD94nBia4UrlDer.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>46.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">1474254823</guid>
       <g:id>1474254823</g:id>
       <g:title>Öğütülmüş Tarçın 500 gr</g:title>
-      <g:description>Öğütülmüş Tarçın 500 gr</g:description>
+      <g:description>Öğütülmüş Tarçın 500 gr. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-tar-n-500-gr/p1474254823?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/AG6iCvAPe7ftlvGIqCS5yjx67mTdaO6pjZBrtkIZ.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1681,7 +1681,7 @@
       <guid isPermaLink="false">150479264</guid>
       <g:id>150479264</g:id>
       <g:title>Kurutulmuş Kivi 250 gram</g:title>
-      <g:description>Kurutulmuş Kivi 250 gram</g:description>
+      <g:description>Kurutulmuş Kivi 250 gram. Kuru Meyveler. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-kivi-250-gram/p150479264?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/qPl8J9T6cpTn849yO1lqELeT8BQBnxQDMxHEKu2n.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1695,7 +1695,7 @@
       <guid isPermaLink="false">801044632</guid>
       <g:id>801044632</g:id>
       <g:title>Kurutulmuş Kivi 1 kilo</g:title>
-      <g:description>Kurutulmuş Kivi 1 kilo</g:description>
+      <g:description>Kurutulmuş Kivi 1 kilo. Kuru Meyveler. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-kivi-1-kilo/p801044632?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/JY2398uaErnQRYUonMH2zT1O6NOIYV15GST81ZRw.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1709,7 +1709,7 @@
       <guid isPermaLink="false">1073244520</guid>
       <g:id>1073244520</g:id>
       <g:title>Kurutulmuş Kivi 500 gram</g:title>
-      <g:description>Kurutulmuş Kivi 500 gram</g:description>
+      <g:description>Kurutulmuş Kivi 500 gram. Kuru Meyveler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-kivi-500-gram/p1073244520?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/5S2FsiO8ycfhCP85Qdm1upPM6iHPnRdsCqA4A1Lb.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1723,7 +1723,7 @@
       <guid isPermaLink="false">572967102</guid>
       <g:id>572967102</g:id>
       <g:title>Şazliye Kahvesi</g:title>
-      <g:description>Şazliye Kahvesi</g:description>
+      <g:description>Şazliye Kahvesi. Kahve. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/azliye-kahvesi/p572967102?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/HSOgdJEPvRvojLcFtBS6toVW6tRxK8tgxvmEgDRU.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1737,7 +1737,7 @@
       <guid isPermaLink="false">176539565</guid>
       <g:id>176539565</g:id>
       <g:title>Kurutulmuş Mango 1 kilo</g:title>
-      <g:description>Kurutulmuş Mango 1 kilo</g:description>
+      <g:description>Kurutulmuş Mango 1 kilo. Kuru Meyveler. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-mango-1-kilo/p176539565?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/f26bdWuoBDSjn4gqEaAxiizIxGW68HswNIw2wapS.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1751,7 +1751,7 @@
       <guid isPermaLink="false">1956516321</guid>
       <g:id>1956516321</g:id>
       <g:title>Kurutulmuş Mango 250 gram</g:title>
-      <g:description>Kurutulmuş Mango 250 gram</g:description>
+      <g:description>Kurutulmuş Mango 250 gram. Kuru Meyveler. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-mango-250-gram/p1956516321?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/tGwg2ZyYnZPqexUSecO9TJsWvYpBevUNDmuLHmno.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1765,7 +1765,7 @@
       <guid isPermaLink="false">1293815972</guid>
       <g:id>1293815972</g:id>
       <g:title>Hibiskus (Karkade) 1 kg</g:title>
-      <g:description>Hibiskus (Karkade) 1 kg</g:description>
+      <g:description>Hibiskus (Karkade) 1 kg. Bitki Çayları. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/hibiskus-karkade-1-kg/p1293815972?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/NHoMCyd2cbbR7SV7iQNQhwSsVU8HRwpU9QE5YnZv.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1779,7 +1779,7 @@
       <guid isPermaLink="false">1511230577</guid>
       <g:id>1511230577</g:id>
       <g:title>Kurutulmuş Mango 500 gram</g:title>
-      <g:description>Kurutulmuş Mango 500 gram</g:description>
+      <g:description>Kurutulmuş Mango 500 gram. Kuru Meyveler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-mango-500-gram/p1511230577?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/cZ6BzG8DOc8Ab9i0J5HiO25suiJFtr1Kdie4XuiA.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1793,7 +1793,7 @@
       <guid isPermaLink="false">811285941</guid>
       <g:id>811285941</g:id>
       <g:title>Hibiskus (Karkade) 250 g</g:title>
-      <g:description>Hibiskus (Karkade) 250 g</g:description>
+      <g:description>Hibiskus (Karkade) 250 g. Bitki Çayları. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/hibiskus-karkade-250-g/p811285941?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/GmYzcNUHCTJMGpwWUZRnf6AagjTLF8x992D0WjHn.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1807,7 +1807,7 @@
       <guid isPermaLink="false">1701109911</guid>
       <g:id>1701109911</g:id>
       <g:title>Kurutulmuş Adaçayı 1 kg</g:title>
-      <g:description>Kurutulmuş Adaçayı 1 kg</g:description>
+      <g:description>Kurutulmuş Adaçayı 1 kg. Bitki Çayları. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-ada-ay-1-kg/p1701109911?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Dz5hl7jddRs2wGOLpK512YLyrwidFUUKLmf08qiB.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1821,7 +1821,7 @@
       <guid isPermaLink="false">373779673</guid>
       <g:id>373779673</g:id>
       <g:title>Öğütülmüş Zerdeçal 500 gr</g:title>
-      <g:description>Öğütülmüş Zerdeçal 500 gr</g:description>
+      <g:description>Öğütülmüş Zerdeçal 500 gr. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-zerde-al-500-gr/p373779673?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/hTUOi6MwjZEYDjH2I2hKIfHAAERsqXLsEr7yvf0z.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1835,7 +1835,7 @@
       <guid isPermaLink="false">1313413261</guid>
       <g:id>1313413261</g:id>
       <g:title>Hibiskus (Karkade) 500 g</g:title>
-      <g:description>Hibiskus (Karkade) 500 g</g:description>
+      <g:description>Hibiskus (Karkade) 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/hibiskus-karkade-500-g/p1313413261?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/hYEQgBW9lkTerJ4JlcCFXJEBxXeOKmfztpqMTt6p.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1849,7 +1849,7 @@
       <guid isPermaLink="false">1467466677</guid>
       <g:id>1467466677</g:id>
       <g:title>Kurutulmuş Adaçayı 250 g</g:title>
-      <g:description>Kurutulmuş Adaçayı 250 g</g:description>
+      <g:description>Kurutulmuş Adaçayı 250 g. Bitki Çayları. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-ada-ay-250-g/p1467466677?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/q5yNlnzfhXUGfqHmCT5lSTHxbMNm2TZEGB5QRDKM.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1863,7 +1863,7 @@
       <guid isPermaLink="false">403725985</guid>
       <g:id>403725985</g:id>
       <g:title>Kurutulmuş Adaçayı 500 g</g:title>
-      <g:description>Kurutulmuş Adaçayı 500 g</g:description>
+      <g:description>Kurutulmuş Adaçayı 500 g. Kuruyemiş ve Tohumlar. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-ada-ay-500-g/p403725985?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/hajVBswhDqPPrXmrQWI7pd2z7tSwUWabMsCxL9LS.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1877,7 +1877,7 @@
       <guid isPermaLink="false">1218370784</guid>
       <g:id>1218370784</g:id>
       <g:title>1 kg Doğal Sidr Balı</g:title>
-      <g:description>1 kg Doğal Sidr Balı</g:description>
+      <g:description>1 kg Doğal Sidr Balı. Sidr Balı. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/1-kg-do-al-sidr-bal/p1218370784?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/Wce39X7HYbODYyPUY4rrKOYo5UUM6OOsIySEjiTC.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1891,7 +1891,7 @@
       <guid isPermaLink="false">868577170</guid>
       <g:id>868577170</g:id>
       <g:title>Zencefilli, Limonlu ve Zerdeçallı Doğal Bal İçeceği 470 g</g:title>
-      <g:description>Zencefilli, Limonlu ve Zerdeçallı Doğal Bal İçeceği 470 g</g:description>
+      <g:description>Zencefilli, Limonlu ve Zerdeçallı Doğal Bal İçeceği 470 g. Bal İçeceği. 0.55 kg.</g:description>
       <g:link>https://hayala.co/tr/zencefilli-limonlu-ve-zerde-all-do-al-bal-i-ece-i-470-g/p868577170?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/924df781-5b4f-44cf-963d-0993b36b3873-500x500-MPul1L03QfidfutCjIWZol8lAbcsRoA7smyXfArO.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1905,7 +1905,7 @@
       <guid isPermaLink="false">1854428382</guid>
       <g:id>1854428382</g:id>
       <g:title>2 kg Doğal Sidr Balı</g:title>
-      <g:description>2 kg Doğal Sidr Balı</g:description>
+      <g:description>2 kg Doğal Sidr Balı. Sidr Balı. 2.0 kg.</g:description>
       <g:link>https://hayala.co/tr/2-kg-do-al-sidr-bal/p1854428382?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ucpKTh3Awq09ZS5a1bSnLVRbH6vjJLavgd7WYFNu.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1919,7 +1919,7 @@
       <guid isPermaLink="false">999780142</guid>
       <g:id>999780142</g:id>
       <g:title>Ajowan (Nankhah) Tohumu 500 gram</g:title>
-      <g:description>Ajowan (Nankhah) Tohumu 500 gram</g:description>
+      <g:description>Ajowan (Nankhah) Tohumu 500 gram. Baharat ve Bitkiler. 0.5 kg.</g:description>
       <g:link>https://hayala.co/tr/ajowan-nankhah-tohumu-500-gram/p999780142?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/PbbwBakbVzybr54rE6Ue20K8ARomjsU5m1X1u3Kw.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1933,7 +1933,7 @@
       <guid isPermaLink="false">257201169</guid>
       <g:id>257201169</g:id>
       <g:title>Ajowan (Nankhah) Tohumu 1 kilo</g:title>
-      <g:description>Ajowan (Nankhah) Tohumu 1 kilo</g:description>
+      <g:description>Ajowan (Nankhah) Tohumu 1 kilo. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/ajowan-nankhah-tohumu-1-kilo/p257201169?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/RlMS1sYmokfiBjZXKJEHHSkBnsbzoYStZ9O3J8sX.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1947,7 +1947,7 @@
       <guid isPermaLink="false">1859497066</guid>
       <g:id>1859497066</g:id>
       <g:title>Ajwain (Nanehah) 250 g</g:title>
-      <g:description>Ajwain (Nanehah) 250 g</g:description>
+      <g:description>Ajwain (Nanehah) 250 g. Kuruyemiş ve Tohumlar. 0.25 kg.</g:description>
       <g:link>https://hayala.co/tr/ajwain-nanehah-250-g/p1859497066?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/krTYFlklGQi1f8iI5z7OrDWDNsg1zrgy4PoFyffd.jpg</g:image_link>
       <g:availability>in stock</g:availability>
