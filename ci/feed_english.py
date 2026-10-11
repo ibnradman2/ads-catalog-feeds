@@ -41,8 +41,7 @@ STORES = _load_stores()   # المتجر ← رابطه؛ ترتيب المفا�
 # اللغات بترتيب المادة 61 البند 3: (رمز سلة في الرابط، رمز Merchant في اسم الملف ولغة المحتوى، النظام الكتابي)
 # الأردية خارج القائمة: Merchant يرفض ur لغة محتوى (INVALID، 2026-10-11)، فلا مصدر لها ولا تُهدر عليها طلبات الجلب.
 LANGS = [("en", "en", "latin"), ("hi", "hi", "devanagari"), ("tl", "tl", "latin"),
-         ("ind", "id", "latin"), ("fr", "fr", "latin"), ("tr", "tr", "latin"), ("zh", "zh", "cjk"), ("es", "es", "latin"),
-         ("it", "it", "latin"), ("pt", "pt", "latin")]
+         ("ind", "id", "latin"), ("fr", "fr", "latin"), ("tr", "tr", "latin"), ("zh", "zh", "cjk"), ("es", "es", "latin")]   # الإيطالية والبرتغالية خارج الطلب مؤقتًا (أمر المالك 2026-10-11): أعدهما: ("it","it","latin"), ("pt","pt","latin")
 SCRIPT_RE = {"latin": re.compile(r"[A-Za-zÀ-ɏ]"), "arabic": re.compile(r"[؀-ۿ]"),
              "devanagari": re.compile(r"[ऀ-ॿ]"), "cjk": re.compile(r"[一-鿿]")}
 UNTRANSLATED_RECHECK_HOURS = 48   # صفحة لغة لم تُترجم بعد (نصها = العربي) لا تُجلب أكثر من مرة كل يومين
