@@ -28,6 +28,8 @@
 !texts_tr.json
 !texts_zh.json
 !texts_es.json
+!texts_it.json
+!texts_pt.json
 !ci/feed_labels_i18n.py
 
 # تشغيل Actions: ملف سير العمل ونسخة الكود فقط، بأسمائها لا بمجلدات كاملة.
