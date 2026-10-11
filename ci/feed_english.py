@@ -174,6 +174,19 @@ def parse_page(text):
     return html.unescape(title).strip(), (body.group(1) if body else "")
 
 
+try:      # حاكم القراءة (المادة 248) متاح على جهاز المشروع فقط؛ في CI بلا حاكم يبقى السلوك القديم
+    import importlib.util as _iu
+    _gp = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "dashboard", "read_governor.py")
+    if os.path.isfile(_gp):
+        _sp = _iu.spec_from_file_location("read_governor", _gp)
+        _RG = _iu.module_from_spec(_sp)
+        _sp.loader.exec_module(_RG)
+    else:
+        _RG = None
+except Exception:  # noqa: BLE001
+    _RG = None
+
+
 class Budget:
     """حد طلبات مشترك بين المتاجر واللغات في التشغيل الواحد، وتوقف مشترك عند أول 429."""
     def __init__(self, n=MAX_FETCH):
@@ -209,9 +222,15 @@ def refresh(store, ids, cache, lang="en", budget=None, ar_titles=None):
     s.headers["User-Agent"] = UA
     done = 0
     for pid in due:
+        url = f"{base}/{lang}/x/p{pid}"
+        gstore = None
         try:
-            r = s.get(f"{base}/{lang}/x/p{pid}", timeout=30)   # سلة تصل إلى المنتج بمعرّفه أيًّا كان المقطع قبله
-        except requests.RequestException as e:
+            if _RG is not None:      # المادة 248: كل طلب لنطاق متجر يمرّ بحاكم القراءة (تهدئة وميزانية مشتركتان)
+                gstore = _RG.acquire(url, "feed_english.py")
+            r = s.get(url, timeout=30)   # سلة تصل إلى المنتج بمعرّفه أيًّا كان المقطع قبله
+            if _RG is not None:
+                _RG.report(gstore, r.status_code, "feed_english.py")
+        except requests.RequestException as e:      # Blocked (تهدئة الحاكم) منها: غير معروف لا فشل
             budget.stop_by[store] = type(e).__name__
             break
         if r.status_code == 429 or (r.status_code == 200 and not r.url.rstrip("/").endswith(f"/p{pid}")):

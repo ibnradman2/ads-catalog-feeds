@@ -102,7 +102,11 @@ def load_sources():
 
 
 def fetch(url):
+    rg = getattr(feed_english, "_RG", None)      # المادة 248: ملف سلة المصدر على نطاق المتجر يمرّ بحاكم القراءة
+    store = rg.acquire(url, "catalog_feed_proxy.py") if rg is not None else None
     r = requests.get(url, headers={"User-Agent": UA}, timeout=120)
+    if rg is not None:
+        rg.report(store, r.status_code, "catalog_feed_proxy.py")
     r.raise_for_status()
     return r.content
 
