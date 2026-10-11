@@ -4,10 +4,44 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 10 Oct 2026 23:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:04:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">480738937</guid>
+      <g:id>480738937</g:id>
+      <g:title>2 किलो प्राकृतिक फूलों का शहद</g:title>
+      <g:description>2 किलो प्राकृतिक फूलों का शहद</g:description>
+      <g:link>https://areesh.sa/hi/2/p480738937?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/s9b1EwZ2mMPdbMVN5ZLwUX9PH5gb22rMrE9qmQCB.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/4EhF86EQ2U7qy3zjRkBNwc7QzbbHyrzsulyhvITA.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/bUOcintV3FFgqFe3gQMeJbxpSUcRSR5AkTabAs7v.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>79.99 SAR</g:price>
+      <g:sale_price>48.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>002100200201</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1425604290</guid>
+      <g:id>1425604290</g:id>
+      <g:title>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद</g:title>
+      <g:description>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद</g:description>
+      <g:link>https://areesh.sa/hi/2-2/p1425604290?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/AwYM1NezQwrNJG2WGmohuoDgsLw0KdI6AqzFm73T.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>209.99 SAR</g:price>
+      <g:sale_price>148.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>004100700302</g:item_group_id>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">190273304</guid>
       <g:id>190273304</g:id>
@@ -1554,40 +1588,6 @@
       <g:item_group_id>0021002007</g:item_group_id>
       <g:shipping_weight>7.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">1425604290</guid>
-      <g:id>1425604290</g:id>
-      <g:title>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद</g:title>
-      <g:description>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद</g:description>
-      <g:link>https://areesh.sa/hi/2-2/p1425604290?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/AwYM1NezQwrNJG2WGmohuoDgsLw0KdI6AqzFm73T.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>209.99 SAR</g:price>
-      <g:sale_price>148.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>004100700302</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">480738937</guid>
-      <g:id>480738937</g:id>
-      <g:title>2 किलो प्राकृतिक फूलों का शहद</g:title>
-      <g:description>2 किलो प्राकृतिक फूलों का शहद</g:description>
-      <g:link>https://areesh.sa/hi/2/p480738937?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/s9b1EwZ2mMPdbMVN5ZLwUX9PH5gb22rMrE9qmQCB.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/4EhF86EQ2U7qy3zjRkBNwc7QzbbHyrzsulyhvITA.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/bUOcintV3FFgqFe3gQMeJbxpSUcRSR5AkTabAs7v.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>79.99 SAR</g:price>
-      <g:sale_price>48.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>002100200201</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">277670775</guid>
       <g:id>277670775</g:id>
