@@ -104,6 +104,8 @@ EN_PRODUCT_TYPE = {
     "قهوة الشاذلية": "Shazliya Coffee", "العسل الاسباني": "Spanish Honey",
     "عسل مانوكا نيوزلندي": "New Zealand Manuka Honey", "تمر خلاص القصيم": "Qassim Khalas Dates",
     "عروض حصرية لمدة 48 ساعة": "48-Hour Exclusive Offers",
+    "تمور": "Dates", "تين مجفف": "Dried Figs", "زيت سمسم": "Sesame Oil", "صمغ عربي": "Gum Arabic",
+    "طلع النخل": "Date Palm Pollen", "عسل أكاسيا": "Acacia Honey", "عسل السلم": "Salam Honey",
 }
 
 
@@ -359,12 +361,6 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
                 else:
                     untranslated.add(f"label{n}:" + (el.text or "").strip())
                     it.remove(el)
-        bad = next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)
-                    and not (c.tag.replace(G, "") in ("title", "description") and lang == "ur")), None)
-        if bad:                                  # حارس النقاء: أي نص عربي في أي حقل يستبعد المنتج
-            excluded.append((pid, "نص عربي في الحقل " + bad))
-            parent[it].remove(it)
-            continue
         slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:80] or "product"
         for tag in ("link", G + "link", "mobile_link", G + "mobile_link"):
             el = it.find(tag)
@@ -372,6 +368,12 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
                 # مقطع لاتيني من العنوان بدل المقطع العربي؛ سلة تصل إلى المنتج بمعرّفه، وتبقى معاملات التتبع
                 q = el.text.strip().partition("?")
                 el.text = f"{STORES[store]}/{lang}/{slug}/p{pid}" + (q[1] + q[2] if q[1] else "")
+        bad = next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)
+                    and not (c.tag.replace(G, "") in ("title", "description") and lang == "ur")), None)
+        if bad:                                  # حارس النقاء: أي نص عربي في أي حقل يستبعد المنتج
+            excluded.append((pid, "نص عربي في الحقل " + bad))
+            parent[it].remove(it)
+            continue
         kept += 1
     ch = root.find("./channel/link")                     # رابط القناة نفسها
     if ch is not None and ch.text:
