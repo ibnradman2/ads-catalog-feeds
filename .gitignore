@@ -18,6 +18,14 @@
 !*-google-[a-z][a-z][a-z].xml
 # نصوص صفحات /en العامة للملف الإنجليزي (البند P-asal-merchant-008)؛ لا أسرار فيها.
 !en_texts.json
+# كاش نصوص صفحات اللغات الأخرى (عناوين وأوصاف عامة من واجهة المتجر): يلزم رفعه حتى لا تبدأ Actions كل ساعة من صفر (2026-10-11).
+!texts_hi.json
+!texts_tl.json
+!texts_ind.json
+!texts_fr.json
+!texts_tr.json
+!texts_zh.json
+!ci/feed_labels_i18n.py
 
 # تشغيل Actions: ملف سير العمل ونسخة الكود فقط، بأسمائها لا بمجلدات كاملة.
 !.github/

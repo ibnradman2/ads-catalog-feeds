@@ -14,11 +14,13 @@ Merchant Center عسل الجبال. فنأخذ ملف جوجل العربي ب�
 140 صفحة في كل تشغيل؛ لأن واجهة سلة تردّ 429 بعد نحو 300 طلب سريع. عند 429 يتوقف التحديث
 ويبقى النص المحفوظ.
 """
-import json, os, re, time, html, datetime as dt
+import json, os, re, sys, time, html, datetime as dt
 import xml.etree.ElementTree as ET
 from defusedxml.ElementTree import fromstring as safe_fromstring
 import requests
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import feed_labels_i18n as LBL   # ترجمة التسميات (2026-10-11)
 G = "{http://base.google.com/ns/1.0}"
 REPO = os.environ.get("FEEDS_REPO_DIR") or r"C:\ads-api\feeds_repo"
 CACHE = os.path.join(REPO, "en_texts.json")          # كاش الإنجليزية (اسمه القديم باقٍ)
@@ -37,14 +39,15 @@ def _load_stores():
 
 STORES = _load_stores()   # المتجر ← رابطه؛ ترتيب المفاتيح = ترتيب بناء الملفات
 # اللغات بترتيب المادة 61 البند 3: (رمز سلة في الرابط، رمز Merchant في اسم الملف ولغة المحتوى، النظام الكتابي)
-LANGS = [("en", "en", "latin"), ("ur", "ur", "arabic"), ("hi", "hi", "devanagari"), ("tl", "tl", "latin"),
+# الأردية خارج القائمة: Merchant يرفض ur لغة محتوى (INVALID، 2026-10-11)، فلا مصدر لها ولا تُهدر عليها طلبات الجلب.
+LANGS = [("en", "en", "latin"), ("hi", "hi", "devanagari"), ("tl", "tl", "latin"),
          ("ind", "id", "latin"), ("fr", "fr", "latin"), ("tr", "tr", "latin"), ("zh", "zh", "cjk")]
 SCRIPT_RE = {"latin": re.compile(r"[A-Za-zÀ-ɏ]"), "arabic": re.compile(r"[؀-ۿ]"),
              "devanagari": re.compile(r"[ऀ-ॿ]"), "cjk": re.compile(r"[一-鿿]")}
 UNTRANSLATED_RECHECK_HOURS = 48   # صفحة لغة لم تُترجم بعد (نصها = العربي) لا تُجلب أكثر من مرة كل يومين
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
-MAX_FETCH = 140   # حد طلبات واحد لكل تشغيل موزّع على كل المتاجر واللغات (سلة تردّ 429 بعد نحو 300)
+MAX_FETCH = int(os.environ.get("FEEDS_MAX_FETCH") or 260)   # حد طلبات واحد لكل تشغيل موزّع على كل المتاجر واللغات (سلة تردّ 429 بعد نحو 300)
 FRESH_HOURS = 24
 AR = re.compile(r"[\u0600-\u06FF]")
 LETTER = re.compile(r"[A-Za-z\u0600-\u06FF]")
@@ -347,6 +350,21 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
             else:
                 untranslated.add((pt.text or "").strip())
                 it.remove(pt)
+        for n in range(4):                       # التسميات بلغة الملف أو تُحذف (لا عربي في ملف لغة)
+            el = it.find(G + f"custom_label_{n}")
+            if el is not None:
+                tv = LBL.translate(n, el.text, lang)
+                if tv:
+                    el.text = tv
+                else:
+                    untranslated.add(f"label{n}:" + (el.text or "").strip())
+                    it.remove(el)
+        bad = next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)
+                    and not (c.tag.replace(G, "") in ("title", "description") and lang == "ur")), None)
+        if bad:                                  # حارس النقاء: أي نص عربي في أي حقل يستبعد المنتج
+            excluded.append((pid, "نص عربي في الحقل " + bad))
+            parent[it].remove(it)
+            continue
         slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:80] or "product"
         for tag in ("link", G + "link", "mobile_link", G + "mobile_link"):
             el = it.find(tag)
