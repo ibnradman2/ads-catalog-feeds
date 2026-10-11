@@ -604,22 +604,25 @@ def main():
     # ملفات ميتا وسناب الإنجليزية: النص من كاش /en نفسه (بلا جلب جديد) والرابط /en مع وسم المنصة. فشلها لا يوقف العربي.
     if ar_platform:
         budget = feed_english.Budget(0)
+        META_LOC = {"en": "en_XX", "hi": "hi_IN", "tl": "tl_PH", "id": "id_ID", "fr": "fr_XX", "tr": "tr_TR",
+                    "zh": "zh_CN", "es": "es_XX"}
         for (store, platform), (idx, xml_in) in ar_platform.items():
+          for lang, mlang, script in feed_english.LANGS:     # كل اللغات لكتالوجي ميتا وسناب (أمر المالك 2026-10-11)
             try:
-                xml_en, kept, excluded, _ = feed_english.build(xml_in, store, "en", budget, "en", "latin")
+                xml_en, kept, excluded, _ = feed_english.build(xml_in, store, lang, budget, mlang, script)
             except Exception as e:  # noqa: BLE001
-                print(f"[{store}] {platform}-en: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
+                print(f"[{store}] {platform}-{mlang}: تعذّر البناء — {type(e).__name__}: {str(e)[:80]}")
                 continue
             if platform == "meta":   # ميتا: ملف لغة (override) فيه المعرّف والنص والرابط وحدها، بلا سعر ولا توفر (شرط ميتا)
-                xml_en = _meta_language_override(xml_en, "en_XX")
-            name = f"{store}-{idx+1}-{platform}-en.xml"
+                xml_en = _meta_language_override(xml_en, META_LOC.get(mlang, mlang))
+            name = f"{store}-{idx+1}-{platform}-{mlang}.xml"
             if not kept:
-                print(f"[{store}] {platform}-en منتجات 0 · مستبعد {len(excluded)} · بلا ملف")
+                print(f"[{store}] {platform}-{mlang} منتجات 0 · مستبعد {len(excluded)} · بلا ملف")
                 continue
             if not check:
                 open(os.path.join(OUT, name), "wb").write(xml_en)
-            print(f"[{store}] {platform}-en منتجات {kept} · مستبعد {len(excluded)} → build/feeds/{name}")
-            report["files"].append({"store": store, "platform": f"{platform}-en", "file": name,
+            print(f"[{store}] {platform}-{mlang} منتجات {kept} · مستبعد {len(excluded)} → build/feeds/{name}")
+            report["files"].append({"store": store, "platform": f"{platform}-{mlang}", "file": name,
                                     "products": kept, "links": kept, "size_kb": round(len(xml_en) / 1024),
                                     "excluded": [{"id": p, "why": w} for p, w in excluded]})
     if report.get("translations") and not check:
