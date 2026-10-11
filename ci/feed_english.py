@@ -80,6 +80,9 @@ EN_BRAND = {"asal": "Asal Aljebal", "areesh": "Areesh", "hayala": "Hayala"}
 BRAND_L = {"hi": {"asal": "असल अल-जबल", "areesh": "अरीश", "hayala": "हयाला"},
            "zh": {"asal": "阿萨尔·阿尔杰巴勒", "areesh": "阿里什", "hayala": "哈亚拉"}}
 # كلمات إنجليزية دخيلة في عناوين اللغات اللاتينية (ترجمة مختلطة تُستبعد حتى تُصلح)
+# منتجات حساسة سياسيًّا في سناب وميتا (جنسنج ومنشطات وطلع النخل): تُستبعد من كل ملفات اللغات (رُفضت حملتا سناب fr/zh، 2026-10-11)
+SENSITIVE_AR = re.compile(r"جنس|جينس|انتصاب|فياجرا|فياغرا|قذف|للمتزوجين|المتزوجين|مقوي|منشط|ابيميديوم|إبيميديوم|"
+                          r"السعادة الزوجية|عسل السعادة|خلطة الاسد|خلطة الأسد|عسل الطاقة|طلع النخل|باور")
 MIXED_EN = re.compile(r"(the|with|and|of|for|honey|jar|jars|natural|pure|box|bottle|delivery|free|offer|gift)", re.I)
 BRAND_PHRASES = re.compile(r"Honey Bros|Premium Manuka Honey|Manuka Honey|Black Seed Honey", re.I)
 # نوع المنتج بالإنجليزية. القيمة الجديدة غير المترجمة يُحذف حقلها من الملف الإنجليزي وتُذكر في
@@ -326,6 +329,8 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
             why = "العنوان بلا ترجمة"
         elif not _script_ok(script, title):
             why = "العنوان بغير نظام اللغة"
+        elif SENSITIVE_AR.search(ar_title):
+            why = "منتج حساس سياسيًّا في المنصات"
         elif lang in ("tl", "id", "fr", "tr", "es", "it", "pt") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 1                 and lang != "fr" or (lang in ("fr", "tr", "es", "it", "pt") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 2):
             why = "ترجمة مختلطة بكلمات إنجليزية"
         elif lang == "en" and _arabic_share(desc) > 0.05:
