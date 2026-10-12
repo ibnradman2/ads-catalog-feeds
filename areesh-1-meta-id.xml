@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:07:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -81,10 +81,22 @@
       <g:link>https://areesh.sa/ind/propolis-bubuk-propolis-atau-perekat-lebah-15-gram/p311732055?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
+      <g:id>547643097</g:id>
+      <g:title>Madu Black Forest 1 kg</g:title>
+      <g:description>Madu Black Forest 1 kg. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-black-forest-1-kg/p547643097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
       <g:id>1386198566</g:id>
       <g:title>Makanan Ratu Lebah 15 Gram</g:title>
       <g:description>Makanan Ratu Lebah 15 Gram. 0.015 kg.</g:description>
       <g:link>https://areesh.sa/ind/makanan-ratu-lebah-15-gram/p1386198566?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1700113743</g:id>
+      <g:title>Madu Sidr Royal Osaimi 500 g</g:title>
+      <g:description>Madu Sidr Royal Osaimi 500 g. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-royal-osaimi-500-g/p1700113743?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>515879663</g:id>
@@ -93,10 +105,28 @@
       <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-2-kilo/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
+      <g:id>581260348</g:id>
+      <g:title>Luxury Box (Dua Kemasan Madu Sidr Alami)</g:title>
+      <g:description>Luxury Box (Dua Kemasan Madu Sidr Alami). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/luxury-box-dua-kemasan-madu-sidr-alami/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>399980213</g:id>
+      <g:title>Madu Sidr Royal Osaimi 1 kg</g:title>
+      <g:description>Madu Sidr Royal Osaimi 1 kg. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-royal-osaimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
       <g:id>1753534952</g:id>
       <g:title>Madu Sidr Kashmiri 1 Kilo</g:title>
       <g:description>Madu Sidr Kashmiri 1 Kilo. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-1-kilo/p1753534952?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>427525089</g:id>
+      <g:title>Madu Sidr Royal Osaimi 250 g</g:title>
+      <g:description>Madu Sidr Royal Osaimi 250 g. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-royal-osaimi-250-g/p427525089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1714110187</g:id>
@@ -105,10 +135,34 @@
       <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-250-g/p1714110187?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
+      <g:id>14589094</g:id>
+      <g:title>4 kg Madu Sidr Alami + Gratis 2 kg Madu Bunga</g:title>
+      <g:description>4 kg Madu Sidr Alami + Gratis 2 kg Madu Bunga. 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/4-kg-madu-sidr-alami-gratis-2-kg-madu-bunga/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>26663992</g:id>
+      <g:title>Serbuk Sari Lebah</g:title>
+      <g:description>Serbuk Sari Lebah. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/serbuk-sari-lebah/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>Racikan Royal Areesh (Kemasan 500 g)</g:title>
+      <g:description>Racikan Royal Areesh (Kemasan 500 g). 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/racikan-royal-areesh-kemasan-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
       <g:id>1126573678</g:id>
       <g:title>Madu Sidr Hadhrami 500 gram</g:title>
       <g:description>Madu Sidr Hadhrami 500 gram. 0.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-sidr-hadhrami-500-gram/p1126573678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>277670775</g:id>
+      <g:title>4 kg Madu Bunga Alami</g:title>
+      <g:description>4 kg Madu Bunga Alami. 4.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/4-kg-madu-bunga-alami/p277670775?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>893293328</g:id>
@@ -571,6 +625,12 @@
       <g:title>12 Kilo Madu Bunga Alami</g:title>
       <g:description>12 Kilo Madu Bunga Alami. 12.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/12-kilo-madu-bunga-alami/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1206195242</g:id>
+      <g:title>Madu Manuka Selandia Baru Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
+      <g:description>Madu Manuka Selandia Baru Homeland Premium UMF 5+, MGO 100+, 250 g. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     </channel>
 </rss>
