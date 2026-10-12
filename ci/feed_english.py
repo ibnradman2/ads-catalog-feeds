@@ -41,14 +41,14 @@ STORES = _load_stores()   # المتجر ← رابطه؛ ترتيب المفا�
 # اللغات بترتيب المادة 61 البند 3: (رمز سلة في الرابط، رمز Merchant في اسم الملف ولغة المحتوى، النظام الكتابي)
 # الأردية خارج القائمة: Merchant يرفض ur لغة محتوى (INVALID، 2026-10-11)، فلا مصدر لها ولا تُهدر عليها طلبات الجلب.
 LANGS = [("en", "en", "latin"), ("hi", "hi", "devanagari"), ("tl", "tl", "latin"),
-         ("ind", "id", "latin"), ("fr", "fr", "latin"), ("tr", "tr", "latin"), ("zh", "zh", "cjk"), ("es", "es", "latin")]   # الإيطالية والبرتغالية خارج الطلب مؤقتًا (أمر المالك 2026-10-11): أعدهما: ("it","it","latin"), ("pt","pt","latin")
+         ("ind", "id", "latin"), ("fr", "fr", "latin"), ("tr", "tr", "latin"), ("zh", "zh", "cjk"), ("es", "es", "latin"), ("ur", "ur", "arabic")]   # الإيطالية والبرتغالية خارج الطلب مؤقتًا (أمر المالك 2026-10-11): أعدهما: ("it","it","latin"), ("pt","pt","latin")
 SCRIPT_RE = {"latin": re.compile(r"[A-Za-zÀ-ɏ]"), "arabic": re.compile(r"[؀-ۿ]"),
              "devanagari": re.compile(r"[ऀ-ॿ]"), "cjk": re.compile(r"[一-鿿]")}
 UNTRANSLATED_RECHECK_HOURS = 48   # صفحة لغة لم تُترجم بعد (نصها = العربي) لا تُجلب أكثر من مرة كل يومين
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 MAX_FETCH = int(os.environ.get("FEEDS_MAX_FETCH") or 260)   # حد طلبات واحد لكل تشغيل موزّع على كل المتاجر واللغات (سلة تردّ 429 بعد نحو 300)
-FRESH_HOURS = 24
+FRESH_HOURS = int(os.environ.get("FEEDS_FRESH_HOURS") or 72)   # كان 24: نحو 5000 صفحة لغة يوميًّا تستهلك ميزانية حاكم القراءة (المادة 248) فيتوقف حارس الترجمة وفحص السيو بـBlocked؛ والصفحة المترجمة نادرًا ما تتغير
 AR = re.compile(r"[\u0600-\u06FF]")
 LETTER = re.compile(r"[A-Za-z\u0600-\u06FF]")
 
@@ -77,7 +77,8 @@ YEARS_RE = re.compile(r"\b3[68](\s*)years", re.I)   # عسل الجبال منذ
 # العلامة الإنجليزية الموحدة بدل القيم العربية الثلاث (قرار المالك 2026-09-28، البند P-merchant-011)
 EN_BRAND = {"asal": "Asal Aljebal", "areesh": "Areesh", "hayala": "Hayala"}
 # علامة المتجر بحروف لغة الملف حين تكون غير لاتينية (أمر المالك 2026-10-11: لا بيانات بغير لغة الملف)
-BRAND_L = {"hi": {"asal": "असल अल-जबल", "areesh": "अरीश", "hayala": "हयाला"},
+BRAND_L = {"ur": {"asal": "عسل الجبل", "areesh": "عریش", "hayala": "ہیالہ"},
+           "hi": {"asal": "असल अल-जबल", "areesh": "अरीश", "hayala": "हयाला"},
            "zh": {"asal": "阿萨尔·阿尔杰巴勒", "areesh": "阿里什", "hayala": "哈亚拉"}}
 # كلمات إنجليزية دخيلة في عناوين اللغات اللاتينية (ترجمة مختلطة تُستبعد حتى تُصلح)
 PLATFORM = "google"   # يضبطه catalog_feed_proxy قبل بناء ملفات ميتا وسناب
@@ -410,8 +411,7 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
             dsc = it.find(G + "description")
             if dsc is not None:
                 dsc.text = (". ".join(x for x in (title.rstrip(". "), fam, wt) if x) + ".")[:4900]
-        bad = next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)
-                    and not (c.tag.replace(G, "") in ("title", "description") and lang == "ur")), None)
+        bad = None if lang == "ur" else next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)), None)
         if bad:                                  # حارس النقاء: أي نص عربي في أي حقل يستبعد المنتج
             excluded.append((pid, "نص عربي في الحقل " + bad))
             parent[it].remove(it)

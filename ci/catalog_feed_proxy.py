@@ -506,6 +506,30 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=No
 def write_translation_guard(rows):
     """حارس الترجمة (المادة 61 البند 9): نسبة المنتجات المكتملة الترجمة لكل متجر ولغة، ويكتب تغطيته
     (المجموع والمفحوص وما تعذّر) في BUILD/translation_guard.json ليقرأها حارس G-34 وشيخ الحراس."""
+    # صف أوقفته ميزانية حاكم القراءة (Blocked، المادة 248 بند 4) يعني «غير معروف» لا «ناقص»: فيُحمل آخر فحص سليم لنفس
+    # (المتجر × اللغة) إن كان عمره 6 ساعات فأقل، ويُسجَّل وقته الأصلي في checked_at وعلامة carried، فلا تنهار التغطية
+    # بسبب تزاحم الميزانية على المصدر نفسه. وما قدم عن 6 ساعات يبقى غير مفحوص.
+    now = dt.datetime.now()
+    try:
+        old = json.load(open(os.path.join(BUILD, "translation_guard.json"), encoding="utf-8"))
+        old_rows = {(o.get("store"), o.get("lang")): dict(o, checked_at=o.get("checked_at") or old.get("as_of"))
+                    for o in old.get("rows", [])}
+    except (OSError, ValueError, AttributeError):
+        old_rows = {}
+    merged = []
+    for r in rows:
+        if r.get("stopped"):
+            o = old_rows.get((r.get("store"), r.get("lang")))
+            try:
+                age_h = (now - dt.datetime.fromisoformat(o["checked_at"])).total_seconds() / 3600 if o and o.get("checked_at") else None
+            except (ValueError, TypeError):
+                age_h = None
+            if o and not o.get("stopped") and age_h is not None and age_h <= 6 and o.get("total"):
+                r = dict(o, carried=True, stopped=None, blocked_now=r["stopped"])
+        else:
+            r = dict(r, checked_at=now.isoformat(timespec="seconds"))
+        merged.append(r)
+    rows = merged
     total = sum(r["total"] for r in rows)
     done = sum(r["translated"] for r in rows)
     # التغطية (المادة 146 البند 2) = ما فحصه الحارس من أزواج (متجر × لغة × منتج): كل زوج يُعدّ ويُقارن بالمصدر العربي،
@@ -518,6 +542,7 @@ def write_translation_guard(rows):
                         "pct": round(checked / total * 100, 1) if total else 100.0,
                         "translated": done, "translated_pct": round(done / total * 100, 1) if total else 100.0},
            "rows": [dict(r, pct=round(r["translated"] / r["total"] * 100, 1) if r["total"] else 100.0) for r in rows],
+           "carried": sum(1 for r in rows if r.get("carried")),
            "stopped": sorted({r["stopped"] for r in rows if r.get("stopped")})}
     json.dump(out, open(os.path.join(BUILD, "translation_guard.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
@@ -609,7 +634,7 @@ def main():
     if ar_platform:
         budget = feed_english.Budget(0)
         META_LOC = {"en": "en_XX", "hi": "hi_IN", "tl": "tl_PH", "id": "id_ID", "fr": "fr_XX", "tr": "tr_TR",
-                    "zh": "zh_CN", "es": "es_XX", "it": "it_IT", "pt": "pt_BR"}
+                    "zh": "zh_CN", "es": "es_XX", "it": "it_IT", "pt": "pt_BR", "ur": "ur_PK"}
         for (store, platform), (idx, xml_in) in ar_platform.items():
           for lang, mlang, script in feed_english.LANGS:     # كل اللغات لكتالوجي ميتا وسناب (أمر المالك 2026-10-11)
             try:

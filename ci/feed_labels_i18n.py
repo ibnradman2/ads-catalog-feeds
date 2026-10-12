@@ -1,18 +1,18 @@
 # -*- coding: utf-8 -*-
 r"""ترجمة تسميات custom_label_0..3 في ملفات اللغات (أمر المالك 2026-10-11: لا بيانات بغير لغة الملف).
 القيمة التي لا ترجمة لها تُحذف من الملف ولا تبقى عربية، وتظهر في ملخص التشغيل فتُضاف هنا."""
-L = ["en", "hi", "tl", "id", "fr", "tr", "zh", "es", "it", "pt"]
+L = ["en", "hi", "tl", "id", "fr", "tr", "zh", "es", "it", "pt", "ur"]
 TIER = {  # «أداء أ/ب/ج/د»
     "en": ("Performance", "ABCD"), "hi": ("प्रदर्शन", ["ए", "बी", "सी", "डी"]), "tl": ("Pagganap", "ABCD"),
-    "id": ("Kinerja", "ABCD"), "fr": ("Performance", "ABCD"), "tr": ("Performans", "ABCD"), "zh": ("表现", ["甲", "乙", "丙", "丁"]), "es": ("Rendimiento", "ABCD"), "it": ("Prestazioni", "ABCD"), "pt": ("Desempenho", "ABCD")}
+    "id": ("Kinerja", "ABCD"), "fr": ("Performance", "ABCD"), "tr": ("Performans", "ABCD"), "zh": ("表现", ["甲", "乙", "丙", "丁"]), "es": ("Rendimiento", "ABCD"), "it": ("Prestazioni", "ABCD"), "pt": ("Desempenho", "ABCD"), "ur": ("کارکردگی", ["الف", "ب", "ج", "د"])}
 TIER_AR = {"أ": 0, "ب": 1, "ج": 2, "د": 3}
 SEASON = {  # custom_label_1
-    "دائم": dict(en="Year-round", hi="पूरे साल", tl="Buong taon", id="Sepanjang tahun", fr="Toute l'année", tr="Tüm yıl", zh="全年", es="Todo el año", it="Tutto l'anno", pt="O ano todo"),
-    "الشتاء": dict(en="Winter", hi="सर्दी", tl="Taglamig", id="Musim dingin", fr="Hiver", tr="Kış", zh="冬季", es="Invierno", it="Inverno", pt="Inverno"),
-    "اليوم الوطني": dict(en="National Day", hi="राष्ट्रीय दिवस", tl="Pambansang Araw", id="Hari Nasional", fr="Fête nationale", tr="Ulusal Gün", zh="国庆日", es="Día Nacional", it="Festa Nazionale", pt="Dia Nacional"),
-    "يوم التأسيس": dict(en="Founding Day", hi="स्थापना दिवस", tl="Araw ng Pagkakatatag", id="Hari Pendirian", fr="Journée de la fondation", tr="Kuruluş Günü", zh="建国日", es="Día de la Fundación", it="Giorno della Fondazione", pt="Dia da Fundação"),
-    "رمضان": dict(en="Ramadan", hi="रमज़ान", tl="Ramadan", id="Ramadan", fr="Ramadan", tr="Ramazan", zh="斋月", es="Ramadán", it="Ramadan", pt="Ramadã"),
-    "العيد": dict(en="Eid", hi="ईद", tl="Eid", id="Idulfitri", fr="Aïd", tr="Bayram", zh="开斋节", es="Eid", it="Eid", pt="Eid"),
+    "دائم": dict(en="Year-round", hi="पूरे साल", tl="Buong taon", id="Sepanjang tahun", fr="Toute l'année", tr="Tüm yıl", zh="全年", es="Todo el año", it="Tutto l'anno", pt="O ano todo", ur="سال بھر"),
+    "الشتاء": dict(en="Winter", hi="सर्दी", tl="Taglamig", id="Musim dingin", fr="Hiver", tr="Kış", zh="冬季", es="Invierno", it="Inverno", pt="Inverno", ur="سردی"),
+    "اليوم الوطني": dict(en="National Day", hi="राष्ट्रीय दिवस", tl="Pambansang Araw", id="Hari Nasional", fr="Fête nationale", tr="Ulusal Gün", zh="国庆日", es="Día Nacional", it="Festa Nazionale", pt="Dia Nacional", ur="قومی دن"),
+    "يوم التأسيس": dict(en="Founding Day", hi="स्थापना दिवस", tl="Araw ng Pagkakatatag", id="Hari Pendirian", fr="Journée de la fondation", tr="Kuruluş Günü", zh="建国日", es="Día de la Fundación", it="Giorno della Fondazione", pt="Dia da Fundação", ur="یوم تاسیس"),
+    "رمضان": dict(en="Ramadan", hi="रमज़ान", tl="Ramadan", id="Ramadan", fr="Ramadan", tr="Ramazan", zh="斋月", es="Ramadán", it="Ramadan", pt="Ramadã", ur="رمضان"),
+    "العيد": dict(en="Eid", hi="ईद", tl="Eid", id="Idulfitri", fr="Aïd", tr="Bayram", zh="开斋节", es="Eid", it="Eid", pt="Eid", ur="عید"),
 }
 BAND = {  # custom_label_2 بترتيب: أقل من 100، 100 إلى 299، 300 إلى 599، 600 فأكثر
     "en": ("Under 100", "100 to 299", "300 to 599", "600 and above"),
@@ -22,6 +22,7 @@ BAND = {  # custom_label_2 بترتيب: أقل من 100، 100 إلى 299، 300 
     "fr": ("Moins de 100", "100 à 299", "300 à 599", "600 et plus"),
     "tr": ("100'ün altı", "100 ila 299", "300 ila 599", "600 ve üzeri"),
     "zh": ("100以下", "100至299", "100至299", "600及以上")}
+BAND["ur"] = ("100 سے کم", "100 سے 299", "300 سے 599", "600 اور اس سے زیادہ")
 BAND["it"] = ("Meno di 100", "da 100 a 299", "da 300 a 599", "600 e oltre")
 BAND["pt"] = ("Menos de 100", "100 a 299", "300 a 599", "600 ou mais")
 BAND["es"] = ("Menos de 100", "100 a 299", "300 a 599", "600 o más")
@@ -42,6 +43,7 @@ FAM = {  # custom_label_3 بترتيب FAM_AR
 FAM["es"] = ["Otras mieles", "Miel Majra blanca", "Miel de flores", "Miel de Sidr", "Miel de Samra", "Productos de la colmena", "Ghee", "Dátiles", "Harina", "Especias y hierbas", "Miel de Talh", "Frutas secas", "Mezclas de miel", "Vinagre", "Cuidado de la piel", "Regalos", "Bebida de miel", "Manuka", "Azafrán", "Aceites", "Frutos secos y semillas", "Tahini", "Infusiones", "Café", "Cardamomo"]
 FAM["it"] = ["Altri mieli", "Miele Majra bianco", "Miele di fiori", "Miele di Sidr", "Miele di Samra", "Prodotti dell'alveare", "Ghee", "Datteri", "Farina", "Spezie ed erbe", "Miele di Talh", "Frutta secca", "Miscele di miele", "Aceto", "Cura della pelle", "Regali", "Bevanda al miele", "Manuka", "Zafferano", "Oli", "Frutta a guscio e semi", "Tahina", "Infusi", "Caffè", "Cardamomo"]
 FAM["pt"] = ["Outros méis", "Mel Majra branco", "Mel de flores", "Mel de Sidr", "Mel de Samra", "Produtos da colmeia", "Ghee", "Tâmaras", "Farinha", "Especiarias e ervas", "Mel de Talh", "Frutas secas", "Misturas de mel", "Vinagre", "Cuidados com a pele", "Presentes", "Bebida de mel", "Manuka", "Açafrão", "Óleos", "Nozes e sementes", "Tahine", "Infusões", "Café", "Cardamomo"]
+FAM["ur"] = ["دیگر شہد", "سفید مجرہ شہد", "پھولوں کا شہد", "سدر شہد", "سمرہ شہد", "شہد کی مکھی کی مصنوعات", "گھی", "کھجور", "آٹا", "مصالحے اور جڑی بوٹیاں", "طلح شہد", "خشک میوے", "شہد کے آمیزے", "سرکہ", "جلد کی دیکھ بھال", "تحائف", "شہد کا مشروب", "مانوکا", "زعفران", "تیل", "گری دار میوے اور بیج", "تحینی", "جڑی بوٹیوں کے قہوے", "کافی", "الائچی"]
 for _l in L:
     assert len(FAM[_l]) == len(FAM_AR), _l
 
