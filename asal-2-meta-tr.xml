@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:05:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1735868163</g:id>
+      <g:title>Anason Balı 2 Kilo</g:title>
+      <g:description>Anason Balı 2 Kilo. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/anason-bal-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1007628890</g:id>
       <g:title>Öğütülmüş Arap Zamkı 250 gram</g:title>
@@ -949,12 +955,6 @@
       <g:title>Dağ Yöresel Petekli Sidr Balı 1 Kilo (Ücretsiz Kargo)</g:title>
       <g:description>Dağ Yöresel Petekli Sidr Balı 1 Kilo (Ücretsiz Kargo). 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/da-y-resel-petekli-sidr-bal-1-kilo-cretsiz-kargo/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1735868163</g:id>
-      <g:title>Anason Balı 2 Kilo</g:title>
-      <g:description>Anason Balı 2 Kilo. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/anason-bal-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>424111501</g:id>

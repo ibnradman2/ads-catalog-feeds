@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:34:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:05:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1735868163</g:id>
+      <g:title>Anise Honey 2 Kilo</g:title>
+      <g:description>Anise Honey 2 Kilo. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/anise-honey-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1007628890</g:id>
       <g:title>Giniling na Gum Arabic 250 Gramo</g:title>
@@ -103,6 +109,12 @@
       <g:title>Royal Mountain Blend 1 Kilo</g:title>
       <g:description>Royal Mountain Blend 1 Kilo. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/royal-mountain-blend-1-kilo/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>36619997</g:id>
+      <g:title>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm</g:title>
+      <g:description>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/new-zealand-manuka-honey-honey-bros-premium-manuka-honey-umf-20-mgo-850-250-gm/p36619997?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1592997301</g:id>
@@ -249,6 +261,12 @@
       <g:link>https://asalaljebal.sa/tl/athl-honey-sal-1-kilo/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
+      <g:id>1228632179</g:id>
+      <g:title>Puting Pulot ng Hungary (Mardisia) 1 Kilo</g:title>
+      <g:description>Puting Pulot ng Hungary (Mardisia) 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/puting-pulot-ng-hungary-mardisia-1-kilo/p1228632179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
       <g:id>1884272643</g:id>
       <g:title>Pulot ng Acacia, 1 Kilo</g:title>
       <g:description>Pulot ng Acacia, 1 Kilo. 1.0 kg.</g:description>
@@ -313,6 +331,12 @@
       <g:title>Wildflower Honey, Timog o Hadramawt, 2 Kilo</g:title>
       <g:description>Wildflower Honey, Timog o Hadramawt, 2 Kilo. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-2-kilo/p1934538070?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1999644171</g:id>
+      <g:title>Premium na Ajwa Dates mula sa Aliyah ng Madinah (1) Kilo</g:title>
+      <g:description>Premium na Ajwa Dates mula sa Aliyah ng Madinah (1) Kilo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/premium-na-ajwa-dates-mula-sa-aliyah-ng-madinah-1-kilo/p1999644171?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2074483289</g:id>
@@ -385,6 +409,12 @@
       <g:title>Premium Samra Thorn Honey, 250 Gramo</g:title>
       <g:description>Premium Samra Thorn Honey, 250 Gramo. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/premium-samra-thorn-honey-250-gramo/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala)</g:title>
+      <g:description>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-sa-pulot-wildflower-honey-mountain-sidr-honey-at-shawka-samar-honey-libreng/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1759318609</g:id>
@@ -945,12 +975,6 @@
       <g:link>https://asalaljebal.sa/tl/natural-na-bundok-na-sidr-honey-na-may-honeycomb-1-kilo-libreng-pagpapadala/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1735868163</g:id>
-      <g:title>Anise Honey 2 Kilo</g:title>
-      <g:description>Anise Honey 2 Kilo. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/anise-honey-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>424111501</g:id>
       <g:title>Pulot ng Sidr na Bundok, 1 Kilo</g:title>
       <g:description>Pulot ng Sidr na Bundok, 1 Kilo. 1.0 kg.</g:description>
@@ -973,6 +997,12 @@
       <g:title>Pulot na Sidr ng Hadhramaut na Doani 1 Kilo</g:title>
       <g:description>Pulot na Sidr ng Hadhramaut na Doani 1 Kilo. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-na-sidr-ng-hadhramaut-na-doani-1-kilo/p1298738551?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Silver na Alok (Black Forest Honey + Black Seed Honey + Clover Blossom Honey) (Libreng Shipping)</g:title>
+      <g:description>Silver na Alok (Black Forest Honey + Black Seed Honey + Clover Blossom Honey) (Libreng Shipping). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/silver-na-alok-black-forest-honey-black-seed-honey-clover-blossom-honey-libreng-/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>423197268</g:id>
@@ -1221,6 +1251,12 @@
       <g:link>https://asalaljebal.sa/tl/kahon-ng-datiles-na-khalas-ng-qassim-8-kilo/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
+      <g:id>1016153732</g:id>
+      <g:title>2 Kilong Royal Asimi Sidr Honey na may Diskwentong 15 Porsyento + Libreng Pagpapadala + Hulugan</g:title>
+      <g:description>2 Kilong Royal Asimi Sidr Honey na may Diskwentong 15 Porsyento + Libreng Pagpapadala + Hulugan. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/2-kilong-royal-asimi-sidr-honey-na-may-diskwentong-15-porsyento-libreng-pagpapad/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
       <g:id>863927234</g:id>
       <g:title>Pulot ng Black Forest 2 kg na may Libreng Pagpapadala</g:title>
       <g:description>Pulot ng Black Forest 2 kg na may Libreng Pagpapadala. 2.0 kg.</g:description>
@@ -1303,6 +1339,12 @@
       <g:title>Pulot na Mountain Blend na may Natural na Sidr 500g</g:title>
       <g:description>Pulot na Mountain Blend na may Natural na Sidr 500g. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-na-mountain-blend-na-may-natural-na-sidr-500g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1092237227</g:id>
+      <g:title>Alok: Kashmiri Sidr na Pulot, 10 Kilo na Galon na may Bee Pollen (Libreng Pagpapadala)</g:title>
+      <g:description>Alok: Kashmiri Sidr na Pulot, 10 Kilo na Galon na may Bee Pollen (Libreng Pagpapadala). 10.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-kashmiri-sidr-na-pulot-10-kilo-na-galon-na-may-bee-pollen-libreng-pagpapada/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1590568579</g:id>
@@ -1414,9 +1456,9 @@
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1162802741</g:id>
-      <g:title>Dalawang Pakete ng Timpla na 1 Kilo + Libreng Pakete ng mga Kutsara ng Timpla</g:title>
-      <g:description>Dalawang Pakete ng Timpla na 1 Kilo + Libreng Pakete ng mga Kutsara ng Timpla. 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-timpla-na-1-kilo-libreng-pakete-ng-mga-kutsara-ng-timpla/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo</g:title>
+      <g:description>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo. 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/dalawang-bote-ng-maharlikang-khalta-1-kilo-pakete-ng-mga-kutsara-ng-khalta-bilan/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>200318229</g:id>
