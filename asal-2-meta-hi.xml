@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 11:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:58:26 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>244975038</g:id>
+      <g:title>देसी गाय का घी 680 ग्राम</g:title>
+      <g:description>देसी गाय का घी 680 ग्राम. 0.68 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/680/p244975038?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>622456174</g:id>
       <g:title>प्रीमियम तलह शहद 1 किलो</g:title>
@@ -49,12 +55,6 @@
       <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम</g:title>
       <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/500/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>244975038</g:id>
-      <g:title>देसी गाय का घी 680 ग्राम</g:title>
-      <g:description>देसी गाय का घी 680 ग्राम. 0.68 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/680/p244975038?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>411224162</g:id>

@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:58:30 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -37,6 +37,90 @@
       <g:title>Piñones de Pakistán - 250 g</g:title>
       <g:description>Piñones de Pakistán - 250 g.</g:description>
       <g:link>https://hayala.co/es/pi-ones-de-pakist-n-250-g/p1635363747?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1841971411</g:id>
+      <g:title>Semillas de lino - 250 g</g:title>
+      <g:description>Semillas de lino - 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-lino-250-g/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1565509631</g:id>
+      <g:title>Piñones de Pakistán - 500 g</g:title>
+      <g:description>Piñones de Pakistán - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-ones-de-pakist-n-500-g/p1565509631?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1468610802</g:id>
+      <g:title>Nueces (americanas) - 500 g</g:title>
+      <g:description>Nueces (americanas) - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/nueces-americanas-500-g/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1002050183</g:id>
+      <g:title>Semillas de lino - 1 kg</g:title>
+      <g:description>Semillas de lino - 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-lino-1-kg/p1002050183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1079475470</g:id>
+      <g:title>Semillas de lino - 500 g</g:title>
+      <g:description>Semillas de lino - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-lino-500-g/p1079475470?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1297784385</g:id>
+      <g:title>Semillas de katuna (psilio) - 500 g</g:title>
+      <g:description>Semillas de katuna (psilio) - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-500-g/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>757548514</g:id>
+      <g:title>6 envases de azafrán súper negin 6 gramos</g:title>
+      <g:description>6 envases de azafrán súper negin 6 gramos. 0.006 kg.</g:description>
+      <g:link>https://hayala.co/es/6-envases-de-azafr-n-s-per-negin-6-gramos/p757548514?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>816858337</g:id>
+      <g:title>Curry molido 500 g</g:title>
+      <g:description>Curry molido 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/curry-molido-500-g/p816858337?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>988412748</g:id>
+      <g:title>Semillas de katuna (psilio) - 1 kg</g:title>
+      <g:description>Semillas de katuna (psilio) - 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-1-kg/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>692080584</g:id>
+      <g:title>Cebolla frita (kashna) de primera calidad 500 g</g:title>
+      <g:description>Cebolla frita (kashna) de primera calidad 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/cebolla-frita-kashna-de-primera-calidad-500-g/p692080584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>398016781</g:id>
+      <g:title>Azafrán súper negin 5 gramos</g:title>
+      <g:description>Azafrán súper negin 5 gramos. 0.005 kg.</g:description>
+      <g:link>https://hayala.co/es/azafr-n-s-per-negin-5-gramos/p398016781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>655013926</g:id>
+      <g:title>Cilantro molido 500 g</g:title>
+      <g:description>Cilantro molido 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/cilantro-molido-500-g/p655013926?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>348925444</g:id>
+      <g:title>Nuez (americana) - 1 kg</g:title>
+      <g:description>Nuez (americana) - 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/nuez-americana-1-kg/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>339666110</g:id>
+      <g:title>Nueces (americanas) - 250 g</g:title>
+      <g:description>Nueces (americanas) - 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/nueces-americanas-250-g/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 14:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:58:30 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -375,6 +375,12 @@
       <g:link>https://hayala.co/ur/5/p578517759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
+      <g:id>2139954028</g:id>
+      <g:title>اسپغول کے بیج - 250 گرام</g:title>
+      <g:description>اسپغول کے بیج - 250 گرام. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/ur/250/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
       <g:id>2133906442</g:id>
       <g:title>پاکستانی چلغوزے - 1 کلو</g:title>
       <g:description>پاکستانی چلغوزے - 1 کلو. 1.0 kg.</g:description>
@@ -435,6 +441,12 @@
       <g:link>https://hayala.co/ur/1-75/p758738089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
+      <g:id>988412748</g:id>
+      <g:title>اسپغول کے بیج - 1 کلو</g:title>
+      <g:description>اسپغول کے بیج - 1 کلو. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
       <g:id>398016781</g:id>
       <g:title>سپر نقیل زعفران 5 گرام</g:title>
       <g:description>سپر نقیل زعفران 5 گرام. 0.005 kg.</g:description>
@@ -445,6 +457,12 @@
       <g:title>پسا ہوا دھنیا 500 گرام</g:title>
       <g:description>پسا ہوا دھنیا 500 گرام. 0.5 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p655013926?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>348925444</g:id>
+      <g:title>امریکی اخروٹ (عین الجمل) - 1 کلو</g:title>
+      <g:description>امریکی اخروٹ (عین الجمل) - 1 کلو. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>339666110</g:id>
