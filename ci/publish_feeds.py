@@ -98,7 +98,7 @@ def gate(proxy_report):
         die("المولّد لم ينتج أي ملف. تحقّق من اتصال الإنترنت ومن مصادر سلة.")
 
     published = sorted(n for n in os.listdir(REPO) if n.endswith(".xml"))
-    rows, problems = [], []
+    rows, problems, hold = [], [], set()
     for name in published:
         if name.endswith("-reviews.xml"):
             continue   # ملف التقييمات (P-merchant-022) يولّده feed_reviews لا المولّد الوسيط
@@ -117,12 +117,18 @@ def gate(proxy_report):
             if LANG_FILE.search(name):
                 # الملف الإنجليزي يستبعد كل ترجمة قديمة عمدًا، فنقصه تحذير لا يوقف نشر الملفات العربية.
                 print("تحذير: " + msg)
+                if new_n < old_n * MIN_LANG_RATIO:
+                    # انهيار لا استبعاد: ملف لغة بمنتج أو منتجين ينزل بعدد السلع النشطة في Merchant (2026-10-12)
+                    print("   ← يُحجب هذا الملف وتبقى النسخة المنشورة.")
+                    hold.add(name)
             else:
                 problems.append(msg)
     if problems:
         die("شرط القبول لم يتحقّق:\n  - " + "\n  - ".join(problems))
 
     for name, f in sorted(fresh.items()):
+        if name in hold:
+            continue
         src = os.path.join(FEEDS, name)
         if not os.path.exists(src):
             die(f"{name}: المولّد أعلن إنتاجه ولم يوجد في build" + chr(92) + "feeds.")
@@ -132,6 +138,7 @@ def gate(proxy_report):
     return rows
 
 
+MIN_LANG_RATIO = 0.5   # ملف لغة ينزل تحت نصف المنشور يُحجب ولا يُنشر
 LANG_FILE = re.compile(r"-(google|meta|snap)-[a-z]{2,3}\.xml$")   # ملفات اللغات: نقصها تحذير لا يوقف العربي
 VOLATILE = re.compile(rb"<lastBuildDate>.*?</lastBuildDate>", re.S)
 
