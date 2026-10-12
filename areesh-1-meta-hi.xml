@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:38:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से</g:title>
+      <g:description>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से. 10.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1487430420</g:id>
+      <g:title>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो)</g:title>
+      <g:description>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो). 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1525447859</g:id>
       <g:title>प्राकृतिक मोम वाला शहद 400 ग्राम</g:title>
@@ -501,12 +513,6 @@
       <g:link>https://areesh.sa/hi/3/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>443912774</g:id>
-      <g:title>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से</g:title>
-      <g:description>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से. 10.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1611390490</g:id>
       <g:title>अदरक शहद पेय, नींबू और हल्दी के साथ, 3 बोतलें, हर एक 470 ग्राम</g:title>
       <g:description>अदरक शहद पेय, नींबू और हल्दी के साथ, 3 बोतलें, हर एक 470 ग्राम. 0.47 kg.</g:description>
@@ -607,12 +613,6 @@
       <g:title>राष्ट्रीय दिवस गिफ़्ट बॉक्स, 8 डिब्बे प्राकृतिक सिदर शहद</g:title>
       <g:description>राष्ट्रीय दिवस गिफ़्ट बॉक्स, 8 डिब्बे प्राकृतिक सिदर शहद. 2.0 kg.</g:description>
       <g:link>https://areesh.sa/hi/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो)</g:title>
-      <g:description>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो). 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>311501392</g:id>

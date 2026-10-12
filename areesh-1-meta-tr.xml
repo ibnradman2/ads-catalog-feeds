@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:38:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>Himalaya Dağlarından Doğal Sidr Balı 10 Kilo</g:title>
+      <g:description>Himalaya Dağlarından Doğal Sidr Balı 10 Kilo. 10.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/himalaya-da-lar-ndan-do-al-sidr-bal-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1487430420</g:id>
+      <g:title>Doğal Sidr Balı 6 kg (4 kg + 2 kg)</g:title>
+      <g:description>Doğal Sidr Balı 6 kg (4 kg + 2 kg). 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/do-al-sidr-bal-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1525447859</g:id>
       <g:title>Doğal Petek Balı 400 gram</g:title>
@@ -483,12 +495,6 @@
       <g:link>https://areesh.sa/tr/3-kilo-do-al-sidr-bal/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>443912774</g:id>
-      <g:title>Himalaya Dağlarından Doğal Sidr Balı 10 Kilo</g:title>
-      <g:description>Himalaya Dağlarından Doğal Sidr Balı 10 Kilo. 10.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/himalaya-da-lar-ndan-do-al-sidr-bal-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1611390490</g:id>
       <g:title>3 Ambalaj Zencefilli Limonlu Zerdeçallı Bal İçeceği</g:title>
       <g:description>3 Ambalaj Zencefilli Limonlu Zerdeçallı Bal İçeceği. 0.47 kg.</g:description>
@@ -583,12 +589,6 @@
       <g:title>6 Kilo Çörek Otu Balı (Ücretsiz Kargo)</g:title>
       <g:description>6 Kilo Çörek Otu Balı (Ücretsiz Kargo). 6.0 kg.</g:description>
       <g:link>https://areesh.sa/tr/6-kilo-rek-otu-bal-cretsiz-kargo/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>Doğal Sidr Balı 6 kg (4 kg + 2 kg)</g:title>
-      <g:description>Doğal Sidr Balı 6 kg (4 kg + 2 kg). 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/do-al-sidr-bal-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>311501392</g:id>

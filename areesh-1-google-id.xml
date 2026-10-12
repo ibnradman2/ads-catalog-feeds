@@ -4,10 +4,47 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:38:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">443912774</guid>
+      <g:id>443912774</g:id>
+      <g:title>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo</g:title>
+      <g:description>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo. 10.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-alami-dari-pegunungan-himalaya-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>990.00 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0401006010</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1487430420</guid>
+      <g:id>1487430420</g:id>
+      <g:title>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo)</g:title>
+      <g:description>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo). 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-alami-6-kilo-4-kilo-2-kilo/p1487430420?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Nwrvi8LUIRIZ786y2QF0B5B4PZe96rr7xSEI3kRK.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/1QMWUhqOg1ajRHSID4p5YltsnRXx1PgT8WzdW0V4.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/isT9qD0tmQwH8gzaaHSCm6HngH05EqUkPzDNy9nW.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/Etwo0fisJNPWDZKD39blnccMlGwwpfSFhghDqCcX.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/5DBA0E1N63rrOmKXKwacSvpDbtSMfcb5fAO5fYiu.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>579.99 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>015007006</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1525447859</guid>
       <g:id>1525447859</g:id>
@@ -1123,23 +1160,6 @@
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>3kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">443912774</guid>
-      <g:id>443912774</g:id>
-      <g:title>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo</g:title>
-      <g:description>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo. 10.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-alami-dari-pegunungan-himalaya-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>990.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0401006010</g:item_group_id>
-      <g:shipping_weight>10.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1611390490</guid>
       <g:id>1611390490</g:id>
       <g:title>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit</g:title>
@@ -1391,26 +1411,6 @@
       <g:item_group_id>0151007006</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>136</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">1487430420</guid>
-      <g:id>1487430420</g:id>
-      <g:title>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo)</g:title>
-      <g:description>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo). 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-alami-6-kilo-4-kilo-2-kilo/p1487430420?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Nwrvi8LUIRIZ786y2QF0B5B4PZe96rr7xSEI3kRK.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/1QMWUhqOg1ajRHSID4p5YltsnRXx1PgT8WzdW0V4.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/isT9qD0tmQwH8gzaaHSCm6HngH05EqUkPzDNy9nW.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/Etwo0fisJNPWDZKD39blnccMlGwwpfSFhghDqCcX.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/5DBA0E1N63rrOmKXKwacSvpDbtSMfcb5fAO5fYiu.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>579.99 SAR</g:price>
-      <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>015007006</g:item_group_id>
-      <g:shipping_weight>6.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">311501392</guid>
       <g:id>311501392</g:id>

@@ -4,10 +4,47 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:38:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">443912774</guid>
+      <g:id>443912774</g:id>
+      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
+      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>990.00 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0401006010</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1487430420</guid>
+      <g:id>1487430420</g:id>
+      <g:title>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg)</g:title>
+      <g:description>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg). 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-sidr-na-pulot-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Nwrvi8LUIRIZ786y2QF0B5B4PZe96rr7xSEI3kRK.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/1QMWUhqOg1ajRHSID4p5YltsnRXx1PgT8WzdW0V4.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/isT9qD0tmQwH8gzaaHSCm6HngH05EqUkPzDNy9nW.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/Etwo0fisJNPWDZKD39blnccMlGwwpfSFhghDqCcX.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/5DBA0E1N63rrOmKXKwacSvpDbtSMfcb5fAO5fYiu.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>579.99 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>015007006</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1525447859</guid>
       <g:id>1525447859</g:id>
@@ -1269,23 +1306,6 @@
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">443912774</guid>
-      <g:id>443912774</g:id>
-      <g:title>Likas na Pulot ng Sidr 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
-      <g:description>Likas na Pulot ng Sidr 10 Kilo mula sa mga Bundok ng Himalaya. 10.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/likas-na-pulot-ng-sidr-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>990.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0401006010</g:item_group_id>
-      <g:shipping_weight>10.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1611390490</guid>
       <g:id>1611390490</g:id>
       <g:title>3 Lalagyan ng Inuming Pulot na may Luya, Lemon at Turmeric</g:title>
@@ -1318,9 +1338,9 @@
     <item>
       <guid isPermaLink="false">162309629</guid>
       <g:id>162309629</g:id>
-      <g:title>Pulot-pukyutan ng Sidr Jabali 1 Kilo</g:title>
-      <g:description>Pulot-pukyutan ng Sidr Jabali 1 Kilo. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-pukyutan-ng-sidr-jabali-1-kilo/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Mountain Sidr na Pulot sa Honeycomb 1 Kilo</g:title>
+      <g:description>Mountain Sidr na Pulot sa Honeycomb 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/mountain-sidr-na-pulot-sa-honeycomb-1-kilo/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/dcR95uSPq2g8blc8FnBCV7rG2qo3VjY9Rd2jEFv8.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>390.00 SAR</g:price>
@@ -1347,9 +1367,9 @@
     <item>
       <guid isPermaLink="false">587159425</guid>
       <g:id>587159425</g:id>
-      <g:title>Pulot-pukyutan ng Samrah (Shawkah) 1 Kilo</g:title>
-      <g:description>Pulot-pukyutan ng Samrah (Shawkah) 1 Kilo. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-pukyutan-ng-samrah-shawkah-1-kilo/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Samra (May Tinik) na Pulot sa Honeycomb 1 Kilo</g:title>
+      <g:description>Samra (May Tinik) na Pulot sa Honeycomb 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/samra-may-tinik-na-pulot-sa-honeycomb-1-kilo/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/M4n6TJlJ7CLYMyI9OnvE28AGcKq8maro3CrMX0pE.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>344.00 SAR</g:price>
@@ -1361,9 +1381,9 @@
     <item>
       <guid isPermaLink="false">527688141</guid>
       <g:id>527688141</g:id>
-      <g:title>Isang Kilong Pulot-pukyutan ng Ligaw na Bulaklak (Baladi)</g:title>
-      <g:description>Isang Kilong Pulot-pukyutan ng Ligaw na Bulaklak (Baladi). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/isang-kilong-pulot-pukyutan-ng-ligaw-na-bulaklak-baladi/p527688141?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Pulot ng Ligaw na Bulaklak sa Wax Comb (Lokal) 1 Kilo</g:title>
+      <g:description>Pulot ng Ligaw na Bulaklak sa Wax Comb (Lokal) 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-ligaw-na-bulaklak-sa-wax-comb-lokal-1-kilo/p527688141?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/NamGp6oUL9vgAeKAjAQEuD5m3okXTkHFibMWBgDR.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>400.00 SAR</g:price>
@@ -1376,9 +1396,9 @@
     <item>
       <guid isPermaLink="false">561200214</guid>
       <g:id>561200214</g:id>
-      <g:title>Pulot-pukyutan ng Shawkah 500 Gramo</g:title>
-      <g:description>Pulot-pukyutan ng Shawkah 500 Gramo. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-pukyutan-ng-shawkah-500-gramo/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>May Tinik na Pulot sa Honeycomb 500 Gramo</g:title>
+      <g:description>May Tinik na Pulot sa Honeycomb 500 Gramo. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/may-tinik-na-pulot-sa-honeycomb-500-gramo/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/khtpqzh0eVcarkiubKMIuLLexYU9jL1LIzzQHBSo.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>200.00 SAR</g:price>
@@ -1390,9 +1410,9 @@
     <item>
       <guid isPermaLink="false">957180464</guid>
       <g:id>957180464</g:id>
-      <g:title>Pollen ng Palmera (Tal'a)</g:title>
-      <g:description>Pollen ng Palmera (Tal'a).</g:description>
-      <g:link>https://areesh.sa/tl/pollen-ng-palmera-tal-a/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Pollen ng Palmera ng Datiles (Tal'a an-Nakheel)</g:title>
+      <g:description>Pollen ng Palmera ng Datiles (Tal'a an-Nakheel).</g:description>
+      <g:link>https://areesh.sa/tl/pollen-ng-palmera-ng-datiles-tal-a-an-nakheel/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/AfvdUO88Kr2lPSY2uNGiZEOf5dCvL5ntFNVRDUct.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>35.00 SAR</g:price>
@@ -1416,9 +1436,9 @@
     <item>
       <guid isPermaLink="false">1303550999</guid>
       <g:id>1303550999</g:id>
-      <g:title>Pulot-pukyutan ng Sidr Jabali 500 Gramo</g:title>
-      <g:description>Pulot-pukyutan ng Sidr Jabali 500 Gramo. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-pukyutan-ng-sidr-jabali-500-gramo/p1303550999?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Mountain Sidr na Pulot sa Honeycomb 500 Gramo</g:title>
+      <g:description>Mountain Sidr na Pulot sa Honeycomb 500 Gramo. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/mountain-sidr-na-pulot-sa-honeycomb-500-gramo/p1303550999?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/MSnHM5i8k2tNPKlX2zQnxMhL4oBtSbdEZdhOKwxn.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
@@ -1430,9 +1450,9 @@
     <item>
       <guid isPermaLink="false">1927503162</guid>
       <g:id>1927503162</g:id>
-      <g:title>Palayok ng Pulot-pukyutan ng Ligaw na Bulaklak (Baladi)</g:title>
-      <g:description>Palayok ng Pulot-pukyutan ng Ligaw na Bulaklak (Baladi). 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/palayok-ng-pulot-pukyutan-ng-ligaw-na-bulaklak-baladi/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg</g:title>
+      <g:description>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-ligaw-na-bulaklak-sa-wax-lokal-palayok-na-2-5-kg/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/jJnGInOhEolMiMkMp330IcrZMfuAvRdmCxVKFqIu.jpg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/KPEvG/nFJtmAq4BzJKzHo0RlAcMO5LAdtWiVHb9v9o9sLf.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
@@ -1461,9 +1481,9 @@
     <item>
       <guid isPermaLink="false">1789520129</guid>
       <g:id>1789520129</g:id>
-      <g:title>Palayok ng Pulot-pukyutan ng Royal Sidr mula sa Asir</g:title>
-      <g:description>Palayok ng Pulot-pukyutan ng Royal Sidr mula sa Asir. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/palayok-ng-pulot-pukyutan-ng-royal-sidr-mula-sa-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Royal Sidr Honeycomb Pot mula sa Asir</g:title>
+      <g:description>Royal Sidr Honeycomb Pot mula sa Asir. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/royal-sidr-honeycomb-pot-mula-sa-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/NcgSuZpEmGrrsXy35Ul4V4Z58SwAHG10YMKQCwDx.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>1500.00 SAR</g:price>
@@ -1536,26 +1556,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0151007006</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1487430420</guid>
-      <g:id>1487430420</g:id>
-      <g:title>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg)</g:title>
-      <g:description>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg). 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-sidr-na-pulot-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Nwrvi8LUIRIZ786y2QF0B5B4PZe96rr7xSEI3kRK.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/1QMWUhqOg1ajRHSID4p5YltsnRXx1PgT8WzdW0V4.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/isT9qD0tmQwH8gzaaHSCm6HngH05EqUkPzDNy9nW.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/Etwo0fisJNPWDZKD39blnccMlGwwpfSFhghDqCcX.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/5DBA0E1N63rrOmKXKwacSvpDbtSMfcb5fAO5fYiu.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>579.99 SAR</g:price>
-      <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>015007006</g:item_group_id>
-      <g:shipping_weight>6.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">311501392</guid>
