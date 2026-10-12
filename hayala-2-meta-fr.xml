@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:05:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -453,6 +453,12 @@
       <g:link>https://hayala.co/fr/pices-enti-res-500-g/p1832849003?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
+      <g:id>1924754372</g:id>
+      <g:title>Noix de pécan - 500 g</g:title>
+      <g:description>Noix de pécan - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/noix-de-p-can-500-g/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
       <g:id>1635363747</g:id>
       <g:title>Pignons de pin pakistanais - 250 g</g:title>
       <g:description>Pignons de pin pakistanais - 250 g.</g:description>
@@ -463,6 +469,12 @@
       <g:title>Graines de lin - 250 g</g:title>
       <g:description>Graines de lin - 250 g. 0.25 kg.</g:description>
       <g:link>https://hayala.co/fr/graines-de-lin-250-g/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1408049071</g:id>
+      <g:title>Noix de pécan - 1 kg</g:title>
+      <g:description>Noix de pécan - 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/noix-de-p-can-1-kg/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1565509631</g:id>
@@ -493,6 +505,12 @@
       <g:title>Graines de psyllium (Qatouna) - 500 g</g:title>
       <g:description>Graines de psyllium (Qatouna) - 500 g. 0.5 kg.</g:description>
       <g:link>https://hayala.co/fr/graines-de-psyllium-qatouna-500-g/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1003247052</g:id>
+      <g:title>Noix de pécan - 250 g</g:title>
+      <g:description>Noix de pécan - 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/fr/noix-de-p-can-250-g/p1003247052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>757548514</g:id>
@@ -643,6 +661,12 @@
       <g:title>Propolis en poudre (Propolis ou colle d'abeille Bee Glue) 15 g</g:title>
       <g:description>Propolis en poudre (Propolis ou colle d'abeille Bee Glue) 15 g. 0.015 kg.</g:description>
       <g:link>https://hayala.co/fr/propolis-en-poudre-propolis-ou-colle-d-abeille-bee-glue-15-g/p1809311902?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>331895065</g:id>
+      <g:title>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g)</g:title>
+      <g:description>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g). 0.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/miel-aux-noix-amande-noix-de-cajou-noix-noix-de-p-can-noisette-pistache-500-g/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>946188382</g:id>

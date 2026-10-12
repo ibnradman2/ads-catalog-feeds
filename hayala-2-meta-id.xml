@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:05:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -435,6 +435,12 @@
       <g:link>https://hayala.co/ind/kacang-pinus-pakistan-1-kg/p2133906442?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
+      <g:id>1924754372</g:id>
+      <g:title>Kacang Pecan - 500 gram</g:title>
+      <g:description>Kacang Pecan - 500 gram. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/kacang-pecan-500-gram/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
       <g:id>1635363747</g:id>
       <g:title>Kacang Pinus Pakistan 250 gram</g:title>
       <g:description>Kacang Pinus Pakistan 250 gram.</g:description>
@@ -445,6 +451,12 @@
       <g:title>Biji Rami - 250 gram</g:title>
       <g:description>Biji Rami - 250 gram. 0.25 kg.</g:description>
       <g:link>https://hayala.co/ind/biji-rami-250-gram/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1408049071</g:id>
+      <g:title>Kacang Pecan - 1 Kg</g:title>
+      <g:description>Kacang Pecan - 1 Kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/kacang-pecan-1-kg/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1565509631</g:id>
@@ -475,6 +487,12 @@
       <g:title>Biji Qatuna - 500 gram</g:title>
       <g:description>Biji Qatuna - 500 gram. 0.5 kg.</g:description>
       <g:link>https://hayala.co/ind/biji-qatuna-500-gram/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1003247052</g:id>
+      <g:title>Kacang Pecan - 250 gram</g:title>
+      <g:description>Kacang Pecan - 250 gram. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/ind/kacang-pecan-250-gram/p1003247052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>988412748</g:id>
@@ -595,6 +613,12 @@
       <g:title>Propolis Bubuk (Perekat Lebah / Bee Glue) 15 gram</g:title>
       <g:description>Propolis Bubuk (Perekat Lebah / Bee Glue) 15 gram. 0.015 kg.</g:description>
       <g:link>https://hayala.co/ind/propolis-bubuk-perekat-lebah-bee-glue-15-gram/p1809311902?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>331895065</g:id>
+      <g:title>Madu Kacang-kacangan (Almond - Mete - Kenari Mata Unta - Pecan - Hazelnut - Pistachio) (500 gram)</g:title>
+      <g:description>Madu Kacang-kacangan (Almond - Mete - Kenari Mata Unta - Pecan - Hazelnut - Pistachio) (500 gram). 0.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/madu-kacang-kacangan-almond-mete-kenari-mata-unta-pecan-hazelnut-pistachio-500-g/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>946188382</g:id>
