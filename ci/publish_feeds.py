@@ -123,6 +123,8 @@ def gate(proxy_report):
                     hold.add(name)
             else:
                 problems.append(msg)
+    if hold:
+        alert_hold(hold)
     if problems:
         die("شرط القبول لم يتحقّق:\n  - " + "\n  - ".join(problems))
 
@@ -138,7 +140,21 @@ def gate(proxy_report):
     return rows
 
 
-MIN_LANG_RATIO = 0.5   # ملف لغة ينزل تحت نصف المنشور يُحجب ولا يُنشر
+def alert_hold(names):
+    """ملف لغة حُجب لانهياره: يُسجَّل مشكلةً في ميزان الشغل (المادة 229) ليصلح سببه، ولا يمرّ صامتًا."""
+    text = ("حُجب نشر ملفات لغة انهار عدد منتجاتها (بقيت النسخة المنشورة): " + "، ".join(sorted(names))
+            + ". السبب في سجل النشر: ابحث عن «يُحجب» ثم أصلح المولّد (المادة 255).")
+    board = os.path.join(os.path.dirname(REPO), "routines", "board.py")   # محليًّا C:ds-api؛ وعلى GitHub لا يوجد
+    if os.path.exists(board):
+        try:
+            subprocess.run([sys.executable, board, "add", "--kind", "problem", "--text", text, "--scope", "feeds",
+                            "--by", "publish_feeds"], timeout=60, capture_output=True)
+        except Exception as e:  # noqa: BLE001
+            print("تعذّر تسجيل التنبيه في ميزان الشغل: " + str(e)[:80])
+    print("تنبيه: " + text)
+
+
+MIN_LANG_RATIO = 0.8   # ملف لغة ينزل تحت 80% من المنشور يُحجب وتبقى نسخته المنشورة، كالملف العربي (حادثة 2026-10-12)
 LANG_FILE = re.compile(r"-(google|meta|snap)-[a-z]{2,3}\.xml$")   # ملفات اللغات: نقصها تحذير لا يوقف العربي
 VOLATILE = re.compile(rb"<lastBuildDate>.*?</lastBuildDate>", re.S)
 

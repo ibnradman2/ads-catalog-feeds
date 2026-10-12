@@ -134,6 +134,9 @@ def _now():
     return dt.datetime.now(dt.timezone.utc)
 
 
+IDENT_FIELDS = {"mpn", "gtin", "id", "item_group_id", "sku"}   # معرّفات لا نص يُترجم
+
+
 def cache_path(lang):
     """كاش مستقل لكل لغة: en_texts.json للإنجليزية، وtexts_<لغة>.json لغيرها."""
     return CACHE if lang == "en" else os.path.join(REPO, f"texts_{lang}.json")
@@ -411,7 +414,10 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
             dsc = it.find(G + "description")
             if dsc is not None:
                 dsc.text = (". ".join(x for x in (title.rstrip(". "), fam, wt) if x) + ".")[:4900]
-        bad = None if lang == "ur" else next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)), None)
+        # حقول المعرّفات (mpn وgtin وid) لا يقرؤها العميل، فالعربي فيها ليس «بلا ترجمة» ولا يستبعد المنتج.
+        # حادثة 2026-10-12: mpn بمقطع رابط عربي (feed_reviews) أسقط 288 من 289 منتجًا في كل لغات عسل الجبال.
+        bad = None if lang == "ur" else next((c.tag.replace(G, "") for c in it.iter() if c.text and AR.search(c.text)
+                                              and c.tag.replace(G, "") not in IDENT_FIELDS), None)
         if bad:                                  # حارس النقاء: أي نص عربي في أي حقل يستبعد المنتج
             excluded.append((pid, "نص عربي في الحقل " + bad))
             parent[it].remove(it)
