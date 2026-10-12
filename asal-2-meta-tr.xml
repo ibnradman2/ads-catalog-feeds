@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:05:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>581887586</g:id>
+      <g:title>Kurutulmuş İncir 500 gram</g:title>
+      <g:description>Kurutulmuş İncir 500 gram. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/kurutulmu-i-ncir-500-gram/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1735868163</g:id>
       <g:title>Anason Balı 2 Kilo</g:title>
@@ -99,10 +105,22 @@
       <g:link>https://asalaljebal.sa/tr/zel-teklif-4-paket-ke-mir-sidr-bal-3-paket-rek-otlu-bal-ah-ap-bal-ka-cretsiz-kar/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
+      <g:id>1190839815</g:id>
+      <g:title>1 Kg Dağ Sidr Balı + 1 Kg Yabani Çiçek Balı + 1 Kg Premium Talh Balı (Ücretsiz Kargo)</g:title>
+      <g:description>1 Kg Dağ Sidr Balı + 1 Kg Yabani Çiçek Balı + 1 Kg Premium Talh Balı (Ücretsiz Kargo). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/1-kg-da-sidr-bal-1-kg-yabani-i-ek-bal-1-kg-premium-talh-bal-cretsiz-kargo/p1190839815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
       <g:id>1170804255</g:id>
       <g:title>Kraliyet Dağ Karışımı 1 kg</g:title>
       <g:description>Kraliyet Dağ Karışımı 1 kg. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/kraliyet-da-kar-m-1-kg/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>36619997</g:id>
+      <g:title>Yeni Zelanda Manuka Balı Honey Bros Premium UMF 20+, MGO 850+, 250 gr</g:title>
+      <g:description>Yeni Zelanda Manuka Balı Honey Bros Premium UMF 20+, MGO 850+, 250 gr. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yeni-zelanda-manuka-bal-honey-bros-premium-umf-20-mgo-850-250-gr/p36619997?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1592997301</g:id>
@@ -261,6 +279,12 @@
       <g:link>https://asalaljebal.sa/tr/etl-bal-sal-1-kilo/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
+      <g:id>1228632179</g:id>
+      <g:title>Beyaz Krema Balı (Mardisia) 1 Kilo</g:title>
+      <g:description>Beyaz Krema Balı (Mardisia) 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/beyaz-krema-bal-mardisia-1-kilo/p1228632179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
       <g:id>1884272643</g:id>
       <g:title>Akasya Balı 1 Kilo</g:title>
       <g:description>Akasya Balı 1 Kilo. 1.0 kg.</g:description>
@@ -333,6 +357,12 @@
       <g:link>https://asalaljebal.sa/tr/g-ney-veya-hadramut-yabani-i-ek-bal-2-kg/p1934538070?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
+      <g:id>1999644171</g:id>
+      <g:title>Aliye Medine Acve Hurması Seçkin 1 Kilo</g:title>
+      <g:description>Aliye Medine Acve Hurması Seçkin 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/aliye-medine-acve-hurmas-se-kin-1-kilo/p1999644171?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
       <g:id>2074483289</g:id>
       <g:title>Orijinal Kara Orman Balı 250 g</g:title>
       <g:description>Orijinal Kara Orman Balı 250 g. 0.25 kg.</g:description>
@@ -403,6 +433,12 @@
       <g:title>Premium Semure Dikenli Bal 250 g</g:title>
       <g:description>Premium Semure Dikenli Bal 250 g. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/premium-semure-dikenli-bal-250-g/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Bal Teklifi Yabani Çiçek Balı - Dağ Sidr Balı - Semer Dikeni Balı (Ücretsiz Kargo)</g:title>
+      <g:description>Bal Teklifi Yabani Çiçek Balı - Dağ Sidr Balı - Semer Dikeni Balı (Ücretsiz Kargo). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/bal-teklifi-yabani-i-ek-bal-da-sidr-bal-semer-dikeni-bal-cretsiz-kargo/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1759318609</g:id>
@@ -517,12 +553,6 @@
       <g:title>Honey Bros Premium Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g</g:title>
       <g:description>Honey Bros Premium Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/honey-bros-premium-yeni-zelanda-manuka-bal-umf-10-mgo-300-250-g/p284318205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>581887586</g:id>
-      <g:title>Kurutulmuş İncir 500 gram</g:title>
-      <g:description>Kurutulmuş İncir 500 gram. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/kurutulmu-i-ncir-500-gram/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2006758939</g:id>
@@ -715,6 +745,12 @@
       <g:title>Beyaz Krema Balı (Mardisia) 500 Gram</g:title>
       <g:description>Beyaz Krema Balı (Mardisia) 500 Gram. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/beyaz-krema-bal-mardisia-500-gram/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>756867072</g:id>
+      <g:title>Yarım Kilo Dağ Sidr + Yarım Kilo Diken + Yarım Kilo Macar + Yarım Kilo Kara Orman + Yarım Kilo Yabani Çiçek (Ücretsiz Kargo)</g:title>
+      <g:description>Yarım Kilo Dağ Sidr + Yarım Kilo Diken + Yarım Kilo Macar + Yarım Kilo Kara Orman + Yarım Kilo Yabani Çiçek (Ücretsiz Kargo). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yar-m-kilo-da-sidr-yar-m-kilo-diken-yar-m-kilo-macar-yar-m-kilo-kara-orman-yar-m/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>480352283</g:id>
@@ -981,6 +1017,12 @@
       <g:link>https://asalaljebal.sa/tr/hadramut-d-an-sidr-bal-1-kg/p1298738551?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
+      <g:id>987199113</g:id>
+      <g:title>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo)</g:title>
+      <g:description>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/g-m-teklif-kara-orman-bal-rek-otu-bal-yonca-i-e-i-bal-cretsiz-kargo/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
       <g:id>423197268</g:id>
       <g:title>Doğal Sidr Balı ile Kraliyet Dağ Karışımı 250 g</g:title>
       <g:description>Doğal Sidr Balı ile Kraliyet Dağ Karışımı 250 g. 0.25 kg.</g:description>
@@ -1021,6 +1063,12 @@
       <g:title>Yerel Selem Balı Petekte 1 kg</g:title>
       <g:description>Yerel Selem Balı Petekte 1 kg. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/yerel-selem-bal-petekte-1-kg/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1750448135</g:id>
+      <g:title>Hadramut Dû'an Sidr Balı 7 kg</g:title>
+      <g:description>Hadramut Dû'an Sidr Balı 7 kg. 7.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/hadramut-d-an-sidr-bal-7-kg/p1750448135?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>283420378</g:id>
@@ -1203,6 +1251,12 @@
       <g:link>https://asalaljebal.sa/tr/kas-m-halas-hurmas-kolisi-8-kilo/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
+      <g:id>1016153732</g:id>
+      <g:title>2 kg Asimi kraliyet sidr balı, 15 yüzde indirimli + Ücretsiz Kargo + taksitli ödeme</g:title>
+      <g:description>2 kg Asimi kraliyet sidr balı, 15 yüzde indirimli + Ücretsiz Kargo + taksitli ödeme. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/2-kg-asimi-kraliyet-sidr-bal-15-y-zde-indirimli-cretsiz-kargo-taksitli-deme/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
       <g:id>1249051573</g:id>
       <g:title>1 Kg Semra (Diken) Balı + 1 Kg (Ücretsiz Kargo)</g:title>
       <g:description>1 Kg Semra (Diken) Balı + 1 Kg (Ücretsiz Kargo). 2.0 kg.</g:description>
@@ -1293,6 +1347,12 @@
       <g:link>https://asalaljebal.sa/tr/sidr-bal-da-kar-m-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
+      <g:id>1092237227</g:id>
+      <g:title>Keşmir Sidr Balı 10 Kilo Galon Teklifi, Polenli (Ücretsiz Kargo)</g:title>
+      <g:description>Keşmir Sidr Balı 10 Kilo Galon Teklifi, Polenli (Ücretsiz Kargo). 10.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-10-kilo-galon-teklifi-polenli-cretsiz-kargo/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
       <g:id>1590568579</g:id>
       <g:title>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği</g:title>
       <g:description>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği. 1.5 kg.</g:description>
@@ -1327,6 +1387,12 @@
       <g:title>Yerli Yabani Çiçek Petek Balı Kabı</g:title>
       <g:description>Yerli Yabani Çiçek Petek Balı Kabı. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/yerli-yabani-i-ek-petek-bal-kab/p195894643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>149216914</g:id>
+      <g:title>Yeni Zelanda Manuka Balı UMF+20 + UMF+5 (2 Kavanoz)</g:title>
+      <g:description>Yeni Zelanda Manuka Balı UMF+20 + UMF+5 (2 Kavanoz). 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yeni-zelanda-manuka-bal-umf-20-umf-5-2-kavanoz/p149216914?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1795183563</g:id>
@@ -1393,6 +1459,18 @@
       <g:title>Premium Yerel Talh Balı, 2 Kavanoz</g:title>
       <g:description>Premium Yerel Talh Balı, 2 Kavanoz. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/premium-yerel-talh-bal-2-kavanoz/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1250122150</g:id>
+      <g:title>5 Kg Keşmir Sidr Balı %37 İndirimli + Arı Poleni Paketi + Ücretsiz Kargo + Taksit İmkânı (Çok Sınırlı Miktarda Nadir Kalite Hasat)</g:title>
+      <g:description>5 Kg Keşmir Sidr Balı %37 İndirimli + Arı Poleni Paketi + Ücretsiz Kargo + Taksit İmkânı (Çok Sınırlı Miktarda Nadir Kalite Hasat). 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/5-kg-ke-mir-sidr-bal-37-i-ndirimli-ar-poleni-paketi-cretsiz-kargo-taksit-i-mk-n-/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>605028012</g:id>
+      <g:title>1 Kg Dağ Sidr Balı + 1 Kg (Ücretsiz Kargo)</g:title>
+      <g:description>1 Kg Dağ Sidr Balı + 1 Kg (Ücretsiz Kargo). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/1-kg-da-sidr-bal-1-kg-cretsiz-kargo/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1162802741</g:id>

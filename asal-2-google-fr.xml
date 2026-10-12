@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:05:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">581887586</guid>
+      <g:id>581887586</g:id>
+      <g:title>Figues séchées 500 g</g:title>
+      <g:description>Figues séchées 500 g. Fruits secs. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-500-g/p581887586?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BQbaoLdRkikvX2eMzYaAyhNikHJK9ThmQ2o3EHRE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>02020204</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Fruits secs</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1735868163</guid>
       <g:id>1735868163</g:id>
@@ -1400,21 +1415,6 @@
       <g:item_group_id>0041003001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de fleurs</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">581887586</guid>
-      <g:id>581887586</g:id>
-      <g:title>Figues séchées 500 g</g:title>
-      <g:description>Figues séchées 500 g. Fruits secs. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-500-g/p581887586?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/BQbaoLdRkikvX2eMzYaAyhNikHJK9ThmQ2o3EHRE.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>02020204</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Fruits secs</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">394421153</guid>
       <g:id>394421153</g:id>
