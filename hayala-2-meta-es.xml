@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:11:28 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,72 @@
       <g:title>4 envases de especias para sopa</g:title>
       <g:description>4 envases de especias para sopa. 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/4-envases-de-especias-para-sopa/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1051236094</g:id>
+      <g:title>Cardamomo americano de primera calidad número 3, 6 mm, 1 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad número 3, 6 mm, 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-n-mero-3-6-mm-1-kg/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2069148014</g:id>
+      <g:title>Comino molido 500 g</g:title>
+      <g:description>Comino molido 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/comino-molido-500-g/p2069148014?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>196436999</g:id>
+      <g:title>Hinojo 250 g</g:title>
+      <g:description>Hinojo 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/hinojo-250-g/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1666335790</g:id>
+      <g:title>Hinojo 500 g</g:title>
+      <g:description>Hinojo 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/hinojo-500-g/p1666335790?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
+      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>Hinojo en grano 1 kg</g:title>
+      <g:description>Hinojo en grano 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/hinojo-en-grano-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1381474212</g:id>
+      <g:title>Pasas negras yemeníes - 1 kg</g:title>
+      <g:description>Pasas negras yemeníes - 1 kg. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pasas-negras-yemen-es-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1718132750</g:id>
+      <g:title>Surtido económico (cardamomo + azafrán + miel + especias + especias para sopa)</g:title>
+      <g:description>Surtido económico (cardamomo + azafrán + miel + especias + especias para sopa). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/es/surtido-econ-mico-cardamomo-azafr-n-miel-especias-especias-para-sopa/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1567920614</g:id>
+      <g:title>Café Shadhiliyya, 4 envases</g:title>
+      <g:description>Café Shadhiliyya, 4 envases. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-shadhiliyya-4-envases/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>578517759</g:id>
+      <g:title>Café Lokmati Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
+      <g:description>Café Lokmati Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe. 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-lokmati-bashenfer-5-kg-caf-al-khair-et-ope-de-primera-calidad-para-caf-rabe/p578517759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2139954028</g:id>
+      <g:title>Semillas de katuna (psilio) - 250 g</g:title>
+      <g:description>Semillas de katuna (psilio) - 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-250-g/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2133906442</g:id>
@@ -397,6 +463,30 @@
       <g:title>Kilo de miel en panal de flores silvestres baladi</g:title>
       <g:description>Kilo de miel en panal de flores silvestres baladi. 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/kilo-de-miel-en-panal-de-flores-silvestres-baladi/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>172198759</g:id>
+      <g:title>Tarro de panal de sidr real de la región de Asir</g:title>
+      <g:description>Tarro de panal de sidr real de la región de Asir. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/es/tarro-de-panal-de-sidr-real-de-la-regi-n-de-asir/p172198759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2038336306</g:id>
+      <g:title>Café Lokmati Bashenfer 10 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
+      <g:description>Café Lokmati Bashenfer 10 kg - Café Al Khair etíope de primera calidad para café árabe. 10.0 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-lokmati-bashenfer-10-kg-caf-al-khair-et-ope-de-primera-calidad-para-caf-rabe/p2038336306?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>669353113</g:id>
+      <g:title>Café Harari Bashanfer 10 kg - Café etíope Al Khair de primera calidad para café árabe</g:title>
+      <g:description>Café Harari Bashanfer 10 kg - Café etíope Al Khair de primera calidad para café árabe. 10.0 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-harari-bashanfer-10-kg-caf-et-ope-al-khair-de-primera-calidad-para-caf-rabe/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>360158781</g:id>
+      <g:title>18 envases de azafrán súper negin de 1 g + mortero de azafrán de regalo</g:title>
+      <g:description>18 envases de azafrán súper negin de 1 g + mortero de azafrán de regalo. 0.018 kg.</g:description>
+      <g:link>https://hayala.co/es/18-envases-de-azafr-n-s-per-negin-de-1-g-mortero-de-azafr-n-de-regalo/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     </channel>
 </rss>
