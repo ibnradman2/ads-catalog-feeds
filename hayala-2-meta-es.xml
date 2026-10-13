@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:05:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -121,6 +121,18 @@
       <g:title>Nueces (americanas) - 250 g</g:title>
       <g:description>Nueces (americanas) - 250 g. 0.25 kg.</g:description>
       <g:link>https://hayala.co/es/nueces-americanas-250-g/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>74605069</g:id>
+      <g:title>Jengibre molido 500 g</g:title>
+      <g:description>Jengibre molido 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/jengibre-molido-500-g/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>140660040</g:id>
+      <g:title>Hojas de tomillo silvestre 1 kg</g:title>
+      <g:description>Hojas de tomillo silvestre 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-1-kg/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     </channel>
 </rss>
