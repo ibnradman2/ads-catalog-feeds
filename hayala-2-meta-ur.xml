@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 16:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:28:47 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -411,6 +411,12 @@
       <g:link>https://hayala.co/ur/500/p1832849003?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
+      <g:id>1924754372</g:id>
+      <g:title>پیکن اخروٹ - 500 گرام</g:title>
+      <g:description>پیکن اخروٹ - 500 گرام. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
       <g:id>1635363747</g:id>
       <g:title>پاکستانی چلغوزے - 250gm</g:title>
       <g:description>پاکستانی چلغوزے - 250gm.</g:description>
@@ -421,6 +427,12 @@
       <g:title>السی کے بیج - 250 گرام</g:title>
       <g:description>السی کے بیج - 250 گرام. 0.25 kg.</g:description>
       <g:link>https://hayala.co/ur/250/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1408049071</g:id>
+      <g:title>پیکان اخروٹ (پیکن) - 1 کلو</g:title>
+      <g:description>پیکان اخروٹ (پیکن) - 1 کلو. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1565509631</g:id>
@@ -451,6 +463,12 @@
       <g:title>اسپغول کے بیج (قطونہ) - 500 گرام</g:title>
       <g:description>اسپغول کے بیج (قطونہ) - 500 گرام. 0.5 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1003247052</g:id>
+      <g:title>پیکان گری - 250 گرام</g:title>
+      <g:description>پیکان گری - 250 گرام. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/ur/250/p1003247052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>757548514</g:id>
@@ -694,8 +712,8 @@
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1270839426</g:id>
-      <g:title>آفر: امریکی الائچی درجہ اول ایکسٹرا جمبو نمبر 1، موٹائی 8 ملی میٹر، کارٹن 5 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>آفر: امریکی الائچی درجہ اول ایکسٹرا جمبو نمبر 1، موٹائی 8 ملی میٹر، کارٹن 5 کلو (مفت ڈیلیوری). 5.0 kg.</g:description>
+      <g:title>آفر امریکی الائچی درجہ اول ایکسٹرا جمبو نمبر 1 موٹائی 8 ملی میٹر 5 کلو کارٹن (مفت ڈیلیوری)</g:title>
+      <g:description>آفر امریکی الائچی درجہ اول ایکسٹرا جمبو نمبر 1 موٹائی 8 ملی میٹر 5 کلو کارٹن (مفت ڈیلیوری). 5.0 kg.</g:description>
       <g:link>https://hayala.co/ur/1-8-5/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
@@ -712,8 +730,8 @@
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1071630418</g:id>
-      <g:title>ہمالیائی گلابی نمک (450 گرام)</g:title>
-      <g:description>ہمالیائی گلابی نمک (450 گرام). 0.45 kg.</g:description>
+      <g:title>گلابی ہمالیائی نمک (450 گرام)</g:title>
+      <g:description>گلابی ہمالیائی نمک (450 گرام). 0.45 kg.</g:description>
       <g:link>https://hayala.co/ur/450/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
@@ -730,8 +748,8 @@
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>863440747</g:id>
-      <g:title>پسی ہوئی ملیٹھی (عرق سوس) 500 گرام</g:title>
-      <g:description>پسی ہوئی ملیٹھی (عرق سوس) 500 گرام. 0.5 kg.</g:description>
+      <g:title>پسی ہوئی ملٹھی (500 گرام)</g:title>
+      <g:description>پسی ہوئی ملٹھی (500 گرام). 0.5 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p863440747?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
@@ -754,8 +772,8 @@
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1126381181</g:id>
-      <g:title>مورنگا پاؤڈر، پسی ہوئی پتیاں (500 گرام)</g:title>
-      <g:description>مورنگا پاؤڈر، پسی ہوئی پتیاں (500 گرام). 0.5 kg.</g:description>
+      <g:title>پسی ہوئی مورنگا (500 گرام)</g:title>
+      <g:description>پسی ہوئی مورنگا (500 گرام). 0.5 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p1126381181?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>

@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:05:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -19,6 +19,12 @@
       <g:title>Ghee baladí de vaca 680 g</g:title>
       <g:description>Ghee baladí de vaca 680 g. 0.68 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/ghee-balad-de-vaca-680-g/p244975038?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>622456174</g:id>
+      <g:title>Miel de talh premium 1 kg</g:title>
+      <g:description>Miel de talh premium 1 kg. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>581887586</g:id>
@@ -651,10 +657,34 @@
       <g:link>https://asalaljebal.sa/es/miel-de-acacia-10-kg-garrafa-a-precio-de-mayorista/p1497729139?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>696442397</g:id>
+      <g:title>Propóleo en polvo (resina de abeja) 15 g</g:title>
+      <g:description>Propóleo en polvo (resina de abeja) 15 g. 0.15 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/prop-leo-en-polvo-resina-de-abeja-15-g/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2070936862</g:id>
+      <g:title>Polen de palmera datilera 15 g</g:title>
+      <g:description>Polen de palmera datilera 15 g. 0.15 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-palmera-datilera-15-g/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>1870910750</g:id>
       <g:title>1 kg de pasas negras y 600 g de miel de sidr natural</g:title>
       <g:description>1 kg de pasas negras y 600 g de miel de sidr natural. 1.6 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/1-kg-de-pasas-negras-y-600-g-de-miel-de-sidr-natural/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1327702593</g:id>
+      <g:title>Miel de Samar premium 5 kg, garrafa al por mayor</g:title>
+      <g:description>Miel de Samar premium 5 kg, garrafa al por mayor. 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-5-kg-garrafa-al-por-mayor/p1327702593?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1429478431</g:id>
+      <g:title>Ghee de oveja tradicional 680 g</g:title>
+      <g:description>Ghee de oveja tradicional 680 g. 0.68 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/ghee-de-oveja-tradicional-680-g/p1429478431?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1695821747</g:id>
@@ -675,10 +705,28 @@
       <g:link>https://asalaljebal.sa/es/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>595190855</g:id>
+      <g:title>Miel de samar espinosa premium en galón de 10 kg a precio de mayorista</g:title>
+      <g:description>Miel de samar espinosa premium en galón de 10 kg a precio de mayorista. 10.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-espinosa-premium-en-gal-n-de-10-kg-a-precio-de-mayorista/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1895717401</g:id>
+      <g:title>Polen de abeja (granos de polen) 30 g</g:title>
+      <g:description>Polen de abeja (granos de polen) 30 g. 0.3 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-abeja-granos-de-polen-30-g/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>802419986</g:id>
       <g:title>Harina de cebada (talbina profética) 500 g</g:title>
       <g:description>Harina de cebada (talbina profética) 500 g. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/harina-de-cebada-talbina-prof-tica-500-g/p802419986?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1369228614</g:id>
+      <g:title>Miel en panal de samar (espinosa) 1 kg</g:title>
+      <g:description>Miel en panal de samar (espinosa) 1 kg. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-en-panal-de-samar-espinosa-1-kg/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>650316978</g:id>
@@ -687,16 +735,34 @@
       <g:link>https://asalaljebal.sa/es/miel-de-moringa-1-kg/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>1121679642</g:id>
+      <g:title>Ginseng coreano 15 g</g:title>
+      <g:description>Ginseng coreano 15 g. 0.15 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/ginseng-coreano-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>1517173604</g:id>
       <g:title>Harina de Cebada (Talbina Profética) 250 g</g:title>
       <g:description>Harina de Cebada (Talbina Profética) 250 g. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/harina-de-cebada-talbina-prof-tica-250-g/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>453091196</g:id>
+      <g:title>Miel blanca de Mardisia 500 g</g:title>
+      <g:description>Miel blanca de Mardisia 500 g. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-blanca-de-mardisia-500-g/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>756867072</g:id>
       <g:title>Medio kilo de Sidr de montaña + medio kilo de Shawka + medio kilo de Majra + medio kilo de Selva Negra + medio kilo de flores silvestres (envío gratis</g:title>
       <g:description>Medio kilo de Sidr de montaña + medio kilo de Shawka + medio kilo de Majra + medio kilo de Selva Negra + medio kilo de flores silvestres (envío gratis). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/medio-kilo-de-sidr-de-monta-a-medio-kilo-de-shawka-medio-kilo-de-majra-medio-kil/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Jalea real china 15 g (alimento de las abejas reinas)</g:title>
+      <g:description>Jalea real china 15 g (alimento de las abejas reinas). 0.15 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/jalea-real-china-15-g-alimento-de-las-abejas-reinas/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1123362063</g:id>
@@ -723,6 +789,18 @@
       <g:link>https://asalaljebal.sa/es/polen-de-abeja-jordano-250-g/p1314226407?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>1854842724</g:id>
+      <g:title>Jalea real egipcia 10 g</g:title>
+      <g:description>Jalea real egipcia 10 g. 0.11 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/jalea-real-egipcia-10-g/p1854842724?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>313018985</g:id>
+      <g:title>Miel de talh de Hail 1 kg</g:title>
+      <g:description>Miel de talh de Hail 1 kg. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-talh-de-hail-1-kg/p313018985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>24757641</g:id>
       <g:title>Miel de moringa 10 kg en garrafa a precio de mayorista</g:title>
       <g:description>Miel de moringa 10 kg en garrafa a precio de mayorista. 10.0 kg.</g:description>
@@ -735,10 +813,28 @@
       <g:link>https://asalaljebal.sa/es/harina-de-cebada-talbina-prof-tica-1-kg/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>946587237</g:id>
+      <g:title>Pasas negras de Yemen 1 kg</g:title>
+      <g:description>Pasas negras de Yemen 1 kg. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/pasas-negras-de-yemen-1-kg/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1086532456</g:id>
+      <g:title>Miel de talh premium 250 g</g:title>
+      <g:description>Miel de talh premium 250 g. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-250-g/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>272226114</g:id>
       <g:title>Miel de mejorana 250 g</g:title>
       <g:description>Miel de mejorana 250 g. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-mejorana-250-g/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1679623271</g:id>
+      <g:title>Pasas rojas de Yemen 1 kg</g:title>
+      <g:description>Pasas rojas de Yemen 1 kg. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/pasas-rojas-de-yemen-1-kg/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1883389928</g:id>
