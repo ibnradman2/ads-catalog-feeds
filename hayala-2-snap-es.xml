@@ -4,10 +4,25 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:11:14 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1303028575</guid>
+      <g:id>1303028575</g:id>
+      <g:title>4 envases de especias para sopa</g:title>
+      <g:description>4 envases de especias para sopa. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/4-envases-de-especias-para-sopa/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/LWC8WrEVBYE2oenpE2LOC01V5PJsNdqXbnBYqo0Q.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>160.00 SAR</g:price>
+      <g:sale_price>120.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">2133906442</guid>
       <g:id>2133906442</g:id>
@@ -512,6 +527,200 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.015 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">946188382</guid>
+      <g:id>946188382</g:id>
+      <g:title>Dátiles ajwa Aliyat Al Madinah premium de 1 kg</g:title>
+      <g:description>Dátiles ajwa Aliyat Al Madinah premium de 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/d-tiles-ajwa-aliyat-al-madinah-premium-de-1-kg/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/4qzJNmJ7uk4l68zkp91QSlUEcp3KePp2UR5HX7ll.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1666723060</guid>
+      <g:id>1666723060</g:id>
+      <g:title>Dos envases de miel con frutos secos (500 g) + un envase (500 g) de regalo</g:title>
+      <g:description>Dos envases de miel con frutos secos (500 g) + un envase (500 g) de regalo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/dos-envases-de-miel-con-frutos-secos-500-g-un-envase-500-g-de-regalo/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/GblKITWNu87vD0CrqCiVmowzGzhjcgdz9ZUdGNBC.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>320.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1533464823</guid>
+      <g:id>1533464823</g:id>
+      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
+      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/85DdDgNFq7Zx9B8XYxO0FRVxND98swP8jJBEowEL.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>455.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1588483287</guid>
+      <g:id>1588483287</g:id>
+      <g:title>3 envases de bebida de miel con jengibre, limón y cúrcuma</g:title>
+      <g:description>3 envases de bebida de miel con jengibre, limón y cúrcuma. 0.47 kg.</g:description>
+      <g:link>https://hayala.co/es/3-envases-de-bebida-de-miel-con-jengibre-lim-n-y-c-rcuma/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/5c285533-ee6b-4d3d-881a-00b90444ca65-500x500-aooNHapYXZXcBICmact59ByN8lQYbwQrQE1Pi2cP.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>189.00 SAR</g:price>
+      <g:sale_price>149.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.47 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">521440913</guid>
+      <g:id>521440913</g:id>
+      <g:title>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo</g:title>
+      <g:description>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/es/cajas-de-regalo-dos-envases-de-azafr-n-s-per-negin-de-lujo-rallador-de-regalo/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/OSTmCzOmPo2KHRnJhvRluEmr84K0wKIsDEDRxFug.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>380.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.01 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1033561560</guid>
+      <g:id>1033561560</g:id>
+      <g:title>Café Harari Bashanfar 2 kg - Café etíope Al Khair de primera calidad para café árabe</g:title>
+      <g:description>Café Harari Bashanfar 2 kg - Café etíope Al Khair de primera calidad para café árabe. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-harari-bashanfar-2-kg-caf-et-ope-al-khair-de-primera-calidad-para-caf-rabe/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/obkLBi6BEVbBGzB8gyxF2ah9WPHg0omBEwMPbwb6.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1285757989</guid>
+      <g:id>1285757989</g:id>
+      <g:title>Ginseng 15 g</g:title>
+      <g:description>Ginseng 15 g.</g:description>
+      <g:link>https://hayala.co/es/ginseng-15-g/p1285757989?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/tM5IhcWlNIH9nL5wkziO0ij07hWq8xz7w3KpiLdt.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      </item>
+    <item>
+      <guid isPermaLink="false">65975421</guid>
+      <g:id>65975421</g:id>
+      <g:title>Polen de palmera datilera 15 g</g:title>
+      <g:description>Polen de palmera datilera 15 g.</g:description>
+      <g:link>https://hayala.co/es/polen-de-palmera-datilera-15-g/p65975421?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/NxLhyBor96SwiLGzmjhzhgPJCOdGm75FYR4V4tti.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      </item>
+    <item>
+      <guid isPermaLink="false">1939267679</guid>
+      <g:id>1939267679</g:id>
+      <g:title>24 sobres de azafrán Super Negin de 24 g + envío gratis</g:title>
+      <g:description>24 sobres de azafrán Super Negin de 24 g + envío gratis. 0.024 kg.</g:description>
+      <g:link>https://hayala.co/es/24-sobres-de-azafr-n-super-negin-de-24-g-env-o-gratis/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/hGVQQV289AZ6PlJuIjjR5PBFuqsnlkW3nLfbMpF7.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>480.00 SAR</g:price>
+      <g:sale_price>320.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.024 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1621826523</guid>
+      <g:id>1621826523</g:id>
+      <g:title>Café Harari Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
+      <g:description>Café Harari Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe. 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-harari-bashenfer-5-kg-caf-al-khair-et-ope-de-primera-calidad-para-caf-rabe/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/LLNBDiakgqBPVJ5xuFLrVl4UlPd63kSnCZGFmcWS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1643632887</guid>
+      <g:id>1643632887</g:id>
+      <g:title>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-jumbo-n-mero-2-7-mm-1-kg/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/bgGmjjWAslrknaK2CVYf5JoKgDjQX2XueWVD7Y3q.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/ErktMnlWtTecWkRZC74wU7ENE3eDsaLYKl0IuS4F.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>270.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1434036849</guid>
+      <g:id>1434036849</g:id>
+      <g:title>Cardamomo americano de primera calidad número 3, 6 mm, caja de 5 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad número 3, 6 mm, caja de 5 kg. 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-n-mero-3-6-mm-caja-de-5-kg/p1434036849?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/tdtaXPnMvAj4Ln1eVmsaMZCEfhpZCCzblRum1g37.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/YfgFFiTXSfM2OHrb0tcTCauFyRa2Atw226lnIiqc.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/ZM0Zzh3Z4tMnwmLlDbXKCMzteVivA3AFC9xrwAuW.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/q4HruHP8pH3MnciLoEo2YhgA213vQxVuVxMKRI0j.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/uaKyiGVTL1yKe9zBfeqT98BTtw6VdE20lSlbxIlo.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1096.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2106298714</guid>
+      <g:id>2106298714</g:id>
+      <g:title>Cardamomo americano jumbo de primera calidad número 2, 7 mm, caja de 5 kg</g:title>
+      <g:description>Cardamomo americano jumbo de primera calidad número 2, 7 mm, caja de 5 kg. 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-jumbo-de-primera-calidad-n-mero-2-7-mm-caja-de-5-kg/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/mlspMiIAJtk9xs5VKMJE7ZLSRtxDL4OCmqQU9M7i.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/P3WVvDizpVWq4blvaHEd1kA0tiz5xNT6RLOS5412.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/641gmRgctZgkb3l3eYJDOxPCx7wqKcXnJZptne0Q.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/CkBjlNAz5XdAeuTSBTlz4ySsq6MA4iXu5NsWKxaL.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/ZISdGRltnGr0SxRHMRVbWarNHTlj6O6oWelPzt6R.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1149.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     </channel>
 </rss>
