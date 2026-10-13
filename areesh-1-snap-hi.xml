@@ -4,10 +4,27 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:58:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:09:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1559827680</guid>
+      <g:id>1559827680</g:id>
+      <g:title>5 किलो कश्मीरी सिद्र शहद + मुफ़्त डिलीवरी</g:title>
+      <g:description>5 किलो कश्मीरी सिद्र शहद + मुफ़्त डिलीवरी. 5.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/5/p1559827680?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/DgU8MajbDJ7KBoHvqmR0u939kxf31bAOIbkY2wQd.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/3NnOcvbds4KTM6SbTMVrPjFMV9dsRqn9kVlVo9vz.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>424.99 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>अरीश</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006005</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">443912774</guid>
       <g:id>443912774</g:id>
@@ -497,22 +514,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041006010</g:item_group_id>
       <g:shipping_weight>10.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1559827680</guid>
-      <g:id>1559827680</g:id>
-      <g:title>5 किलो कश्मीरी सिद्र शहद + मुफ़्त डिलीवरी</g:title>
-      <g:description>5 किलो कश्मीरी सिद्र शहद + मुफ़्त डिलीवरी. 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/5/p1559827680?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/66f6897d-a5dc-47a8-b447-143d7c876dd9-500x500-3NnOcvbds4KTM6SbTMVrPjFMV9dsRqn9kVlVo9vz.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>424.99 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>अरीश</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006005</g:item_group_id>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">769082882</guid>
