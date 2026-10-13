@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:06:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>895361493</g:id>
+      <g:title>Super Naqeel藏红花 28克（1盎司）+ 免运费</g:title>
+      <g:description>Super Naqeel藏红花 28克（1盎司）+ 免运费. 0.028 kg.</g:description>
+      <g:link>https://hayala.co/zh/super-naqeel-28-1/p895361493?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1303028575</g:id>
       <g:title>汤料香料 4盒装</g:title>
@@ -853,12 +859,6 @@
       <g:title>美国青豆蔻3号一级，6毫米粗，2.5公斤整箱装（免费配送）</g:title>
       <g:description>美国青豆蔻3号一级，6毫米粗，2.5公斤整箱装（免费配送）. 2.5 kg.</g:description>
       <g:link>https://hayala.co/zh/3-6-2-5/p1111478955?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>895361493</g:id>
-      <g:title>Super Naqeel藏红花 28克（1盎司）+ 免运费</g:title>
-      <g:description>Super Naqeel藏红花 28克（1盎司）+ 免运费. 0.028 kg.</g:description>
-      <g:link>https://hayala.co/zh/super-naqeel-28-1/p895361493?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>2071592201</g:id>

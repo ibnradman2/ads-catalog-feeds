@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:11:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -30,7 +30,7 @@
       <g:description>خلاص قصیم کھجور کا کارٹن 8 کلو. 8.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>220.00 SAR</g:price>
       <g:sale_price>99.00 SAR</g:sale_price>
       <g:brand>عسل الجبل</g:brand>

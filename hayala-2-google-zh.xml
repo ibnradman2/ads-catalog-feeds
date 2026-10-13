@@ -4,10 +4,26 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:06:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">895361493</guid>
+      <g:id>895361493</g:id>
+      <g:title>Super Naqeel藏红花 28克（1盎司）+ 免运费</g:title>
+      <g:description>Super Naqeel藏红花 28克（1盎司）+ 免运费. 藏红花. 0.028 kg.</g:description>
+      <g:link>https://hayala.co/zh/super-naqeel-28-1/p895361493?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/uYbhu8TRtjK4t1Yut8A9M4HUxoNSp78oBYhN4dTw.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1t4fs5x1us7HdShvToR92mTTLZxS0sGvBkhNTkbw.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>560.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.028 kg</g:shipping_weight>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>藏红花</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1303028575</guid>
       <g:id>1303028575</g:id>
@@ -2017,22 +2033,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>小豆蔻</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">895361493</guid>
-      <g:id>895361493</g:id>
-      <g:title>Super Naqeel藏红花 28克（1盎司）+ 免运费</g:title>
-      <g:description>Super Naqeel藏红花 28克（1盎司）+ 免运费. 藏红花. 0.028 kg.</g:description>
-      <g:link>https://hayala.co/zh/super-naqeel-28-1/p895361493?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/uYbhu8TRtjK4t1Yut8A9M4HUxoNSp78oBYhN4dTw.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1t4fs5x1us7HdShvToR92mTTLZxS0sGvBkhNTkbw.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>560.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.028 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>藏红花</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">2071592201</guid>
       <g:id>2071592201</g:id>
