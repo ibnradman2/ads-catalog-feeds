@@ -4,10 +4,26 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 14:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:12:30 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">895361493</guid>
+      <g:id>895361493</g:id>
+      <g:title>Azafrán súper negin 28 g (onza) + envío gratis</g:title>
+      <g:description>Azafrán súper negin 28 g (onza) + envío gratis. 0.028 kg.</g:description>
+      <g:link>https://hayala.co/es/azafr-n-s-per-negin-28-g-onza-env-o-gratis/p895361493?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/uYbhu8TRtjK4t1Yut8A9M4HUxoNSp78oBYhN4dTw.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1t4fs5x1us7HdShvToR92mTTLZxS0sGvBkhNTkbw.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>560.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.028 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1303028575</guid>
       <g:id>1303028575</g:id>
@@ -24,6 +40,36 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
+      <guid isPermaLink="false">282374221</guid>
+      <g:id>282374221</g:id>
+      <g:title>4 kg de miel de sidr natural + 2 kg gratis</g:title>
+      <g:description>4 kg de miel de sidr natural + 2 kg gratis. 6.0 kg.</g:description>
+      <g:link>https://hayala.co/es/4-kg-de-miel-de-sidr-natural-2-kg-gratis/p282374221?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/1bKd9uS10LBHDOOYvklVlDcnSTldQHbdCJx3PSoc.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>590.00 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">528140923</guid>
+      <g:id>528140923</g:id>
+      <g:title>Especias básicas: 12 envases + medio kilo de cebolla frita</g:title>
+      <g:description>Especias básicas: 12 envases + medio kilo de cebolla frita. 1.6 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-b-sicas-12-envases-medio-kilo-de-cebolla-frita/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/uGkHQpTjguSoGQEgxudT5RaW3gKPvY7xWq9jblMd.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>216.00 SAR</g:price>
+      <g:sale_price>149.01 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.6 kg</g:shipping_weight>
+    </item>
+    <item>
       <guid isPermaLink="false">1051236094</guid>
       <g:id>1051236094</g:id>
       <g:title>Cardamomo americano de primera calidad número 3, 6 mm, 1 kg</g:title>
@@ -37,6 +83,175 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1956516321</guid>
+      <g:id>1956516321</g:id>
+      <g:title>Mango deshidratado 250 g</g:title>
+      <g:description>Mango deshidratado 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/mango-deshidratado-250-g/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/tGwg2ZyYnZPqexUSecO9TJsWvYpBevUNDmuLHmno.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1701109911</guid>
+      <g:id>1701109911</g:id>
+      <g:title>Salvia 1 kilo</g:title>
+      <g:description>Salvia 1 kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/salvia-1-kilo/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Dz5hl7jddRs2wGOLpK512YLyrwidFUUKLmf08qiB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>28.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1293815972</guid>
+      <g:id>1293815972</g:id>
+      <g:title>Hibisco 1 kg</g:title>
+      <g:description>Hibisco 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/hibisco-1-kg/p1293815972?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/NHoMCyd2cbbR7SV7iQNQhwSsVU8HRwpU9QE5YnZv.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>59.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1511230577</guid>
+      <g:id>1511230577</g:id>
+      <g:title>Mango deshidratado 500 g</g:title>
+      <g:description>Mango deshidratado 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/mango-deshidratado-500-g/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/cZ6BzG8DOc8Ab9i0J5HiO25suiJFtr1Kdie4XuiA.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">811285941</guid>
+      <g:id>811285941</g:id>
+      <g:title>Hibisco 250 g</g:title>
+      <g:description>Hibisco 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/hibisco-250-g/p811285941?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/GmYzcNUHCTJMGpwWUZRnf6AagjTLF8x992D0WjHn.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>18.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">176539565</guid>
+      <g:id>176539565</g:id>
+      <g:title>Mango deshidratado 1 kg</g:title>
+      <g:description>Mango deshidratado 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/mango-deshidratado-1-kg/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/f26bdWuoBDSjn4gqEaAxiizIxGW68HswNIw2wapS.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">572967102</guid>
+      <g:id>572967102</g:id>
+      <g:title>Café Shadhiliyya</g:title>
+      <g:description>Café Shadhiliyya. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-shadhiliyya/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/HSOgdJEPvRvojLcFtBS6toVW6tRxK8tgxvmEgDRU.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>54.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">150479264</guid>
+      <g:id>150479264</g:id>
+      <g:title>Kiwi deshidratado 250 g</g:title>
+      <g:description>Kiwi deshidratado 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/kiwi-deshidratado-250-g/p150479264?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/qPl8J9T6cpTn849yO1lqELeT8BQBnxQDMxHEKu2n.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>27.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1073244520</guid>
+      <g:id>1073244520</g:id>
+      <g:title>Kiwi deshidratado 500 g</g:title>
+      <g:description>Kiwi deshidratado 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/kiwi-deshidratado-500-g/p1073244520?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/5S2FsiO8ycfhCP85Qdm1upPM6iHPnRdsCqA4A1Lb.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>42.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">801044632</guid>
+      <g:id>801044632</g:id>
+      <g:title>Kiwi deshidratado 1 kg</g:title>
+      <g:description>Kiwi deshidratado 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/kiwi-deshidratado-1-kg/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/JY2398uaErnQRYUonMH2zT1O6NOIYV15GST81ZRw.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>72.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1474254823</guid>
+      <g:id>1474254823</g:id>
+      <g:title>Canela molida 500 g</g:title>
+      <g:description>Canela molida 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/canela-molida-500-g/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/AG6iCvAPe7ftlvGIqCS5yjx67mTdaO6pjZBrtkIZ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>23.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1091901970</guid>
+      <g:id>1091901970</g:id>
+      <g:title>Especias para sopa, envase de 12 bolsitas</g:title>
+      <g:description>Especias para sopa, envase de 12 bolsitas. 0.2 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-para-sopa-envase-de-12-bolsitas/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/1oQsyaF0XonZJaUovmeyMIDbqzplngPa6JUwzjv5.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1OGO31voMKQqtk43NBbVIz8ZZ4vMUpDrzQSXW2fw.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.2 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">2069148014</guid>
@@ -122,6 +337,371 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">130562279</guid>
+      <g:id>130562279</g:id>
+      <g:title>Flores de manzanilla 250 gramos</g:title>
+      <g:description>Flores de manzanilla 250 gramos. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/flores-de-manzanilla-250-gramos/p130562279?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/IPnV5xupDWV0fRxqvpzv85qHjQpkZ1ruPTlEkM1O.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>16.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1732878396</guid>
+      <g:id>1732878396</g:id>
+      <g:title>Especias variadas molidas 500 g</g:title>
+      <g:description>Especias variadas molidas 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-variadas-molidas-500-g/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/bzbOxKnhJ7grJC7KJSZ1tcA5GKpJB7q2APnP0AwI.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.30 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1632683015</guid>
+      <g:id>1632683015</g:id>
+      <g:title>Flores de manzanilla 1 kilo</g:title>
+      <g:description>Flores de manzanilla 1 kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/flores-de-manzanilla-1-kilo/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/TKjfUXES3TvUoVbKFJIrWjoTSWYVK497nZpCRbPE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">351659116</guid>
+      <g:id>351659116</g:id>
+      <g:title>Za'atar molido 500 g</g:title>
+      <g:description>Za'atar molido 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/za-atar-molido-500-g/p351659116?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/kZH9Ns6EsVSMxGGMGf4mts6yl6Dpyeq7AQqJXYt6.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2082144846</guid>
+      <g:id>2082144846</g:id>
+      <g:title>Za'atar molido 1 kg</g:title>
+      <g:description>Za'atar molido 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/za-atar-molido-1-kg/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/kcmAKjyxXIJeV0u2OBYMzkxthoyQ2vwb2pYDjgk7.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>26.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1466026704</guid>
+      <g:id>1466026704</g:id>
+      <g:title>Za'atar molido 250 g</g:title>
+      <g:description>Za'atar molido 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/za-atar-molido-250-g/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Vi5tJjiwRXytRukWe0RJo1uJlIHRGSZO9wQflKGf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>8.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">540081798</guid>
+      <g:id>540081798</g:id>
+      <g:title>Semillas de chía - 500 g</g:title>
+      <g:description>Semillas de chía - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-500-g/p540081798?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/nvdIh9oLjkm6R4UqQon3fXPGwUlRXPLHCCgsgNVf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1378639718</guid>
+      <g:id>1378639718</g:id>
+      <g:title>Semillas de chía - 250 g</g:title>
+      <g:description>Semillas de chía - 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/yYtSwFboyC9uRsiU3xJld7Yp5zCWAeTdfhxvu2GY.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>27.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1669542650</guid>
+      <g:id>1669542650</g:id>
+      <g:title>Semillas de chía - 1 kg</g:title>
+      <g:description>Semillas de chía - 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/An13FEjcEaCvxxJZpaOkQKFmU2bD0lG4iPNh8tXT.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">533576722</guid>
+      <g:id>533576722</g:id>
+      <g:title>Papaya deshidratada 250 g</g:title>
+      <g:description>Papaya deshidratada 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/papaya-deshidratada-250-g/p533576722?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/sP6fUgdDMJRKFBifcJfmvb6TQHs3NcrlC0lPoWl1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">482971108</guid>
+      <g:id>482971108</g:id>
+      <g:title>Romero 250 gramos</g:title>
+      <g:description>Romero 250 gramos. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/romero-250-gramos/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/N1taKaOLVCuHVC4NFWeRTFbTd9mOGG9dfT542BON.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>10.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">770458728</guid>
+      <g:id>770458728</g:id>
+      <g:title>Pasas negras yemeníes - 500 g</g:title>
+      <g:description>Pasas negras yemeníes - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pasas-negras-yemen-es-500-g/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/c2IGPaXgwOEKakRXMcpid4RwAtnZg0SgaeSbEq9L.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">94425611</guid>
+      <g:id>94425611</g:id>
+      <g:title>Papaya deshidratada 1 kg</g:title>
+      <g:description>Papaya deshidratada 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/papaya-deshidratada-1-kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/P8D0wFSHm35YHdLHFprhAeH0xVpqXgkgeSbChaCG.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1559719230</guid>
+      <g:id>1559719230</g:id>
+      <g:title>Romero 500 gramos</g:title>
+      <g:description>Romero 500 gramos. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/romero-500-gramos/p1559719230?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/rA9QSjgpOY3mtwmAFpiRSmldqSo4DnZPuvYfSLnB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">897901817</guid>
+      <g:id>897901817</g:id>
+      <g:title>Papaya deshidratada 500 g</g:title>
+      <g:description>Papaya deshidratada 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/papaya-deshidratada-500-g/p897901817?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/atWf5BznZq0jlX10AqKL5b235MF4nsM6uZFFet8E.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">441888257</guid>
+      <g:id>441888257</g:id>
+      <g:title>Aguacate deshidratado 500 g</g:title>
+      <g:description>Aguacate deshidratado 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/aguacate-deshidratado-500-g/p441888257?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/eWjKQE3bgY6oCYRKoi1LcOEp0ntg6A2EAiybnsXI.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">522208565</guid>
+      <g:id>522208565</g:id>
+      <g:title>Romero 1 kilo</g:title>
+      <g:description>Romero 1 kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/romero-1-kilo/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/KMcpcDhrEad78MZ8ZPnzOJZ0whJv1oChZkrumckE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>28.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2059144227</guid>
+      <g:id>2059144227</g:id>
+      <g:title>Aguacate deshidratado 250 g</g:title>
+      <g:description>Aguacate deshidratado 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/aguacate-deshidratado-250-g/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/lDbnl4Oprxsn1MM9s2K2WESJ4GhzHaelgrr6GSvk.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">518818921</guid>
+      <g:id>518818921</g:id>
+      <g:title>Hojas de tomillo silvestre (500 g)</g:title>
+      <g:description>Hojas de tomillo silvestre (500 g). 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-500-g/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/TtBKBZ3ylRKN6qv1GXObKZePwaV4hNokHzGeHoLm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>18.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">583414674</guid>
+      <g:id>583414674</g:id>
+      <g:title>Hojas de tomillo silvestre (250 g)</g:title>
+      <g:description>Hojas de tomillo silvestre (250 g). 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-250-g/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/JPIxgEZlZWmQZ5a6jGO8iu22nA5Ej93fLL6vd0Rl.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>13.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1072059977</guid>
+      <g:id>1072059977</g:id>
+      <g:title>Aguacate deshidratado 1 kg</g:title>
+      <g:description>Aguacate deshidratado 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/aguacate-deshidratado-1-kg/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/BWydtZhtfEpzMAUuoTNaIKywFXDvL5td9EiAn2Vi.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2080319034</guid>
+      <g:id>2080319034</g:id>
+      <g:title>Clavo de olor premium de Sri Lanka 1 kg</g:title>
+      <g:description>Clavo de olor premium de Sri Lanka 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/clavo-de-olor-premium-de-sri-lanka-1-kg/p2080319034?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/dWOtTz4g3KwziU0n9f4MpjX8xxDCy7hMaTCV6n3M.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>99.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1730613591</guid>
+      <g:id>1730613591</g:id>
+      <g:title>Piña deshidratada 250 g</g:title>
+      <g:description>Piña deshidratada 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-a-deshidratada-250-g/p1730613591?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/iLV31auN5qLKyEOVteVezLAWddqnky6XaUuCLGSy.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>27.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1433640019</guid>
+      <g:id>1433640019</g:id>
+      <g:title>Piña deshidratada 500 g</g:title>
+      <g:description>Piña deshidratada 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-a-deshidratada-500-g/p1433640019?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/s1bG0EQSEH2glSPF2CePy1yE9y7fBrdNa98dmNgC.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>42.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">428797377</guid>
+      <g:id>428797377</g:id>
+      <g:title>Piña deshidratada 1 kg</g:title>
+      <g:description>Piña deshidratada 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-a-deshidratada-1-kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/zpq2GkiH7izKGDd8tRKdORRCuSiwtFb8ZwrWm7z0.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>72.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1147148756</guid>
+      <g:id>1147148756</g:id>
+      <g:title>2 kg de miel de sidr natural + 2 kg gratis</g:title>
+      <g:description>2 kg de miel de sidr natural + 2 kg gratis. 4.0 kg.</g:description>
+      <g:link>https://hayala.co/es/2-kg-de-miel-de-sidr-natural-2-kg-gratis/p1147148756?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/yyExsm6WO6ofxrQLnbgfnOLYFhnNgapiTTM8OWet.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>410.00 SAR</g:price>
+      <g:sale_price>196.01 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1718132750</guid>
@@ -1156,5 +1736,74 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.018 kg</g:shipping_weight>
     </item>
-    </channel>
+    <item>
+      <guid isPermaLink="false">1111478955</guid>
+      <g:id>1111478955</g:id>
+      <g:title>Cardamomo americano de primera calidad n.º 3, 6 mm de grosor, caja de cartón de 2.5 kg (envío gratis)</g:title>
+      <g:description>Cardamomo americano de primera calidad n.º 3, 6 mm de grosor, caja de cartón de 2.5 kg (envío gratis). 2.5 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-n-3-6-mm-de-grosor-caja-de-cart-n-de-2-5-/p1111478955?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/yDfgjuzC5K1q5attstTp34ypHCwTKfjrMnRlzSmA.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/cCxTf6nUljcT5pyLMYE44cusr4ufmS447O27Vm7p.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/vyyGAYw9GlhLqIpui6oORlKSRwSGszTTG278jFQ1.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/i4EJChNxgAr36f9nwSS9i0FAXez2XH2MaoDwucO0.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/Pzj9KHxn3sIwU3g5HlwELfcQBPOyHSQfDKsOz0xz.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>550.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1053775856</guid>
+      <g:id>1053775856</g:id>
+      <g:title>12 envases de azafrán súper negin 12 gramos + envío gratis</g:title>
+      <g:description>12 envases de azafrán súper negin 12 gramos + envío gratis. 0.012 kg.</g:description>
+      <g:link>https://hayala.co/es/12-envases-de-azafr-n-s-per-negin-12-gramos-env-o-gratis/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/G6XHbbo1OcxnshhB2keetuQZQyp5WC5PZ3WYHUMl.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/DJMyKgxWmLtKWA4uOCXEzkzItKBnsjRp5bMcL6vz.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/esaYgNocyvqKVcuPzvayotWkDw5A6xjT1OwZsTxq.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/dSMbYeUHU3zdZTW9UUIsWIPYL3N60QlPLH1tfiz7.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>240.01 SAR</g:price>
+      <g:sale_price>169.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.012 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">432604828</guid>
+      <g:id>432604828</g:id>
+      <g:title>Cardamomo americano de primera calidad extra jumbo número 1, 8 mm, 1 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad extra jumbo número 1, 8 mm, 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-extra-jumbo-n-mero-1-8-mm-1-kg/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/3jGTNROxdG5RTDb7pepwwGaGzw3sequOCqRAX5Gy.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/oksNeYtx50tku4GiezUMLuNCMoDeqqaanLmpPlTK.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/KAyQUVq9vYMZLFGHxrZz2buSuC0dTF6IClEB65Iz.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/8qettE8MZ0b6yvu1DNrehRxiOwz88TJJGeEPRSEr.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/vsGsVF3bAQP791bHZDS1mcmUlLtafJpu5tFMvilT.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>280.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1232653674</guid>
+      <g:id>1232653674</g:id>
+      <g:title>2 envases de azafrán súper negin 10 gramos</g:title>
+      <g:description>2 envases de azafrán súper negin 10 gramos. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/es/2-envases-de-azafr-n-s-per-negin-10-gramos/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/W3c2kUoKLmtqEi6SrKGj3Tn5CVLGbMngwrOJbQEb.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>135.00 SAR</g:price>
+      <g:sale_price>119.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.01 kg</g:shipping_weight>
+    </item>
+  </channel>
 </rss>

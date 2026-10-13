@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 14:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:12:30 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>895361493</g:id>
+      <g:title>Azafrán súper negin 28 g (onza) + envío gratis</g:title>
+      <g:description>Azafrán súper negin 28 g (onza) + envío gratis. 0.028 kg.</g:description>
+      <g:link>https://hayala.co/es/azafr-n-s-per-negin-28-g-onza-env-o-gratis/p895361493?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1303028575</g:id>
       <g:title>4 envases de especias para sopa</g:title>
@@ -15,10 +21,94 @@
       <g:link>https://hayala.co/es/4-envases-de-especias-para-sopa/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>282374221</g:id>
+      <g:title>4 kg de miel de sidr natural + 2 kg gratis</g:title>
+      <g:description>4 kg de miel de sidr natural + 2 kg gratis. 6.0 kg.</g:description>
+      <g:link>https://hayala.co/es/4-kg-de-miel-de-sidr-natural-2-kg-gratis/p282374221?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>528140923</g:id>
+      <g:title>Especias básicas: 12 envases + medio kilo de cebolla frita</g:title>
+      <g:description>Especias básicas: 12 envases + medio kilo de cebolla frita. 1.6 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-b-sicas-12-envases-medio-kilo-de-cebolla-frita/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>1051236094</g:id>
       <g:title>Cardamomo americano de primera calidad número 3, 6 mm, 1 kg</g:title>
       <g:description>Cardamomo americano de primera calidad número 3, 6 mm, 1 kg. 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-n-mero-3-6-mm-1-kg/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1956516321</g:id>
+      <g:title>Mango deshidratado 250 g</g:title>
+      <g:description>Mango deshidratado 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/mango-deshidratado-250-g/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1701109911</g:id>
+      <g:title>Salvia 1 kilo</g:title>
+      <g:description>Salvia 1 kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/salvia-1-kilo/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1293815972</g:id>
+      <g:title>Hibisco 1 kg</g:title>
+      <g:description>Hibisco 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/hibisco-1-kg/p1293815972?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1511230577</g:id>
+      <g:title>Mango deshidratado 500 g</g:title>
+      <g:description>Mango deshidratado 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/mango-deshidratado-500-g/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>811285941</g:id>
+      <g:title>Hibisco 250 g</g:title>
+      <g:description>Hibisco 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/hibisco-250-g/p811285941?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>176539565</g:id>
+      <g:title>Mango deshidratado 1 kg</g:title>
+      <g:description>Mango deshidratado 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/mango-deshidratado-1-kg/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>572967102</g:id>
+      <g:title>Café Shadhiliyya</g:title>
+      <g:description>Café Shadhiliyya. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-shadhiliyya/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>150479264</g:id>
+      <g:title>Kiwi deshidratado 250 g</g:title>
+      <g:description>Kiwi deshidratado 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/kiwi-deshidratado-250-g/p150479264?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1073244520</g:id>
+      <g:title>Kiwi deshidratado 500 g</g:title>
+      <g:description>Kiwi deshidratado 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/kiwi-deshidratado-500-g/p1073244520?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>801044632</g:id>
+      <g:title>Kiwi deshidratado 1 kg</g:title>
+      <g:description>Kiwi deshidratado 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/kiwi-deshidratado-1-kg/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1474254823</g:id>
+      <g:title>Canela molida 500 g</g:title>
+      <g:description>Canela molida 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/canela-molida-500-g/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1091901970</g:id>
+      <g:title>Especias para sopa, envase de 12 bolsitas</g:title>
+      <g:description>Especias para sopa, envase de 12 bolsitas. 0.2 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-para-sopa-envase-de-12-bolsitas/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2069148014</g:id>
@@ -55,6 +145,162 @@
       <g:title>Pasas negras yemeníes - 1 kg</g:title>
       <g:description>Pasas negras yemeníes - 1 kg. 0.5 kg.</g:description>
       <g:link>https://hayala.co/es/pasas-negras-yemen-es-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>130562279</g:id>
+      <g:title>Flores de manzanilla 250 gramos</g:title>
+      <g:description>Flores de manzanilla 250 gramos. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/flores-de-manzanilla-250-gramos/p130562279?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1732878396</g:id>
+      <g:title>Especias variadas molidas 500 g</g:title>
+      <g:description>Especias variadas molidas 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-variadas-molidas-500-g/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1632683015</g:id>
+      <g:title>Flores de manzanilla 1 kilo</g:title>
+      <g:description>Flores de manzanilla 1 kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/flores-de-manzanilla-1-kilo/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>351659116</g:id>
+      <g:title>Za'atar molido 500 g</g:title>
+      <g:description>Za'atar molido 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/za-atar-molido-500-g/p351659116?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2082144846</g:id>
+      <g:title>Za'atar molido 1 kg</g:title>
+      <g:description>Za'atar molido 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/za-atar-molido-1-kg/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1466026704</g:id>
+      <g:title>Za'atar molido 250 g</g:title>
+      <g:description>Za'atar molido 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/za-atar-molido-250-g/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>540081798</g:id>
+      <g:title>Semillas de chía - 500 g</g:title>
+      <g:description>Semillas de chía - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-500-g/p540081798?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1378639718</g:id>
+      <g:title>Semillas de chía - 250 g</g:title>
+      <g:description>Semillas de chía - 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1669542650</g:id>
+      <g:title>Semillas de chía - 1 kg</g:title>
+      <g:description>Semillas de chía - 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>533576722</g:id>
+      <g:title>Papaya deshidratada 250 g</g:title>
+      <g:description>Papaya deshidratada 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/papaya-deshidratada-250-g/p533576722?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>482971108</g:id>
+      <g:title>Romero 250 gramos</g:title>
+      <g:description>Romero 250 gramos. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/romero-250-gramos/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>770458728</g:id>
+      <g:title>Pasas negras yemeníes - 500 g</g:title>
+      <g:description>Pasas negras yemeníes - 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pasas-negras-yemen-es-500-g/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>94425611</g:id>
+      <g:title>Papaya deshidratada 1 kg</g:title>
+      <g:description>Papaya deshidratada 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/papaya-deshidratada-1-kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1559719230</g:id>
+      <g:title>Romero 500 gramos</g:title>
+      <g:description>Romero 500 gramos. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/romero-500-gramos/p1559719230?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>897901817</g:id>
+      <g:title>Papaya deshidratada 500 g</g:title>
+      <g:description>Papaya deshidratada 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/papaya-deshidratada-500-g/p897901817?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>441888257</g:id>
+      <g:title>Aguacate deshidratado 500 g</g:title>
+      <g:description>Aguacate deshidratado 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/aguacate-deshidratado-500-g/p441888257?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>522208565</g:id>
+      <g:title>Romero 1 kilo</g:title>
+      <g:description>Romero 1 kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/romero-1-kilo/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2059144227</g:id>
+      <g:title>Aguacate deshidratado 250 g</g:title>
+      <g:description>Aguacate deshidratado 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/aguacate-deshidratado-250-g/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>518818921</g:id>
+      <g:title>Hojas de tomillo silvestre (500 g)</g:title>
+      <g:description>Hojas de tomillo silvestre (500 g). 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-500-g/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>583414674</g:id>
+      <g:title>Hojas de tomillo silvestre (250 g)</g:title>
+      <g:description>Hojas de tomillo silvestre (250 g). 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-250-g/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1072059977</g:id>
+      <g:title>Aguacate deshidratado 1 kg</g:title>
+      <g:description>Aguacate deshidratado 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/aguacate-deshidratado-1-kg/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2080319034</g:id>
+      <g:title>Clavo de olor premium de Sri Lanka 1 kg</g:title>
+      <g:description>Clavo de olor premium de Sri Lanka 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/clavo-de-olor-premium-de-sri-lanka-1-kg/p2080319034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1730613591</g:id>
+      <g:title>Piña deshidratada 250 g</g:title>
+      <g:description>Piña deshidratada 250 g. 0.25 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-a-deshidratada-250-g/p1730613591?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1433640019</g:id>
+      <g:title>Piña deshidratada 500 g</g:title>
+      <g:description>Piña deshidratada 500 g. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-a-deshidratada-500-g/p1433640019?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>428797377</g:id>
+      <g:title>Piña deshidratada 1 kg</g:title>
+      <g:description>Piña deshidratada 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-a-deshidratada-1-kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1147148756</g:id>
+      <g:title>2 kg de miel de sidr natural + 2 kg gratis</g:title>
+      <g:description>2 kg de miel de sidr natural + 2 kg gratis. 4.0 kg.</g:description>
+      <g:link>https://hayala.co/es/2-kg-de-miel-de-sidr-natural-2-kg-gratis/p1147148756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1718132750</g:id>
@@ -488,5 +734,29 @@
       <g:description>18 envases de azafrán súper negin de 1 g + mortero de azafrán de regalo. 0.018 kg.</g:description>
       <g:link>https://hayala.co/es/18-envases-de-azafr-n-s-per-negin-de-1-g-mortero-de-azafr-n-de-regalo/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
-    </channel>
+    <item>
+      <g:id>1111478955</g:id>
+      <g:title>Cardamomo americano de primera calidad n.º 3, 6 mm de grosor, caja de cartón de 2.5 kg (envío gratis)</g:title>
+      <g:description>Cardamomo americano de primera calidad n.º 3, 6 mm de grosor, caja de cartón de 2.5 kg (envío gratis). 2.5 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-n-3-6-mm-de-grosor-caja-de-cart-n-de-2-5-/p1111478955?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1053775856</g:id>
+      <g:title>12 envases de azafrán súper negin 12 gramos + envío gratis</g:title>
+      <g:description>12 envases de azafrán súper negin 12 gramos + envío gratis. 0.012 kg.</g:description>
+      <g:link>https://hayala.co/es/12-envases-de-azafr-n-s-per-negin-12-gramos-env-o-gratis/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>432604828</g:id>
+      <g:title>Cardamomo americano de primera calidad extra jumbo número 1, 8 mm, 1 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad extra jumbo número 1, 8 mm, 1 kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-extra-jumbo-n-mero-1-8-mm-1-kg/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1232653674</g:id>
+      <g:title>2 envases de azafrán súper negin 10 gramos</g:title>
+      <g:description>2 envases de azafrán súper negin 10 gramos. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/es/2-envases-de-azafr-n-s-per-negin-10-gramos/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+  </channel>
 </rss>
