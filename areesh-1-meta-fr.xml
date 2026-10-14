@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 11:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -166,9 +166,9 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>277670775</g:id>
-      <g:title>Miel de fleurs naturel, 4 kg</g:title>
-      <g:description>Miel de fleurs naturel, 4 kg. 4.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-fleurs-naturel-4-kg/p277670775?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>4 kg de miel de fleurs naturel</g:title>
+      <g:description>4 kg de miel de fleurs naturel. 4.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/4-kg-de-miel-de-fleurs-naturel/p277670775?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>893293328</g:id>
@@ -226,9 +226,9 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1808589975</g:id>
-      <g:title>3 pots de pollen d’abeille 500 g</g:title>
-      <g:description>3 pots de pollen d’abeille 500 g. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/3-pots-de-pollen-d-abeille-500-g/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>3 pots de pollen d’abeille de l’Himalaya 500 g</g:title>
+      <g:description>3 pots de pollen d’abeille de l’Himalaya 500 g. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/3-pots-de-pollen-d-abeille-de-l-himalaya-500-g/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1339577181</g:id>
@@ -628,9 +628,9 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1206195242</g:id>
-      <g:title>Miel de Manuka néo-zélandais Homeland Premium Manuka Honey UMF+5, MGO 100+, 250 g</g:title>
-      <g:description>Miel de Manuka néo-zélandais Homeland Premium Manuka Honey UMF+5, MGO 100+, 250 g. 0.25 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-manuka-n-o-z-landais-homeland-premium-manuka-honey-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Miel de Manuka néo-zélandais Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
+      <g:description>Miel de Manuka néo-zélandais Homeland Premium UMF 5+, MGO 100+, 250 g. 0.25 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-manuka-n-o-z-landais-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     </channel>
 </rss>
