@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:15:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -73,6 +73,12 @@
       <g:title>黑森林蜂蜜1公斤</g:title>
       <g:description>黑森林蜂蜜1公斤. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/zh/1/p547643097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1386198566</g:id>
+      <g:title>蜂王浆（蜂王食物）15克</g:title>
+      <g:description>蜂王浆（蜂王食物）15克. 0.015 kg.</g:description>
+      <g:link>https://areesh.sa/zh/15/p1386198566?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1700113743</g:id>
@@ -537,6 +543,12 @@
       <g:link>https://areesh.sa/zh/2-5/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
+      <g:id>758688219</g:id>
+      <g:title>天然姜黄柠檬生姜蜂蜜饮品550毫升</g:title>
+      <g:description>天然姜黄柠檬生姜蜂蜜饮品550毫升. 0.55 kg.</g:description>
+      <g:link>https://areesh.sa/zh/550/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
       <g:id>1789520129</g:id>
       <g:title>阿西尔皇家西德尔蜂巢蜜罐 2.5公斤</g:title>
       <g:description>阿西尔皇家西德尔蜂巢蜜罐 2.5公斤. 2.5 kg.</g:description>
@@ -553,6 +565,12 @@
       <g:title>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶</g:title>
       <g:description>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/zh/mardisia/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>827374682</g:id>
+      <g:title>6公斤黑种草蜜（免费配送）</g:title>
+      <g:description>6公斤黑种草蜜（免费配送）. 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/6/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>717865418</g:id>
