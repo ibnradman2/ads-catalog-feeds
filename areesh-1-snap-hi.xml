@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:02:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -33,7 +33,7 @@
       <g:link>https://areesh.sa/hi/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>990.00 SAR</g:price>
       <g:sale_price>296.00 SAR</g:sale_price>
       <g:brand>अरीश</g:brand>
