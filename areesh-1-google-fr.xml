@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 02:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:50:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -439,9 +439,9 @@
     <item>
       <guid isPermaLink="false">893293328</guid>
       <g:id>893293328</g:id>
-      <g:title>4 pots de miel de nigelle</g:title>
-      <g:description>4 pots de miel de nigelle. Autres miels. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/4-pots-de-miel-de-nigelle/p893293328?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>4 pots de miel de nigelle (graine noire)</g:title>
+      <g:description>4 pots de miel de nigelle (graine noire). Autres miels. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/4-pots-de-miel-de-nigelle-graine-noire/p893293328?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/0362ba37-c03f-4008-ab55-1a7980fc5ee9-500x500-gEY3C9bRPfugvjP8xJuxdpoQIifCAqG2t7x5tBgM.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>593.40 SAR</g:price>

@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:50:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">84471662</guid>
+      <g:id>84471662</g:id>
+      <g:title>Propolis Alami - 65 Gram</g:title>
+      <g:description>Propolis Alami - 65 Gram. 0.065 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/propolis-alami-65-gram/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.065 kg</g:shipping_weight>
+    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">34055028</guid>
       <g:id>34055028</g:id>
@@ -2532,6 +2547,21 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1298738551</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
+      <guid isPermaLink="false">423197268</guid>
+      <g:id>423197268</g:id>
+      <g:title>Madu Campuran Al Jabal Royal dengan Sidr Alami 250 gram</g:title>
+      <g:description>Madu Campuran Al Jabal Royal dengan Sidr Alami 250 gram. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-campuran-al-jabal-royal-dengan-sidr-alami-250-gram/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:mpn>423197268</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
       <guid isPermaLink="false">987199113</guid>
       <g:id>987199113</g:id>
       <g:title>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir)</g:title>
@@ -2547,21 +2577,6 @@
       <g:item_group_id>0140101006</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>987199113</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">423197268</guid>
-      <g:id>423197268</g:id>
-      <g:title>Madu Campuran Al Jabal Royal dengan Sidr Alami 250 gram</g:title>
-      <g:description>Madu Campuran Al Jabal Royal dengan Sidr Alami 250 gram. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-campuran-al-jabal-royal-dengan-sidr-alami-250-gram/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>149.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1005001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:mpn>423197268</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1142835467</guid>
       <g:id>1142835467</g:id>
@@ -2703,21 +2718,6 @@
       <g:item_group_id>0011222004</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:mpn>1445425444</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">84471662</guid>
-      <g:id>84471662</g:id>
-      <g:title>Propolis Alami - 65 Gram</g:title>
-      <g:description>Propolis Alami - 65 Gram. 0.08 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/propolis-alami-65-gram/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061040001</g:item_group_id>
-      <g:shipping_weight>0.08 kg</g:shipping_weight>
-    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">381563450</guid>
       <g:id>381563450</g:id>
@@ -3150,21 +3150,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1372377871</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1129449226</guid>
-      <g:id>1129449226</g:id>
-      <g:title>Madu Athl (Shal) 250 gram</g:title>
-      <g:description>Madu Athl (Shal) 250 gram. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-athl-shal-250-gram/p1129449226?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/zdMoaTmYt082QJv3ufEnqCEPVen9kLLVxgxnlPEz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021003001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:mpn>1129449226</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1853234062</guid>
       <g:id>1853234062</g:id>
       <g:title>Madu Anise Galon 10 kilo Harga Grosir</g:title>
@@ -3180,6 +3165,21 @@
       <g:item_group_id>0041049006</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:mpn>1853234062</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1129449226</guid>
+      <g:id>1129449226</g:id>
+      <g:title>Madu Athl (Shal) 250 gram</g:title>
+      <g:description>Madu Athl (Shal) 250 gram. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-athl-shal-250-gram/p1129449226?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/zdMoaTmYt082QJv3ufEnqCEPVen9kLLVxgxnlPEz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:mpn>1129449226</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1016153732</guid>
       <g:id>1016153732</g:id>

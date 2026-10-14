@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 16:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:50:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>638751991</g:id>
+      <g:title>Ghee de oveja tradicional 680 g</g:title>
+      <g:description>Ghee de oveja tradicional 680 g. 0.68 kg.</g:description>
+      <g:link>https://hayala.co/es/ghee-de-oveja-tradicional-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>895361493</g:id>
       <g:title>Azafrán súper negin 28 g (onza) + envío gratis</g:title>
@@ -217,12 +223,6 @@
       <g:title>Harina de cebada 250 g</g:title>
       <g:description>Harina de cebada 250 g. 0.25 kg.</g:description>
       <g:link>https://hayala.co/es/harina-de-cebada-250-g/p2065623105?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>638751991</g:id>
-      <g:title>Ghee de oveja tradicional 680 g</g:title>
-      <g:description>Ghee de oveja tradicional 680 g. 0.68 kg.</g:description>
-      <g:link>https://hayala.co/es/ghee-de-oveja-tradicional-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>597312706</g:id>
