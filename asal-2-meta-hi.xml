@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:15:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1237,6 +1237,12 @@
       <g:title>आधा किलो कश्मीरी सिद्र शहद + आधा किलो कलौंजी शहद + अदरक, नींबू और हल्दी वाले शहद के 2 पैक (470 ग्राम) + कलौंजी के दाने</g:title>
       <g:description>आधा किलो कश्मीरी सिद्र शहद + आधा किलो कलौंजी शहद + अदरक, नींबू और हल्दी वाले शहद के 2 पैक (470 ग्राम) + कलौंजी के दाने. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2-470/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1813391541</g:id>
+      <g:title>3 किलो कश्मीरी सिद्र शहद, छूट के साथ मुफ़्त डिलीवरी (दुर्लभ गुणवत्ता की फ़सल, बहुत कम मात्रा)</g:title>
+      <g:description>3 किलो कश्मीरी सिद्र शहद, छूट के साथ मुफ़्त डिलीवरी (दुर्लभ गुणवत्ता की फ़सल, बहुत कम मात्रा). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/3/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>803494818</g:id>
