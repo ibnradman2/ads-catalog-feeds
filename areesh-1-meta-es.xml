@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:22:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -435,6 +435,12 @@
       <g:link>https://areesh.sa/es/garrafa-de-5-kg-de-miel-de-flores-silvestres/p2057449096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
+      <g:id>1001322391</g:id>
+      <g:title>Garrafa de 7 kilos de miel de flores silvestres + envío gratis</g:title>
+      <g:description>Garrafa de 7 kilos de miel de flores silvestres + envío gratis. 7.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/garrafa-de-7-kilos-de-miel-de-flores-silvestres-env-o-gratis/p1001322391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
       <g:id>1400408185</g:id>
       <g:title>Miel de Sidr de montaña, garrafa de 7 kilos + envío gratis</g:title>
       <g:description>Miel de Sidr de montaña, garrafa de 7 kilos + envío gratis. 7.0 kg.</g:description>
@@ -589,6 +595,12 @@
       <g:title>12 envases de miel de Sidr natural</g:title>
       <g:description>12 envases de miel de Sidr natural. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/es/12-envases-de-miel-de-sidr-natural/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1256707703</g:id>
+      <g:title>Envase de miel de Mardisia (miel húngara blanca) + un envase gratis</g:title>
+      <g:description>Envase de miel de Mardisia (miel húngara blanca) + un envase gratis. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/envase-de-miel-de-mardisia-miel-h-ngara-blanca-un-envase-gratis/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>827374682</g:id>
