@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 21:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:50:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>84471662</g:id>
+      <g:title>قدرتی پروپولس (شہد کی مکھی کا گوند) - 65 گرام</g:title>
+      <g:description>قدرتی پروپولس (شہد کی مکھی کا گوند) - 65 گرام. 0.065 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/65/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>34055028</g:id>
       <g:title>خلاص قصیم کھجور کا کارٹن 8 کلو</g:title>
@@ -775,12 +781,6 @@
       <g:title>حضرمی دوعنی سدر شہد 5 کلو کا گیلن</g:title>
       <g:description>حضرمی دوعنی سدر شہد 5 کلو کا گیلن. 5.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/5/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>84471662</g:id>
-      <g:title>قدرتی پروپولس (شہد کی مکھی کا گوند) - 65 گرام</g:title>
-      <g:description>قدرتی پروپولس (شہد کی مکھی کا گوند) - 65 گرام. 0.08 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/65/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>381563450</g:id>

@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:15:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:50:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">84471662</guid>
+      <g:id>84471662</g:id>
+      <g:title>Doğal Propolis - 65 Gram</g:title>
+      <g:description>Doğal Propolis - 65 Gram. Arı Ürünleri. 0.065 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/do-al-propolis-65-gram/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.065 kg</g:shipping_weight>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">34055028</guid>
       <g:id>34055028</g:id>
@@ -2660,6 +2675,21 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
+      <guid isPermaLink="false">423197268</guid>
+      <g:id>423197268</g:id>
+      <g:title>Doğal Sidr Balı ile Kraliyet Dağ Karışımı 250 g</g:title>
+      <g:description>Doğal Sidr Balı ile Kraliyet Dağ Karışımı 250 g. Bal Karışımları. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/do-al-sidr-bal-ile-kraliyet-da-kar-m-250-g/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Bal Karışımları</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
       <guid isPermaLink="false">987199113</guid>
       <g:id>987199113</g:id>
       <g:title>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo)</g:title>
@@ -2675,21 +2705,6 @@
       <g:item_group_id>0140101006</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Çiçek Balı</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">423197268</guid>
-      <g:id>423197268</g:id>
-      <g:title>Doğal Sidr Balı ile Kraliyet Dağ Karışımı 250 g</g:title>
-      <g:description>Doğal Sidr Balı ile Kraliyet Dağ Karışımı 250 g. Bal Karışımları. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/do-al-sidr-bal-ile-kraliyet-da-kar-m-250-g/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>149.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1005001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Bal Karışımları</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1142835467</guid>
       <g:id>1142835467</g:id>
@@ -2831,21 +2846,6 @@
       <g:item_group_id>0011222004</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">84471662</guid>
-      <g:id>84471662</g:id>
-      <g:title>Doğal Propolis - 65 Gram</g:title>
-      <g:description>Doğal Propolis - 65 Gram. Arı Ürünleri. 0.08 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/do-al-propolis-65-gram/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061040001</g:item_group_id>
-      <g:shipping_weight>0.08 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">381563450</guid>
       <g:id>381563450</g:id>
@@ -3229,21 +3229,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1129449226</guid>
-      <g:id>1129449226</g:id>
-      <g:title>Etl Balı (Sal) 250 Gram</g:title>
-      <g:description>Etl Balı (Sal) 250 Gram. Diğer Ballar. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/etl-bal-sal-250-gram/p1129449226?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/zdMoaTmYt082QJv3ufEnqCEPVen9kLLVxgxnlPEz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021003001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1853234062</guid>
       <g:id>1853234062</g:id>
       <g:title>Anason Balı 10 Kilo Galon Toptan Fiyat</g:title>
@@ -3259,6 +3244,21 @@
       <g:item_group_id>0041049006</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1129449226</guid>
+      <g:id>1129449226</g:id>
+      <g:title>Etl Balı (Sal) 250 Gram</g:title>
+      <g:description>Etl Balı (Sal) 250 Gram. Diğer Ballar. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/etl-bal-sal-250-gram/p1129449226?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/zdMoaTmYt082QJv3ufEnqCEPVen9kLLVxgxnlPEz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021003001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1016153732</guid>
       <g:id>1016153732</g:id>

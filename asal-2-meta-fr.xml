@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:50:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>84471662</g:id>
+      <g:title>Propolis naturelle – 65 g</g:title>
+      <g:description>Propolis naturelle – 65 g. 0.065 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/propolis-naturelle-65-g/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>34055028</g:id>
       <g:title>Carton de dattes Khalas de Qassim 8 kg</g:title>
@@ -987,16 +993,16 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-hadramaout-daoani-1-kg/p1298738551?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>987199113</g:id>
-      <g:title>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite)</g:title>
-      <g:description>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-argent-miel-de-la-for-t-noire-miel-de-nigelle-miel-de-tr-fle-livraison-gra/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>423197268</g:id>
       <g:title>Mélange royal des montagnes au sidr naturel 250 g</g:title>
       <g:description>Mélange royal des montagnes au sidr naturel 250 g. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/m-lange-royal-des-montagnes-au-sidr-naturel-250-g/p423197268?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite)</g:title>
+      <g:description>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-argent-miel-de-la-for-t-noire-miel-de-nigelle-miel-de-tr-fle-livraison-gra/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1142835467</g:id>
@@ -1051,12 +1057,6 @@
       <g:title>Miel de sidr du Hadramaout Daoani 5 kg</g:title>
       <g:description>Miel de sidr du Hadramaout Daoani 5 kg. 5.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-hadramaout-daoani-5-kg/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>84471662</g:id>
-      <g:title>Propolis naturelle – 65 g</g:title>
-      <g:description>Propolis naturelle – 65 g. 0.08 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/propolis-naturelle-65-g/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>381563450</g:id>
@@ -1209,16 +1209,16 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-en-rayon-1-kg/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1129449226</g:id>
-      <g:title>Miel d'athel (Saal) 250 grammes</g:title>
-      <g:description>Miel d'athel (Saal) 250 grammes. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-d-athel-saal-250-grammes/p1129449226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1853234062</g:id>
       <g:title>Miel d'anis, bidon de 10 kg au prix de gros</g:title>
       <g:description>Miel d'anis, bidon de 10 kg au prix de gros. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-d-anis-bidon-de-10-kg-au-prix-de-gros/p1853234062?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1129449226</g:id>
+      <g:title>Miel d'athel (Saal) 250 grammes</g:title>
+      <g:description>Miel d'athel (Saal) 250 grammes. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-d-athel-saal-250-grammes/p1129449226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1016153732</g:id>
