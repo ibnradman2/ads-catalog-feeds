@@ -325,8 +325,8 @@
     <item>
       <guid isPermaLink="false">1190839815</guid>
       <g:id>1190839815</g:id>
-      <g:title>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh sélectionné (livraison gratuite)</g:title>
-      <g:description>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh sélectionné (livraison gratuite). Miel de Sidr. 3.0 kg.</g:description>
+      <g:title>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh premium (livraison gratuite)</g:title>
+      <g:description>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh premium (livraison gratuite). Miel de Sidr. 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-de-sidr-de-montagne-1-kg-de-miel-de-fleurs-sauvages-1-kg-de-miel-de/p1190839815?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/0uBQIWRApBR0GUA87MKLlxyP3dxcxdAhTqirE90g.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1168,9 +1168,9 @@
     <item>
       <guid isPermaLink="false">1762934428</guid>
       <g:id>1762934428</g:id>
-      <g:title>Miel de Sidr de Peshawar pakistanais 500 g</g:title>
-      <g:description>Miel de Sidr de Peshawar pakistanais 500 g. Miel de Sidr. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-peshawar-pakistanais-500-g/p1762934428?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Miel de Sidr de Peshawar du Pakistan 500 g</g:title>
+      <g:description>Miel de Sidr de Peshawar du Pakistan 500 g. Miel de Sidr. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-peshawar-du-pakistan-500-g/p1762934428?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/dMUHlXjB536wG4lMdJtlWXlvDAFL8PGS6NyLuZMv.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>57.99 SAR</g:price>
@@ -1480,6 +1480,22 @@
       <g:item_group_id>0041003001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
     <g:mpn>177144225</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de fleurs</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2006758939</guid>
+      <g:id>2006758939</g:id>
+      <g:title>Propolis naturelle brute (propolis ou colle d'abeille) 15 g</g:title>
+      <g:description>Propolis naturelle brute (propolis ou colle d'abeille) 15 g. Produits de la ruche. 0.15 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/propolis-naturelle-brute-propolis-ou-colle-d-abeille-15-g/p2006758939?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/scgtk0VfujxdpqIcPJ1tR2zqWnRU77VApJxBSI34.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/CHgtebITBwgvNKezSF2mTxFisxJMz9MM17NVosUp.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061041001</g:item_group_id>
+      <g:shipping_weight>0.15 kg</g:shipping_weight>
+    <g:mpn>2006758939</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">608043670</guid>
       <g:id>608043670</g:id>
