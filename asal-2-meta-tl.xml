@@ -4,21 +4,27 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 23:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <g:id>84471662</g:id>
-      <g:title>Natural na Propolis - 65 gramo</g:title>
-      <g:description>Natural na Propolis - 65 gramo. 0.065 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/natural-na-propolis-65-gramo/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>394421153</g:id>
+      <g:title>Likidong Extract ng Korean Red Ginseng 30 gramo</g:title>
+      <g:description>Likidong Extract ng Korean Red Ginseng 30 gramo. 0.3 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/likidong-extract-ng-korean-red-ginseng-30-gramo/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>34055028</g:id>
       <g:title>Kahon ng Datiles na Khalas ng Qassim, 8 Kilo</g:title>
       <g:description>Kahon ng Datiles na Khalas ng Qassim, 8 Kilo. 8.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/kahon-ng-datiles-na-khalas-ng-qassim-8-kilo/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>84471662</g:id>
+      <g:title>Natural na Propolis - 65 gramo</g:title>
+      <g:description>Natural na Propolis - 65 gramo. 0.065 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/natural-na-propolis-65-gramo/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>244975038</g:id>
@@ -565,12 +571,6 @@
       <g:title>Propolis (Bee Glue) 15 g</g:title>
       <g:description>Propolis (Bee Glue) 15 g. 0.15 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/propolis-bee-glue-15-g/p2006758939?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>Likidong Extract ng Korean Red Ginseng 30 gramo</g:title>
-      <g:description>Likidong Extract ng Korean Red Ginseng 30 gramo. 0.3 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/likidong-extract-ng-korean-red-ginseng-30-gramo/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>608043670</g:id>

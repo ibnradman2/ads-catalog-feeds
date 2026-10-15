@@ -4,10 +4,45 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 23:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">394421153</guid>
+      <g:id>394421153</g:id>
+      <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
+      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. 0.3 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FhtEGkiJGWrh91Vy8uyR9xUTYZw9jXOQKEEhQz40.jpeg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b4z6MLwlPKyJOHWA525U5FKqGfqBzdDeoNRcoPDX.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/6ghzQQ36ZFXxPj9bAhUG7z1URP03kqqZZ1nMCQB6.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Wj76CXk30oT8SkwrpFQ2wa3A0cOnPlQGUCjt6PZy.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/8z7OM6ZeDuSwMLKpqd0DudnD14nF0IqLRAt10OmE.jpeg</g:additional_image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>175.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>10010002</g:item_group_id>
+      <g:shipping_weight>0.3 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">34055028</guid>
+      <g:id>34055028</g:id>
+      <g:title>क़सीम खलास खजूर का कार्टन 8 किलो</g:title>
+      <g:description>क़सीम खलास खजूर का कार्टन 8 किलो. 8.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:sale_price>99.00 SAR</g:sale_price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0051020009</g:item_group_id>
+      <g:shipping_weight>8.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">84471662</guid>
       <g:id>84471662</g:id>
@@ -22,22 +57,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0061040001</g:item_group_id>
       <g:shipping_weight>0.065 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">34055028</guid>
-      <g:id>34055028</g:id>
-      <g:title>क़सीम खलास खजूर का कार्टन 8 किलो</g:title>
-      <g:description>क़सीम खलास खजूर का कार्टन 8 किलो. 8.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>220.00 SAR</g:price>
-      <g:sale_price>99.00 SAR</g:sale_price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0051020009</g:item_group_id>
-      <g:shipping_weight>8.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">244975038</guid>
@@ -1517,25 +1536,6 @@
       <g:shipping_weight>0.15 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">394421153</guid>
-      <g:id>394421153</g:id>
-      <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
-      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. 0.3 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FhtEGkiJGWrh91Vy8uyR9xUTYZw9jXOQKEEhQz40.jpeg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b4z6MLwlPKyJOHWA525U5FKqGfqBzdDeoNRcoPDX.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/6ghzQQ36ZFXxPj9bAhUG7z1URP03kqqZZ1nMCQB6.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Wj76CXk30oT8SkwrpFQ2wa3A0cOnPlQGUCjt6PZy.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/8z7OM6ZeDuSwMLKpqd0DudnD14nF0IqLRAt10OmE.jpeg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>175.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>10010002</g:item_group_id>
-      <g:shipping_weight>0.3 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">608043670</guid>
       <g:id>608043670</g:id>
       <g:title>अथल शहद (अल-साल) 2 किलो</g:title>
@@ -2912,8 +2912,8 @@
     <item>
       <guid isPermaLink="false">54884563</guid>
       <g:id>54884563</g:id>
-      <g:title>मधुमक्खी पराग 500 ग्राम</g:title>
-      <g:description>मधुमक्खी पराग 500 ग्राम. 0.5 kg.</g:description>
+      <g:title>बी पोलन (मधुमक्खी का पराग) 500 ग्राम</g:title>
+      <g:description>बी पोलन (मधुमक्खी का पराग) 500 ग्राम. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/500/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/leWoYbMgfTqBGa5eeMsSVtvRX3spPjuzkcFzwBxn.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/us4hMgGXikh3PuHoAGXvPD97dzyFqQ6v797s9vxR.jpg</g:additional_image_link>
@@ -3714,8 +3714,8 @@
     <item>
       <guid isPermaLink="false">1795183563</guid>
       <g:id>1795183563</g:id>
-      <g:title>2 किलो हाइल का तल्ह शहद, मोम के छत्ते में</g:title>
-      <g:description>2 किलो हाइल का तल्ह शहद, मोम के छत्ते में. 2.0 kg.</g:description>
+      <g:title>2 किलो हाइल के तल्ह का छत्ते वाला शहद</g:title>
+      <g:description>2 किलो हाइल के तल्ह का छत्ते वाला शहद. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/psJfhgMLU5wab8hSiwnXy7QdEnFsmI50fw8bzM1P.png</g:image_link>
       <g:additional_image_link>https://cdn.files.salla.network/other/337286117/82f22175-c41b-4c3f-89e2-9383b749eb44-original.webp</g:additional_image_link>
@@ -3762,8 +3762,8 @@
     <item>
       <guid isPermaLink="false">1219301755</guid>
       <g:id>1219301755</g:id>
-      <g:title>क़तद शहद (250 ग्राम)</g:title>
-      <g:description>क़तद शहद (250 ग्राम). 0.25 kg.</g:description>
+      <g:title>क़ताद शहद (250 ग्राम)</g:title>
+      <g:description>क़ताद शहद (250 ग्राम). 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/250/p1219301755?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/da7d0adb-2a06-4174-b2f3-667dbe56580b-500x500-Ckd0HAkdeGx8b9f5iFGoHvPKDMcGj2qozXldTrtQ.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -3777,8 +3777,8 @@
     <item>
       <guid isPermaLink="false">1941051716</guid>
       <g:id>1941051716</g:id>
-      <g:title>एक किलो बलदी जंगली फूलों का मोम-छत्ता शहद</g:title>
-      <g:description>एक किलो बलदी जंगली फूलों का मोम-छत्ता शहद. 1.0 kg.</g:description>
+      <g:title>एक किलो देसी जंगली फूलों का शहद का छत्ता</g:title>
+      <g:description>एक किलो देसी जंगली फूलों का शहद का छत्ता. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/product/p1941051716?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/srpwU7E0y0BzFtxUeBGuUc2lmzRZKzhESXd5SOjQ.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -3807,8 +3807,8 @@
     <item>
       <guid isPermaLink="false">162134594</guid>
       <g:id>162134594</g:id>
-      <g:title>क़तद शहद (500 ग्राम)</g:title>
-      <g:description>क़तद शहद (500 ग्राम). 0.5 kg.</g:description>
+      <g:title>क़ताद शहद (500 ग्राम)</g:title>
+      <g:description>क़ताद शहद (500 ग्राम). 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/500/p162134594?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/80c175ee-7405-421c-86e4-4ae9caf1116b-500x500-JKK4lgecrKodTq7uXH8yRHfpx32EFuov2XuWBy4i.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -3822,8 +3822,8 @@
     <item>
       <guid isPermaLink="false">1517848832</guid>
       <g:id>1517848832</g:id>
-      <g:title>बलदी समर (शौका) मोम-छत्ता शहद का पॉट 2.5 किलो</g:title>
-      <g:description>बलदी समर (शौका) मोम-छत्ता शहद का पॉट 2.5 किलो. 2.5 kg.</g:description>
+      <g:title>2.5 किलो देसी समरा (काँटेदार) छत्ते वाले शहद की देगची</g:title>
+      <g:description>2.5 किलो देसी समरा (काँटेदार) छत्ते वाले शहद की देगची. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2-5/p1517848832?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/3rRpcQcLrTXktUyTULlBRDRNzKSkkzw0RJ2ynFQR.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -3854,8 +3854,8 @@
     <item>
       <guid isPermaLink="false">653909050</guid>
       <g:id>653909050</g:id>
-      <g:title>शौका समर मोम-छत्ता शहद 500 ग्राम</g:title>
-      <g:description>शौका समर मोम-छत्ता शहद 500 ग्राम. 0.5 kg.</g:description>
+      <g:title>छत्ते वाला शहद समरा काँटेदार पेड़ 500 ग्राम</g:title>
+      <g:description>छत्ते वाला शहद समरा काँटेदार पेड़ 500 ग्राम. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/500/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/KOjGYpmC91GSMMg24nb2qN9BYHFZYD2lYr1JHlmf.jpg</g:image_link>
       <g:availability>in stock</g:availability>

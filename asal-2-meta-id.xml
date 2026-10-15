@@ -4,21 +4,27 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 23:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <g:id>84471662</g:id>
-      <g:title>Propolis Alami - 65 Gram</g:title>
-      <g:description>Propolis Alami - 65 Gram. 0.065 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/propolis-alami-65-gram/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>394421153</g:id>
+      <g:title>Ekstrak Ginseng Merah Korea Cair 30 gram</g:title>
+      <g:description>Ekstrak Ginseng Merah Korea Cair 30 gram. 0.3 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/ekstrak-ginseng-merah-korea-cair-30-gram/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>34055028</g:id>
       <g:title>Karton Kurma Khalas Qassim 8 Kilogram</g:title>
       <g:description>Karton Kurma Khalas Qassim 8 Kilogram. 8.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/karton-kurma-khalas-qassim-8-kilogram/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>84471662</g:id>
+      <g:title>Propolis Alami - 65 Gram</g:title>
+      <g:description>Propolis Alami - 65 Gram. 0.065 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/propolis-alami-65-gram/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>244975038</g:id>
@@ -529,12 +535,6 @@
       <g:title>Propolis (Lem Lebah / Bee Glue) 15 gram</g:title>
       <g:description>Propolis (Lem Lebah / Bee Glue) 15 gram. 0.15 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/propolis-lem-lebah-bee-glue-15-gram/p2006758939?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>Ekstrak Ginseng Merah Korea Cair 30 gram</g:title>
-      <g:description>Ekstrak Ginseng Merah Korea Cair 30 gram. 0.3 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/ekstrak-ginseng-merah-korea-cair-30-gram/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>608043670</g:id>
