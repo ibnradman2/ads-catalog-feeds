@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 15 Oct 2026 13:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -526,9 +526,9 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>909201315</g:id>
-      <g:title>Offre miel de nigelle 10 kg en jarre, format familial (livraison gratuite)</g:title>
-      <g:description>Offre miel de nigelle 10 kg en jarre, format familial (livraison gratuite). 10.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-miel-de-nigelle-10-kg-en-jarre-format-familial-livraison-gratuite/p909201315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Offre miel de nigelle 10 kg en bidon, format familial (livraison gratuite)</g:title>
+      <g:description>Offre miel de nigelle 10 kg en bidon, format familial (livraison gratuite). 10.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-miel-de-nigelle-10-kg-en-bidon-format-familial-livraison-gratuite/p909201315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1232313534</g:id>
@@ -562,9 +562,9 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>177144225</g:id>
-      <g:title>Miel de trèfle 250 g</g:title>
-      <g:description>Miel de trèfle 250 g. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-tr-fle-250-g/p177144225?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Miel de fleurs de trèfle 250 g, clair et léger</g:title>
+      <g:description>Miel de fleurs de trèfle 250 g, clair et léger. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-de-tr-fle-250-g-clair-et-l-ger/p177144225?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>608043670</g:id>
