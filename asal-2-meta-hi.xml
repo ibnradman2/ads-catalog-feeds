@@ -4,21 +4,27 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <g:id>84471662</g:id>
-      <g:title>प्राकृतिक प्रोपोलिस - 65 ग्राम</g:title>
-      <g:description>प्राकृतिक प्रोपोलिस - 65 ग्राम. 0.065 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/65/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>394421153</g:id>
+      <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
+      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. 0.3 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>34055028</g:id>
       <g:title>क़सीम खलास खजूर का कार्टन 8 किलो</g:title>
       <g:description>क़सीम खलास खजूर का कार्टन 8 किलो. 8.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>84471662</g:id>
+      <g:title>प्राकृतिक प्रोपोलिस - 65 ग्राम</g:title>
+      <g:description>प्राकृतिक प्रोपोलिस - 65 ग्राम. 0.065 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/65/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>244975038</g:id>
@@ -577,12 +583,6 @@
       <g:title>प्रोपोलिस (Propolis या मधुमक्खी का गोंद Bee Glue) 15 ग्राम</g:title>
       <g:description>प्रोपोलिस (Propolis या मधुमक्खी का गोंद Bee Glue) 15 ग्राम. 0.15 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/propolis-bee-glue-15/p2006758939?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
-      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. 0.3 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>608043670</g:id>
