@@ -193,6 +193,10 @@ def publish(changed):
     ensure_git_identity()
     if not changed:
         sha = sh(["git", "rev-parse", "HEAD"])
+        if not IN_CI and sh(["git", "rev-list", "--count", "origin/main..HEAD"], check=False) not in ("", "0"):
+            sh(["git", "push", "origin", "main"])   # commits محلية سابقة لم تُرفع (بعد دمج التفرّع)
+            print("لا تغيير جديد، ورُفعت commits سابقة لم تُرفع.")
+            return sha, True
         print("لا تغيير في الملفات — لا حاجة إلى رفع جديد.")
         return sha, False
     msg = "تحديث ملفات المنتجات " + dt.datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -547,6 +551,10 @@ def main():
     # جلب آخر نسخة أولًا: قد يكون الناشر الآخر (المهمة المحلية أو Actions) رفع قبلنا.
     # بلا check: إن فشل الجلب يكمل كما كان، والرفع نفسه يرفض إن كان المستودع متأخّرًا.
     sh(["git", "pull", "-q", "--ff-only", "origin", "main"], check=False)
+    if not IN_CI and sh(["git", "rev-list", "--count", "HEAD..origin/main"], check=False) not in ("", "0"):
+        # تفرّع الفرعان (رفع الناشر المحلي وActions في الوقت نفسه): يُدمج البعيد بلا أخذ ملفاته،
+        # لأن الملفات المحلية تُولَّد الآن من سلة فهي الأحدث. بغير هذا توقّف النشر المحلي 101 ساعة (2026-10-15).
+        sh(["git", "merge", "-q", "-s", "ours", "--no-edit", "origin/main"], check=False)
     if not IN_CI and R is not None:   # كل مزامنة محلية تحدّث التصدير من السجل، فيرفعه copy_in مع الملفات (P-merchant-025)
         try:
             drift = export_stores(write=not dry)
