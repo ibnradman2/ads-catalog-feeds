@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 11:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:56:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -2691,21 +2691,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">423197268</guid>
-      <g:id>423197268</g:id>
-      <g:title>अल-जबल रॉयल मिश्रण शहद, प्राकृतिक सिद्र के साथ 250 ग्राम</g:title>
-      <g:description>अल-जबल रॉयल मिश्रण शहद, प्राकृतिक सिद्र के साथ 250 ग्राम. शहद मिश्रण. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>149.99 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1005001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>शहद मिश्रण</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">987199113</guid>
       <g:id>987199113</g:id>
       <g:title>सिल्वर ऑफर (ब्लैक फ़ॉरेस्ट शहद + कलौंजी शहद + क्लोवर फूल शहद) (मुफ़्त डिलीवरी)</g:title>
@@ -2721,6 +2706,21 @@
       <g:item_group_id>0140101006</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>फूलों का शहद</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">423197268</guid>
+      <g:id>423197268</g:id>
+      <g:title>अल-जबल रॉयल मिश्रण शहद, प्राकृतिक सिद्र के साथ 250 ग्राम</g:title>
+      <g:description>अल-जबल रॉयल मिश्रण शहद, प्राकृतिक सिद्र के साथ 250 ग्राम. शहद मिश्रण. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.99 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>शहद मिश्रण</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1142835467</guid>
       <g:id>1142835467</g:id>

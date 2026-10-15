@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 14 Oct 2026 11:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:56:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -2691,21 +2691,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">423197268</guid>
-      <g:id>423197268</g:id>
-      <g:title>Mezcla Real de Al Jabal con sidr natural, 250 g</g:title>
-      <g:description>Mezcla Real de Al Jabal con sidr natural, 250 g. Mezclas de miel. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/mezcla-real-de-al-jabal-con-sidr-natural-250-g/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>149.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1005001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Mezclas de miel</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">987199113</guid>
       <g:id>987199113</g:id>
       <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
@@ -2721,6 +2706,21 @@
       <g:item_group_id>0140101006</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">423197268</guid>
+      <g:id>423197268</g:id>
+      <g:title>Mezcla Real de Al Jabal con sidr natural, 250 g</g:title>
+      <g:description>Mezcla Real de Al Jabal con sidr natural, 250 g. Mezclas de miel. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/mezcla-real-de-al-jabal-con-sidr-natural-250-g/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Mezclas de miel</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1142835467</guid>
       <g:id>1142835467</g:id>
