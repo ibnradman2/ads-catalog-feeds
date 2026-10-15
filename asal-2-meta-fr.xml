@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 15 Oct 2026 16:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:07:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -567,6 +567,18 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-de-tr-fle-250-g-clair-et-l-ger/p177144225?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
+      <g:id>2037297617</g:id>
+      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g</g:title>
+      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-manuka-honey-umf-15-mgo-550-250-/p2037297617?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>284318205</g:id>
+      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g</g:title>
+      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-manuka-honey-umf-10-mgo-300-250-/p284318205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
       <g:id>2006758939</g:id>
       <g:title>Propolis naturelle brute (propolis ou colle d'abeille) 15 g</g:title>
       <g:description>Propolis naturelle brute (propolis ou colle d'abeille) 15 g. 0.15 kg.</g:description>
@@ -771,6 +783,18 @@
       <g:link>https://asalaljebal.sa/fr/graines-de-nigelle-500-g/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
+      <g:id>1257152391</g:id>
+      <g:title>Miel de moringa bidon de 5 kg au prix de gros</g:title>
+      <g:description>Miel de moringa bidon de 5 kg au prix de gros. 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-bidon-de-5-kg-au-prix-de-gros/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>Miel de moringa 2 kg</g:title>
+      <g:description>Miel de moringa 2 kg. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
       <g:id>1314226407</g:id>
       <g:title>Pollen d’abeille de Jordanie 250 g</g:title>
       <g:description>Pollen d’abeille de Jordanie 250 g. 0.25 kg.</g:description>
@@ -787,6 +811,12 @@
       <g:title>Miel de Talh de Haïl 1 kg</g:title>
       <g:description>Miel de Talh de Haïl 1 kg. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-1-kg/p313018985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>24757641</g:id>
+      <g:title>Miel de moringa bidon de 10 kg au prix de gros</g:title>
+      <g:description>Miel de moringa bidon de 10 kg au prix de gros. 10.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-bidon-de-10-kg-au-prix-de-gros/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1605830592</g:id>
@@ -1209,6 +1239,18 @@
       <g:link>https://asalaljebal.sa/fr/3-kg-de-miel-de-sidr-cachemiri-avec-22-de-remise-et-livraison-gratuite-r-colte-d/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
+      <g:id>803494818</g:id>
+      <g:title>Noix et fruits secs assortis 720 g sans miel (dattes, amandes, pignons, dattes fraîches balah, pistaches, noix, noix de coco, nigelle, carvi, cacahuèt</g:title>
+      <g:description>Noix et fruits secs assortis 720 g sans miel (dattes, amandes, pignons, dattes fraîches balah, pistaches, noix, noix de coco, nigelle, carvi, cacahuètes, ayn al-jamal). 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/noix-et-fruits-secs-assortis-720-g-sans-miel-dattes-amandes-pignons-dattes-fra-c/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1632997500</g:id>
+      <g:title>Miel de fleurs de trèfle 5 kg, remise de 36 pour cent + livraison gratuite</g:title>
+      <g:description>Miel de fleurs de trèfle 5 kg, remise de 36 pour cent + livraison gratuite. 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-de-tr-fle-5-kg-remise-de-36-pour-cent-livraison-gratuite/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
       <g:id>1372377871</g:id>
       <g:title>Miel de talh de Haïl en rayon 1 kg</g:title>
       <g:description>Miel de talh de Haïl en rayon 1 kg. 1.0 kg.</g:description>
@@ -1237,6 +1279,12 @@
       <g:title>1 kg de miel Chawka (Samra) + 1 kg (livraison gratuite)</g:title>
       <g:description>1 kg de miel Chawka (Samra) + 1 kg (livraison gratuite). 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-chawka-samra-1-kg-livraison-gratuite/p1249051573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>863927234</g:id>
+      <g:title>Miel de la Forêt-Noire 2 kg avec livraison gratuite</g:title>
+      <g:description>Miel de la Forêt-Noire 2 kg avec livraison gratuite. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-2-kg-avec-livraison-gratuite/p863927234?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>797605987</g:id>
@@ -1501,6 +1549,12 @@
       <g:title>Miel de sidr de montagne de Peshawar 3 kg</g:title>
       <g:description>Miel de sidr de montagne de Peshawar 3 kg. 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1613959166</g:id>
+      <g:title>Boisson au miel naturel, gingembre, citron et curcuma 470 g</g:title>
+      <g:description>Boisson au miel naturel, gingembre, citron et curcuma 470 g. 0.47 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/boisson-au-miel-naturel-gingembre-citron-et-curcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>646285546</g:id>

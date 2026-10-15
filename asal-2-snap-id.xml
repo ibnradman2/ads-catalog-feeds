@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 15 Oct 2026 09:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:07:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -132,6 +132,21 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>00610011001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1516032688</guid>
+      <g:id>1516032688</g:id>
+      <g:title>Madu Sidr Kashmir 1 Kg</g:title>
+      <g:description>Madu Sidr Kashmir 1 Kg. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-1-kg/p1516032688?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006003</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1819446678</guid>
@@ -910,6 +925,22 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
+      <guid isPermaLink="false">1051366582</guid>
+      <g:id>1051366582</g:id>
+      <g:title>Madu Sidr Kashmir 2 Kg</g:title>
+      <g:description>Madu Sidr Kashmir 2 Kg. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-2-kg/p1051366582?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FpaSj6aHM5rxXVDOB0snWB06ZwpUJAM3PT6ikcjE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>170.00 SAR</g:price>
+      <g:sale_price>153.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
       <guid isPermaLink="false">702151512</guid>
       <g:id>702151512</g:id>
       <g:title>Madu Hutan Hitam Asli 500 Gram</g:title>
@@ -989,6 +1020,37 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041010001</g:item_group_id>
       <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">876212657</guid>
+      <g:id>876212657</g:id>
+      <g:title>Madu Sidr Kashmir 500 g</g:title>
+      <g:description>Madu Sidr Kashmir 500 g. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-500-g/p876212657?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/gXRopskEAGcQrvWFVtZSnwIpLPpR6UXOXcux771T.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>43.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006002</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">317150900</guid>
+      <g:id>317150900</g:id>
+      <g:title>Madu Sidr Kashmir 7 Kg Galon Gratis Ongkir</g:title>
+      <g:description>Madu Sidr Kashmir 7 Kg Galon Gratis Ongkir. 7.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-7-kg-galon-gratis-ongkir/p317150900?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/lZewMMTeLn3FSIm1cnRDtfgWNQjq4Xsg0a1VccLI.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>625.00 SAR</g:price>
+      <g:sale_price>520.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006006</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1473483671</guid>
@@ -1089,6 +1151,21 @@
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
     <item>
+      <guid isPermaLink="false">101060786</guid>
+      <g:id>101060786</g:id>
+      <g:title>Madu Sidr Kashmir 250 g</g:title>
+      <g:description>Madu Sidr Kashmir 250 g. 0.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-250-g/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/9tzqhnmiWv0eVQEbOiIun5OuMTTZuw2Eatt8DVMX.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006001</g:item_group_id>
+      <g:shipping_weight>0.25 kg</g:shipping_weight>
+    </item>
+    <item>
       <guid isPermaLink="false">1762934428</guid>
       <g:id>1762934428</g:id>
       <g:title>Madu Sidr Peshawari Pakistan 500 Gram</g:title>
@@ -1148,6 +1225,23 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0021002002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">768106172</guid>
+      <g:id>768106172</g:id>
+      <g:title>Madu Sarang Sidr Royal 7 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal 7 Kg. 7.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-7-kg/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/6RSkUUMgTVRJeGlU3pmb6PUpWIsa1V615yBxoUgS.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/1DePzNStmErgm8tnYuF0lSqScWGesDDZnIoCj0L2.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4818.01 SAR</g:price>
+      <g:sale_price>4015.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024012</g:item_group_id>
+      <g:shipping_weight>7.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">2030973022</guid>
@@ -1290,6 +1384,23 @@
       <g:shipping_weight>10.0 kg</g:shipping_weight>
     </item>
     <item>
+      <guid isPermaLink="false">1232313534</guid>
+      <g:id>1232313534</g:id>
+      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/XeQILTGvZ9GoSWUfSH3419TXX4kYoVl51SsszT6H.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/p5yFFCn7DMrjGzUAyvAPZ3i6MG0G9Ni9LQ8SjCgG.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1377.00 SAR</g:price>
+      <g:sale_price>1100.09 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024010</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
       <guid isPermaLink="false">1059074726</guid>
       <g:id>1059074726</g:id>
       <g:title>Madu Athl (Shal) 500 gram</g:title>
@@ -1303,6 +1414,23 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0021003002</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2140503485</guid>
+      <g:id>2140503485</g:id>
+      <g:title>Madu Sarang Sidr Royal 5 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal 5 Kg. 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LOBFTDmAF0lKJPqwIEzcO7Qh2WtnxEL4zxM3Sugr.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b2pdN4oTjKvhFsOneNqLhwfBiChH7RlqmOuBmTF4.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3441.00 SAR</g:price>
+      <g:sale_price>2731.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024011</g:item_group_id>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">327789971</guid>
@@ -4049,5 +4177,24 @@
       <g:item_group_id>0140101039</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
-    </channel>
+    <item>
+      <guid isPermaLink="false">1407401907</guid>
+      <g:id>1407401907</g:id>
+      <g:title>Madu Sarang Sidr Royal 10 Kg Gratis Ongkir</g:title>
+      <g:description>Madu Sarang Sidr Royal 10 Kg Gratis Ongkir. 10.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-10-kg-gratis-ongkir/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BoxaKIQXYGzfVm0rU77x75jZkwiKc6v9NNJqQcXG.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/yUTqEw9DfHFrj6iGypjq8UH1iUsZ7MPtIvceG7cH.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/TmQEYx6WkuENj92VuSDNfWK2SlWG4TybPDfC28As.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Xq5LqyqYh4Uxf7bUzYSWLA3E66Mqth3l0uqBM6qg.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>6883.00 SAR</g:price>
+      <g:sale_price>5162.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024013</g:item_group_id>
+      <g:shipping_weight>10.0 kg</g:shipping_weight>
+    </item>
+  </channel>
 </rss>
