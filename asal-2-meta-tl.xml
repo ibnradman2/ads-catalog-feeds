@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:14:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -765,6 +765,12 @@
       <g:link>https://asalaljebal.sa/tl/puting-pulot-ng-hungary-mardisia-500-gramo/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
+      <g:id>756867072</g:id>
+      <g:title>Kalahating Kilo ng Sidr ng Bundok + Kalahating Kilo ng Shawka + Kalahating Kilo ng Puting Hungarian + Kalahating Kilo ng Black Forest + Kalahating Kil</g:title>
+      <g:description>Kalahating Kilo ng Sidr ng Bundok + Kalahating Kilo ng Shawka + Kalahating Kilo ng Puting Hungarian + Kalahating Kilo ng Black Forest + Kalahating Kilo ng Ligaw na Bulaklak (Libreng Pagpapadala). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/kalahating-kilo-ng-sidr-ng-bundok-kalahating-kilo-ng-shawka-kalahating-kilo-ng-p/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
       <g:id>480352283</g:id>
       <g:title>Royal Jelly mula sa China 15 g</g:title>
       <g:description>Royal Jelly mula sa China 15 g. 0.15 kg.</g:description>
@@ -1483,6 +1489,12 @@
       <g:title>Dalawang Pakete ng Premium na Baladi na Pulot ng Talh</g:title>
       <g:description>Dalawang Pakete ng Premium na Baladi na Pulot ng Talh. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-premium-na-baladi-na-pulot-ng-talh/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1250122150</g:id>
+      <g:title>5 Kilo ng Pulot na Sidr ng Kashmir na may Diskwento + Pakete ng Polen ng Bulaklak + Libreng Pagpapadala + Hulugan (Bihirang Kalidad ng Ani, Napakalimi</g:title>
+      <g:description>5 Kilo ng Pulot na Sidr ng Kashmir na may Diskwento + Pakete ng Polen ng Bulaklak + Libreng Pagpapadala + Hulugan (Bihirang Kalidad ng Ani, Napakalimitadong Dami). 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/5-kilo-ng-pulot-na-sidr-ng-kashmir-na-may-diskwento-pakete-ng-polen-ng-bulaklak-/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1162802741</g:id>
