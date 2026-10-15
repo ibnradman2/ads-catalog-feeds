@@ -4,25 +4,73 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 15 Oct 2026 12:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:26:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <guid isPermaLink="false">1463543429</guid>
-      <g:id>1463543429</g:id>
-      <g:title>عرض الشتاء: 2 كيلو عسل سدر طبيعي + كيلو عسل زهور طبيعي + 2 كيلو عسل حبة البركة + حبوب لقاح هدية</g:title>
-      <g:description>عرض الشتاء: 2 كيلو عسل سدر طبيعي + كيلو عسل زهور طبيعي + 2 كيلو عسل حبة البركة + حبوب لقاح هدية</g:description>
-      <g:link>https://insafcompany.sa/ar/product-1463543429/p1463543429?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/HYQP8WLGyiGmT7Sctwe7nZNyCYArRohlVmCC9Efr.png</g:image_link>
+      <guid isPermaLink="false">293213385</guid>
+      <g:id>293213385</g:id>
+      <g:title>عسل سمرة (شوكة) بلدي 500 جرام</g:title>
+      <g:description>عسل سمرة (شوكة) بلدي 500 جرام</g:description>
+      <g:link>https://insafcompany.sa/ar/product-293213385/p293213385?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/AnGZY6J3ntCcwZ4586d9tMQ8ycelDz7JgBRXXSoS.png</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>600.00 SAR</g:price>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>إنصاف العسل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>عسل سمره (شوكة) بلدي</g:product_type>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">777320175</guid>
+      <g:id>777320175</g:id>
+      <g:title>عسل طلح بلدي 500 جرام</g:title>
+      <g:description>عسل طلح بلدي 500 جرام</g:description>
+      <g:link>https://insafcompany.sa/ar/product-777320175/p777320175?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/eM54t40s1UBNDXhP9EQNiKSLtzk7BJIsBnxOlAgv.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>إنصاف العسل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>عسل طلح بلدي</g:product_type>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2044103725</guid>
+      <g:id>2044103725</g:id>
+      <g:title>عرض الشتاء: 6 عبوات عسل بالمكسرات</g:title>
+      <g:description>عرض الشتاء: 6 عبوات عسل بالمكسرات</g:description>
+      <g:link>https://insafcompany.sa/ar/product-2044103725/p2044103725?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/AEUdCTLk6flKq2S0nuLGj6R4GHyu45yLRtuBFcD5.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>540.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>إنصاف العسل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>عسل بالمكسرات</g:product_type>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1701257250</guid>
+      <g:id>1701257250</g:id>
+      <g:title>عرض الشتاء: 4 كيلو عسل سدر طبيعي + شمع بالعسل 400 جرام + حبوب اللقاح هدية</g:title>
+      <g:description>عرض الشتاء: 4 كيلو عسل سدر طبيعي + شمع بالعسل 400 جرام + حبوب اللقاح هدية</g:description>
+      <g:link>https://insafcompany.sa/ar/product-1701257250/p1701257250?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/28X9UbKutjc6CyxPihBvqV7sQswMpM5vXy8v10kq.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>500.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
       <g:brand>إنصاف العسل</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر  الفاخر</g:product_type>
-      <g:shipping_weight>6.0 kg</g:shipping_weight>
+      <g:shipping_weight>4.4 kg</g:shipping_weight>
     <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1949696355</guid>
@@ -33,6 +81,22 @@
       <g:image_link>https://cdn.salla.sa/qbqyN/8lbOODX4FJdWoknd5drtu4cM3LVF0H7X3Yvkf2ya.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>620.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>إنصاف العسل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:product_type>عسل السدر  الفاخر</g:product_type>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1463543429</guid>
+      <g:id>1463543429</g:id>
+      <g:title>عرض الشتاء: 2 كيلو عسل سدر طبيعي + كيلو عسل زهور طبيعي + 2 كيلو عسل حبة البركة + حبوب لقاح هدية</g:title>
+      <g:description>عرض الشتاء: 2 كيلو عسل سدر طبيعي + كيلو عسل زهور طبيعي + 2 كيلو عسل حبة البركة + حبوب لقاح هدية</g:description>
+      <g:link>https://insafcompany.sa/ar/product-1463543429/p1463543429?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/HYQP8WLGyiGmT7Sctwe7nZNyCYArRohlVmCC9Efr.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>600.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
       <g:brand>إنصاف العسل</g:brand>
       <g:condition>new</g:condition>
@@ -605,7 +669,6 @@
       <g:brand>إنصاف العسل</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>عسل بالمكسرات</g:product_type>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
