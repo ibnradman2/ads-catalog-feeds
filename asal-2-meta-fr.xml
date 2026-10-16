@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 00:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:28:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1965415096</g:id>
+      <g:title>Miel en rayon de Sidr royal 500 g</g:title>
+      <g:description>Miel en rayon de Sidr royal 500 g. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-sidr-royal-500-g/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1613959166</g:id>
+      <g:title>Boisson au miel naturel, gingembre, citron et curcuma 470 g</g:title>
+      <g:description>Boisson au miel naturel, gingembre, citron et curcuma 470 g. 0.47 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/boisson-au-miel-naturel-gingembre-citron-et-curcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert</g:title>
@@ -1551,12 +1563,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1613959166</g:id>
-      <g:title>Boisson au miel naturel, gingembre, citron et curcuma 470 g</g:title>
-      <g:description>Boisson au miel naturel, gingembre, citron et curcuma 470 g. 0.47 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/boisson-au-miel-naturel-gingembre-citron-et-curcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>646285546</g:id>
       <g:title>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g</g:title>
       <g:description>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g. 1.0 kg.</g:description>
@@ -1567,12 +1573,6 @@
       <g:title>Deux pots de miel de Manuka néo-zélandais UMF 15+ | UMF 10+</g:title>
       <g:description>Deux pots de miel de Manuka néo-zélandais UMF 15+ | UMF 10+. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-de-manuka-n-o-z-landais-umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1965415096</g:id>
-      <g:title>Miel en rayon de Sidr royal 500 g</g:title>
-      <g:description>Miel en rayon de Sidr royal 500 g. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-sidr-royal-500-g/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>605570884</g:id>
