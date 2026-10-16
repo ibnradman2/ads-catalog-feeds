@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 16:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:08:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>112154521</g:id>
+      <g:title>Dattes Ajwa de luxe d’Al Aliya Médine (5) kg (livraison gratuite)</g:title>
+      <g:description>Dattes Ajwa de luxe d’Al Aliya Médine (5) kg (livraison gratuite). 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/dattes-ajwa-de-luxe-d-al-aliya-m-dine-5-kg-livraison-gratuite/p112154521?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>646285546</g:id>
       <g:title>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g</g:title>
@@ -1579,12 +1585,6 @@
       <g:title>Cuillères de miel de sidr naturel - 50 pièces</g:title>
       <g:description>Cuillères de miel de sidr naturel - 50 pièces. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/cuill-res-de-miel-de-sidr-naturel-50-pi-ces/p200318229?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>112154521</g:id>
-      <g:title>Dattes Ajwa de luxe d’Al Aliya Médine (5) kg (livraison gratuite)</g:title>
-      <g:description>Dattes Ajwa de luxe d’Al Aliya Médine (5) kg (livraison gratuite). 5.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/dattes-ajwa-de-luxe-d-al-aliya-m-dine-5-kg-livraison-gratuite/p112154521?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1774089564</g:id>
