@@ -4,41 +4,26 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 12:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <guid isPermaLink="false">1965415096</guid>
-      <g:id>1965415096</g:id>
-      <g:title>रॉयल सिद्र मोम-छत्ता शहद 500 ग्राम</g:title>
-      <g:description>रॉयल सिद्र मोम-छत्ता शहद 500 ग्राम. सिदर शहद. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1965415096?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/t3u2EeMppPXmXG5D6FNBQa62TVH9NeG6cth4MzFQ.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/YRpht2JBV6fmtJ3LhAQtgSZZGYoehy9TFqGXQNVH.png</g:additional_image_link>
+      <guid isPermaLink="false">1190839815</guid>
+      <g:id>1190839815</g:id>
+      <g:title>1 किलो पहाड़ी सिद्र शहद + 1 किलो जंगली फूलों का शहद + 1 किलो उम्दा तल्ह शहद (मुफ़्त डिलीवरी)</g:title>
+      <g:description>1 किलो पहाड़ी सिद्र शहद + 1 किलो जंगली फूलों का शहद + 1 किलो उम्दा तल्ह शहद (मुफ़्त डिलीवरी). सिदर शहद. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1-1-1/p1190839815?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0uBQIWRApBR0GUA87MKLlxyP3dxcxdAhTqirE90g.png</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
+      <g:price>1090.00 SAR</g:price>
+      <g:sale_price>695.00 SAR</g:sale_price>
       <g:brand>असल अल-जबल</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031024008</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>1965415096</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन ए</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1613959166</guid>
-      <g:id>1613959166</g:id>
-      <g:title>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम</g:title>
-      <g:description>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम. शहद पेय. 0.47 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/470/p1613959166?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/ooibU1gypC0TmjTtewvbIhrVQhd7wr5HkoTUC0aP.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041050</g:item_group_id>
-      <g:shipping_weight>0.47 kg</g:shipping_weight>
-    <g:mpn>1613959166</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन ए</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>शहद पेय</g:custom_label_3><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:item_group_id>0140101033</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>1190839815</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>600 और अधिक</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1162802741</guid>
       <g:id>1162802741</g:id>
@@ -57,10 +42,240 @@
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>1162802741</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>उपहार</g:custom_label_3></item>
     <item>
+      <guid isPermaLink="false">1688919538</guid>
+      <g:id>1688919538</g:id>
+      <g:title>5 किलो कलौंजी शहद + अदरक, नींबू और हल्दी वाले शहद ड्रिंक के 2 पैक (470 ग्राम) + कलौंजी के दाने</g:title>
+      <g:description>5 किलो कलौंजी शहद + अदरक, नींबू और हल्दी वाले शहद ड्रिंक के 2 पैक (470 ग्राम) + कलौंजी के दाने. शहद पेय. 6.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/2MUZPm4Ur4PSSwAsaaFig12u524ZLzqRrYZB5Zmq.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>730.00 SAR</g:price>
+      <g:sale_price>389.00 SAR</g:sale_price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101018</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:mpn>1688919538</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>शहद पेय</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">863586339</guid>
+      <g:id>863586339</g:id>
+      <g:title>4 किलो यमनी काली किशमिश</g:title>
+      <g:description>4 किलो यमनी काली किशमिश. सूखे फल. 4.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/4/p863586339?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/jSeEFLKa9g6b3lSXBNvVVjbXkG3WBluDWhc3y9ZU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>240.01 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081002004</g:item_group_id>
+      <g:shipping_weight>4.5 kg</g:shipping_weight>
+    <g:mpn>863586339</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>सूखे फल</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1938149777</guid>
+      <g:id>1938149777</g:id>
+      <g:title>5 किलो पेशावरी सिद्र शहद, मधुमक्खी पराग और कलौंजी के साथ, 15% छूट पर + मुफ़्त डिलीवरी</g:title>
+      <g:description>5 किलो पेशावरी सिद्र शहद, मधुमक्खी पराग और कलौंजी के साथ, 15% छूट पर + मुफ़्त डिलीवरी. सिदर शहद. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/5-15/p1938149777?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FeAcqdG2MYtkprtSmH8dxv5ed7FbSDf6oj7DwfBV.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>605.00 SAR</g:price>
+      <g:sale_price>515.00 SAR</g:sale_price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007005</g:item_group_id>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    <g:mpn>1938149777</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">985280850</guid>
+      <g:id>985280850</g:id>
+      <g:title>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम</g:title>
+      <g:description>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम. फूलों का शहद. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p985280850?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/tea7gH1begC6jdkj7G7Ee6v3totAuycO5vRLKCV4.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>69.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>985280850</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>फूलों का शहद</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1125352869</guid>
+      <g:id>1125352869</g:id>
+      <g:title>बरसीम शहद (क्लोवर) 2 किलो</g:title>
+      <g:description>बरसीम शहद (क्लोवर) 2 किलो. फूलों का शहद. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2/p1125352869?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GfW3qSXGGFDQBVxfooRAraXqAnj9TcQqhgUoLUkR.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:sale_price>206.00 SAR</g:sale_price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1125352869</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>फूलों का शहद</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">411224162</guid>
+      <g:id>411224162</g:id>
+      <g:title>मुर्र (बोल / Myrrh) 50 ग्राम</g:title>
+      <g:description>मुर्र (बोल / Myrrh) 50 ग्राम. मसाले और जड़ी-बूटियाँ. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/myrrh-50/p411224162?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/yc37z9HlzSrG0J3ZX5QbD9FodntBNB09Q6IokLhl.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>23020201</g:item_group_id>
+      <g:shipping_weight>0.55 kg</g:shipping_weight>
+    <g:mpn>411224162</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मसाले और जड़ी-बूटियाँ</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1819446678</guid>
+      <g:id>1819446678</g:id>
+      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम</g:title>
+      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम. मसाले और जड़ी-बूटियाँ. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1819446678?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LK3NIZTE1v6h1TY2rYapgJ5jMHjA8uJQYJRGOe2C.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>29.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00610011002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1819446678</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मसाले और जड़ी-बूटियाँ</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1516032688</guid>
+      <g:id>1516032688</g:id>
+      <g:title>कश्मीरी सिद्र शहद 1 किलो</g:title>
+      <g:description>कश्मीरी सिद्र शहद 1 किलो. सिदर शहद. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p1516032688?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1516032688</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन ए</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1735868163</guid>
+      <g:id>1735868163</g:id>
+      <g:title>ऐनीस शहद 2 किलो</g:title>
+      <g:description>ऐनीस शहद 2 किलो. अन्य शहद. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2/p1735868163?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/trawHAL7jgRgoz9ZGD0xGd6u8RErpgeG8LcmjZ0f.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1735868163</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>अन्य शहद</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1007628890</guid>
+      <g:id>1007628890</g:id>
+      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम</g:title>
+      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम. मसाले और जड़ी-बूटियाँ. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p1007628890?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/NMt35poRIqFNw3Eb4v8A1Ox4jYU5i61v2boExwke.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00610011001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1007628890</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मसाले और जड़ी-बूटियाँ</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">581887586</guid>
+      <g:id>581887586</g:id>
+      <g:title>सूखे अंजीर (ड्राई फिग) 500 ग्राम</g:title>
+      <g:description>सूखे अंजीर (ड्राई फिग) 500 ग्राम. सूखे फल. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p581887586?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BQbaoLdRkikvX2eMzYaAyhNikHJK9ThmQ2o3EHRE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>02020204</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>581887586</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>सूखे फल</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">622456174</guid>
+      <g:id>622456174</g:id>
+      <g:title>प्रीमियम तलह शहद 1 किलो</g:title>
+      <g:description>प्रीमियम तलह शहद 1 किलो. तलह शहद. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p622456174?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>402.01 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>622456174</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>तलह शहद</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">244975038</guid>
+      <g:id>244975038</g:id>
+      <g:title>देसी गाय का घी 680 ग्राम</g:title>
+      <g:description>देसी गाय का घी 680 ग्राम. घी. 1.18 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/680/p244975038?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/TO0a8IOl2CqF6hnKMhbq99YW7QdFcWGxKlW5B8ad.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>130.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00910002</g:item_group_id>
+      <g:shipping_weight>1.18 kg</g:shipping_weight>
+    <g:mpn>244975038</g:mpn><g:google_product_category>5827</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>घी</g:custom_label_3><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">84471662</guid>
+      <g:id>84471662</g:id>
+      <g:title>प्राकृतिक प्रोपोलिस - 65 ग्राम</g:title>
+      <g:description>प्राकृतिक प्रोपोलिस - 65 ग्राम. मधुमक्खी उत्पाद. 0.565 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/65/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.565 kg</g:shipping_weight>
+    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मधुमक्खी उत्पाद</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">34055028</guid>
+      <g:id>34055028</g:id>
+      <g:title>क़सीम खलास खजूर का कार्टन 8 किलो</g:title>
+      <g:description>क़सीम खलास खजूर का कार्टन 8 किलो. खजूर. 8.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/8/p34055028?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:sale_price>99.00 SAR</g:sale_price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0051020009</g:item_group_id>
+      <g:shipping_weight>8.5 kg</g:shipping_weight>
+    <g:mpn>34055028</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>खजूर</g:custom_label_3><g:unit_pricing_measure>8kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
       <guid isPermaLink="false">394421153</guid>
       <g:id>394421153</g:id>
       <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
-      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. खजूर. 0.3 kg.</g:description>
+      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. खजूर. 0.53 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/FhtEGkiJGWrh91Vy8uyR9xUTYZw9jXOQKEEhQz40.jpeg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/b4z6MLwlPKyJOHWA525U5FKqGfqBzdDeoNRcoPDX.jpeg</g:additional_image_link>
@@ -73,190 +288,39 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>10010002</g:item_group_id>
-      <g:shipping_weight>0.3 kg</g:shipping_weight>
+      <g:shipping_weight>0.53 kg</g:shipping_weight>
     <g:mpn>394421153</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>खजूर</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">34055028</guid>
-      <g:id>34055028</g:id>
-      <g:title>क़सीम खलास खजूर का कार्टन 8 किलो</g:title>
-      <g:description>क़सीम खलास खजूर का कार्टन 8 किलो. खजूर. 8.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/8/p34055028?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>220.00 SAR</g:price>
-      <g:sale_price>99.00 SAR</g:sale_price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0051020009</g:item_group_id>
-      <g:shipping_weight>8.0 kg</g:shipping_weight>
-    <g:mpn>34055028</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>खजूर</g:custom_label_3><g:unit_pricing_measure>8kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">84471662</guid>
-      <g:id>84471662</g:id>
-      <g:title>प्राकृतिक प्रोपोलिस - 65 ग्राम</g:title>
-      <g:description>प्राकृतिक प्रोपोलिस - 65 ग्राम. मधुमक्खी उत्पाद. 0.065 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/65/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
+      <guid isPermaLink="false">1965415096</guid>
+      <g:id>1965415096</g:id>
+      <g:title>रॉयल सिद्र मोम-छत्ता शहद 500 ग्राम</g:title>
+      <g:description>रॉयल सिद्र मोम-छत्ता शहद 500 ग्राम. सिदर शहद. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1965415096?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/t3u2EeMppPXmXG5D6FNBQa62TVH9NeG6cth4MzFQ.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/YRpht2JBV6fmtJ3LhAQtgSZZGYoehy9TFqGXQNVH.png</g:additional_image_link>
       <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
+      <g:price>344.00 SAR</g:price>
       <g:brand>असल अल-जबल</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061040001</g:item_group_id>
-      <g:shipping_weight>0.065 kg</g:shipping_weight>
-    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मधुमक्खी उत्पाद</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">244975038</guid>
-      <g:id>244975038</g:id>
-      <g:title>देसी गाय का घी 680 ग्राम</g:title>
-      <g:description>देसी गाय का घी 680 ग्राम. घी. 0.68 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/680/p244975038?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/TO0a8IOl2CqF6hnKMhbq99YW7QdFcWGxKlW5B8ad.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>130.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00910002</g:item_group_id>
-      <g:shipping_weight>0.68 kg</g:shipping_weight>
-    <g:mpn>244975038</g:mpn><g:google_product_category>5827</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>घी</g:custom_label_3><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">622456174</guid>
-      <g:id>622456174</g:id>
-      <g:title>प्रीमियम तलह शहद 1 किलो</g:title>
-      <g:description>प्रीमियम तलह शहद 1 किलो. तलह शहद. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p622456174?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>402.01 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041029003</g:item_group_id>
+      <g:item_group_id>0031024008</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>622456174</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>तलह शहद</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1965415096</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन ए</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">581887586</guid>
-      <g:id>581887586</g:id>
-      <g:title>सूखे अंजीर (ड्राई फिग) 500 ग्राम</g:title>
-      <g:description>सूखे अंजीर (ड्राई फिग) 500 ग्राम. सूखे फल. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p581887586?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/BQbaoLdRkikvX2eMzYaAyhNikHJK9ThmQ2o3EHRE.jpg</g:image_link>
+      <guid isPermaLink="false">1613959166</guid>
+      <g:id>1613959166</g:id>
+      <g:title>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम</g:title>
+      <g:description>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम. शहद पेय. 0.97 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/470/p1613959166?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ooibU1gypC0TmjTtewvbIhrVQhd7wr5HkoTUC0aP.png</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
+      <g:price>70.00 SAR</g:price>
       <g:brand>असल अल-जबल</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>02020204</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>581887586</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>सूखे फल</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1735868163</guid>
-      <g:id>1735868163</g:id>
-      <g:title>ऐनीस शहद 2 किलो</g:title>
-      <g:description>ऐनीस शहद 2 किलो. अन्य शहद. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2/p1735868163?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/trawHAL7jgRgoz9ZGD0xGd6u8RErpgeG8LcmjZ0f.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041049004</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>1735868163</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>अन्य शहद</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1007628890</guid>
-      <g:id>1007628890</g:id>
-      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम</g:title>
-      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम. मसाले और जड़ी-बूटियाँ. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p1007628890?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/NMt35poRIqFNw3Eb4v8A1Ox4jYU5i61v2boExwke.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00610011001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:mpn>1007628890</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मसाले और जड़ी-बूटियाँ</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1516032688</guid>
-      <g:id>1516032688</g:id>
-      <g:title>कश्मीरी सिद्र शहद 1 किलो</g:title>
-      <g:description>कश्मीरी सिद्र शहद 1 किलो. सिदर शहद. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p1516032688?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>85.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1516032688</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन ए</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1819446678</guid>
-      <g:id>1819446678</g:id>
-      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम</g:title>
-      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम. मसाले और जड़ी-बूटियाँ. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1819446678?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/LK3NIZTE1v6h1TY2rYapgJ5jMHjA8uJQYJRGOe2C.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>29.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00610011002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>1819446678</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मसाले और जड़ी-बूटियाँ</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">411224162</guid>
-      <g:id>411224162</g:id>
-      <g:title>मुर्र (बोल / Myrrh) 50 ग्राम</g:title>
-      <g:description>मुर्र (बोल / Myrrh) 50 ग्राम. मसाले और जड़ी-बूटियाँ. 0.05 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/myrrh-50/p411224162?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/yc37z9HlzSrG0J3ZX5QbD9FodntBNB09Q6IokLhl.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>25.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>23020201</g:item_group_id>
-      <g:shipping_weight>0.05 kg</g:shipping_weight>
-    <g:mpn>411224162</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मसाले और जड़ी-बूटियाँ</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1125352869</guid>
-      <g:id>1125352869</g:id>
-      <g:title>बरसीम शहद (क्लोवर) 2 किलो</g:title>
-      <g:description>बरसीम शहद (क्लोवर) 2 किलो. फूलों का शहद. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2/p1125352869?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GfW3qSXGGFDQBVxfooRAraXqAnj9TcQqhgUoLUkR.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>229.00 SAR</g:price>
-      <g:sale_price>206.00 SAR</g:sale_price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003004</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>1125352869</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>फूलों का शहद</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">985280850</guid>
-      <g:id>985280850</g:id>
-      <g:title>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम</g:title>
-      <g:description>जंगली फूलों का शहद, दक्षिणी या हद्रमी 250 ग्राम. फूलों का शहद. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p985280850?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/tea7gH1begC6jdkj7G7Ee6v3totAuycO5vRLKCV4.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>69.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021002001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:mpn>985280850</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>फूलों का शहद</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:item_group_id>0041050</g:item_group_id>
+      <g:shipping_weight>0.97 kg</g:shipping_weight>
+    <g:mpn>1613959166</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन ए</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>शहद पेय</g:custom_label_3><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">957082464</guid>
       <g:id>957082464</g:id>
@@ -274,38 +338,6 @@
       <g:item_group_id>0140101008</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:mpn>957082464</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>600 और अधिक</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1688919538</guid>
-      <g:id>1688919538</g:id>
-      <g:title>5 किलो कलौंजी शहद + अदरक, नींबू और हल्दी वाले शहद ड्रिंक के 2 पैक (470 ग्राम) + कलौंजी के दाने</g:title>
-      <g:description>5 किलो कलौंजी शहद + अदरक, नींबू और हल्दी वाले शहद ड्रिंक के 2 पैक (470 ग्राम) + कलौंजी के दाने. शहद पेय. 6.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/2MUZPm4Ur4PSSwAsaaFig12u524ZLzqRrYZB5Zmq.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>730.00 SAR</g:price>
-      <g:sale_price>389.00 SAR</g:sale_price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101018</g:item_group_id>
-      <g:shipping_weight>6.0 kg</g:shipping_weight>
-    <g:mpn>1688919538</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>शहद पेय</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1938149777</guid>
-      <g:id>1938149777</g:id>
-      <g:title>5 किलो पेशावरी सिद्र शहद, मधुमक्खी पराग और कलौंजी के साथ, 15% छूट पर + मुफ़्त डिलीवरी</g:title>
-      <g:description>5 किलो पेशावरी सिद्र शहद, मधुमक्खी पराग और कलौंजी के साथ, 15% छूट पर + मुफ़्त डिलीवरी. सिदर शहद. 5.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/5-15/p1938149777?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FeAcqdG2MYtkprtSmH8dxv5ed7FbSDf6oj7DwfBV.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>605.00 SAR</g:price>
-      <g:sale_price>515.00 SAR</g:sale_price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007005</g:item_group_id>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:mpn>1938149777</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>300 से 599</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1961576516</guid>
       <g:id>1961576516</g:id>
@@ -339,22 +371,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>52483795</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>शहद मिश्रण</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">863586339</guid>
-      <g:id>863586339</g:id>
-      <g:title>4 किलो यमनी काली किशमिश</g:title>
-      <g:description>4 किलो यमनी काली किशमिश. सूखे फल. 4.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/4/p863586339?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/jSeEFLKa9g6b3lSXBNvVVjbXkG3WBluDWhc3y9ZU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>240.01 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0081002004</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:mpn>863586339</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>सूखे फल</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">879350052</guid>
       <g:id>879350052</g:id>
       <g:title>खास ऑफ़र: 4 पैक कश्मीरी सिद्र शहद + 3 पैक कलौंजी (ब्लैक सीड) शहद + लकड़ी का शहद चम्मच (मुफ़्त डिलीवरी)</g:title>
@@ -370,22 +386,6 @@
       <g:item_group_id>0140101007</g:item_group_id>
       <g:shipping_weight>3.5 kg</g:shipping_weight>
     <g:mpn>879350052</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन बी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1190839815</guid>
-      <g:id>1190839815</g:id>
-      <g:title>1 किलो पहाड़ी सिद्र शहद + 1 किलो जंगली फूलों का शहद + 1 किलो उम्दा तल्ह शहद (मुफ़्त डिलीवरी)</g:title>
-      <g:description>1 किलो पहाड़ी सिद्र शहद + 1 किलो जंगली फूलों का शहद + 1 किलो उम्दा तल्ह शहद (मुफ़्त डिलीवरी). सिदर शहद. 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1-1-1/p1190839815?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/0uBQIWRApBR0GUA87MKLlxyP3dxcxdAhTqirE90g.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1090.00 SAR</g:price>
-      <g:sale_price>695.00 SAR</g:sale_price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101033</g:item_group_id>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>1190839815</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>600 और अधिक</g:custom_label_2><g:custom_label_3>सिदर शहद</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1170804255</guid>
       <g:id>1170804255</g:id>

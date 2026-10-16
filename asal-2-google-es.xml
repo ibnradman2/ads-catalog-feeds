@@ -4,41 +4,26 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 12:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <guid isPermaLink="false">1965415096</guid>
-      <g:id>1965415096</g:id>
-      <g:title>Miel de Sidr real en panal 500 g de las montañas de Asir</g:title>
-      <g:description>Miel de Sidr real en panal 500 g de las montañas de Asir. Miel de Sidr. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-en-panal-500-g-de-las-monta-as-de-asir/p1965415096?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/t3u2EeMppPXmXG5D6FNBQa62TVH9NeG6cth4MzFQ.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/YRpht2JBV6fmtJ3LhAQtgSZZGYoehy9TFqGXQNVH.png</g:additional_image_link>
+      <guid isPermaLink="false">1190839815</guid>
+      <g:id>1190839815</g:id>
+      <g:title>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis)</g:title>
+      <g:description>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis). Miel de Sidr. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/1-kg-de-miel-de-sidr-de-monta-a-1-kg-de-miel-de-flores-silvestres-1-kg-de-miel-d/p1190839815?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0uBQIWRApBR0GUA87MKLlxyP3dxcxdAhTqirE90g.png</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
+      <g:price>1090.00 SAR</g:price>
+      <g:sale_price>695.00 SAR</g:sale_price>
       <g:brand>Asal Aljebal</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031024008</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>1965415096</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1613959166</guid>
-      <g:id>1613959166</g:id>
-      <g:title>Bebida de miel natural con jengibre, limón y cúrcuma 470 g</g:title>
-      <g:description>Bebida de miel natural con jengibre, limón y cúrcuma 470 g. Bebida de miel. 0.47 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/bebida-de-miel-natural-con-jengibre-lim-n-y-c-rcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/ooibU1gypC0TmjTtewvbIhrVQhd7wr5HkoTUC0aP.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041050</g:item_group_id>
-      <g:shipping_weight>0.47 kg</g:shipping_weight>
-    <g:mpn>1613959166</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Bebida de miel</g:custom_label_3><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:item_group_id>0140101033</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>1190839815</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1162802741</guid>
       <g:id>1162802741</g:id>
@@ -57,10 +42,240 @@
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>1162802741</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Regalos</g:custom_label_3></item>
     <item>
+      <guid isPermaLink="false">1688919538</guid>
+      <g:id>1688919538</g:id>
+      <g:title>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro</g:title>
+      <g:description>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro. Bebida de miel. 6.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/5-kilos-de-miel-de-comino-negro-2-envases-de-bebida-de-miel-con-jengibre-lim-n-y/p1688919538?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/2MUZPm4Ur4PSSwAsaaFig12u524ZLzqRrYZB5Zmq.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>730.00 SAR</g:price>
+      <g:sale_price>389.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101018</g:item_group_id>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    <g:mpn>1688919538</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Bebida de miel</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">863586339</guid>
+      <g:id>863586339</g:id>
+      <g:title>4 kilos de pasas negras de Yemen</g:title>
+      <g:description>4 kilos de pasas negras de Yemen. Frutas secas. 4.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/4-kilos-de-pasas-negras-de-yemen/p863586339?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/jSeEFLKa9g6b3lSXBNvVVjbXkG3WBluDWhc3y9ZU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>240.01 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081002004</g:item_group_id>
+      <g:shipping_weight>4.5 kg</g:shipping_weight>
+    <g:mpn>863586339</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Frutas secas</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1938149777</guid>
+      <g:id>1938149777</g:id>
+      <g:title>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis</g:title>
+      <g:description>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis. Miel de Sidr. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/5-kg-de-miel-de-sidr-de-peshawar-con-polen-y-semillas-de-comino-negro-con-quince/p1938149777?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FeAcqdG2MYtkprtSmH8dxv5ed7FbSDf6oj7DwfBV.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>605.00 SAR</g:price>
+      <g:sale_price>515.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007005</g:item_group_id>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    <g:mpn>1938149777</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">985280850</guid>
+      <g:id>985280850</g:id>
+      <g:title>Miel de flores silvestres del sur o de Hadramaut 250 g</g:title>
+      <g:description>Miel de flores silvestres del sur o de Hadramaut 250 g. Miel de flores. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-250-g/p985280850?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/tea7gH1begC6jdkj7G7Ee6v3totAuycO5vRLKCV4.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>69.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>985280850</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1125352869</guid>
+      <g:id>1125352869</g:id>
+      <g:title>Miel de flor de trébol 2 kg</g:title>
+      <g:description>Miel de flor de trébol 2 kg. Miel de flores. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GfW3qSXGGFDQBVxfooRAraXqAnj9TcQqhgUoLUkR.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:sale_price>206.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1125352869</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">411224162</guid>
+      <g:id>411224162</g:id>
+      <g:title>Hierba de mirra 50 gramos</g:title>
+      <g:description>Hierba de mirra 50 gramos. Especias y hierbas. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/hierba-de-mirra-50-gramos/p411224162?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/yc37z9HlzSrG0J3ZX5QbD9FodntBNB09Q6IokLhl.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>23020201</g:item_group_id>
+      <g:shipping_weight>0.55 kg</g:shipping_weight>
+    <g:mpn>411224162</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Especias y hierbas</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1819446678</guid>
+      <g:id>1819446678</g:id>
+      <g:title>Goma arábiga molida 500 g</g:title>
+      <g:description>Goma arábiga molida 500 g. Especias y hierbas. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/goma-ar-biga-molida-500-g/p1819446678?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LK3NIZTE1v6h1TY2rYapgJ5jMHjA8uJQYJRGOe2C.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>29.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00610011002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1819446678</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Especias y hierbas</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1516032688</guid>
+      <g:id>1516032688</g:id>
+      <g:title>Miel de Sidr de Cachemira 1 kg</g:title>
+      <g:description>Miel de Sidr de Cachemira 1 kg. Miel de Sidr. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-cachemira-1-kg/p1516032688?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1516032688</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1735868163</guid>
+      <g:id>1735868163</g:id>
+      <g:title>Miel de anís, 2 kg</g:title>
+      <g:description>Miel de anís, 2 kg. Otras mieles. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-an-s-2-kg/p1735868163?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/trawHAL7jgRgoz9ZGD0xGd6u8RErpgeG8LcmjZ0f.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1735868163</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1007628890</guid>
+      <g:id>1007628890</g:id>
+      <g:title>Goma arábiga molida 250 gramos</g:title>
+      <g:description>Goma arábiga molida 250 gramos. Especias y hierbas. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/goma-ar-biga-molida-250-gramos/p1007628890?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/NMt35poRIqFNw3Eb4v8A1Ox4jYU5i61v2boExwke.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00610011001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1007628890</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Especias y hierbas</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">581887586</guid>
+      <g:id>581887586</g:id>
+      <g:title>Higos secos 500 g</g:title>
+      <g:description>Higos secos 500 g. Frutas secas. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/higos-secos-500-g/p581887586?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BQbaoLdRkikvX2eMzYaAyhNikHJK9ThmQ2o3EHRE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>02020204</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>581887586</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Frutas secas</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">622456174</guid>
+      <g:id>622456174</g:id>
+      <g:title>Miel de talh premium 1 kg</g:title>
+      <g:description>Miel de talh premium 1 kg. Miel de Talh. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>402.01 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>622456174</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">244975038</guid>
+      <g:id>244975038</g:id>
+      <g:title>Ghee baladí de vaca 680 g</g:title>
+      <g:description>Ghee baladí de vaca 680 g. Ghee. 1.18 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/ghee-balad-de-vaca-680-g/p244975038?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/TO0a8IOl2CqF6hnKMhbq99YW7QdFcWGxKlW5B8ad.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>130.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00910002</g:item_group_id>
+      <g:shipping_weight>1.18 kg</g:shipping_weight>
+    <g:mpn>244975038</g:mpn><g:google_product_category>5827</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Ghee</g:custom_label_3><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">84471662</guid>
+      <g:id>84471662</g:id>
+      <g:title>Propóleo Natural - 65 g</g:title>
+      <g:description>Propóleo Natural - 65 g. Productos de la colmena. 0.565 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/prop-leo-natural-65-g/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.565 kg</g:shipping_weight>
+    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">34055028</guid>
+      <g:id>34055028</g:id>
+      <g:title>Caja de dátil Khalas de Qassim 8 kg</g:title>
+      <g:description>Caja de dátil Khalas de Qassim 8 kg. Dátiles. 8.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/caja-de-d-til-khalas-de-qassim-8-kg/p34055028?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:sale_price>99.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0051020009</g:item_group_id>
+      <g:shipping_weight>8.5 kg</g:shipping_weight>
+    <g:mpn>34055028</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Dátiles</g:custom_label_3><g:unit_pricing_measure>8kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
       <guid isPermaLink="false">394421153</guid>
       <g:id>394421153</g:id>
       <g:title>Extracto líquido de ginseng rojo coreano 30 gramos</g:title>
-      <g:description>Extracto líquido de ginseng rojo coreano 30 gramos. Dátiles. 0.3 kg.</g:description>
+      <g:description>Extracto líquido de ginseng rojo coreano 30 gramos. Dátiles. 0.53 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/extracto-l-quido-de-ginseng-rojo-coreano-30-gramos/p394421153?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/FhtEGkiJGWrh91Vy8uyR9xUTYZw9jXOQKEEhQz40.jpeg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/b4z6MLwlPKyJOHWA525U5FKqGfqBzdDeoNRcoPDX.jpeg</g:additional_image_link>
@@ -73,190 +288,39 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>10010002</g:item_group_id>
-      <g:shipping_weight>0.3 kg</g:shipping_weight>
+      <g:shipping_weight>0.53 kg</g:shipping_weight>
     <g:mpn>394421153</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Dátiles</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">34055028</guid>
-      <g:id>34055028</g:id>
-      <g:title>Caja de dátil Khalas de Qassim 8 kg</g:title>
-      <g:description>Caja de dátil Khalas de Qassim 8 kg. Dátiles. 8.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/caja-de-d-til-khalas-de-qassim-8-kg/p34055028?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/wcs5I5XgImrNAfCItUN36c51N3jppKdnwjo6ZCWA.png</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>220.00 SAR</g:price>
-      <g:sale_price>99.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0051020009</g:item_group_id>
-      <g:shipping_weight>8.0 kg</g:shipping_weight>
-    <g:mpn>34055028</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Dátiles</g:custom_label_3><g:unit_pricing_measure>8kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">84471662</guid>
-      <g:id>84471662</g:id>
-      <g:title>Propóleo Natural - 65 g</g:title>
-      <g:description>Propóleo Natural - 65 g. Productos de la colmena. 0.065 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/prop-leo-natural-65-g/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
+      <guid isPermaLink="false">1965415096</guid>
+      <g:id>1965415096</g:id>
+      <g:title>Miel de Sidr real en panal 500 g de las montañas de Asir</g:title>
+      <g:description>Miel de Sidr real en panal 500 g de las montañas de Asir. Miel de Sidr. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-en-panal-500-g-de-las-monta-as-de-asir/p1965415096?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/t3u2EeMppPXmXG5D6FNBQa62TVH9NeG6cth4MzFQ.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/YRpht2JBV6fmtJ3LhAQtgSZZGYoehy9TFqGXQNVH.png</g:additional_image_link>
       <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
+      <g:price>344.00 SAR</g:price>
       <g:brand>Asal Aljebal</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061040001</g:item_group_id>
-      <g:shipping_weight>0.065 kg</g:shipping_weight>
-    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">244975038</guid>
-      <g:id>244975038</g:id>
-      <g:title>Ghee baladí de vaca 680 g</g:title>
-      <g:description>Ghee baladí de vaca 680 g. Ghee. 0.68 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/ghee-balad-de-vaca-680-g/p244975038?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/TO0a8IOl2CqF6hnKMhbq99YW7QdFcWGxKlW5B8ad.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>130.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00910002</g:item_group_id>
-      <g:shipping_weight>0.68 kg</g:shipping_weight>
-    <g:mpn>244975038</g:mpn><g:google_product_category>5827</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Ghee</g:custom_label_3><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">622456174</guid>
-      <g:id>622456174</g:id>
-      <g:title>Miel de talh premium 1 kg</g:title>
-      <g:description>Miel de talh premium 1 kg. Miel de Talh. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>402.01 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041029003</g:item_group_id>
+      <g:item_group_id>0031024008</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>622456174</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1965415096</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">581887586</guid>
-      <g:id>581887586</g:id>
-      <g:title>Higos secos 500 g</g:title>
-      <g:description>Higos secos 500 g. Frutas secas. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/higos-secos-500-g/p581887586?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/BQbaoLdRkikvX2eMzYaAyhNikHJK9ThmQ2o3EHRE.jpg</g:image_link>
+      <guid isPermaLink="false">1613959166</guid>
+      <g:id>1613959166</g:id>
+      <g:title>Bebida de miel natural con jengibre, limón y cúrcuma 470 g</g:title>
+      <g:description>Bebida de miel natural con jengibre, limón y cúrcuma 470 g. Bebida de miel. 0.97 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/bebida-de-miel-natural-con-jengibre-lim-n-y-c-rcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ooibU1gypC0TmjTtewvbIhrVQhd7wr5HkoTUC0aP.png</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
+      <g:price>70.00 SAR</g:price>
       <g:brand>Asal Aljebal</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>02020204</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>581887586</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Frutas secas</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1735868163</guid>
-      <g:id>1735868163</g:id>
-      <g:title>Miel de anís, 2 kg</g:title>
-      <g:description>Miel de anís, 2 kg. Otras mieles. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-an-s-2-kg/p1735868163?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/trawHAL7jgRgoz9ZGD0xGd6u8RErpgeG8LcmjZ0f.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041049004</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>1735868163</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1007628890</guid>
-      <g:id>1007628890</g:id>
-      <g:title>Goma arábiga molida 250 gramos</g:title>
-      <g:description>Goma arábiga molida 250 gramos. Especias y hierbas. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/goma-ar-biga-molida-250-gramos/p1007628890?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/NMt35poRIqFNw3Eb4v8A1Ox4jYU5i61v2boExwke.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00610011001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:mpn>1007628890</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Especias y hierbas</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1516032688</guid>
-      <g:id>1516032688</g:id>
-      <g:title>Miel de Sidr de Cachemira 1 kg</g:title>
-      <g:description>Miel de Sidr de Cachemira 1 kg. Miel de Sidr. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-cachemira-1-kg/p1516032688?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>85.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006003</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1516032688</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1819446678</guid>
-      <g:id>1819446678</g:id>
-      <g:title>Goma arábiga molida 500 g</g:title>
-      <g:description>Goma arábiga molida 500 g. Especias y hierbas. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/goma-ar-biga-molida-500-g/p1819446678?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/LK3NIZTE1v6h1TY2rYapgJ5jMHjA8uJQYJRGOe2C.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>29.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00610011002</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>1819446678</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Especias y hierbas</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">411224162</guid>
-      <g:id>411224162</g:id>
-      <g:title>Hierba de mirra 50 gramos</g:title>
-      <g:description>Hierba de mirra 50 gramos. Especias y hierbas. 0.05 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/hierba-de-mirra-50-gramos/p411224162?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/yc37z9HlzSrG0J3ZX5QbD9FodntBNB09Q6IokLhl.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>25.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>23020201</g:item_group_id>
-      <g:shipping_weight>0.05 kg</g:shipping_weight>
-    <g:mpn>411224162</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Especias y hierbas</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1125352869</guid>
-      <g:id>1125352869</g:id>
-      <g:title>Miel de flor de trébol 2 kg</g:title>
-      <g:description>Miel de flor de trébol 2 kg. Miel de flores. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GfW3qSXGGFDQBVxfooRAraXqAnj9TcQqhgUoLUkR.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>229.00 SAR</g:price>
-      <g:sale_price>206.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003004</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>1125352869</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">985280850</guid>
-      <g:id>985280850</g:id>
-      <g:title>Miel de flores silvestres del sur o de Hadramaut 250 g</g:title>
-      <g:description>Miel de flores silvestres del sur o de Hadramaut 250 g. Miel de flores. 0.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-250-g/p985280850?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/tea7gH1begC6jdkj7G7Ee6v3totAuycO5vRLKCV4.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>69.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021002001</g:item_group_id>
-      <g:shipping_weight>0.25 kg</g:shipping_weight>
-    <g:mpn>985280850</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:item_group_id>0041050</g:item_group_id>
+      <g:shipping_weight>0.97 kg</g:shipping_weight>
+    <g:mpn>1613959166</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Bebida de miel</g:custom_label_3><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">957082464</guid>
       <g:id>957082464</g:id>
@@ -274,38 +338,6 @@
       <g:item_group_id>0140101008</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:mpn>957082464</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1688919538</guid>
-      <g:id>1688919538</g:id>
-      <g:title>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro</g:title>
-      <g:description>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro. Bebida de miel. 6.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/5-kilos-de-miel-de-comino-negro-2-envases-de-bebida-de-miel-con-jengibre-lim-n-y/p1688919538?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/2MUZPm4Ur4PSSwAsaaFig12u524ZLzqRrYZB5Zmq.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>730.00 SAR</g:price>
-      <g:sale_price>389.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101018</g:item_group_id>
-      <g:shipping_weight>6.0 kg</g:shipping_weight>
-    <g:mpn>1688919538</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Bebida de miel</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1938149777</guid>
-      <g:id>1938149777</g:id>
-      <g:title>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis</g:title>
-      <g:description>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis. Miel de Sidr. 5.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/5-kg-de-miel-de-sidr-de-peshawar-con-polen-y-semillas-de-comino-negro-con-quince/p1938149777?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FeAcqdG2MYtkprtSmH8dxv5ed7FbSDf6oj7DwfBV.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>605.00 SAR</g:price>
-      <g:sale_price>515.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007005</g:item_group_id>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:mpn>1938149777</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1961576516</guid>
       <g:id>1961576516</g:id>
@@ -339,22 +371,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>52483795</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Mezclas de miel</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">863586339</guid>
-      <g:id>863586339</g:id>
-      <g:title>4 kilos de pasas negras de Yemen</g:title>
-      <g:description>4 kilos de pasas negras de Yemen. Frutas secas. 4.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/4-kilos-de-pasas-negras-de-yemen/p863586339?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/jSeEFLKa9g6b3lSXBNvVVjbXkG3WBluDWhc3y9ZU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>240.01 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0081002004</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:mpn>863586339</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Frutas secas</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">879350052</guid>
       <g:id>879350052</g:id>
       <g:title>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis)</g:title>
@@ -370,22 +386,6 @@
       <g:item_group_id>0140101007</g:item_group_id>
       <g:shipping_weight>3.5 kg</g:shipping_weight>
     <g:mpn>879350052</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1190839815</guid>
-      <g:id>1190839815</g:id>
-      <g:title>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis)</g:title>
-      <g:description>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis). Miel de Sidr. 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/1-kg-de-miel-de-sidr-de-monta-a-1-kg-de-miel-de-flores-silvestres-1-kg-de-miel-d/p1190839815?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/0uBQIWRApBR0GUA87MKLlxyP3dxcxdAhTqirE90g.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1090.00 SAR</g:price>
-      <g:sale_price>695.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101033</g:item_group_id>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>1190839815</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1170804255</guid>
       <g:id>1170804255</g:id>
