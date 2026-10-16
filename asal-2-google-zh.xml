@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 00:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:00:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -805,8 +805,8 @@
     <item>
       <guid isPermaLink="false">1884272643</guid>
       <g:id>1884272643</g:id>
-      <g:title>洋槐蜂蜜 1公斤</g:title>
-      <g:description>洋槐蜂蜜 1公斤. 其他蜂蜜. 1.0 kg.</g:description>
+      <g:title>洋槐蜜 1公斤</g:title>
+      <g:description>洋槐蜜 1公斤. 其他蜂蜜. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/1/p1884272643?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/pywxZOgZEh5PwNbRvjERBKexiamgBhsHUxELH6jD.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -820,9 +820,9 @@
     <item>
       <guid isPermaLink="false">1436534649</guid>
       <g:id>1436534649</g:id>
-      <g:title>新西兰麦卢卡蜂蜜 UMF5+ | UMF15+ | UMF20+</g:title>
-      <g:description>新西兰麦卢卡蜂蜜 UMF5+ | UMF15+ | UMF20+. 麦卢卡. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/umf5-umf15-umf20/p1436534649?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>麦卢卡蜂蜜 UMF 5+ | UMF 15+ | UMF 20+</g:title>
+      <g:description>麦卢卡蜂蜜 UMF 5+ | UMF 15+ | UMF 20+. 麦卢卡. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/umf-5-umf-15-umf-20/p1436534649?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/cicHN9IeCDmmBT5AjbHJ3R5SP3nBcOGBUenFf32P.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>950.00 SAR</g:price>
@@ -959,8 +959,8 @@
     <item>
       <guid isPermaLink="false">2084549860</guid>
       <g:id>2084549860</g:id>
-      <g:title>阿利亚阿杰瓦特级椰枣 10公斤（免运费）</g:title>
-      <g:description>阿利亚阿杰瓦特级椰枣 10公斤（免运费）. 椰枣. 10.0 kg.</g:description>
+      <g:title>麦地那高地阿杰瓦特级椰枣 10公斤（免运费）</g:title>
+      <g:description>麦地那高地阿杰瓦特级椰枣 10公斤（免运费）. 椰枣. 10.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/10/p2084549860?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/mgycg1ar2h1HSsdrLnDKkDYM8YgGL7Xa1CmQLq35.jpeg</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/yRQa5PjdYLFLdRzlyGdPOasPco8aEkfKSRycWr9e.jpeg</g:additional_image_link>
@@ -1325,9 +1325,9 @@
     <item>
       <guid isPermaLink="false">1196894843</guid>
       <g:id>1196894843</g:id>
-      <g:title>本地Sidr蜂巢蜜 500克</g:title>
-      <g:description>本地Sidr蜂巢蜜 500克. 其他蜂蜜. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/sidr-500/p1196894843?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>本地萨拉姆巢蜜 500克</g:title>
+      <g:description>本地萨拉姆巢蜜 500克. 其他蜂蜜. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1196894843?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/31vyB2rLRGvsoPLrHCdmjmHiUegs7OGvvqBJdXPI.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>250.00 SAR</g:price>
