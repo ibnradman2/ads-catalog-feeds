@@ -535,7 +535,9 @@ def write_translation_guard(rows):
     # التغطية (المادة 146 البند 2) = ما فحصه الحارس من أزواج (متجر × لغة × منتج): كل زوج يُعدّ ويُقارن بالمصدر العربي،
     # فمنتج بلا ترجمة مفحوص وناقصه مسجّل. وما تعذّر فحصه (توقف جلب صفحات اللغة) وحده يدخل «غير المفحوص».
     # اكتمال الترجمة نفسه مقياس منفصل (translated/translated_pct) يحكم عليه حارس G-34.
-    unchecked = sum(r["total"] for r in rows if r.get("stopped"))
+    # توقف الجلب (Blocked أو 429) يمنع تحديث الصفحات لا فحصها: المنتج ذو الصفحة المحفوظة يُقارن بالمصدر العربي من
+    # الكاش فهو مفحوص، وغير المفحوص منتج بلا صفحة محفوظة (no_page). والصف القديم بلا الحقل يُعدّ كله غير مفحوص.
+    unchecked = sum(min(r["total"], r.get("no_page", r["total"])) for r in rows if r.get("stopped"))
     checked = total - unchecked
     out = {"as_of": dt.datetime.now().isoformat(timespec="seconds"),
            "coverage": {"total": total, "checked": checked, "unchecked": unchecked,
@@ -613,6 +615,8 @@ def main():
                 "fetched": r["info"]["fetched"], "stopped": r["info"]["stopped"],
                 # عيوب الترجمة التي استبعدت منتجًا بعد جلب نصه (الأرقام والموسم وغير المترجم)، لا «لم تُجلب بعد»
                 "defects": sum(1 for _, w in r["excluded"] if not w.startswith("لا صفحة")),
+                # منتج بلا صفحة لغة محفوظة إطلاقًا: لم يُفحص نصه فعلًا (يدخل «غير المفحوص» وحده عند توقف الجلب)
+                "no_page": sum(1 for _, w in r["excluded"] if w.startswith("لا صفحة")),
                 "published": bool(r["kept"])})
             name = f"{store}-{idx+1}-google-{r['mlang']}.xml"
             info = r["info"]
