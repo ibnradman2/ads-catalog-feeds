@@ -75,11 +75,14 @@ EN_CLAIM_RE = re.compile(
 YEARS_RE = re.compile(r"\b3[68](\s*)years", re.I)   # عسل الجبال منذ 40 عامًا (أمر المالك 2026-09-24)
 
 # العلامة الإنجليزية الموحدة بدل القيم العربية الثلاث (قرار المالك 2026-09-28، البند P-merchant-011)
-EN_BRAND = {"asal": "Asal Aljebal", "areesh": "Areesh", "hayala": "Hayala"}
+EN_BRAND = {"asal": "Asal Aljebal", "areesh": "Areesh", "hayala": "Hayala", "insaf": "Insaf"}
+# متاجر تأتي نصوص لغاتها من ترجماتنا المحلية لا من جلب صفحاتها (إنصاف: Cloudflare يحجب الجلب الآلي بـ403،
+# والنصوص يكتبها dashboard/insaf_desc.py feedtexts في كاش اللغة نفسه، المادة 272). فلا تُجلب صفحاتها أبدًا.
+LOCAL_TEXT_STORES = {"insaf"}
 # علامة المتجر بحروف لغة الملف حين تكون غير لاتينية (أمر المالك 2026-10-11: لا بيانات بغير لغة الملف)
-BRAND_L = {"ur": {"asal": "عسل الجبل", "areesh": "عریش", "hayala": "ہیالہ"},
-           "hi": {"asal": "असल अल-जबल", "areesh": "अरीश", "hayala": "हयाला"},
-           "zh": {"asal": "阿萨尔·阿尔杰巴勒", "areesh": "阿里什", "hayala": "哈亚拉"}}
+BRAND_L = {"ur": {"asal": "عسل الجبل", "areesh": "عریش", "hayala": "ہیالہ", "insaf": "انصاف"},
+           "hi": {"asal": "असल अल-जबल", "areesh": "अरीश", "hayala": "हयाला", "insaf": "इंसाफ़"},
+           "zh": {"asal": "阿萨尔·阿尔杰巴勒", "areesh": "阿里什", "hayala": "哈亚拉", "insaf": "Insaf"}}
 # كلمات إنجليزية دخيلة في عناوين اللغات اللاتينية (ترجمة مختلطة تُستبعد حتى تُصلح)
 PLATFORM = "google"   # يضبطه catalog_feed_proxy قبل بناء ملفات ميتا وسناب
 # استبعاد منتج بعينه من منصة ولغة بعينهما فقط (ci/data/platform_exclusions.json، مفتاحه "<منصة>:<متجر>:<لغة>").
@@ -205,6 +208,8 @@ def refresh(store, ids, cache, lang="en", budget=None, ar_titles=None):
     """يحدّث نصوص صفحات اللغة لما مضى عليه يوم أو لم يُجلب. يعيد (المحدَّث، سبب التوقف أو None).
     صفحة لغة نصها هو العربي نفسه (لم تُترجم) تُعاد بعد 48 ساعة لا يوميًّا، توفيرًا للحد."""
     budget = budget or Budget()
+    if store in LOCAL_TEXT_STORES:
+        return 0, None
     if budget.stop_by.get(store):
         return 0, budget.stop_by[store]
     base = STORES[store]
