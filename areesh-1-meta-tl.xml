@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 13:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:50:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1525447859</g:id>
+      <g:title>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo</g:title>
+      <g:description>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo. 0.9 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-pulot-pukyutan-na-may-suklay-mula-turkey-400-gramo/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
+      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1559827680</g:id>
+      <g:title>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala</g:title>
+      <g:description>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/5-kg-kashmiri-sidr-na-pulot-libreng-pagpapadala/p1559827680?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1487430420</g:id>
       <g:title>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg)</g:title>
@@ -31,24 +49,6 @@
       <g:title>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey</g:title>
       <g:description>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey. 2.0 kg.</g:description>
       <g:link>https://areesh.sa/tl/gift-box-para-sa-pambansang-araw-8-garapon-ng-natural-na-sidr-honey/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1559827680</g:id>
-      <g:title>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala</g:title>
-      <g:description>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala. 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/5-kg-kashmiri-sidr-na-pulot-libreng-pagpapadala/p1559827680?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>443912774</g:id>
-      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
-      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1525447859</g:id>
-      <g:title>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo</g:title>
-      <g:description>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo. 0.4 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-pulot-pukyutan-na-may-suklay-mula-turkey-400-gramo/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1307810461</g:id>

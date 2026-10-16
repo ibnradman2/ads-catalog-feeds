@@ -4,10 +4,59 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 13:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:50:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1525447859</guid>
+      <g:id>1525447859</g:id>
+      <g:title>Madu Sarang Alami 400 Gram</g:title>
+      <g:description>Madu Sarang Alami 400 Gram. 0.9 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sarang-alami-400-gram/p1525447859?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/LuHbx4EawLh862KrdFOlfcYKLcJRoXdoMIALBG7I.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031016</g:item_group_id>
+      <g:shipping_weight>0.9 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">443912774</guid>
+      <g:id>443912774</g:id>
+      <g:title>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo</g:title>
+      <g:description>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-alami-dari-pegunungan-himalaya-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>990.00 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0401006010</g:item_group_id>
+      <g:shipping_weight>10.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1559827680</guid>
+      <g:id>1559827680</g:id>
+      <g:title>5 Kilo Madu Sidr Kashmir + Pengiriman Gratis</g:title>
+      <g:description>5 Kilo Madu Sidr Kashmir + Pengiriman Gratis. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/5-kilo-madu-sidr-kashmir-pengiriman-gratis/p1559827680?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/DgU8MajbDJ7KBoHvqmR0u939kxf31bAOIbkY2wQd.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/3NnOcvbds4KTM6SbTMVrPjFMV9dsRqn9kVlVo9vz.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>424.99 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006005</g:item_group_id>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1487430420</guid>
       <g:id>1487430420</g:id>
@@ -76,55 +125,6 @@
       <g:item_group_id>0151007006</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:google_product_category>136</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">1559827680</guid>
-      <g:id>1559827680</g:id>
-      <g:title>5 Kilo Madu Sidr Kashmir + Pengiriman Gratis</g:title>
-      <g:description>5 Kilo Madu Sidr Kashmir + Pengiriman Gratis. 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/5-kilo-madu-sidr-kashmir-pengiriman-gratis/p1559827680?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/DgU8MajbDJ7KBoHvqmR0u939kxf31bAOIbkY2wQd.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/3NnOcvbds4KTM6SbTMVrPjFMV9dsRqn9kVlVo9vz.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>424.99 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006005</g:item_group_id>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">443912774</guid>
-      <g:id>443912774</g:id>
-      <g:title>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo</g:title>
-      <g:description>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo. 10.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-alami-dari-pegunungan-himalaya-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>990.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0401006010</g:item_group_id>
-      <g:shipping_weight>10.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1525447859</guid>
-      <g:id>1525447859</g:id>
-      <g:title>Madu Sarang Alami 400 Gram</g:title>
-      <g:description>Madu Sarang Alami 400 Gram. 0.4 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sarang-alami-400-gram/p1525447859?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/LuHbx4EawLh862KrdFOlfcYKLcJRoXdoMIALBG7I.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>50.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031016</g:item_group_id>
-      <g:shipping_weight>0.4 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1307810461</guid>
       <g:id>1307810461</g:id>
