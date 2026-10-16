@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:05:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1487430420</g:id>
+      <g:title>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो)</g:title>
+      <g:description>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो). 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1559827680</g:id>
       <g:title>5 किलो कश्मीरी सिद्र शहद + मुफ़्त डिलीवरी</g:title>
@@ -19,12 +25,6 @@
       <g:title>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से</g:title>
       <g:description>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से. 10.0 kg.</g:description>
       <g:link>https://areesh.sa/hi/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो)</g:title>
-      <g:description>प्राकृतिक सिद्र शहद 6 किलो (4 किलो + 2 किलो). 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1525447859</g:id>

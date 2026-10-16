@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 15 Oct 2026 17:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:05:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1487430420</g:id>
+      <g:title>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）</g:title>
+      <g:description>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）. 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1559827680</g:id>
       <g:title>5公斤克什米尔西德尔蜂蜜 + 免费配送</g:title>
@@ -19,12 +25,6 @@
       <g:title>喜马拉雅山天然西德尔蜂蜜 10公斤</g:title>
       <g:description>喜马拉雅山天然西德尔蜂蜜 10公斤. 10.0 kg.</g:description>
       <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）</g:title>
-      <g:description>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）. 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1525447859</g:id>

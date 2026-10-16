@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:05:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1487430420</g:id>
+      <g:title>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg)</g:title>
+      <g:description>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg). 6.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-sidr-na-pulot-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1559827680</g:id>
       <g:title>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala</g:title>
@@ -19,12 +25,6 @@
       <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
       <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.0 kg.</g:description>
       <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg)</g:title>
-      <g:description>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg). 6.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-sidr-na-pulot-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1525447859</g:id>
