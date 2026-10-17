@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 12:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:07:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303334119</g:id>
+      <g:title>3 کلو کشمیری سدر شہد کا گیلن + 3 کلو برسیم کے پھول کے شہد کا گیلن</g:title>
+      <g:description>3 کلو کشمیری سدر شہد کا گیلن + 3 کلو برسیم کے پھول کے شہد کا گیلن. 6.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/3-3/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>شاہی خلطہ کی دو بوتلیں 1 کلو + خلطہ کے چمچوں کا پیک تحفے میں</g:title>
@@ -109,12 +115,6 @@
       <g:title>پہاڑی سدر شہد کے دو ڈبے 500 گرام + آدھا کلو نبوی تلبینہ (ہدیہ)</g:title>
       <g:description>پہاڑی سدر شہد کے دو ڈبے 500 گرام + آدھا کلو نبوی تلبینہ (ہدیہ). 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1303334119</g:id>
-      <g:title>3 کلو کشمیری سدر شہد کا گیلن + 3 کلو برسیم کے پھول کے شہد کا گیلن</g:title>
-      <g:description>3 کلو کشمیری سدر شہد کا گیلن + 3 کلو برسیم کے پھول کے شہد کا گیلن. 6.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/3-3/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>425796384</g:id>

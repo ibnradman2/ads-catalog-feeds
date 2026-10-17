@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 12:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:07:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303334119</g:id>
+      <g:title>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo</g:title>
+      <g:description>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo. 6.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/galon-ng-kashmiri-sidr-honey-3-kilo-galon-ng-clover-honey-3-kilo/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo</g:title>
@@ -139,12 +145,6 @@
       <g:title>Dalawang Pakete ng Pulot ng Sidr mula sa Bundok na 500 Gramo + Kalahating Kilong Talbina ng Propeta (Regalo)</g:title>
       <g:description>Dalawang Pakete ng Pulot ng Sidr mula sa Bundok na 500 Gramo + Kalahating Kilong Talbina ng Propeta (Regalo). 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-pulot-ng-sidr-mula-sa-bundok-na-500-gramo-kalahating-kilong-t/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1303334119</g:id>
-      <g:title>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo</g:title>
-      <g:description>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo. 6.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/galon-ng-kashmiri-sidr-honey-3-kilo-galon-ng-clover-honey-3-kilo/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>425796384</g:id>
