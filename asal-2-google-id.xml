@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:21:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -25,21 +25,6 @@
       <g:shipping_weight>1.25 kg</g:shipping_weight>
     <g:mpn>464019410</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
-      <guid isPermaLink="false">1480885382</guid>
-      <g:id>1480885382</g:id>
-      <g:title>Madu Sidr Royal Asimi 500 g</g:title>
-      <g:description>Madu Sidr Royal Asimi 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-royal-asimi-500-g/p1480885382?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/2vUNozu9nhFheq3EPteT1GdnexCWi5AF5WeXy0Ge.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031024002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1480885382</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">821410085</guid>
       <g:id>821410085</g:id>
       <g:title>10 Kg Madu Sidr Kashmiri Diskon 37% + Seperempat Kilo Serbuk Sari + Gratis Ongkir + Cicilan (Panen Kualitas Langka, Jumlah Sangat Terbatas)</g:title>
@@ -55,6 +40,21 @@
       <g:item_group_id>0140101031</g:item_group_id>
       <g:shipping_weight>10.75 kg</g:shipping_weight>
     <g:mpn>821410085</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1480885382</guid>
+      <g:id>1480885382</g:id>
+      <g:title>Madu Sidr Royal Asimi 500 g</g:title>
+      <g:description>Madu Sidr Royal Asimi 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-royal-asimi-500-g/p1480885382?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/2vUNozu9nhFheq3EPteT1GdnexCWi5AF5WeXy0Ge.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1480885382</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">458800063</guid>
       <g:id>458800063</g:id>
