@@ -4,10 +4,44 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 13:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:16:47 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1425604290</guid>
+      <g:id>1425604290</g:id>
+      <g:title>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı</g:title>
+      <g:description>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/2-kilo-do-al-sidr-bal-2-kilo-do-al-i-ek-bal/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/AwYM1NezQwrNJG2WGmohuoDgsLw0KdI6AqzFm73T.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>209.99 SAR</g:price>
+      <g:sale_price>148.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>004100700302</g:item_group_id>
+      <g:shipping_weight>4.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">480738937</guid>
+      <g:id>480738937</g:id>
+      <g:title>2 Kilo Doğal Çiçek Balı</g:title>
+      <g:description>2 Kilo Doğal Çiçek Balı. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/2-kilo-do-al-i-ek-bal/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/s9b1EwZ2mMPdbMVN5ZLwUX9PH5gb22rMrE9qmQCB.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/4EhF86EQ2U7qy3zjRkBNwc7QzbbHyrzsulyhvITA.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/bUOcintV3FFgqFe3gQMeJbxpSUcRSR5AkTabAs7v.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>79.99 SAR</g:price>
+      <g:sale_price>48.99 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>002100200201</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">916755779</guid>
       <g:id>916755779</g:id>
@@ -189,40 +223,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1425604290</guid>
-      <g:id>1425604290</g:id>
-      <g:title>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı</g:title>
-      <g:description>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/2-kilo-do-al-sidr-bal-2-kilo-do-al-i-ek-bal/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/AwYM1NezQwrNJG2WGmohuoDgsLw0KdI6AqzFm73T.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>209.99 SAR</g:price>
-      <g:sale_price>148.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>004100700302</g:item_group_id>
-      <g:shipping_weight>4.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">480738937</guid>
-      <g:id>480738937</g:id>
-      <g:title>2 Kilo Doğal Çiçek Balı</g:title>
-      <g:description>2 Kilo Doğal Çiçek Balı. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/2-kilo-do-al-i-ek-bal/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/s9b1EwZ2mMPdbMVN5ZLwUX9PH5gb22rMrE9qmQCB.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/4EhF86EQ2U7qy3zjRkBNwc7QzbbHyrzsulyhvITA.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/bUOcintV3FFgqFe3gQMeJbxpSUcRSR5AkTabAs7v.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>79.99 SAR</g:price>
-      <g:sale_price>48.99 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>002100200201</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1122433710</guid>
