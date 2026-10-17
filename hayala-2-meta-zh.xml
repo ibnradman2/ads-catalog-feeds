@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 18:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 02:47:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1270839426</g:id>
+      <g:title>优惠 美国小豆蔻特大号1号8毫米5公斤整箱（免运费）</g:title>
+      <g:description>优惠 美国小豆蔻特大号1号8毫米5公斤整箱（免运费）. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1-8-5/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1053775856</g:id>
       <g:title>12包特级Negin藏红花 12克 + 免运费</g:title>
@@ -103,12 +109,6 @@
       <g:title>霍吉里公乳香（50克）阿曼佐法尔</g:title>
       <g:description>霍吉里公乳香（50克）阿曼佐法尔. 0.55 kg.</g:description>
       <g:link>https://hayala.co/zh/50/p656732927?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1270839426</g:id>
-      <g:title>优惠 美国小豆蔻特大号1号8毫米5公斤整箱（免运费）</g:title>
-      <g:description>优惠 美国小豆蔻特大号1号8毫米5公斤整箱（免运费）. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1-8-5/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>10846494</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 18:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 02:47:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1270839426</g:id>
+      <g:title>Offre : cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, carton de 5 kg (livraison gratuite)</g:title>
+      <g:description>Offre : cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, carton de 5 kg (livraison gratuite). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/offre-cardamome-am-ricaine-de-premier-choix-extra-jumbo-n-1-calibre-8-mm-carton-/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1053775856</g:id>
       <g:title>12 Boîtes de Safran Super Negin 12 g + Livraison Gratuite</g:title>
@@ -103,12 +109,6 @@
       <g:title>Encens oliban mâle Hojari (50 g)</g:title>
       <g:description>Encens oliban mâle Hojari (50 g). 0.55 kg.</g:description>
       <g:link>https://hayala.co/fr/encens-oliban-m-le-hojari-50-g/p656732927?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1270839426</g:id>
-      <g:title>Offre : cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, carton de 5 kg (livraison gratuite)</g:title>
-      <g:description>Offre : cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, carton de 5 kg (livraison gratuite). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/offre-cardamome-am-ricaine-de-premier-choix-extra-jumbo-n-1-calibre-8-mm-carton-/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2106298714</g:id>

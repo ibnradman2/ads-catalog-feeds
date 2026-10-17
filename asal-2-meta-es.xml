@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 00:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 02:17:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>312187437</g:id>
+      <g:title>Miel de sidr de montaña de Peshawar, 3 kg</g:title>
+      <g:description>Miel de sidr de montaña de Peshawar, 3 kg. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>216808863</g:id>
       <g:title>Miel de Nigella (comino negro) 5 kg + (envío gratis)</g:title>
@@ -67,12 +73,6 @@
       <g:title>Miel de Sidr real en panal 10 kg con envío gratis</g:title>
       <g:description>Miel de Sidr real en panal 10 kg con envío gratis. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-en-panal-10-kg-con-env-o-gratis/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>312187437</g:id>
-      <g:title>Miel de sidr de montaña de Peshawar, 3 kg</g:title>
-      <g:description>Miel de sidr de montaña de Peshawar, 3 kg. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>260814103</g:id>

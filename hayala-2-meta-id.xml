@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 18:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 02:47:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1270839426</g:id>
+      <g:title>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir)</g:title>
+      <g:description>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/penawaran-kapulaga-amerika-grade-satu-extra-jumbo-no-1-ketebalan-8-mm-karton-5-k/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1053775856</g:id>
       <g:title>12 kemasan saffron Super Negin 12 gram + pengiriman gratis</g:title>
@@ -103,12 +109,6 @@
       <g:title>Kemenyan Dzakar Hojari (50 g)</g:title>
       <g:description>Kemenyan Dzakar Hojari (50 g). 0.55 kg.</g:description>
       <g:link>https://hayala.co/ind/kemenyan-dzakar-hojari-50-g/p656732927?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1270839426</g:id>
-      <g:title>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir)</g:title>
-      <g:description>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/penawaran-kapulaga-amerika-grade-satu-extra-jumbo-no-1-ketebalan-8-mm-karton-5-k/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2106298714</g:id>
