@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 02:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>458800063</g:id>
+      <g:title>Royal Sidr Honeycomb, 1 Kilo</g:title>
+      <g:description>Royal Sidr Honeycomb, 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-sidr-honeycomb-1-kilo/p458800063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>312187437</g:id>
       <g:title>3 Kilo ng Pulot na Sidr mula Peshawar</g:title>
@@ -181,12 +187,6 @@
       <g:title>Royal Asimi Sidr Honey, 500 Gramo</g:title>
       <g:description>Royal Asimi Sidr Honey, 500 Gramo. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/royal-asimi-sidr-honey-500-gramo/p1480885382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>458800063</g:id>
-      <g:title>Royal Sidr Honeycomb, 1 Kilo</g:title>
-      <g:description>Royal Sidr Honeycomb, 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-sidr-honeycomb-1-kilo/p458800063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>821410085</g:id>
