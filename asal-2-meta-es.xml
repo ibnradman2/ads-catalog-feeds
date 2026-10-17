@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:21:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -15,16 +15,16 @@
       <g:link>https://asalaljebal.sa/es/miel-de-manuka-aut-ntica-de-nueva-zelanda-umf-20-mgo-850-3-frascos-250-g/p464019410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1480885382</g:id>
-      <g:title>Miel de Sidr real Usaimi yemení 500 g</g:title>
-      <g:description>Miel de Sidr real Usaimi yemení 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-usaimi-yemen-500-g/p1480885382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>821410085</g:id>
       <g:title>10 kilos de miel de Sidr de Cachemira con treinta y siete por ciento de descuento + cuarto de kilo de polen de abeja + envío gratis + pago a plazos (c</g:title>
       <g:description>10 kilos de miel de Sidr de Cachemira con treinta y siete por ciento de descuento + cuarto de kilo de polen de abeja + envío gratis + pago a plazos (cosecha de calidad excepcional en cantidad muy limitada). 10.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/10-kilos-de-miel-de-sidr-de-cachemira-con-treinta-y-siete-por-ciento-de-descuent/p821410085?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1480885382</g:id>
+      <g:title>Miel de Sidr real Usaimi yemení 500 g</g:title>
+      <g:description>Miel de Sidr real Usaimi yemení 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-usaimi-yemen-500-g/p1480885382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>458800063</g:id>

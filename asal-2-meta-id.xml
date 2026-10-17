@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:21:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -15,16 +15,16 @@
       <g:link>https://asalaljebal.sa/ind/madu-manuka-asli-dari-selandia-baru-umf-20-mgo-850-3-kemasan-250-gram/p464019410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1480885382</g:id>
-      <g:title>Madu Sidr Royal Asimi 500 g</g:title>
-      <g:description>Madu Sidr Royal Asimi 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-royal-asimi-500-g/p1480885382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>821410085</g:id>
       <g:title>10 Kg Madu Sidr Kashmiri Diskon 37% + Seperempat Kilo Serbuk Sari + Gratis Ongkir + Cicilan (Panen Kualitas Langka, Jumlah Sangat Terbatas)</g:title>
       <g:description>10 Kg Madu Sidr Kashmiri Diskon 37% + Seperempat Kilo Serbuk Sari + Gratis Ongkir + Cicilan (Panen Kualitas Langka, Jumlah Sangat Terbatas). 10.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/10-kg-madu-sidr-kashmiri-diskon-37-seperempat-kilo-serbuk-sari-gratis-ongkir-cic/p821410085?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1480885382</g:id>
+      <g:title>Madu Sidr Royal Asimi 500 g</g:title>
+      <g:description>Madu Sidr Royal Asimi 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-royal-asimi-500-g/p1480885382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>458800063</g:id>
