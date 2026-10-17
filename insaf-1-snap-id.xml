@@ -4,10 +4,354 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 14:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:01:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1745075758</guid>
+      <g:id>1745075758</g:id>
+      <g:title>Madu Putih Majra Alami 500 g</g:title>
+      <g:description>Madu Putih Majra Alami 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-putih-majra-alami-500-g/p1745075758?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/b2jwXReFMZzsrdmi5zMETcErnEq0VgdRX6oOEBjo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>92.00 SAR</g:price>
+      <g:sale_price>56.35 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1086517048</guid>
+      <g:id>1086517048</g:id>
+      <g:title>Madu Semanggi Alami 500 g</g:title>
+      <g:description>Madu Semanggi Alami 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-semanggi-alami-500-g/p1086517048?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/QaqrGvtXsUqgzWtb35X2sZXeFe27ZxpQPdRi1eJ1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:sale_price>29.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1863085925</guid>
+      <g:id>1863085925</g:id>
+      <g:title>Madu Sidr Alami 500 g</g:title>
+      <g:description>Madu Sidr Alami 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-sidr-alami-500-g/p1863085925?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/dDrvHIp6t3mjuEJg6HlAmiujW64Uvtv18l4pLoOa.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:sale_price>60.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1949696355</guid>
+      <g:id>1949696355</g:id>
+      <g:title>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah</g:title>
+      <g:description>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-4-kg-madu-sidr-alami-2-kg-madu-habbatussauda-hadiah-serbu/p1949696355?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/8lbOODX4FJdWoknd5drtu4cM3LVF0H7X3Yvkf2ya.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>620.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>6.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">284822488</guid>
+      <g:id>284822488</g:id>
+      <g:title>Madu Black Forest Alami 500 g</g:title>
+      <g:description>Madu Black Forest Alami 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-black-forest-alami-500-g/p284822488?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/kgf5bPSgKtypraa20J31AyIKOt8H6qx97oRmQFY2.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:sale_price>50.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">879693415</guid>
+      <g:id>879693415</g:id>
+      <g:title>Madu dengan Kacang-kacangan 500 g</g:title>
+      <g:description>Madu dengan Kacang-kacangan 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-dengan-kacang-kacangan-500-g/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/IEgh6bsbujQyp4LQuIZ0SF9ydJ8znF6rphOJZoWS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1632724705</guid>
+      <g:id>1632724705</g:id>
+      <g:title>Madu Akasia 500 g</g:title>
+      <g:description>Madu Akasia 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-akasia-500-g/p1632724705?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/kAEuXmnizyX73V12ayp3eJ2thzGfkimx8dkdz14s.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>97.75 SAR</g:price>
+      <g:sale_price>80.50 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">850933620</guid>
+      <g:id>850933620</g:id>
+      <g:title>Madu Gunung dengan Sarang Lebah 200 g</g:title>
+      <g:description>Madu Gunung dengan Sarang Lebah 200 g. 0.7 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-gunung-dengan-sarang-lebah-200-g/p850933620?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/sNvPPiYYK8wluhrlvfJ49NlIG7s3w7w8jSYD2llL.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:sale_price>24.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.7 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">673263980</guid>
+      <g:id>673263980</g:id>
+      <g:title>Madu Bunga Alami 500 g</g:title>
+      <g:description>Madu Bunga Alami 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-bunga-alami-500-g/p673263980?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/P16638fxspqhHerYeh92bqBbCpPAjM9ZD0u4TQMu.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:sale_price>29.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">504364220</guid>
+      <g:id>504364220</g:id>
+      <g:title>Madu Gunung dengan Sarang Lebah 400 g</g:title>
+      <g:description>Madu Gunung dengan Sarang Lebah 400 g. 0.9 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-gunung-dengan-sarang-lebah-400-g/p504364220?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/DGnJiual8ntVmiOJ4fX8qOzeuycQovCjtTwn8kIV.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>60.00 SAR</g:price>
+      <g:sale_price>49.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.9 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">476216439</guid>
+      <g:id>476216439</g:id>
+      <g:title>Madu dengan Sarang Lebah 500 g</g:title>
+      <g:description>Madu dengan Sarang Lebah 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-dengan-sarang-lebah-500-g/p476216439?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/cGvAGuhqeFo5jbhRjBnrf7ramm3UdLctyIbmYPRr.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>103.50 SAR</g:price>
+      <g:sale_price>60.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">423215357</guid>
+      <g:id>423215357</g:id>
+      <g:title>Penawaran Musim Dingin: 6 kg Madu Sidr Alami Premium + Hadiah Serbuk Sari Lebah</g:title>
+      <g:description>Penawaran Musim Dingin: 6 kg Madu Sidr Alami Premium + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-kg-madu-sidr-alami-premium-hadiah-serbuk-sari-lebah/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/iFlluITwBN6XG1UuD6Ba2GdLhETQRJ24WUBwfbzD.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>580.00 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>6.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2044103725</guid>
+      <g:id>2044103725</g:id>
+      <g:title>Penawaran Musim Dingin: 6 Toples Madu dengan Kacang-kacangan</g:title>
+      <g:description>Penawaran Musim Dingin: 6 Toples Madu dengan Kacang-kacangan. 3.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-toples-madu-dengan-kacang-kacangan/p2044103725?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/AEUdCTLk6flKq2S0nuLGj6R4GHyu45yLRtuBFcD5.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>540.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1701257250</guid>
+      <g:id>1701257250</g:id>
+      <g:title>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + Sarang Madu 400 g + Hadiah Serbuk Sari Lebah</g:title>
+      <g:description>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + Sarang Madu 400 g + Hadiah Serbuk Sari Lebah. 4.9 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-4-kg-madu-sidr-alami-sarang-madu-400-g-hadiah-serbuk-sari/p1701257250?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/28X9UbKutjc6CyxPihBvqV7sQswMpM5vXy8v10kq.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>500.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>4.9 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1659176580</guid>
+      <g:id>1659176580</g:id>
+      <g:title>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah</g:title>
+      <g:description>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-4-kg-madu-sidr-alami-2-kg-madu-bunga-alami-hadiah-serbuk-/p1659176580?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/eXJpxSkOLLiZ05zBWAg34CVY6hddP51fLfLzbLXR.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>419.99 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>6.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1463543429</guid>
+      <g:id>1463543429</g:id>
+      <g:title>Penawaran Musim Dingin: 2 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah</g:title>
+      <g:description>Penawaran Musim Dingin: 2 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-2-kg-madu-sidr-alami-2-kg-madu-bunga-alami-2-kg-madu-habb/p1463543429?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/HYQP8WLGyiGmT7Sctwe7nZNyCYArRohlVmCC9Efr.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>600.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>6.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1419760550</guid>
+      <g:id>1419760550</g:id>
+      <g:title>Penawaran Musim Dingin: 6 kg Madu Sidr Alami + 4 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah</g:title>
+      <g:description>Penawaran Musim Dingin: 6 kg Madu Sidr Alami + 4 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah. 10.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-kg-madu-sidr-alami-4-kg-madu-bunga-alami-hadiah-serbuk-/p1419760550?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/lsCctiVFRIkLeCfzGpTH4lAjJVXYOBDjNDH7Gjdg.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>775.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>10.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1403683377</guid>
+      <g:id>1403683377</g:id>
+      <g:title>Penawaran Musim Dingin: 6 Toples Madu Sidr Peshawari 500 g + Hadiah Serbuk Sari Lebah</g:title>
+      <g:description>Penawaran Musim Dingin: 6 Toples Madu Sidr Peshawari 500 g + Hadiah Serbuk Sari Lebah. 3.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-toples-madu-sidr-peshawari-500-g-hadiah-serbuk-sari-leb/p1403683377?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/KQtDaxhq7Cj3m1a0Ny2yZUSfqV4JN2jLyWyXSheY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>349.99 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1395738330</guid>
+      <g:id>1395738330</g:id>
+      <g:title>Madu Gunung dengan Sarang Lebah 1250 g</g:title>
+      <g:description>Madu Gunung dengan Sarang Lebah 1250 g. 1.75 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-gunung-dengan-sarang-lebah-1250-g/p1395738330?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/D9fDC0161U43EOazv5SWiMtNTkrh0P3Px871UBn1.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:sale_price>95.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1103620581</guid>
+      <g:id>1103620581</g:id>
+      <g:title>Penawaran Akhir Tahun: 4 kg Madu Sidr Alami Premium</g:title>
+      <g:description>Penawaran Akhir Tahun: 4 kg Madu Sidr Alami Premium. 4.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-akhir-tahun-4-kg-madu-sidr-alami-premium/p1103620581?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/c2512e2a-3555-4503-8c4f-00e18e58f216-500x500-BcDdDLEJOG15Z9WEf1vX59JhsCPs09OdeKjUBWGm.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>4.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1041174705</guid>
+      <g:id>1041174705</g:id>
+      <g:title>Penawaran Musim Dingin: 8 kg Madu Sidr Alami Premium + Hadiah Sarang Madu</g:title>
+      <g:description>Penawaran Musim Dingin: 8 kg Madu Sidr Alami Premium + Hadiah Sarang Madu. 8.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-8-kg-madu-sidr-alami-premium-hadiah-sarang-madu/p1041174705?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/M1SLe0IwpE4youiJ0rlcYoZvkXmhIGzCukJaM4F3.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>800.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>8.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1004145752</guid>
+      <g:id>1004145752</g:id>
+      <g:title>Penawaran Musim Dingin: 2 Toples Madu dengan Sarang Lebah, Ukuran Besar</g:title>
+      <g:description>Penawaran Musim Dingin: 2 Toples Madu dengan Sarang Lebah, Ukuran Besar. 2.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-2-toples-madu-dengan-sarang-lebah-ukuran-besar/p1004145752?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/f82yA7qonek6Q6WpONBwdH0RUVngS1DVjGnVizoz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>300.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1392084004</guid>
+      <g:id>1392084004</g:id>
+      <g:title>Madu Pinus 500 g</g:title>
+      <g:description>Madu Pinus 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-pinus-500-g/p1392084004?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/ixAVYPIN91cjzYdxqCGWXlfLaRke6QZH8O1fS9Zw.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>97.75 SAR</g:price>
+      <g:sale_price>80.50 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1610749424</guid>
       <g:id>1610749424</g:id>
@@ -53,20 +397,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">879693415</guid>
-      <g:id>879693415</g:id>
-      <g:title>Madu dengan Kacang-kacangan 500 g</g:title>
-      <g:description>Madu dengan Kacang-kacangan 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-dengan-kacang-kacangan-500-g/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/IEgh6bsbujQyp4LQuIZ0SF9ydJ8znF6rphOJZoWS.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">2048957687</guid>
       <g:id>2048957687</g:id>
       <g:title>Penawaran Musim Dingin: 10 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah</g:title>
@@ -80,21 +410,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2044103725</guid>
-      <g:id>2044103725</g:id>
-      <g:title>Penawaran Musim Dingin: 6 Toples Madu dengan Kacang-kacangan</g:title>
-      <g:description>Penawaran Musim Dingin: 6 Toples Madu dengan Kacang-kacangan. 3.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-toples-madu-dengan-kacang-kacangan/p2044103725?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/AEUdCTLk6flKq2S0nuLGj6R4GHyu45yLRtuBFcD5.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>540.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1992541699</guid>
@@ -114,55 +429,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1949696355</guid>
-      <g:id>1949696355</g:id>
-      <g:title>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah</g:title>
-      <g:description>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-4-kg-madu-sidr-alami-2-kg-madu-habbatussauda-hadiah-serbu/p1949696355?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/8lbOODX4FJdWoknd5drtu4cM3LVF0H7X3Yvkf2ya.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>620.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>6.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1745075758</guid>
-      <g:id>1745075758</g:id>
-      <g:title>Madu Putih Majra Alami 500 g</g:title>
-      <g:description>Madu Putih Majra Alami 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-putih-majra-alami-500-g/p1745075758?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/S4cLfdUAp72EM1OsvtzlhXqLmK9Lad3f9BgnIjZT.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/bLvXt0BCZI5QDaKZGtnHg1bpAfkXj34DNZE67HaM.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/nLButlSjLxQyWnaW8XALPsV9VAF7R636Ngw3mmJY.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>92.00 SAR</g:price>
-      <g:sale_price>56.35 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1086517048</guid>
-      <g:id>1086517048</g:id>
-      <g:title>Madu Semanggi Alami 500 g</g:title>
-      <g:description>Madu Semanggi Alami 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-semanggi-alami-500-g/p1086517048?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/2N2QEhr3dmZx8qJsro28XpoBGXkEQa6gPhQ1TWyN.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/5cKn3EGZg9YXeAaDl8HxiwMaBFL5QmqpWO5yaqqu.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/S0BA3I80K4EMhlfPa3PZwlVcEtWCJno0a4HWrSiT.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>50.00 SAR</g:price>
-      <g:sale_price>29.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">592690627</guid>
@@ -250,21 +516,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">850933620</guid>
-      <g:id>850933620</g:id>
-      <g:title>Madu Gunung dengan Sarang Lebah 200 g</g:title>
-      <g:description>Madu Gunung dengan Sarang Lebah 200 g. 0.7 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-gunung-dengan-sarang-lebah-200-g/p850933620?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/sNvPPiYYK8wluhrlvfJ49NlIG7s3w7w8jSYD2llL.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:sale_price>24.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.7 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">795150874</guid>
       <g:id>795150874</g:id>
       <g:title>Penawaran Akhir Tahun: 2 kg Sidr Alami + 4 kg Madu Bunga Alami</g:title>
@@ -274,68 +525,6 @@
       <g:availability>in stock</g:availability>
       <g:price>450.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>6.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">673263980</guid>
-      <g:id>673263980</g:id>
-      <g:title>Madu Bunga Alami 500 g</g:title>
-      <g:description>Madu Bunga Alami 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-bunga-alami-500-g/p673263980?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/76A19K93x9YGkGRjZFNUoGNpdb1Eptk7tU8tLXwB.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/74P8OkhafKAwKUeWTwXorR7Je4XiG5ffqdhfNRol.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/jtfoJgiDVSAnJH33QiY9w74RMUtDOmgzD6FZLqsx.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>50.00 SAR</g:price>
-      <g:sale_price>29.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">504364220</guid>
-      <g:id>504364220</g:id>
-      <g:title>Madu Gunung dengan Sarang Lebah 400 g</g:title>
-      <g:description>Madu Gunung dengan Sarang Lebah 400 g. 0.9 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-gunung-dengan-sarang-lebah-400-g/p504364220?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/DGnJiual8ntVmiOJ4fX8qOzeuycQovCjtTwn8kIV.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>60.00 SAR</g:price>
-      <g:sale_price>49.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.9 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">476216439</guid>
-      <g:id>476216439</g:id>
-      <g:title>Madu dengan Sarang Lebah 500 g</g:title>
-      <g:description>Madu dengan Sarang Lebah 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-dengan-sarang-lebah-500-g/p476216439?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/cGvAGuhqeFo5jbhRjBnrf7ramm3UdLctyIbmYPRr.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>103.50 SAR</g:price>
-      <g:sale_price>60.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">423215357</guid>
-      <g:id>423215357</g:id>
-      <g:title>Penawaran Musim Dingin: 6 kg Madu Sidr Alami Premium + Hadiah Serbuk Sari Lebah</g:title>
-      <g:description>Penawaran Musim Dingin: 6 kg Madu Sidr Alami Premium + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-kg-madu-sidr-alami-premium-hadiah-serbuk-sari-lebah/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/iFlluITwBN6XG1UuD6Ba2GdLhETQRJ24WUBwfbzD.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>580.00 SAR</g:price>
-      <g:sale_price>249.00 SAR</g:sale_price>
       <g:brand>Insaf</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
@@ -357,70 +546,6 @@
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1863085925</guid>
-      <g:id>1863085925</g:id>
-      <g:title>Madu Sidr Alami 500 g</g:title>
-      <g:description>Madu Sidr Alami 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-sidr-alami-500-g/p1863085925?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/TYXzgaTumx4akPokavrvOS6GqvfIikID73FKAIfJ.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/dEhAXsQSaw8KxxaePS0GOcSKj8VtZipvBxkllQWb.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/UwsVxpiHeQ9x1bAIpMAJsfnmuoeIBrAIb7nHveEz.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>85.00 SAR</g:price>
-      <g:sale_price>60.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1701257250</guid>
-      <g:id>1701257250</g:id>
-      <g:title>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + Sarang Madu 400 g + Hadiah Serbuk Sari Lebah</g:title>
-      <g:description>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + Sarang Madu 400 g + Hadiah Serbuk Sari Lebah. 4.9 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-4-kg-madu-sidr-alami-sarang-madu-400-g-hadiah-serbuk-sari/p1701257250?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/28X9UbKutjc6CyxPihBvqV7sQswMpM5vXy8v10kq.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>500.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>4.9 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1659176580</guid>
-      <g:id>1659176580</g:id>
-      <g:title>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah</g:title>
-      <g:description>Penawaran Musim Dingin: 4 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-4-kg-madu-sidr-alami-2-kg-madu-bunga-alami-hadiah-serbuk-/p1659176580?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/eXJpxSkOLLiZ05zBWAg34CVY6hddP51fLfLzbLXR.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>419.99 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>6.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1632724705</guid>
-      <g:id>1632724705</g:id>
-      <g:title>Madu Akasia 500 g</g:title>
-      <g:description>Madu Akasia 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-akasia-500-g/p1632724705?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/Vlsdako0rCsNcX6n9jOQaOYlDRua8Pdx0IsMNYza.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/j95jfdZPfd90gcSr2J5i4oK14DzC3jDbflfUzALV.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/jRak4ZMUJGKKefRnFO3OkGOZTwxoQZQCdXjL4jQP.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>97.75 SAR</g:price>
-      <g:sale_price>80.50 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1518558086</guid>
       <g:id>1518558086</g:id>
       <g:title>Madu Putih Majra Alami 1 kg</g:title>
@@ -434,21 +559,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1463543429</guid>
-      <g:id>1463543429</g:id>
-      <g:title>Penawaran Musim Dingin: 2 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah</g:title>
-      <g:description>Penawaran Musim Dingin: 2 kg Madu Sidr Alami + 2 kg Madu Bunga Alami + 2 kg Madu Habbatussauda + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-2-kg-madu-sidr-alami-2-kg-madu-bunga-alami-2-kg-madu-habb/p1463543429?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/HYQP8WLGyiGmT7Sctwe7nZNyCYArRohlVmCC9Efr.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>600.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>6.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1458505546</guid>
@@ -466,66 +576,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1419760550</guid>
-      <g:id>1419760550</g:id>
-      <g:title>Penawaran Musim Dingin: 6 kg Madu Sidr Alami + 4 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah</g:title>
-      <g:description>Penawaran Musim Dingin: 6 kg Madu Sidr Alami + 4 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah. 10.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-kg-madu-sidr-alami-4-kg-madu-bunga-alami-hadiah-serbuk-/p1419760550?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/lsCctiVFRIkLeCfzGpTH4lAjJVXYOBDjNDH7Gjdg.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>775.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>10.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1403683377</guid>
-      <g:id>1403683377</g:id>
-      <g:title>Penawaran Musim Dingin: 6 Toples Madu Sidr Peshawari 500 g + Hadiah Serbuk Sari Lebah</g:title>
-      <g:description>Penawaran Musim Dingin: 6 Toples Madu Sidr Peshawari 500 g + Hadiah Serbuk Sari Lebah. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-toples-madu-sidr-peshawari-500-g-hadiah-serbuk-sari-leb/p1403683377?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/KQtDaxhq7Cj3m1a0Ny2yZUSfqV4JN2jLyWyXSheY.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>349.99 SAR</g:price>
-      <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1395738330</guid>
-      <g:id>1395738330</g:id>
-      <g:title>Madu Gunung dengan Sarang Lebah 1250 g</g:title>
-      <g:description>Madu Gunung dengan Sarang Lebah 1250 g. 1.75 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-gunung-dengan-sarang-lebah-1250-g/p1395738330?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/D9fDC0161U43EOazv5SWiMtNTkrh0P3Px871UBn1.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>120.00 SAR</g:price>
-      <g:sale_price>95.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1392084004</guid>
-      <g:id>1392084004</g:id>
-      <g:title>Madu Pinus 500 g</g:title>
-      <g:description>Madu Pinus 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-pinus-500-g/p1392084004?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/ixAVYPIN91cjzYdxqCGWXlfLaRke6QZH8O1fS9Zw.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>97.75 SAR</g:price>
-      <g:sale_price>80.50 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1382517036</guid>
       <g:id>1382517036</g:id>
       <g:title>Serbuk Sari Lebah 250 g</g:title>
@@ -539,68 +589,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1103620581</guid>
-      <g:id>1103620581</g:id>
-      <g:title>Penawaran Akhir Tahun: 4 kg Madu Sidr Alami Premium</g:title>
-      <g:description>Penawaran Akhir Tahun: 4 kg Madu Sidr Alami Premium. 4.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-akhir-tahun-4-kg-madu-sidr-alami-premium/p1103620581?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/c2512e2a-3555-4503-8c4f-00e18e58f216-500x500-BcDdDLEJOG15Z9WEf1vX59JhsCPs09OdeKjUBWGm.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>4.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1041174705</guid>
-      <g:id>1041174705</g:id>
-      <g:title>Penawaran Musim Dingin: 8 kg Madu Sidr Alami Premium + Hadiah Sarang Madu</g:title>
-      <g:description>Penawaran Musim Dingin: 8 kg Madu Sidr Alami Premium + Hadiah Sarang Madu. 8.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-8-kg-madu-sidr-alami-premium-hadiah-sarang-madu/p1041174705?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/M1SLe0IwpE4youiJ0rlcYoZvkXmhIGzCukJaM4F3.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>800.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>8.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1004145752</guid>
-      <g:id>1004145752</g:id>
-      <g:title>Penawaran Musim Dingin: 2 Toples Madu dengan Sarang Lebah, Ukuran Besar</g:title>
-      <g:description>Penawaran Musim Dingin: 2 Toples Madu dengan Sarang Lebah, Ukuran Besar. 2.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-2-toples-madu-dengan-sarang-lebah-ukuran-besar/p1004145752?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/f82yA7qonek6Q6WpONBwdH0RUVngS1DVjGnVizoz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>300.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">284822488</guid>
-      <g:id>284822488</g:id>
-      <g:title>Madu Black Forest Alami 500 g</g:title>
-      <g:description>Madu Black Forest Alami 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-black-forest-alami-500-g/p284822488?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/gTW988YjcPgNXt9C8fMsk6GpAWNWVe727y7uKDLo.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/9arViHcQSnn2yDckZIKp0YGGAaTsNrn8VeTCvG8k.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/dHTQlTJZ13w4NsEIwJUVkaOVOkarqiWsOBTbMm7o.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:sale_price>50.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
   </channel>
 </rss>
