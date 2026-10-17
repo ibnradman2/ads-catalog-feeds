@@ -4,10 +4,16 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1610749424</g:id>
+      <g:title>Black Seed Honey 500 g</g:title>
+      <g:description>Black Seed Honey 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/black-seed-honey-500-g/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>293213385</g:id>
       <g:title>Lokal na Baladi Samra (Shawka) Honey 500 g</g:title>
@@ -69,12 +75,6 @@
       <g:link>https://insafcompany.sa/tl/natural-na-pulot-ng-bulaklak-1-kg/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1610749424</g:id>
-      <g:title>Black Seed Honey 500 g</g:title>
-      <g:description>Black Seed Honey 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/black-seed-honey-500-g/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>1330375378</g:id>
       <g:title>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 gm</g:title>
       <g:description>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 gm. 0.75 kg.</g:description>
@@ -133,12 +133,6 @@
       <g:title>Handog sa Taglamig: 6 kg Premium Natural na Sidr Honey + Regalong Bee Pollen</g:title>
       <g:description>Handog sa Taglamig: 6 kg Premium Natural na Sidr Honey + Regalong Bee Pollen. 6.5 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-6-kg-premium-natural-na-sidr-honey-regalong-bee-pollen/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>331122237</g:id>
-      <g:title>Matamis na may Nuts 500 g</g:title>
-      <g:description>Matamis na may Nuts 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/matamis-na-may-nuts-500-g/p331122237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2016323095</g:id>

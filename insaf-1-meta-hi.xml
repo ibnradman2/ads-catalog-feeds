@@ -4,10 +4,16 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1610749424</g:id>
+      <g:title>कलौंजी शहद 500 ग्राम</g:title>
+      <g:description>कलौंजी शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/hi/500/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>293213385</g:id>
       <g:title>स्थानीय बलदी समरा (शौका) शहद 500 ग्राम</g:title>
@@ -69,12 +75,6 @@
       <g:link>https://insafcompany.sa/hi/1/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1610749424</g:id>
-      <g:title>कलौंजी शहद 500 ग्राम</g:title>
-      <g:description>कलौंजी शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/hi/500/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1330375378</g:id>
       <g:title>न्यूज़ीलैंड मानुका शहद Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 gm</g:title>
       <g:description>न्यूज़ीलैंड मानुका शहद Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 gm. 0.75 kg.</g:description>
@@ -133,12 +133,6 @@
       <g:title>सर्दी ऑफर: 6 किलो प्रीमियम प्राकृतिक सिद्र शहद + उपहार में मधुमक्खी परागकण</g:title>
       <g:description>सर्दी ऑफर: 6 किलो प्रीमियम प्राकृतिक सिद्र शहद + उपहार में मधुमक्खी परागकण. 6.5 kg.</g:description>
       <g:link>https://insafcompany.sa/hi/6/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>331122237</g:id>
-      <g:title>मेवों की मिठाई 500 ग्राम</g:title>
-      <g:description>मेवों की मिठाई 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/hi/500/p331122237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2016323095</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1610749424</g:id>
+      <g:title>Madu Habbatussauda 500 g</g:title>
+      <g:description>Madu Habbatussauda 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-habbatussauda-500-g/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>293213385</g:id>
       <g:title>Madu Samra (Shawka) Baladi Lokal 500 g</g:title>
@@ -69,12 +75,6 @@
       <g:link>https://insafcompany.sa/ind/madu-bunga-alami-1-kg/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1610749424</g:id>
-      <g:title>Madu Habbatussauda 500 g</g:title>
-      <g:description>Madu Habbatussauda 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-habbatussauda-500-g/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1330375378</g:id>
       <g:title>Madu Manuka Selandia Baru Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 gm</g:title>
       <g:description>Madu Manuka Selandia Baru Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 gm. 0.75 kg.</g:description>
@@ -133,12 +133,6 @@
       <g:title>Penawaran Musim Dingin: 6 kg Madu Sidr Alami Premium + Hadiah Serbuk Sari Lebah</g:title>
       <g:description>Penawaran Musim Dingin: 6 kg Madu Sidr Alami Premium + Hadiah Serbuk Sari Lebah. 6.5 kg.</g:description>
       <g:link>https://insafcompany.sa/ind/penawaran-musim-dingin-6-kg-madu-sidr-alami-premium-hadiah-serbuk-sari-lebah/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>331122237</g:id>
-      <g:title>Manisan Kacang-kacangan 500 g</g:title>
-      <g:description>Manisan Kacang-kacangan 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/manisan-kacang-kacangan-500-g/p331122237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2016323095</g:id>

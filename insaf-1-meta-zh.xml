@@ -4,10 +4,16 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1610749424</g:id>
+      <g:title>黑种草籽蜂蜜 500克</g:title>
+      <g:description>黑种草籽蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/500/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>293213385</g:id>
       <g:title>本地巴拉迪萨姆拉（绍卡）蜂蜜 500克</g:title>
@@ -63,12 +69,6 @@
       <g:link>https://insafcompany.sa/zh/1/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1610749424</g:id>
-      <g:title>黑种草籽蜂蜜 500克</g:title>
-      <g:description>黑种草籽蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/500/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>907457808</g:id>
       <g:title>黑种草籽蜂蜜 2公斤</g:title>
       <g:description>黑种草籽蜂蜜 2公斤. 2.5 kg.</g:description>
@@ -109,12 +109,6 @@
       <g:title>冬季特惠：6公斤高级天然西德尔蜂蜜 + 赠品蜂花粉</g:title>
       <g:description>冬季特惠：6公斤高级天然西德尔蜂蜜 + 赠品蜂花粉. 6.5 kg.</g:description>
       <g:link>https://insafcompany.sa/zh/6/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>331122237</g:id>
-      <g:title>坚果糖果 500克</g:title>
-      <g:description>坚果糖果 500克. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/500/p331122237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>2016323095</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1610749424</g:id>
+      <g:title>کلونجی شہد 500 گرام</g:title>
+      <g:description>کلونجی شہد 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ur/500/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>293213385</g:id>
       <g:title>مقامی بلدی سمرہ (شوکہ) شہد 500 گرام</g:title>
@@ -57,12 +63,6 @@
       <g:link>https://insafcompany.sa/ur/1/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1610749424</g:id>
-      <g:title>کلونجی شہد 500 گرام</g:title>
-      <g:description>کلونجی شہد 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ur/500/p1610749424?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>907457808</g:id>
       <g:title>کلونجی شہد 2 کلو</g:title>
       <g:description>کلونجی شہد 2 کلو. 2.5 kg.</g:description>
@@ -103,12 +103,6 @@
       <g:title>سردیوں کی آفر: 6 کلو پریمیم قدرتی سدر شہد + بی پولن کا تحفہ</g:title>
       <g:description>سردیوں کی آفر: 6 کلو پریمیم قدرتی سدر شہد + بی پولن کا تحفہ. 6.5 kg.</g:description>
       <g:link>https://insafcompany.sa/ur/6/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>331122237</g:id>
-      <g:title>گری دار میوے کی مٹھائی 500 گرام</g:title>
-      <g:description>گری دار میوے کی مٹھائی 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ur/500/p331122237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2016323095</g:id>
