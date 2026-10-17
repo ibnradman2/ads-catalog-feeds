@@ -4,7 +4,7 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 22:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:22:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -75,12 +75,6 @@
       <g:link>https://insafcompany.sa/ind/madu-manuka-selandia-baru-honey-bros-premium-manuka-honey-umf-5-mgo-100-250-gm/p1149830091?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>991791783</g:id>
-      <g:title>Penawaran Madu Sidr Alami Premium, 6 Toples, Setiap Toples 500 g</g:title>
-      <g:description>Penawaran Madu Sidr Alami Premium, 6 Toples, Setiap Toples 500 g. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-madu-sidr-alami-premium-6-toples-setiap-toples-500-g/p991791783?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>907457808</g:id>
       <g:title>Madu Habbatussauda 2 kg</g:title>
       <g:description>Madu Habbatussauda 2 kg. 2.5 kg.</g:description>
@@ -109,12 +103,6 @@
       <g:title>Madu Talh Baladi Lokal 500 g</g:title>
       <g:description>Madu Talh Baladi Lokal 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/ind/madu-talh-baladi-lokal-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>723203603</g:id>
-      <g:title>Penawaran Akhir Tahun: 6 Toples Beragam, Ukuran 500 g</g:title>
-      <g:description>Penawaran Akhir Tahun: 6 Toples Beragam, Ukuran 500 g. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-akhir-tahun-6-toples-beragam-ukuran-500-g/p723203603?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>673263980</g:id>
@@ -151,18 +139,6 @@
       <g:title>Madu Samra (Shawka) Baladi Lokal 500 g</g:title>
       <g:description>Madu Samra (Shawka) Baladi Lokal 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/ind/madu-samra-shawka-baladi-lokal-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>248206439</g:id>
-      <g:title>Madu Sidr Alami 1 kg</g:title>
-      <g:description>Madu Sidr Alami 1 kg. 1.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-sidr-alami-1-kg/p248206439?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>211194009</g:id>
-      <g:title>Madu Black Forest Alami 1 kg</g:title>
-      <g:description>Madu Black Forest Alami 1 kg. 1.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-black-forest-alami-1-kg/p211194009?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2016323095</g:id>
@@ -241,12 +217,6 @@
       <g:title>Serbuk Sari Lebah 250 g</g:title>
       <g:description>Serbuk Sari Lebah 250 g. 0.75 kg.</g:description>
       <g:link>https://insafcompany.sa/ind/serbuk-sari-lebah-250-g/p1382517036?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1340987455</g:id>
-      <g:title>Penawaran Akhir Tahun: Madu Sidr Alami Premium 3 Toples dan Madu Black Forest 3 Toples, Setiap Toples 500 g</g:title>
-      <g:description>Penawaran Akhir Tahun: Madu Sidr Alami Premium 3 Toples dan Madu Black Forest 3 Toples, Setiap Toples 500 g. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/penawaran-akhir-tahun-madu-sidr-alami-premium-3-toples-dan-madu-black-forest-3-t/p1340987455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1103620581</g:id>

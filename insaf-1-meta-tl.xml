@@ -4,7 +4,7 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 22:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:22:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -75,12 +75,6 @@
       <g:link>https://insafcompany.sa/tl/new-zealand-manuka-honey-honey-bros-premium-manuka-honey-umf-5-mgo-100-250-gm/p1149830091?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>991791783</g:id>
-      <g:title>Premium Natural na Sidr Honey Offer, 6 Garapon, Bawat Garapon 500 g</g:title>
-      <g:description>Premium Natural na Sidr Honey Offer, 6 Garapon, Bawat Garapon 500 g. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/premium-natural-na-sidr-honey-offer-6-garapon-bawat-garapon-500-g/p991791783?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>907457808</g:id>
       <g:title>Black Seed Honey 2 kg</g:title>
       <g:description>Black Seed Honey 2 kg. 2.5 kg.</g:description>
@@ -109,12 +103,6 @@
       <g:title>Lokal na Baladi Talh Honey 500 g</g:title>
       <g:description>Lokal na Baladi Talh Honey 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/lokal-na-baladi-talh-honey-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>723203603</g:id>
-      <g:title>Handog sa Katapusan ng Taon: 6 Iba't Ibang Garapon, Sukat na 500 g</g:title>
-      <g:description>Handog sa Katapusan ng Taon: 6 Iba't Ibang Garapon, Sukat na 500 g. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-katapusan-ng-taon-6-iba-t-ibang-garapon-sukat-na-500-g/p723203603?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>673263980</g:id>
@@ -151,18 +139,6 @@
       <g:title>Lokal na Baladi Samra (Shawka) Honey 500 g</g:title>
       <g:description>Lokal na Baladi Samra (Shawka) Honey 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/lokal-na-baladi-samra-shawka-honey-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>248206439</g:id>
-      <g:title>Natural na Sidr Honey 1 kg</g:title>
-      <g:description>Natural na Sidr Honey 1 kg. 1.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/natural-na-sidr-honey-1-kg/p248206439?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>211194009</g:id>
-      <g:title>Natural na Black Forest Honey 1 kg</g:title>
-      <g:description>Natural na Black Forest Honey 1 kg. 1.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/natural-na-black-forest-honey-1-kg/p211194009?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2016323095</g:id>
@@ -241,12 +217,6 @@
       <g:title>Bee Pollen 250 g</g:title>
       <g:description>Bee Pollen 250 g. 0.75 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/bee-pollen-250-g/p1382517036?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1340987455</g:id>
-      <g:title>Handog sa Katapusan ng Taon: Premium Natural na Sidr Honey 3 Garapon at Black Forest Honey 3 Garapon, Bawat Garapon 500 g</g:title>
-      <g:description>Handog sa Katapusan ng Taon: Premium Natural na Sidr Honey 3 Garapon at Black Forest Honey 3 Garapon, Bawat Garapon 500 g. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-katapusan-ng-taon-premium-natural-na-sidr-honey-3-garapon-at-black-for/p1340987455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1103620581</g:id>
