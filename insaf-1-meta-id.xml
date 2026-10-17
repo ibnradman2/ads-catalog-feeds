@@ -4,10 +4,28 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 10:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>293213385</g:id>
+      <g:title>Madu Samra (Shawka) Baladi Lokal 500 g</g:title>
+      <g:description>Madu Samra (Shawka) Baladi Lokal 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-samra-shawka-baladi-lokal-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>777320175</g:id>
+      <g:title>Madu Talh Baladi Lokal 500 g</g:title>
+      <g:description>Madu Talh Baladi Lokal 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-talh-baladi-lokal-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>879693415</g:id>
+      <g:title>Madu dengan Kacang-kacangan 500 g</g:title>
+      <g:description>Madu dengan Kacang-kacangan 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/ind/madu-dengan-kacang-kacangan-500-g/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>2048957687</g:id>
       <g:title>Penawaran Musim Dingin: 10 kg Madu Bunga Alami + Hadiah Serbuk Sari Lebah</g:title>
@@ -81,12 +99,6 @@
       <g:link>https://insafcompany.sa/ind/madu-habbatussauda-2-kg/p907457808?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>879693415</g:id>
-      <g:title>Madu dengan Kacang-kacangan 500 g</g:title>
-      <g:description>Madu dengan Kacang-kacangan 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-dengan-kacang-kacangan-500-g/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>850933620</g:id>
       <g:title>Madu Gunung dengan Sarang Lebah 200 g</g:title>
       <g:description>Madu Gunung dengan Sarang Lebah 200 g. 0.7 kg.</g:description>
@@ -97,12 +109,6 @@
       <g:title>Penawaran Akhir Tahun: 2 kg Sidr Alami + 4 kg Madu Bunga Alami</g:title>
       <g:description>Penawaran Akhir Tahun: 2 kg Sidr Alami + 4 kg Madu Bunga Alami. 6.5 kg.</g:description>
       <g:link>https://insafcompany.sa/ind/penawaran-akhir-tahun-2-kg-sidr-alami-4-kg-madu-bunga-alami/p795150874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>777320175</g:id>
-      <g:title>Madu Talh Baladi Lokal 500 g</g:title>
-      <g:description>Madu Talh Baladi Lokal 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-talh-baladi-lokal-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>673263980</g:id>
@@ -133,12 +139,6 @@
       <g:title>Manisan Kacang-kacangan 500 g</g:title>
       <g:description>Manisan Kacang-kacangan 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/ind/manisan-kacang-kacangan-500-g/p331122237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>293213385</g:id>
-      <g:title>Madu Samra (Shawka) Baladi Lokal 500 g</g:title>
-      <g:description>Madu Samra (Shawka) Baladi Lokal 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/ind/madu-samra-shawka-baladi-lokal-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2016323095</g:id>

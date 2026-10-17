@@ -4,10 +4,28 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 10:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>293213385</g:id>
+      <g:title>Yerel Baladi Samra (Shawka) Balı 500 g</g:title>
+      <g:description>Yerel Baladi Samra (Shawka) Balı 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tr/yerel-baladi-samra-shawka-bal-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>777320175</g:id>
+      <g:title>Yerel Baladi Talh Balı 500 g</g:title>
+      <g:description>Yerel Baladi Talh Balı 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tr/yerel-baladi-talh-bal-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>879693415</g:id>
+      <g:title>Kuruyemişli Bal 500 g</g:title>
+      <g:description>Kuruyemişli Bal 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tr/kuruyemi-li-bal-500-g/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2048957687</g:id>
       <g:title>Kış Fırsatı: 10 kg Doğal Çiçek Balı + Hediye Arı Poleni</g:title>
@@ -81,12 +99,6 @@
       <g:link>https://insafcompany.sa/tr/rek-otlu-bal-2-kg/p907457808?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>879693415</g:id>
-      <g:title>Kuruyemişli Bal 500 g</g:title>
-      <g:description>Kuruyemişli Bal 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tr/kuruyemi-li-bal-500-g/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>850933620</g:id>
       <g:title>Petekli Dağ Balı 200 g</g:title>
       <g:description>Petekli Dağ Balı 200 g. 0.7 kg.</g:description>
@@ -97,12 +109,6 @@
       <g:title>Yıl Sonu Fırsatı: 2 kg Doğal Sidr + 4 kg Doğal Çiçek Balı</g:title>
       <g:description>Yıl Sonu Fırsatı: 2 kg Doğal Sidr + 4 kg Doğal Çiçek Balı. 6.5 kg.</g:description>
       <g:link>https://insafcompany.sa/tr/y-l-sonu-f-rsat-2-kg-do-al-sidr-4-kg-do-al-i-ek-bal/p795150874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>777320175</g:id>
-      <g:title>Yerel Baladi Talh Balı 500 g</g:title>
-      <g:description>Yerel Baladi Talh Balı 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tr/yerel-baladi-talh-bal-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>673263980</g:id>
@@ -133,12 +139,6 @@
       <g:title>Kuruyemişli Tatlı 500 g</g:title>
       <g:description>Kuruyemişli Tatlı 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/tr/kuruyemi-li-tatl-500-g/p331122237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>293213385</g:id>
-      <g:title>Yerel Baladi Samra (Shawka) Balı 500 g</g:title>
-      <g:description>Yerel Baladi Samra (Shawka) Balı 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tr/yerel-baladi-samra-shawka-bal-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2016323095</g:id>

@@ -4,10 +4,54 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 10:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">293213385</guid>
+      <g:id>293213385</g:id>
+      <g:title>Miel de Samra (Shawka) baladi local 500 g</g:title>
+      <g:description>Miel de Samra (Shawka) baladi local 500 g. Miel de Samra. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/fr/miel-de-samra-shawka-baladi-local-500-g/p293213385?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/Fk9cbzImM9qm6aDx6t5ekpeka8gYiggppVJJ6MD1.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">777320175</guid>
+      <g:id>777320175</g:id>
+      <g:title>Miel de Talh baladi local 500 g</g:title>
+      <g:description>Miel de Talh baladi local 500 g. Miel de Talh. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/fr/miel-de-talh-baladi-local-500-g/p777320175?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/QcR26F1nWDbiljSMb5egR0oXJsGqNIEl8NUii2fj.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">879693415</guid>
+      <g:id>879693415</g:id>
+      <g:title>Miel aux fruits à coque 500 g</g:title>
+      <g:description>Miel aux fruits à coque 500 g. Autres miels. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/fr/miel-aux-fruits-coque-500-g/p879693415?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/IEgh6bsbujQyp4LQuIZ0SF9ydJ8znF6rphOJZoWS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2048957687</guid>
       <g:id>2048957687</g:id>
@@ -206,20 +250,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">879693415</guid>
-      <g:id>879693415</g:id>
-      <g:title>Miel aux fruits à coque 500 g</g:title>
-      <g:description>Miel aux fruits à coque 500 g. Autres miels. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/fr/miel-aux-fruits-coque-500-g/p879693415?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/o60WfHUqtfIkkrjwcp4LNyoTwkwDYYRn1RQMGZsK.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">850933620</guid>
       <g:id>850933620</g:id>
       <g:title>Miel de montagne en rayon 200 g</g:title>
@@ -249,21 +279,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">777320175</guid>
-      <g:id>777320175</g:id>
-      <g:title>Miel de Talh baladi local 500 g</g:title>
-      <g:description>Miel de Talh baladi local 500 g. Miel de Talh. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/fr/miel-de-talh-baladi-local-500-g/p777320175?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/eM54t40s1UBNDXhP9EQNiKSLtzk7BJIsBnxOlAgv.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">673263980</guid>
       <g:id>673263980</g:id>
@@ -341,21 +356,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">293213385</guid>
-      <g:id>293213385</g:id>
-      <g:title>Miel de Samra (Shawka) baladi local 500 g</g:title>
-      <g:description>Miel de Samra (Shawka) baladi local 500 g. Miel de Samra. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/fr/miel-de-samra-shawka-baladi-local-500-g/p293213385?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/AnGZY6J3ntCcwZ4586d9tMQ8ycelDz7JgBRXXSoS.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2016323095</guid>
       <g:id>2016323095</g:id>

@@ -4,10 +4,54 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 10:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:28:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">293213385</guid>
+      <g:id>293213385</g:id>
+      <g:title>本地巴拉迪萨姆拉（绍卡）蜂蜜 500克</g:title>
+      <g:description>本地巴拉迪萨姆拉（绍卡）蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/500/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/Fk9cbzImM9qm6aDx6t5ekpeka8gYiggppVJJ6MD1.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">777320175</guid>
+      <g:id>777320175</g:id>
+      <g:title>本地巴拉迪塔勒赫蜂蜜 500克</g:title>
+      <g:description>本地巴拉迪塔勒赫蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/500/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/QcR26F1nWDbiljSMb5egR0oXJsGqNIEl8NUii2fj.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">879693415</guid>
+      <g:id>879693415</g:id>
+      <g:title>坚果蜂蜜 500克</g:title>
+      <g:description>坚果蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/500/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/IEgh6bsbujQyp4LQuIZ0SF9ydJ8znF6rphOJZoWS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>90.00 SAR</g:price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">2048957687</guid>
       <g:id>2048957687</g:id>
@@ -131,20 +175,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">879693415</guid>
-      <g:id>879693415</g:id>
-      <g:title>坚果蜂蜜 500克</g:title>
-      <g:description>坚果蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/500/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/o60WfHUqtfIkkrjwcp4LNyoTwkwDYYRn1RQMGZsK.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>90.00 SAR</g:price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">850933620</guid>
       <g:id>850933620</g:id>
       <g:title>山地巢蜜 200克</g:title>
@@ -173,21 +203,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">777320175</guid>
-      <g:id>777320175</g:id>
-      <g:title>本地巴拉迪塔勒赫蜂蜜 500克</g:title>
-      <g:description>本地巴拉迪塔勒赫蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/500/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/eM54t40s1UBNDXhP9EQNiKSLtzk7BJIsBnxOlAgv.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">673263980</guid>
@@ -261,21 +276,6 @@
       <g:availability>in stock</g:availability>
       <g:price>74.75 SAR</g:price>
       <g:sale_price>57.50 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">293213385</guid>
-      <g:id>293213385</g:id>
-      <g:title>本地巴拉迪萨姆拉（绍卡）蜂蜜 500克</g:title>
-      <g:description>本地巴拉迪萨姆拉（绍卡）蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/500/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/AnGZY6J3ntCcwZ4586d9tMQ8ycelDz7JgBRXXSoS.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
       <g:brand>Insaf</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
