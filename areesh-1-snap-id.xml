@@ -4,10 +4,26 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 17:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:48:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">311501392</guid>
+      <g:id>311501392</g:id>
+      <g:title>8 Kilo Madu Bunga Alami</g:title>
+      <g:description>8 Kilo Madu Bunga Alami. 8.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/8-kilo-madu-bunga-alami/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/84mx4jpAHvlGOJFf5MWPTunasPWZsRTaRObXkf3x.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>320.00 SAR</g:price>
+      <g:sale_price>196.01 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003008</g:item_group_id>
+      <g:shipping_weight>8.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1256707703</guid>
       <g:id>1256707703</g:id>
@@ -40,22 +56,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041045001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">311501392</guid>
-      <g:id>311501392</g:id>
-      <g:title>8 Kilo Madu Bunga Alami</g:title>
-      <g:description>8 Kilo Madu Bunga Alami. 8.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/8-kilo-madu-bunga-alami/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/84mx4jpAHvlGOJFf5MWPTunasPWZsRTaRObXkf3x.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>320.00 SAR</g:price>
-      <g:sale_price>196.01 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003008</g:item_group_id>
-      <g:shipping_weight>8.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1303550999</guid>

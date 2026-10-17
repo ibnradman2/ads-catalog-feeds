@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 17:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:48:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>311501392</g:id>
+      <g:title>8 Kilo Madu Bunga Alami</g:title>
+      <g:description>8 Kilo Madu Bunga Alami. 8.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/8-kilo-madu-bunga-alami/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1256707703</g:id>
       <g:title>Satu Kemasan Madu Majra Putih (Mardisia) + Satu Kemasan Gratis</g:title>
@@ -19,12 +25,6 @@
       <g:title>Madu Manuka Selandia Baru Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
       <g:description>Madu Manuka Selandia Baru Homeland Premium UMF 5+, MGO 100+, 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>311501392</g:id>
-      <g:title>8 Kilo Madu Bunga Alami</g:title>
-      <g:description>8 Kilo Madu Bunga Alami. 8.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/8-kilo-madu-bunga-alami/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1303550999</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 18:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:11:32 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>216808863</g:id>
+      <g:title>Madu Habbatussauda Hitam 5 Kilo + (Gratis Ongkir)</g:title>
+      <g:description>Madu Habbatussauda Hitam 5 Kilo + (Gratis Ongkir). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-habbatussauda-hitam-5-kilo-gratis-ongkir/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1726967627</g:id>
+      <g:title>Dua Kemasan Madu dengan Kacang-kacangan 500 Gram</g:title>
+      <g:description>Dua Kemasan Madu dengan Kacang-kacangan 500 Gram. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/dua-kemasan-madu-dengan-kacang-kacangan-500-gram/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>112154521</g:id>
       <g:title>Kurma Ajwa Aliyah Madinah Premium (5) Kilo (Gratis Ongkir)</g:title>
@@ -75,22 +87,10 @@
       <g:link>https://asalaljebal.sa/ind/2-kemasan-madu-sidr-gunung-500-gram-setengah-kilo-talbina-nabawi-hadiah/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>216808863</g:id>
-      <g:title>Madu Habbatussauda Hitam 5 Kilo + (Gratis Ongkir)</g:title>
-      <g:description>Madu Habbatussauda Hitam 5 Kilo + (Gratis Ongkir). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-habbatussauda-hitam-5-kilo-gratis-ongkir/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1303334119</g:id>
       <g:title>Galon Madu Sidr Kashmir 3 Kilo + Galon Madu Bunga Semanggi 3 Kilo</g:title>
       <g:description>Galon Madu Sidr Kashmir 3 Kilo + Galon Madu Bunga Semanggi 3 Kilo. 6.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/galon-madu-sidr-kashmir-3-kilo-galon-madu-bunga-semanggi-3-kilo/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1726967627</g:id>
-      <g:title>Dua Kemasan Madu dengan Kacang-kacangan 500 Gram</g:title>
-      <g:description>Dua Kemasan Madu dengan Kacang-kacangan 500 Gram. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/dua-kemasan-madu-dengan-kacang-kacangan-500-gram/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>425796384</g:id>

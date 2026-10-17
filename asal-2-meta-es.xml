@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 16 Oct 2026 18:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:11:32 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>216808863</g:id>
+      <g:title>Miel de Nigella (comino negro) 5 kg + (envío gratis)</g:title>
+      <g:description>Miel de Nigella (comino negro) 5 kg + (envío gratis). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-nigella-comino-negro-5-kg-env-o-gratis/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1726967627</g:id>
+      <g:title>Dos envases de miel con frutos secos 500 gramos</g:title>
+      <g:description>Dos envases de miel con frutos secos 500 gramos. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/dos-envases-de-miel-con-frutos-secos-500-gramos/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>112154521</g:id>
       <g:title>Dátiles Ajwa de Al Aliyah de Medina, calidad superior, 5 kg (envío gratis)</g:title>
@@ -75,22 +87,10 @@
       <g:link>https://asalaljebal.sa/es/2-frascos-de-miel-de-sidr-de-monta-a-de-500-g-500-g-de-talbina-del-profeta-regal/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>216808863</g:id>
-      <g:title>Miel de Nigella (comino negro) 5 kg + (envío gratis)</g:title>
-      <g:description>Miel de Nigella (comino negro) 5 kg + (envío gratis). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-nigella-comino-negro-5-kg-env-o-gratis/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1303334119</g:id>
       <g:title>Garrafa de miel de Sidr de Cachemira de 3 kg + garrafa de miel de flor de trébol de 3 kg</g:title>
       <g:description>Garrafa de miel de Sidr de Cachemira de 3 kg + garrafa de miel de flor de trébol de 3 kg. 6.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/garrafa-de-miel-de-sidr-de-cachemira-de-3-kg-garrafa-de-miel-de-flor-de-tr-bol-d/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1726967627</g:id>
-      <g:title>Dos envases de miel con frutos secos 500 gramos</g:title>
-      <g:description>Dos envases de miel con frutos secos 500 gramos. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/dos-envases-de-miel-con-frutos-secos-500-gramos/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>425796384</g:id>
