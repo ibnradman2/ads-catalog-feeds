@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 15:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:00:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>سوپ مصالحہ کے 4 ڈبے</g:title>
+      <g:description>سوپ مصالحہ کے 4 ڈبے. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1232653674</g:id>
+      <g:title>دو پیکٹ سپر نقیل زعفران 10 گرام</g:title>
+      <g:description>دو پیکٹ سپر نقیل زعفران 10 گرام. 0.51 kg.</g:description>
+      <g:link>https://hayala.co/ur/10/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1939267679</g:id>
       <g:title>24 پیکٹ سپر نقیل زعفران 24 گرام + مفت ڈیلیوری</g:title>
@@ -73,12 +85,6 @@
       <g:title>12 پیکٹ سپر نقیل زعفران 12 گرام + مفت ڈیلیوری</g:title>
       <g:description>12 پیکٹ سپر نقیل زعفران 12 گرام + مفت ڈیلیوری. 0.512 kg.</g:description>
       <g:link>https://hayala.co/ur/12-12/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1232653674</g:id>
-      <g:title>دو پیکٹ سپر نقیل زعفران 10 گرام</g:title>
-      <g:description>دو پیکٹ سپر نقیل زعفران 10 گرام. 0.51 kg.</g:description>
-      <g:link>https://hayala.co/ur/10/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>360158781</g:id>
@@ -739,12 +745,6 @@
       <g:title>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری)</g:title>
       <g:description>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
       <g:link>https://hayala.co/ur/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>سوپ مصالحہ کے 4 ڈبے</g:title>
-      <g:description>سوپ مصالحہ کے 4 ڈبے. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>528140923</g:id>

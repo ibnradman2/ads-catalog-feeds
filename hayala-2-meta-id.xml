@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 15:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:00:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>Rempah Sup 4 Kotak</g:title>
+      <g:description>Rempah Sup 4 Kotak. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/rempah-sup-4-kotak/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1232653674</g:id>
+      <g:title>Dua kemasan saffron Super Negin 10 gram</g:title>
+      <g:description>Dua kemasan saffron Super Negin 10 gram. 0.51 kg.</g:description>
+      <g:link>https://hayala.co/ind/dua-kemasan-saffron-super-negin-10-gram/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1939267679</g:id>
       <g:title>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir</g:title>
@@ -61,12 +73,6 @@
       <g:title>12 kemasan saffron Super Negin 12 gram + pengiriman gratis</g:title>
       <g:description>12 kemasan saffron Super Negin 12 gram + pengiriman gratis. 0.512 kg.</g:description>
       <g:link>https://hayala.co/ind/12-kemasan-saffron-super-negin-12-gram-pengiriman-gratis/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1232653674</g:id>
-      <g:title>Dua kemasan saffron Super Negin 10 gram</g:title>
-      <g:description>Dua kemasan saffron Super Negin 10 gram. 0.51 kg.</g:description>
-      <g:link>https://hayala.co/ind/dua-kemasan-saffron-super-negin-10-gram/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>360158781</g:id>
@@ -781,12 +787,6 @@
       <g:title>Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm 1 Kilo</g:title>
       <g:description>Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://hayala.co/ind/kapulaga-amerika-grade-satu-extra-jumbo-no-1-ketebalan-8-mm-1-kilo/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>Rempah Sup 4 Kotak</g:title>
-      <g:description>Rempah Sup 4 Kotak. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/rempah-sup-4-kotak/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>528140923</g:id>
