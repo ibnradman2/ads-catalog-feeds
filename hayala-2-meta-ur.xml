@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 02:47:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:09:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>10846494</g:id>
+      <g:title>امریکی الائچی نمبر 2 درجہ اول، موٹائی 7 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری)</g:title>
+      <g:description>امریکی الائچی نمبر 2 درجہ اول، موٹائی 7 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/2-7-2-5/p10846494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1270839426</g:id>
       <g:title>آفر امریکی الائچی درجہ اول ایکسٹرا جمبو نمبر 1 موٹائی 8 ملی میٹر 5 کلو کارٹن (مفت ڈیلیوری)</g:title>
@@ -97,12 +103,6 @@
       <g:title>گفٹ باکس: سپر نقیل زعفران اوقیہ 50 گرام</g:title>
       <g:description>گفٹ باکس: سپر نقیل زعفران اوقیہ 50 گرام. 0.55 kg.</g:description>
       <g:link>https://hayala.co/ur/50/p1376854197?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>10846494</g:id>
-      <g:title>امریکی الائچی نمبر 2 درجہ اول، موٹائی 7 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>امریکی الائچی نمبر 2 درجہ اول، موٹائی 7 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/2-7-2-5/p10846494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2106298714</g:id>
