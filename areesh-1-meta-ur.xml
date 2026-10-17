@@ -4,21 +4,27 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:47:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:02:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <g:id>146284993</g:id>
-      <g:title>3 کلو قدرتی سدر شہد</g:title>
-      <g:description>3 کلو قدرتی سدر شہد. 3.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/3/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>2047975632</g:id>
+      <g:title>12 کلو قدرتی پھولوں کا شہد</g:title>
+      <g:description>12 کلو قدرتی پھولوں کا شہد. 12.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/12/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>311501392</g:id>
       <g:title>8 کلو قدرتی پھولوں کا شہد</g:title>
       <g:description>8 کلو قدرتی پھولوں کا شہد. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/8/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>146284993</g:id>
+      <g:title>3 کلو قدرتی سدر شہد</g:title>
+      <g:description>3 کلو قدرتی سدر شہد. 3.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/3/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1256707703</g:id>
@@ -487,12 +493,6 @@
       <g:title>5 کلو کشمیری سدر شہد + مفت ڈیلیوری</g:title>
       <g:description>5 کلو کشمیری سدر شہد + مفت ڈیلیوری. 5.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/5/p1559827680?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2047975632</g:id>
-      <g:title>12 کلو قدرتی پھولوں کا شہد</g:title>
-      <g:description>12 کلو قدرتی پھولوں کا شہد. 12.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/12/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>827374682</g:id>

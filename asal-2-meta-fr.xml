@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:01:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1162802741</g:id>
+      <g:title>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert</g:title>
+      <g:description>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/deux-pots-de-m-lange-de-1-kg-un-pot-de-cuill-res-m-lange-offert/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>112154521</g:id>
       <g:title>Dattes Ajwa de luxe d’Al Aliya Médine (5) kg (livraison gratuite)</g:title>
@@ -1261,12 +1267,6 @@
       <g:title>5 kg de miel de nigelle + 2 pots de boisson au miel, gingembre, citron et curcuma (470 g) + graines de nigelle</g:title>
       <g:description>5 kg de miel de nigelle + 2 pots de boisson au miel, gingembre, citron et curcuma (470 g) + graines de nigelle. 6.44 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/5-kg-de-miel-de-nigelle-2-pots-de-boisson-au-miel-gingembre-citron-et-curcuma-47/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1162802741</g:id>
-      <g:title>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert</g:title>
-      <g:description>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/deux-pots-de-m-lange-de-1-kg-un-pot-de-cuill-res-m-lange-offert/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1590568579</g:id>
