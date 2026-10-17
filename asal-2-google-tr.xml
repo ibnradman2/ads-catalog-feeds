@@ -4,10 +4,30 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 20:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:10:45 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1590568579</guid>
+      <g:id>1590568579</g:id>
+      <g:title>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği</g:title>
+      <g:description>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği. Bal İçeceği. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kavanoz-zencefilli-limonlu-ve-zerde-all-bal-i-ece-i/p1590568579?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/vSetQXxwOstzPlo4ZWxQKK4XNMAzveez8Pe4D0mR.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/pH1EMCxmwr1VeUbm5IIOiQmQ6gIXVzXOobMN1ePL.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/5z47kzkPgJ16ggiwnWYlk9eYZOpdGwZEnyvwe15l.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/9EvKP5BBB97jPaARPwDdKQotZPZEZNNCtWhfDUkd.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/GXg3JwHQYAgC1jt4yLwICuhqSfzzOwVT3sQw5K2q.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>210.00 SAR</g:price>
+      <g:sale_price>179.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>004-1050001</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1590568579</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Bal İçeceği</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">646285546</guid>
       <g:id>646285546</g:id>
@@ -3335,26 +3355,6 @@
       <g:item_group_id>0140101018</g:item_group_id>
       <g:shipping_weight>6.44 kg</g:shipping_weight>
     <g:mpn>1688919538</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Bal İçeceği</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1590568579</guid>
-      <g:id>1590568579</g:id>
-      <g:title>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği</g:title>
-      <g:description>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği. Bal İçeceği. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kavanoz-zencefilli-limonlu-ve-zerde-all-bal-i-ece-i/p1590568579?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/vSetQXxwOstzPlo4ZWxQKK4XNMAzveez8Pe4D0mR.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/pH1EMCxmwr1VeUbm5IIOiQmQ6gIXVzXOobMN1ePL.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/5z47kzkPgJ16ggiwnWYlk9eYZOpdGwZEnyvwe15l.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/9EvKP5BBB97jPaARPwDdKQotZPZEZNNCtWhfDUkd.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/GXg3JwHQYAgC1jt4yLwICuhqSfzzOwVT3sQw5K2q.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>210.00 SAR</g:price>
-      <g:sale_price>179.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>004-1050001</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1590568579</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Bal İçeceği</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1190839815</guid>
       <g:id>1190839815</g:id>

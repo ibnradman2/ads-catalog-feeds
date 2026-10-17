@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 20:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:10:45 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1590568579</g:id>
+      <g:title>3罐姜柠檬姜黄蜂蜜饮品</g:title>
+      <g:description>3罐姜柠檬姜黄蜂蜜饮品. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p1590568579?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>646285546</g:id>
       <g:title>4罐新西兰麦卢卡蜂蜜 UMF+5, MGO 100+, 250克</g:title>
@@ -1279,12 +1285,6 @@
       <g:title>5公斤黑种草蜂蜜 + 2罐姜柠檬姜黄蜂蜜饮品（470克）+ 黑种草籽</g:title>
       <g:description>5公斤黑种草蜂蜜 + 2罐姜柠檬姜黄蜂蜜饮品（470克）+ 黑种草籽. 6.44 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1590568579</g:id>
-      <g:title>3罐姜柠檬姜黄蜂蜜饮品</g:title>
-      <g:description>3罐姜柠檬姜黄蜂蜜饮品. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/3/p1590568579?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1190839815</g:id>

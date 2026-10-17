@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 20:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:10:45 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1590568579</g:id>
+      <g:title>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği</g:title>
+      <g:description>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kavanoz-zencefilli-limonlu-ve-zerde-all-bal-i-ece-i/p1590568579?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>646285546</g:id>
       <g:title>4 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g</g:title>
@@ -1273,12 +1279,6 @@
       <g:title>5 Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu</g:title>
       <g:description>5 Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu. 6.44 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/5-kilo-rek-otlu-bal-2-paket-zencefilli-limonlu-ve-zerde-all-bal-i-ece-i-470-g-re/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1590568579</g:id>
-      <g:title>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği</g:title>
-      <g:description>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kavanoz-zencefilli-limonlu-ve-zerde-all-bal-i-ece-i/p1590568579?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1190839815</g:id>
