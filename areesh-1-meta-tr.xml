@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 02:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:14:28 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>146284993</g:id>
+      <g:title>3 Kilo Doğal Sidr Balı</g:title>
+      <g:description>3 Kilo Doğal Sidr Balı. 3.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/3-kilo-do-al-sidr-bal/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>2047975632</g:id>
+      <g:title>12 Kilo Doğal Çiçek Balı</g:title>
+      <g:description>12 Kilo Doğal Çiçek Balı. 12.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/12-kilo-do-al-i-ek-bal/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1256707703</g:id>
       <g:title>Macar Beyaz Balı (Mardisia) Ambalajı + Bir Ambalaj Hediye</g:title>
@@ -45,22 +57,10 @@
       <g:link>https://areesh.sa/tr/2-kilo-do-al-sidr-bal-2-kilo-do-al-i-ek-bal-2-kilo-avrupa-kara-orman-bal/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>2047975632</g:id>
-      <g:title>12 Kilo Doğal Çiçek Balı</g:title>
-      <g:description>12 Kilo Doğal Çiçek Balı. 12.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/12-kilo-do-al-i-ek-bal/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>311501392</g:id>
       <g:title>8 Kilo Doğal Çiçek Balı</g:title>
       <g:description>8 Kilo Doğal Çiçek Balı. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/8-kilo-do-al-i-ek-bal/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>146284993</g:id>
-      <g:title>3 Kilo Doğal Sidr Balı</g:title>
-      <g:description>3 Kilo Doğal Sidr Balı. 3.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/3-kilo-do-al-sidr-bal/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1206195242</g:id>

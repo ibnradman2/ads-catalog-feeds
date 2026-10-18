@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 02:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:14:28 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>146284993</g:id>
+      <g:title>3 Kilo Madu Sidr Alami</g:title>
+      <g:description>3 Kilo Madu Sidr Alami. 3.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/3-kilo-madu-sidr-alami/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>2047975632</g:id>
+      <g:title>12 Kilo Madu Bunga Alami</g:title>
+      <g:description>12 Kilo Madu Bunga Alami. 12.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/12-kilo-madu-bunga-alami/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1256707703</g:id>
       <g:title>Satu Kemasan Madu Majra Putih (Mardisia) + Satu Kemasan Gratis</g:title>
@@ -45,22 +57,10 @@
       <g:link>https://areesh.sa/ind/2-kilo-madu-sidr-alami-2-kilo-madu-bunga-alami-2-kilo-madu-hutan-hitam-eropa/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>2047975632</g:id>
-      <g:title>12 Kilo Madu Bunga Alami</g:title>
-      <g:description>12 Kilo Madu Bunga Alami. 12.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/12-kilo-madu-bunga-alami/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>311501392</g:id>
       <g:title>8 Kilo Madu Bunga Alami</g:title>
       <g:description>8 Kilo Madu Bunga Alami. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/8-kilo-madu-bunga-alami/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>146284993</g:id>
-      <g:title>3 Kilo Madu Sidr Alami</g:title>
-      <g:description>3 Kilo Madu Sidr Alami. 3.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/3-kilo-madu-sidr-alami/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1206195242</g:id>
