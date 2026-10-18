@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 09:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:09:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1519634473</g:id>
+      <g:title>本地萨拉姆巢蜜 1公斤</g:title>
+      <g:description>本地萨拉姆巢蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1914385815</g:id>
+      <g:title>三叶草花蜂蜜 5 公斤桶装批发价（免费配送）</g:title>
+      <g:description>三叶草花蜂蜜 5 公斤桶装批发价（免费配送）. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1445425444</g:id>
+      <g:title>哈德拉毛多安西德尔蜂蜜 5 公斤</g:title>
+      <g:description>哈德拉毛多安西德尔蜂蜜 5 公斤. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>381563450</g:id>
+      <g:title>蜂王浆干粉 30克 大包装</g:title>
+      <g:description>蜂王浆干粉 30克 大包装. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/30/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1750448135</g:id>
       <g:title>哈德拉毛多安西德尔蜂蜜 7 公斤</g:title>
@@ -451,30 +475,6 @@
       <g:title>2公斤特级塔勒蜂蜜 + 免运费</g:title>
       <g:description>2公斤特级塔勒蜂蜜 + 免运费. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/2/p1702586333?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>381563450</g:id>
-      <g:title>蜂王浆干粉 30克 大包装</g:title>
-      <g:description>蜂王浆干粉 30克 大包装. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/30/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1445425444</g:id>
-      <g:title>哈德拉毛多安西德尔蜂蜜 5 公斤</g:title>
-      <g:description>哈德拉毛多安西德尔蜂蜜 5 公斤. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/5/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1519634473</g:id>
-      <g:title>本地萨拉姆巢蜜 1公斤</g:title>
-      <g:description>本地萨拉姆巢蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1914385815</g:id>
-      <g:title>三叶草花蜂蜜 5 公斤桶装批发价（免费配送）</g:title>
-      <g:description>三叶草花蜂蜜 5 公斤桶装批发价（免费配送）. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/5/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1079393632</g:id>

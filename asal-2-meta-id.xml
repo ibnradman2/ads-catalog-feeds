@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 09:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:09:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1519634473</g:id>
+      <g:title>Sarang Madu Salam Lokal 1 Kilo</g:title>
+      <g:description>Sarang Madu Salam Lokal 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/sarang-madu-salam-lokal-1-kilo/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1914385815</g:id>
+      <g:title>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir)</g:title>
+      <g:description>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-bunga-semanggi-barsim-galon-5-kg-harga-grosir-gratis-ongkir/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1445425444</g:id>
+      <g:title>Madu Sidr Hadhrami Do'an 5 kg</g:title>
+      <g:description>Madu Sidr Hadhrami Do'an 5 kg. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-hadhrami-do-an-5-kg/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>381563450</g:id>
+      <g:title>Bubuk Royal Jelly - 30 Gram</g:title>
+      <g:description>Bubuk Royal Jelly - 30 Gram. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/bubuk-royal-jelly-30-gram/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1750448135</g:id>
       <g:title>Madu Sidr Hadhrami Do'an 7 kg</g:title>
@@ -445,30 +469,6 @@
       <g:title>2 Kilo Madu Talh Premium + Gratis Ongkir</g:title>
       <g:description>2 Kilo Madu Talh Premium + Gratis Ongkir. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/2-kilo-madu-talh-premium-gratis-ongkir/p1702586333?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>381563450</g:id>
-      <g:title>Bubuk Royal Jelly - 30 Gram</g:title>
-      <g:description>Bubuk Royal Jelly - 30 Gram. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/bubuk-royal-jelly-30-gram/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1445425444</g:id>
-      <g:title>Madu Sidr Hadhrami Do'an 5 kg</g:title>
-      <g:description>Madu Sidr Hadhrami Do'an 5 kg. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-hadhrami-do-an-5-kg/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1519634473</g:id>
-      <g:title>Sarang Madu Salam Lokal 1 Kilo</g:title>
-      <g:description>Sarang Madu Salam Lokal 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/sarang-madu-salam-lokal-1-kilo/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1914385815</g:id>
-      <g:title>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir)</g:title>
-      <g:description>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-bunga-semanggi-barsim-galon-5-kg-harga-grosir-gratis-ongkir/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1079393632</g:id>
