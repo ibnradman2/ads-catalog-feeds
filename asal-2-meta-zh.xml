@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:11:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>蜜蜂花粉 1公斤</g:title>
+      <g:description>蜜蜂花粉 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>577031151</g:id>
+      <g:title>约旦蜂花粉 100克</g:title>
+      <g:description>约旦蜂花粉 100克. 0.6 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/100/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>371437637</g:id>
+      <g:title>西班牙栗子蜂蜜 500克</g:title>
+      <g:description>西班牙栗子蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>63390305</g:id>
       <g:title>特级塔勒蜂蜜 10公斤桶装 批发价</g:title>
@@ -375,28 +393,10 @@
       <g:link>https://asalaljebal.sa/zh/1-1/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>371437637</g:id>
-      <g:title>西班牙栗子蜂蜜 500克</g:title>
-      <g:description>西班牙栗子蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>577031151</g:id>
-      <g:title>约旦蜂花粉 100克</g:title>
-      <g:description>约旦蜂花粉 100克. 0.6 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/100/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>633389672</g:id>
       <g:title>蜜蜂花粉 250克</g:title>
       <g:description>蜜蜂花粉 250克. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>蜜蜂花粉 1公斤</g:title>
-      <g:description>蜜蜂花粉 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1702586333</g:id>

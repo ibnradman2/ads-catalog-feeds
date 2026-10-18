@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:11:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>Pollen ng Bubuyog 1 Kilo</g:title>
+      <g:description>Pollen ng Bubuyog 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-1-kilo/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>577031151</g:id>
+      <g:title>Pollen ng Bubuyog mula sa Jordan, 100 Gramo</g:title>
+      <g:description>Pollen ng Bubuyog mula sa Jordan, 100 Gramo. 0.6 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-mula-sa-jordan-100-gramo/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>371437637</g:id>
+      <g:title>Pulot ng Kastanyas mula sa Espanya, 500 Gramo</g:title>
+      <g:description>Pulot ng Kastanyas mula sa Espanya, 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-kastanyas-mula-sa-espanya-500-gramo/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>63390305</g:id>
       <g:title>Premium Talh Honey 10 Kilo Galon sa Presyong Pakyawan</g:title>
@@ -375,28 +393,10 @@
       <g:link>https://asalaljebal.sa/tl/1-kilo-ng-pulot-na-sidr-ng-bundok-1-kilo-libreng-pagpapadala/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>371437637</g:id>
-      <g:title>Pulot ng Kastanyas mula sa Espanya, 500 Gramo</g:title>
-      <g:description>Pulot ng Kastanyas mula sa Espanya, 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-kastanyas-mula-sa-espanya-500-gramo/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>577031151</g:id>
-      <g:title>Pollen ng Bubuyog mula sa Jordan, 100 Gramo</g:title>
-      <g:description>Pollen ng Bubuyog mula sa Jordan, 100 Gramo. 0.6 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-mula-sa-jordan-100-gramo/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>633389672</g:id>
       <g:title>Pollen ng Bubuyog 250 gramo</g:title>
       <g:description>Pollen ng Bubuyog 250 gramo. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-250-gramo/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>Pollen ng Bubuyog 1 Kilo</g:title>
-      <g:description>Pollen ng Bubuyog 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-1-kilo/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1702586333</g:id>

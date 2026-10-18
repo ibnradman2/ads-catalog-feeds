@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:11:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو</g:title>
+      <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>577031151</g:id>
+      <g:title>اردنی بی پولن (زرِ گل) 100 گرام</g:title>
+      <g:description>اردنی بی پولن (زرِ گل) 100 گرام. 0.6 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/100/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>371437637</g:id>
+      <g:title>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد 500 گرام</g:title>
+      <g:description>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>275181506</g:id>
       <g:title>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے</g:title>
@@ -285,28 +303,10 @@
       <g:link>https://asalaljebal.sa/ur/1-1/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>371437637</g:id>
-      <g:title>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد 500 گرام</g:title>
-      <g:description>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>577031151</g:id>
-      <g:title>اردنی بی پولن (زرِ گل) 100 گرام</g:title>
-      <g:description>اردنی بی پولن (زرِ گل) 100 گرام. 0.6 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/100/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>633389672</g:id>
       <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام</g:title>
       <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو</g:title>
-      <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1702586333</g:id>

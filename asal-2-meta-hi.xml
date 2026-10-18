@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:11:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>मधुमक्खी पराग 1 किलो</g:title>
+      <g:description>मधुमक्खी पराग 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>577031151</g:id>
+      <g:title>जॉर्डन का मधुमक्खी पराग 100 ग्राम</g:title>
+      <g:description>जॉर्डन का मधुमक्खी पराग 100 ग्राम. 0.6 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/100/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>371437637</g:id>
+      <g:title>स्पेनिश चेस्टनट शहद 500 ग्राम</g:title>
+      <g:description>स्पेनिश चेस्टनट शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>63390305</g:id>
       <g:title>प्रीमियम तलह शहद 10 किलो गैलन थोक भाव पर</g:title>
@@ -375,28 +393,10 @@
       <g:link>https://asalaljebal.sa/hi/1-1/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>371437637</g:id>
-      <g:title>स्पेनिश चेस्टनट शहद 500 ग्राम</g:title>
-      <g:description>स्पेनिश चेस्टनट शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>577031151</g:id>
-      <g:title>जॉर्डन का मधुमक्खी पराग 100 ग्राम</g:title>
-      <g:description>जॉर्डन का मधुमक्खी पराग 100 ग्राम. 0.6 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/100/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>633389672</g:id>
       <g:title>मधुमक्खी पराग 250 ग्राम</g:title>
       <g:description>मधुमक्खी पराग 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>मधुमक्खी पराग 1 किलो</g:title>
-      <g:description>मधुमक्खी पराग 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1702586333</g:id>

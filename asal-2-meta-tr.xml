@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:11:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>Arı Poleni 1 Kg</g:title>
+      <g:description>Arı Poleni 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ar-poleni-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>577031151</g:id>
+      <g:title>Ürdün Arı Poleni 100 gram</g:title>
+      <g:description>Ürdün Arı Poleni 100 gram. 0.6 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-100-gram/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>371437637</g:id>
+      <g:title>İspanyol Kestane Balı 500 g</g:title>
+      <g:description>İspanyol Kestane Balı 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/i-spanyol-kestane-bal-500-g/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>63390305</g:id>
       <g:title>Premium Talh Balı 10 Kilo Toptan Bidon</g:title>
@@ -369,28 +387,10 @@
       <g:link>https://asalaljebal.sa/tr/1-kg-da-sidr-bal-1-kg-cretsiz-kargo/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>371437637</g:id>
-      <g:title>İspanyol Kestane Balı 500 g</g:title>
-      <g:description>İspanyol Kestane Balı 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/i-spanyol-kestane-bal-500-g/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>577031151</g:id>
-      <g:title>Ürdün Arı Poleni 100 gram</g:title>
-      <g:description>Ürdün Arı Poleni 100 gram. 0.6 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-100-gram/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>633389672</g:id>
       <g:title>Polen 250 Gram</g:title>
       <g:description>Polen 250 Gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/polen-250-gram/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>Arı Poleni 1 Kg</g:title>
-      <g:description>Arı Poleni 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ar-poleni-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1702586333</g:id>
