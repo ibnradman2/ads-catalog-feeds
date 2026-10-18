@@ -4,10 +4,52 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 19:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>640611244</g:id>
+      <g:title>मार्जोरम शहद 2 किलो</g:title>
+      <g:description>मार्जोरम शहद 2 किलो. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2/p640611244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>525279123</g:id>
+      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 1 किलो</g:title>
+      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p525279123?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2101740352</g:id>
+      <g:title>प्रीमियम शौका (समर) शहद 7 किलो गैलन, थोक भाव में</g:title>
+      <g:description>प्रीमियम शौका (समर) शहद 7 किलो गैलन, थोक भाव में. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/7/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>565752464</g:id>
+      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 7 किलो गैलन, थोक दाम पर</g:title>
+      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 7 किलो गैलन, थोक दाम पर. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/7/p565752464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2144594011</g:id>
+      <g:title>ऐनीस शहद 250 ग्राम</g:title>
+      <g:description>ऐनीस शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1571578210</g:id>
+      <g:title>प्रीमियम तलह शहद 7 किलो गैलन थोक भाव पर</g:title>
+      <g:description>प्रीमियम तलह शहद 7 किलो गैलन थोक भाव पर. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/7/p1571578210?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>419971394</g:id>
+      <g:title>प्रीमियम शौका (समर) शहद 2 किलो</g:title>
+      <g:description>प्रीमियम शौका (समर) शहद 2 किलो. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1655973819</g:id>
       <g:title>रॉयल उसैमी सिद्र शहद 5.5 किलो गैलन, थोक दाम पर</g:title>
@@ -37,12 +79,6 @@
       <g:title>प्रीमियम शौका (समर) शहद 10 किलो गैलन, थोक भाव में</g:title>
       <g:description>प्रीमियम शौका (समर) शहद 10 किलो गैलन, थोक भाव में. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/10/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1571578210</g:id>
-      <g:title>प्रीमियम तलह शहद 7 किलो गैलन थोक भाव पर</g:title>
-      <g:description>प्रीमियम तलह शहद 7 किलो गैलन थोक भाव पर. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/7/p1571578210?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2136887666</g:id>
@@ -625,42 +661,6 @@
       <g:title>2 किलो जर्मन हंगेरियन सफ़ेद शहद (मर्डिसिया) + (मुफ़्त डिलीवरी)</g:title>
       <g:description>2 किलो जर्मन हंगेरियन सफ़ेद शहद (मर्डिसिया) + (मुफ़्त डिलीवरी). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>565752464</g:id>
-      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 7 किलो गैलन, थोक दाम पर</g:title>
-      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 7 किलो गैलन, थोक दाम पर. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/7/p565752464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2144594011</g:id>
-      <g:title>ऐनीस शहद 250 ग्राम</g:title>
-      <g:description>ऐनीस शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>419971394</g:id>
-      <g:title>प्रीमियम शौका (समर) शहद 2 किलो</g:title>
-      <g:description>प्रीमियम शौका (समर) शहद 2 किलो. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2101740352</g:id>
-      <g:title>प्रीमियम शौका (समर) शहद 7 किलो गैलन, थोक भाव में</g:title>
-      <g:description>प्रीमियम शौका (समर) शहद 7 किलो गैलन, थोक भाव में. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/7/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>525279123</g:id>
-      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 1 किलो</g:title>
-      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p525279123?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>640611244</g:id>
-      <g:title>मार्जोरम शहद 2 किलो</g:title>
-      <g:description>मार्जोरम शहद 2 किलो. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2/p640611244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1819634026</g:id>
