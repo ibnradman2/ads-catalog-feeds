@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 07:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1750448135</guid>
+      <g:id>1750448135</g:id>
+      <g:title>Miel de Sidr de Hadramaut, Do'an, garrafa de 7 kg</g:title>
+      <g:description>Miel de Sidr de Hadramaut, Do'an, garrafa de 7 kg. Miel de Sidr. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-hadramaut-do-an-garrafa-de-7-kg/p1750448135?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/DSCOR7067o8zBnh2A6zQW0j8yZOsIgvXJ9PGaeSz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2100.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011222005</g:item_group_id>
+      <g:shipping_weight>7.5 kg</g:shipping_weight>
+    <g:mpn>1750448135</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">283420378</guid>
+      <g:id>283420378</g:id>
+      <g:title>Polen jordano, 50 g</g:title>
+      <g:description>Polen jordano, 50 g. Productos de la colmena. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-jordano-50-g/p283420378?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VuLO1AMXvFDoYqnYgXAUJ32n5ZVs36HFGgoveJcg.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>55.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001007002</g:item_group_id>
+      <g:shipping_weight>0.55 kg</g:shipping_weight>
+    <g:mpn>283420378</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1605830592</guid>
       <g:id>1605830592</g:id>
@@ -1186,36 +1216,6 @@
       <g:item_group_id>0011222004</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1445425444</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">283420378</guid>
-      <g:id>283420378</g:id>
-      <g:title>Polen jordano, 50 g</g:title>
-      <g:description>Polen jordano, 50 g. Productos de la colmena. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-jordano-50-g/p283420378?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/VuLO1AMXvFDoYqnYgXAUJ32n5ZVs36HFGgoveJcg.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>55.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001007002</g:item_group_id>
-      <g:shipping_weight>0.55 kg</g:shipping_weight>
-    <g:mpn>283420378</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1750448135</guid>
-      <g:id>1750448135</g:id>
-      <g:title>Miel de Sidr de Hadramaut, Do'an, garrafa de 7 kg</g:title>
-      <g:description>Miel de Sidr de Hadramaut, Do'an, garrafa de 7 kg. Miel de Sidr. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-hadramaut-do-an-garrafa-de-7-kg/p1750448135?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/DSCOR7067o8zBnh2A6zQW0j8yZOsIgvXJ9PGaeSz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>2100.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011222005</g:item_group_id>
-      <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:mpn>1750448135</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1519634473</guid>
       <g:id>1519634473</g:id>

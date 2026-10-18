@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 07:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1750448135</g:id>
+      <g:title>Miel de sidr du Hadramaout Daoani 7 kg</g:title>
+      <g:description>Miel de sidr du Hadramaout Daoani 7 kg. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-hadramaout-daoani-7-kg/p1750448135?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>283420378</g:id>
+      <g:title>Pollen d’abeille de Jordanie 50 g</g:title>
+      <g:description>Pollen d’abeille de Jordanie 50 g. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-de-jordanie-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1605830592</g:id>
       <g:title>Farine d'orge (talbina prophétique) 1 kg</g:title>
@@ -445,18 +457,6 @@
       <g:title>Miel de sidr du Hadramaout Daoani 5 kg</g:title>
       <g:description>Miel de sidr du Hadramaout Daoani 5 kg. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-hadramaout-daoani-5-kg/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>283420378</g:id>
-      <g:title>Pollen d’abeille de Jordanie 50 g</g:title>
-      <g:description>Pollen d’abeille de Jordanie 50 g. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-de-jordanie-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1750448135</g:id>
-      <g:title>Miel de sidr du Hadramaout Daoani 7 kg</g:title>
-      <g:description>Miel de sidr du Hadramaout Daoani 7 kg. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-hadramaout-daoani-7-kg/p1750448135?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1519634473</g:id>
