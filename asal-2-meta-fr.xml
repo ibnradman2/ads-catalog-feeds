@@ -4,10 +4,46 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 07:16:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1605830592</g:id>
+      <g:title>Farine d'orge (talbina prophétique) 1 kg</g:title>
+      <g:description>Farine d'orge (talbina prophétique) 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/farine-d-orge-talbina-proph-tique-1-kg/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>216808863</g:id>
+      <g:title>Miel de nigelle (graine noire) 5 kg + (livraison gratuite)</g:title>
+      <g:description>Miel de nigelle (graine noire) 5 kg + (livraison gratuite). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-nigelle-graine-noire-5-kg-livraison-gratuite/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1965415096</g:id>
+      <g:title>Miel en rayon de Sidr royal 500 g</g:title>
+      <g:description>Miel en rayon de Sidr royal 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-sidr-royal-500-g/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1613959166</g:id>
+      <g:title>Boisson au miel naturel, gingembre, citron et curcuma 470 g</g:title>
+      <g:description>Boisson au miel naturel, gingembre, citron et curcuma 470 g. 0.97 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/boisson-au-miel-naturel-gingembre-citron-et-curcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1862684535</g:id>
+      <g:title>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g</g:title>
+      <g:description>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-blanc-de-hongrie-mardisia-500-g/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1726967627</g:id>
+      <g:title>Deux pots de miel aux noix et fruits secs, 500 g</g:title>
+      <g:description>Deux pots de miel aux noix et fruits secs, 500 g. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-aux-noix-et-fruits-secs-500-g/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1303334119</g:id>
       <g:title>Gallon de miel de sidr du Cachemire 3 kg + gallon de miel de trèfle 3 kg</g:title>
@@ -369,18 +405,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>216808863</g:id>
-      <g:title>Miel de nigelle (graine noire) 5 kg + (livraison gratuite)</g:title>
-      <g:description>Miel de nigelle (graine noire) 5 kg + (livraison gratuite). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-nigelle-graine-noire-5-kg-livraison-gratuite/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1726967627</g:id>
-      <g:title>Deux pots de miel aux noix et fruits secs, 500 g</g:title>
-      <g:description>Deux pots de miel aux noix et fruits secs, 500 g. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-aux-noix-et-fruits-secs-500-g/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1407830458</g:id>
       <g:title>3 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g</g:title>
       <g:description>3 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g. 1.25 kg.</g:description>
@@ -397,12 +421,6 @@
       <g:title>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g</g:title>
       <g:description>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/3-pots-de-miel-de-manuka-n-o-z-landais-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1862684535</g:id>
-      <g:title>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g</g:title>
-      <g:description>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-blanc-de-hongrie-mardisia-500-g/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>605028012</g:id>
@@ -673,12 +691,6 @@
       <g:title>Raisins secs noirs du Yémen 1 kg</g:title>
       <g:description>Raisins secs noirs du Yémen 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-1-kg/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1605830592</g:id>
-      <g:title>Farine d'orge (talbina prophétique) 1 kg</g:title>
-      <g:description>Farine d'orge (talbina prophétique) 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/farine-d-orge-talbina-proph-tique-1-kg/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>24757641</g:id>
@@ -1381,18 +1393,6 @@
       <g:title>Extrait de ginseng rouge coréen liquide 30 grammes</g:title>
       <g:description>Extrait de ginseng rouge coréen liquide 30 grammes. 0.53 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/extrait-de-ginseng-rouge-cor-en-liquide-30-grammes/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1965415096</g:id>
-      <g:title>Miel en rayon de Sidr royal 500 g</g:title>
-      <g:description>Miel en rayon de Sidr royal 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-sidr-royal-500-g/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1613959166</g:id>
-      <g:title>Boisson au miel naturel, gingembre, citron et curcuma 470 g</g:title>
-      <g:description>Boisson au miel naturel, gingembre, citron et curcuma 470 g. 0.97 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/boisson-au-miel-naturel-gingembre-citron-et-curcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>957082464</g:id>

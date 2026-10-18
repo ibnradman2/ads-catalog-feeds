@@ -4,10 +4,46 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 07:16:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1605830592</g:id>
+      <g:title>جو کا آٹا (نبوی تلبینہ) 1 کلو</g:title>
+      <g:description>جو کا آٹا (نبوی تلبینہ) 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>216808863</g:id>
+      <g:title>کلونجی کا شہد، 5 کلو کا گیلن + (مفت ڈیلیوری)</g:title>
+      <g:description>کلونجی کا شہد، 5 کلو کا گیلن + (مفت ڈیلیوری). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1965415096</g:id>
+      <g:title>شاہی سدر شہد چھتے کے ساتھ 500 گرام</g:title>
+      <g:description>شاہی سدر شہد چھتے کے ساتھ 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1613959166</g:id>
+      <g:title>ادرک، لیموں اور ہلدی والا قدرتی شہد کا مشروب 470 گرام</g:title>
+      <g:description>ادرک، لیموں اور ہلدی والا قدرتی شہد کا مشروب 470 گرام. 0.97 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/470/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1862684535</g:id>
+      <g:title>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام)</g:title>
+      <g:description>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-500/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1726967627</g:id>
+      <g:title>گری دار میوے والا شہد، 2 ڈبے، 500 گرام</g:title>
+      <g:description>گری دار میوے والا شہد، 2 ڈبے، 500 گرام. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-500/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1303334119</g:id>
       <g:title>3 کلو کشمیری سدر شہد کا گیلن + 3 کلو برسیم کے پھول کے شہد کا گیلن</g:title>
@@ -297,28 +333,10 @@
       <g:link>https://asalaljebal.sa/ur/3/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>216808863</g:id>
-      <g:title>کلونجی کا شہد، 5 کلو کا گیلن + (مفت ڈیلیوری)</g:title>
-      <g:description>کلونجی کا شہد، 5 کلو کا گیلن + (مفت ڈیلیوری). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1726967627</g:id>
-      <g:title>گری دار میوے والا شہد، 2 ڈبے، 500 گرام</g:title>
-      <g:description>گری دار میوے والا شہد، 2 ڈبے، 500 گرام. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-500/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1592997301</g:id>
       <g:title>3 کلو کشمیری سدر شہد کا گیلن + 3 ڈبے نبوی تلبینہ (ہدیہ)</g:title>
       <g:description>3 کلو کشمیری سدر شہد کا گیلن + 3 ڈبے نبوی تلبینہ (ہدیہ). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/3-3/p1592997301?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1862684535</g:id>
-      <g:title>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام)</g:title>
-      <g:description>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-500/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>605028012</g:id>
@@ -511,12 +529,6 @@
       <g:title>کلونجی (حبۃ البرکہ) کے دانے 250 گرام</g:title>
       <g:description>کلونجی (حبۃ البرکہ) کے دانے 250 گرام. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/250/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1605830592</g:id>
-      <g:title>جو کا آٹا (نبوی تلبینہ) 1 کلو</g:title>
-      <g:description>جو کا آٹا (نبوی تلبینہ) 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>24757641</g:id>
@@ -1027,18 +1039,6 @@
       <g:title>کوریائی سرخ جنسنگ کا مائع عرق 30 گرام</g:title>
       <g:description>کوریائی سرخ جنسنگ کا مائع عرق 30 گرام. 0.53 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1965415096</g:id>
-      <g:title>شاہی سدر شہد چھتے کے ساتھ 500 گرام</g:title>
-      <g:description>شاہی سدر شہد چھتے کے ساتھ 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1613959166</g:id>
-      <g:title>ادرک، لیموں اور ہلدی والا قدرتی شہد کا مشروب 470 گرام</g:title>
-      <g:description>ادرک، لیموں اور ہلدی والا قدرتی شہد کا مشروب 470 گرام. 0.97 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/470/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>957082464</g:id>
