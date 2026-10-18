@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:09:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1212649180</g:id>
+      <g:title>Madu Adas Manis 1 Kilo</g:title>
+      <g:description>Madu Adas Manis 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-adas-manis-1-kilo/p1212649180?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1298738551</g:id>
       <g:title>Madu Sidr Hadhrami Do'an 1 kg</g:title>
@@ -571,12 +577,6 @@
       <g:title>2 Kg Madu Putih Majari Jerman (Mardisia) + (Gratis Ongkir)</g:title>
       <g:description>2 Kg Madu Putih Majari Jerman (Mardisia) + (Gratis Ongkir). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/2-kg-madu-putih-majari-jerman-mardisia-gratis-ongkir/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1212649180</g:id>
-      <g:title>Madu Adas Manis 1 Kilo</g:title>
-      <g:description>Madu Adas Manis 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-adas-manis-1-kilo/p1212649180?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>843246671</g:id>

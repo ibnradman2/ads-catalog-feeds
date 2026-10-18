@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:09:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1212649180</guid>
+      <g:id>1212649180</g:id>
+      <g:title>Miel d'anis 1 kg</g:title>
+      <g:description>Miel d'anis 1 kg. Autres miels. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-d-anis-1-kg/p1212649180?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/TJJiNF8dJhJ7JJDvs2tScM2tbgbnWf2wf9q7fVI0.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>180.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1212649180</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1298738551</guid>
       <g:id>1298738551</g:id>
@@ -1515,21 +1530,6 @@
       <g:item_group_id>0140101038</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>1142835467</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel Majra blanc</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1212649180</guid>
-      <g:id>1212649180</g:id>
-      <g:title>Miel d'anis 1 kg</g:title>
-      <g:description>Miel d'anis 1 kg. Autres miels. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-d-anis-1-kg/p1212649180?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/TJJiNF8dJhJ7JJDvs2tScM2tbgbnWf2wf9q7fVI0.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>180.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041049003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1212649180</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">843246671</guid>
       <g:id>843246671</g:id>
