@@ -4,10 +4,59 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 11:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:11:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">660293034</guid>
+      <g:id>660293034</g:id>
+      <g:title>哈德拉毛多安西德尔蜂蜜 250 克</g:title>
+      <g:description>哈德拉毛多安西德尔蜂蜜 250 克. 西德尔蜂蜜. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p660293034?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/oAe7RShyCRl8YvIAnT4pXFFR7J7pyguSSbGd3JrC.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>125.01 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011222001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>660293034</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1079393632</guid>
+      <g:id>1079393632</g:id>
+      <g:title>西班牙黑森林蜂蜜 500克</g:title>
+      <g:description>西班牙黑森林蜂蜜 500克. 其他蜂蜜. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1079393632?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/NFiMNkw6zZ0pRxaoqMa6VqeCddJsGh7r1gj16Q4y.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/atDIe8hLLAfz3wfeLpPqpCC3S7LjcT8VoaCGtrJC.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Q4DlUxyOc0aGR5N9aWpX0Ip9aouSQHk04VfZFZIz.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/dg2Bt7p1O7aaPPul1Vu5xjDes6xxYgmP8plarnQ3.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:sale_price>99.00 SAR</g:sale_price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>20202020</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1079393632</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">423197268</guid>
+      <g:id>423197268</g:id>
+      <g:title>山地王室西德尔混合蜂蜜 250克</g:title>
+      <g:description>山地王室西德尔混合蜂蜜 250克. 蜂蜜混合. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.99 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>423197268</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂蜜混合</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1519634473</guid>
       <g:id>1519634473</g:id>
@@ -1264,25 +1313,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>1702586333</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">1079393632</guid>
-      <g:id>1079393632</g:id>
-      <g:title>西班牙黑森林蜂蜜 500克</g:title>
-      <g:description>西班牙黑森林蜂蜜 500克. 其他蜂蜜. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p1079393632?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/NFiMNkw6zZ0pRxaoqMa6VqeCddJsGh7r1gj16Q4y.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/atDIe8hLLAfz3wfeLpPqpCC3S7LjcT8VoaCGtrJC.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Q4DlUxyOc0aGR5N9aWpX0Ip9aouSQHk04VfZFZIz.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/dg2Bt7p1O7aaPPul1Vu5xjDes6xxYgmP8plarnQ3.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>120.00 SAR</g:price>
-      <g:sale_price>99.00 SAR</g:sale_price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>20202020</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1079393632</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1158327183</guid>
       <g:id>1158327183</g:id>
       <g:title>山区西德尔蜂蜜 250克</g:title>
@@ -1313,36 +1343,6 @@
       <g:item_group_id>0140101038</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>1142835467</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">660293034</guid>
-      <g:id>660293034</g:id>
-      <g:title>哈德拉毛多安西德尔蜂蜜 250 克</g:title>
-      <g:description>哈德拉毛多安西德尔蜂蜜 250 克. 西德尔蜂蜜. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p660293034?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/oAe7RShyCRl8YvIAnT4pXFFR7J7pyguSSbGd3JrC.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>125.01 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011222001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>660293034</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">423197268</guid>
-      <g:id>423197268</g:id>
-      <g:title>山地王室西德尔混合蜂蜜 250克</g:title>
-      <g:description>山地王室西德尔混合蜂蜜 250克. 蜂蜜混合. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p423197268?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/PQojDTgeWAC7vhpWO41tYMhEm673Vfg2LIwiPRdU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>149.99 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1005001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>423197268</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>蜂蜜混合</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1298738551</guid>
       <g:id>1298738551</g:id>
