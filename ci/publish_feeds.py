@@ -189,19 +189,29 @@ def ensure_git_identity():
     sh(["git", "config", "--add", "credential.helper", "!gh auth git-credential"])
 
 
+def push_main():
+    """يرفع main. إن رُفض لتقدّم الأصل (تشغيلان متداخلان) يعيد ربط commit المحلي فوقه مفضِّلًا ملفاتنا الأحدث ثم يرفع."""
+    p = subprocess.run(["git", "push", "origin", "main"], cwd=REPO, capture_output=True, text=True, encoding="utf-8", errors="replace")
+    if p.returncode == 0:
+        return
+    sh(["git", "fetch", "-q", "origin", "main"])
+    sh(["git", "rebase", "-X", "theirs", "origin/main"])
+    sh(["git", "push", "origin", "main"])
+
+
 def publish(changed):
     ensure_git_identity()
     if not changed:
         sha = sh(["git", "rev-parse", "HEAD"])
         if not IN_CI and sh(["git", "rev-list", "--count", "origin/main..HEAD"], check=False) not in ("", "0"):
-            sh(["git", "push", "origin", "main"])   # commits محلية سابقة لم تُرفع (بعد دمج التفرّع)
+            push_main()   # commits محلية سابقة لم تُرفع (بعد دمج التفرّع)
             print("لا تغيير جديد، ورُفعت commits سابقة لم تُرفع.")
             return sha, True
         print("لا تغيير في الملفات — لا حاجة إلى رفع جديد.")
         return sha, False
     msg = "تحديث ملفات المنتجات " + dt.datetime.now().strftime("%Y-%m-%d %H:%M")
     sh(["git", "commit", "-q", "-m", msg])
-    sh(["git", "push", "origin", "main"])
+    push_main()
     sha = sh(["git", "rev-parse", "HEAD"])
     print(f"رُفع {len(changed)} ملفًّا — commit {sha[:8]}")
     return sha, True
