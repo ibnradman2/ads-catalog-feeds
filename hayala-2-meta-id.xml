@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 14:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:12:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1939267679</g:id>
+      <g:title>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir</g:title>
+      <g:description>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir. 0.524 kg.</g:description>
+      <g:link>https://hayala.co/ind/24-kemasan-saffron-super-negin-24-g-gratis-ongkir/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>360158781</g:id>
       <g:title>18 kemasan saffron Super Negin 18 gram + parutan saffron hadiah</g:title>
@@ -103,12 +109,6 @@
       <g:title>Rempah Sup 4 Kotak</g:title>
       <g:description>Rempah Sup 4 Kotak. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ind/rempah-sup-4-kotak/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1939267679</g:id>
-      <g:title>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir</g:title>
-      <g:description>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir. 0.524 kg.</g:description>
-      <g:link>https://hayala.co/ind/24-kemasan-saffron-super-negin-24-g-gratis-ongkir/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1643632887</g:id>
