@@ -23,7 +23,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041029004</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1262276205</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1249051573</guid>
       <g:id>1249051573</g:id>
@@ -39,7 +39,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101029</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3></item>
+    <g:mpn>1249051573</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">863927234</guid>
       <g:id>863927234</g:id>
@@ -55,7 +55,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101051</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3></item>
+    <g:mpn>863927234</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1016153732</guid>
       <g:id>1016153732</g:id>
@@ -71,7 +71,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024004</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
+    <g:mpn>1016153732</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2136887666</guid>
       <g:id>2136887666</g:id>
@@ -88,7 +88,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041012003</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel Majra blanca</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>2136887666</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel Majra blanca</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1113268922</guid>
       <g:id>1113268922</g:id>
@@ -105,7 +105,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041053002</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1113268922</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">797605987</guid>
       <g:id>797605987</g:id>
@@ -121,7 +121,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041029005</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>797605987</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">598737026</guid>
       <g:id>598737026</g:id>
@@ -137,7 +137,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041021013</g:item_group_id>
       <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>598737026</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1994787951</guid>
       <g:id>1994787951</g:id>
@@ -598,7 +598,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024003</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>243164549</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento A</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1372377871</guid>
       <g:id>1372377871</g:id>
@@ -823,7 +823,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101030</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
+    <g:mpn>1250122150</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1129449226</guid>
       <g:id>1129449226</g:id>

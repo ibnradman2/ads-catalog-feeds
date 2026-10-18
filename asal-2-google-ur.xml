@@ -23,7 +23,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101029</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>300 سے 599</g:custom_label_2><g:custom_label_3>سمرہ شہد</g:custom_label_3></item>
+    <g:mpn>1249051573</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>300 سے 599</g:custom_label_2><g:custom_label_3>سمرہ شہد</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">863927234</guid>
       <g:id>863927234</g:id>
@@ -39,7 +39,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101051</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3></item>
+    <g:mpn>863927234</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1016153732</guid>
       <g:id>1016153732</g:id>
@@ -55,7 +55,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024004</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3></item>
+    <g:mpn>1016153732</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1113268922</guid>
       <g:id>1113268922</g:id>
@@ -72,7 +72,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041053002</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1113268922</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">598737026</guid>
       <g:id>598737026</g:id>
@@ -88,7 +88,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041021013</g:item_group_id>
       <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>598737026</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2107453315</guid>
       <g:id>2107453315</g:id>
@@ -456,7 +456,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024003</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی الف</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>243164549</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی الف</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1372377871</guid>
       <g:id>1372377871</g:id>
@@ -632,7 +632,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101030</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3></item>
+    <g:mpn>1250122150</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1853234062</guid>
       <g:id>1853234062</g:id>
