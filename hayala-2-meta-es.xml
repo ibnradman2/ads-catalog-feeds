@@ -4,15 +4,57 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 16:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:47:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1643632887</g:id>
+      <g:title>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-jumbo-n-mero-2-7-mm-1-kg/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
+      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1533464823</g:id>
+      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
+      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1939267679</g:id>
       <g:title>24 sobres de azafrán Super Negin de 24 g + envío gratis</g:title>
       <g:description>24 sobres de azafrán Super Negin de 24 g + envío gratis. 0.524 kg.</g:description>
       <g:link>https://hayala.co/es/24-sobres-de-azafr-n-super-negin-de-24-g-env-o-gratis/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1992072436</g:id>
+      <g:title>Miel en panal de samra (shawka) 1 kg</g:title>
+      <g:description>Miel en panal de samra (shawka) 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/miel-en-panal-de-samra-shawka-1-kg/p1992072436?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>834579494</g:id>
+      <g:title>Miel de sidr de montaña en panal 1 kg</g:title>
+      <g:description>Miel de sidr de montaña en panal 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/miel-de-sidr-de-monta-a-en-panal-1-kg/p834579494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1843875892</g:id>
+      <g:title>Tarro de miel en panal de flores silvestres baladi</g:title>
+      <g:description>Tarro de miel en panal de flores silvestres baladi. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/es/tarro-de-miel-en-panal-de-flores-silvestres-baladi/p1843875892?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1376854197</g:id>
+      <g:title>Cajas de regalo - Azafrán súper negin 50 g</g:title>
+      <g:description>Cajas de regalo - Azafrán súper negin 50 g. 0.55 kg.</g:description>
+      <g:link>https://hayala.co/es/cajas-de-regalo-azafr-n-s-per-negin-50-g/p1376854197?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>360158781</g:id>
@@ -117,34 +159,16 @@
       <g:link>https://hayala.co/es/4-envases-de-especias-para-sopa/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1643632887</g:id>
-      <g:title>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg</g:title>
-      <g:description>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-jumbo-n-mero-2-7-mm-1-kg/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1126381181</g:id>
       <g:title>Moringa molida (500 g)</g:title>
       <g:description>Moringa molida (500 g). 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/moringa-molida-500-g/p1126381181?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>834579494</g:id>
-      <g:title>Miel de sidr de montaña en panal 1 kg</g:title>
-      <g:description>Miel de sidr de montaña en panal 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/miel-de-sidr-de-monta-a-en-panal-1-kg/p834579494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>158190096</g:id>
       <g:title>Cáscara de granada molida (500 g)</g:title>
       <g:description>Cáscara de granada molida (500 g). 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/c-scara-de-granada-molida-500-g/p158190096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1992072436</g:id>
-      <g:title>Miel en panal de samra (shawka) 1 kg</g:title>
-      <g:description>Miel en panal de samra (shawka) 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/miel-en-panal-de-samra-shawka-1-kg/p1992072436?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>863440747</g:id>
@@ -175,12 +199,6 @@
       <g:title>Sal rosada del Himalaya (450 g)</g:title>
       <g:description>Sal rosada del Himalaya (450 g). 0.95 kg.</g:description>
       <g:link>https://hayala.co/es/sal-rosada-del-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1376854197</g:id>
-      <g:title>Cajas de regalo - Azafrán súper negin 50 g</g:title>
-      <g:description>Cajas de regalo - Azafrán súper negin 50 g. 0.55 kg.</g:description>
-      <g:link>https://hayala.co/es/cajas-de-regalo-azafr-n-s-per-negin-50-g/p1376854197?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>656732927</g:id>
@@ -645,12 +663,6 @@
       <g:link>https://hayala.co/es/hinojo-en-grano-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>497613295</g:id>
-      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
-      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>2006358433</g:id>
       <g:title>Ajo molido 500 g</g:title>
       <g:description>Ajo molido 500 g. 1.0 kg.</g:description>
@@ -855,12 +867,6 @@
       <g:link>https://hayala.co/es/d-tiles-ajwa-aliyat-al-madinah-premium-de-1-kg/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1533464823</g:id>
-      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
-      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). 5.0 kg.</g:description>
-      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1588483287</g:id>
       <g:title>3 envases de bebida de miel con jengibre, limón y cúrcuma</g:title>
       <g:description>3 envases de bebida de miel con jengibre, limón y cúrcuma. 0.47 kg.</g:description>
@@ -871,12 +877,6 @@
       <g:title>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo</g:title>
       <g:description>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo. 0.01 kg.</g:description>
       <g:link>https://hayala.co/es/cajas-de-regalo-dos-envases-de-azafr-n-s-per-negin-de-lujo-rallador-de-regalo/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1843875892</g:id>
-      <g:title>Tarro de miel en panal de flores silvestres baladi</g:title>
-      <g:description>Tarro de miel en panal de flores silvestres baladi. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/es/tarro-de-miel-en-panal-de-flores-silvestres-baladi/p1843875892?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1038697929</g:id>

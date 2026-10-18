@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 17:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:14:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>843246671</g:id>
+      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 10 کلو گیلن، تھوک قیمت پر</g:title>
+      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 10 کلو گیلن، تھوک قیمت پر. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/10/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>204409672</g:id>
+      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 7 کلو گیلن، تھوک قیمت پر</g:title>
+      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 7 کلو گیلن، تھوک قیمت پر. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/7/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1212649180</g:id>
       <g:title>انیسون شہد 1 کلو</g:title>
@@ -463,18 +475,6 @@
       <g:title>2 کلو جرمن ہنگرین سفید شہد (مرڈیسیا) + (مفت ڈیلیوری)</g:title>
       <g:description>2 کلو جرمن ہنگرین سفید شہد (مرڈیسیا) + (مفت ڈیلیوری). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/2/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>843246671</g:id>
-      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 10 کلو گیلن، تھوک قیمت پر</g:title>
-      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 10 کلو گیلن، تھوک قیمت پر. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/10/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>204409672</g:id>
-      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 7 کلو گیلن، تھوک قیمت پر</g:title>
-      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 7 کلو گیلن، تھوک قیمت پر. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/7/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1655973819</g:id>
