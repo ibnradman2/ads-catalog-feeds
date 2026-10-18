@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 01:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:01:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1250122150</g:id>
+      <g:title>5 Kg Keşmir Sidr Balı %37 İndirimli + Arı Poleni Paketi + Ücretsiz Kargo + Taksit İmkânı (Çok Sınırlı Miktarda Nadir Kalite Hasat)</g:title>
+      <g:description>5 Kg Keşmir Sidr Balı %37 İndirimli + Arı Poleni Paketi + Ücretsiz Kargo + Taksit İmkânı (Çok Sınırlı Miktarda Nadir Kalite Hasat). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/5-kg-ke-mir-sidr-bal-37-i-ndirimli-ar-poleni-paketi-cretsiz-kargo-taksit-i-mk-n-/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1262276205</g:id>
       <g:title>Premium Talh Balı 2 Kilo</g:title>
@@ -301,12 +307,6 @@
       <g:title>1 Kg Dağ Sidr Balı + 1 Kg (Ücretsiz Kargo)</g:title>
       <g:description>1 Kg Dağ Sidr Balı + 1 Kg (Ücretsiz Kargo). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/1-kg-da-sidr-bal-1-kg-cretsiz-kargo/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1250122150</g:id>
-      <g:title>5 Kg Keşmir Sidr Balı %37 İndirimli + Arı Poleni Paketi + Ücretsiz Kargo + Taksit İmkânı (Çok Sınırlı Miktarda Nadir Kalite Hasat)</g:title>
-      <g:description>5 Kg Keşmir Sidr Balı %37 İndirimli + Arı Poleni Paketi + Ücretsiz Kargo + Taksit İmkânı (Çok Sınırlı Miktarda Nadir Kalite Hasat). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/5-kg-ke-mir-sidr-bal-37-i-ndirimli-ar-poleni-paketi-cretsiz-kargo-taksit-i-mk-n-/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1129449226</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 01:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:01:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1250122150</g:id>
+      <g:title>5 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + بی پولن کا پیک + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار)</g:title>
+      <g:description>5 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + بی پولن کا پیک + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5-37/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1249051573</g:id>
       <g:title>1 کلو شوکہ (سمرہ) شہد + 1 کلو (مفت ڈیلیوری)</g:title>
@@ -229,12 +235,6 @@
       <g:title>1 کلو پہاڑی سدر شہد + 1 کلو (مفت ڈیلیوری)</g:title>
       <g:description>1 کلو پہاڑی سدر شہد + 1 کلو (مفت ڈیلیوری). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/1-1/p605028012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1250122150</g:id>
-      <g:title>5 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + بی پولن کا پیک + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار)</g:title>
-      <g:description>5 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + بی پولن کا پیک + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5-37/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1853234062</g:id>
