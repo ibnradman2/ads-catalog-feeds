@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>650316978</g:id>
+      <g:title>辣木蜂蜜 1公斤</g:title>
+      <g:description>辣木蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1517173604</g:id>
+      <g:title>大麦粉（先知式大麦粥）250克</g:title>
+      <g:description>大麦粉（先知式大麦粥）250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>453091196</g:id>
+      <g:title>匈牙利白蜜（Mardisia）500克</g:title>
+      <g:description>匈牙利白蜜（Mardisia）500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia-500/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1303334119</g:id>
       <g:title>3公斤克什米尔西德尔蜂蜜桶装 + 3公斤三叶草花蜂蜜桶装</g:title>
@@ -789,28 +807,10 @@
       <g:link>https://asalaljebal.sa/zh/2/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>453091196</g:id>
-      <g:title>匈牙利白蜜（Mardisia）500克</g:title>
-      <g:description>匈牙利白蜜（Mardisia）500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/mardisia-500/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1517173604</g:id>
-      <g:title>大麦粉（先知式大麦粥）250克</g:title>
-      <g:description>大麦粉（先知式大麦粥）250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1121679642</g:id>
       <g:title>韩国人参 15克</g:title>
       <g:description>韩国人参 15克. 0.515 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/15/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>650316978</g:id>
-      <g:title>辣木蜂蜜 1公斤</g:title>
-      <g:description>辣木蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1369228614</g:id>

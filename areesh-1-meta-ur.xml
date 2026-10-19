@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:13:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>قومی دن کا گفٹ باکس، قدرتی سدر شہد کے 8 جار</g:title>
+      <g:description>قومی دن کا گفٹ باکس، قدرتی سدر شہد کے 8 جار. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>عریش شاہی مکسچر (500 گرام پیک)</g:title>
+      <g:description>عریش شاہی مکسچر (500 گرام پیک). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>14589094</g:id>
       <g:title>4 کلو قدرتی سدر شہد + 2 کلو پھولوں کا شہد مفت</g:title>
@@ -187,12 +199,6 @@
       <g:title>پہاڑی سدر شہد 7 کلو گیلن + مفت ڈیلیوری</g:title>
       <g:description>پہاڑی سدر شہد 7 کلو گیلن + مفت ڈیلیوری. 7.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/7/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>717865418</g:id>
-      <g:title>قومی دن کا گفٹ باکس، قدرتی سدر شہد کے 8 جار</g:title>
-      <g:description>قومی دن کا گفٹ باکس، قدرتی سدر شہد کے 8 جار. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>480738937</g:id>
@@ -433,12 +439,6 @@
       <g:title>حضرمی سدر شہد 500 گرام</g:title>
       <g:description>حضرمی سدر شہد 500 گرام. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ur/500/p1126573678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>عریش شاہی مکسچر (500 گرام پیک)</g:title>
-      <g:description>عریش شاہی مکسچر (500 گرام پیک). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1714110187</g:id>

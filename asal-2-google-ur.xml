@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">650316978</guid>
+      <g:id>650316978</g:id>
+      <g:title>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے)</g:title>
+      <g:description>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے). دیگر شہد. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p650316978?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/cJ5mT62n8Msax9UgnSe9uog7dPezNrc1yj6viRMS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>230.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>650316978</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1517173604</guid>
+      <g:id>1517173604</g:id>
+      <g:title>جو کا آٹا (نبوی تلبینہ) 250 گرام</g:title>
+      <g:description>جو کا آٹا (نبوی تلبینہ) 250 گرام. آٹا. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p1517173604?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/0GQhJjrBzM7aM7ynhUj39a2TGre7QcOqxybW03Zm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>03030335</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1517173604</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>آٹا</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1303334119</guid>
       <g:id>1303334119</g:id>
@@ -581,7 +611,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/yUTqEw9DfHFrj6iGypjq8UH1iUsZ7MPtIvceG7cH.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/TmQEYx6WkuENj92VuSDNfWK2SlWG4TybPDfC28As.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/Xq5LqyqYh4Uxf7bUzYSWLA3E66Mqth3l0uqBM6qg.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jjGBpDxED1OXmV2EJVaOSzxZRQTZuF8tLNOuYkMV.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/ZhutNwOBEzk5UJYuE2jOk0OZb3hjdW1d7ojNiQus.jpg</g:additional_image_link><g:availability>in stock</g:availability>
       <g:price>6883.00 SAR</g:price>
       <g:sale_price>5162.01 SAR</g:sale_price>
       <g:brand>عسل الجبل</g:brand>
@@ -1527,36 +1557,6 @@
       <g:item_group_id>0140101038</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>1142835467</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی الف</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>300 سے 599</g:custom_label_2><g:custom_label_3>سفید مجرہ شہد</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1517173604</guid>
-      <g:id>1517173604</g:id>
-      <g:title>جو کا آٹا (نبوی تلبینہ) 250 گرام</g:title>
-      <g:description>جو کا آٹا (نبوی تلبینہ) 250 گرام. آٹا. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p1517173604?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/0GQhJjrBzM7aM7ynhUj39a2TGre7QcOqxybW03Zm.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>9.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>03030335</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1517173604</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>آٹا</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">650316978</guid>
-      <g:id>650316978</g:id>
-      <g:title>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے)</g:title>
-      <g:description>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے). دیگر شہد. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p650316978?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/cJ5mT62n8Msax9UgnSe9uog7dPezNrc1yj6viRMS.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>230.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041034003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>650316978</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">802419986</guid>
       <g:id>802419986</g:id>

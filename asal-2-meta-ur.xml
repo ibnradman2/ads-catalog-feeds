@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>650316978</g:id>
+      <g:title>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے)</g:title>
+      <g:description>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1517173604</g:id>
+      <g:title>جو کا آٹا (نبوی تلبینہ) 250 گرام</g:title>
+      <g:description>جو کا آٹا (نبوی تلبینہ) 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1303334119</g:id>
       <g:title>3 کلو کشمیری سدر شہد کا گیلن + 3 کلو برسیم کے پھول کے شہد کا گیلن</g:title>
@@ -577,18 +589,6 @@
       <g:title>2 کلو جرمن ہنگرین سفید شہد (مرڈیسیا) + (مفت ڈیلیوری)</g:title>
       <g:description>2 کلو جرمن ہنگرین سفید شہد (مرڈیسیا) + (مفت ڈیلیوری). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/2/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1517173604</g:id>
-      <g:title>جو کا آٹا (نبوی تلبینہ) 250 گرام</g:title>
-      <g:description>جو کا آٹا (نبوی تلبینہ) 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>650316978</g:id>
-      <g:title>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے)</g:title>
-      <g:description>مورنگا شہد 1 کلو (روزمرہ استعمال کے لیے). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>802419986</g:id>

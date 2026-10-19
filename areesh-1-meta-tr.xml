@@ -4,15 +4,27 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:13:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>Ulusal Gün hediye kutusu: 8 kavanoz doğal Sidr balı</g:title>
+      <g:description>Ulusal Gün hediye kutusu: 8 kavanoz doğal Sidr balı. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/ulusal-g-n-hediye-kutusu-8-kavanoz-do-al-sidr-bal/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1487430420</g:id>
       <g:title>Doğal Sidr Balı 6 kg (4 kg + 2 kg)</g:title>
       <g:description>Doğal Sidr Balı 6 kg (4 kg + 2 kg). 6.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/do-al-sidr-bal-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>Areesh Kraliyet Karışımı (500 g kavanoz)</g:title>
+      <g:description>Areesh Kraliyet Karışımı (500 g kavanoz). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/areesh-kraliyet-kar-m-500-g-kavanoz/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>14589094</g:id>
@@ -199,12 +211,6 @@
       <g:title>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo</g:title>
       <g:description>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo. 7.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/da-sidr-bal-7-kg-bidon-cretsiz-kargo/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>717865418</g:id>
-      <g:title>Ulusal Gün hediye kutusu: 8 kavanoz doğal Sidr balı</g:title>
-      <g:description>Ulusal Gün hediye kutusu: 8 kavanoz doğal Sidr balı. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/ulusal-g-n-hediye-kutusu-8-kavanoz-do-al-sidr-bal/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>480738937</g:id>
@@ -475,12 +481,6 @@
       <g:title>Hadramut Sidr balı 500 gram</g:title>
       <g:description>Hadramut Sidr balı 500 gram. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tr/hadramut-sidr-bal-500-gram/p1126573678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>Areesh Kraliyet Karışımı (500 g kavanoz)</g:title>
-      <g:description>Areesh Kraliyet Karışımı (500 g kavanoz). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/areesh-kraliyet-kar-m-500-g-kavanoz/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1714110187</g:id>

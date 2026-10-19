@@ -4,15 +4,27 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:13:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey</g:title>
+      <g:description>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/gift-box-para-sa-pambansang-araw-8-garapon-ng-natural-na-sidr-honey/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1487430420</g:id>
       <g:title>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg)</g:title>
       <g:description>Natural na Sidr na Pulot 6 kg (4 kg + 2 kg). 6.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/natural-na-sidr-na-pulot-6-kg-4-kg-2-kg/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>Royal Blend ng Areesh (Pakete na 500 g)</g:title>
+      <g:description>Royal Blend ng Areesh (Pakete na 500 g). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/royal-blend-ng-areesh-pakete-na-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>14589094</g:id>
@@ -199,12 +211,6 @@
       <g:title>Pulot ng Sidr sa Bundok 7 Kilong Galon + Libreng Padala</g:title>
       <g:description>Pulot ng Sidr sa Bundok 7 Kilong Galon + Libreng Padala. 7.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/pulot-ng-sidr-sa-bundok-7-kilong-galon-libreng-padala/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>717865418</g:id>
-      <g:title>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey</g:title>
-      <g:description>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/gift-box-para-sa-pambansang-araw-8-garapon-ng-natural-na-sidr-honey/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>480738937</g:id>
@@ -475,12 +481,6 @@
       <g:title>Hadrami Sidr Honey 500 Gramo</g:title>
       <g:description>Hadrami Sidr Honey 500 Gramo. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tl/hadrami-sidr-honey-500-gramo/p1126573678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>Royal Blend ng Areesh (Pakete na 500 g)</g:title>
-      <g:description>Royal Blend ng Areesh (Pakete na 500 g). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/royal-blend-ng-areesh-pakete-na-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1714110187</g:id>

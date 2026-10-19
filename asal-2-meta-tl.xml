@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>650316978</g:id>
+      <g:title>Pulot ng Moringa, 1 Kilo</g:title>
+      <g:description>Pulot ng Moringa, 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-1-kilo/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1517173604</g:id>
+      <g:title>Harina ng Sebada (Propetikong Talbina) 250 Gramo</g:title>
+      <g:description>Harina ng Sebada (Propetikong Talbina) 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/harina-ng-sebada-propetikong-talbina-250-gramo/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>453091196</g:id>
+      <g:title>Puting Pulot ng Hungary (Mardisia) 500 Gramo</g:title>
+      <g:description>Puting Pulot ng Hungary (Mardisia) 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/puting-pulot-ng-hungary-mardisia-500-gramo/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1303334119</g:id>
       <g:title>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo</g:title>
@@ -789,28 +807,10 @@
       <g:link>https://asalaljebal.sa/tl/2-kg-german-hungarian-white-honey-mardisia-libreng-delivery/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>453091196</g:id>
-      <g:title>Puting Pulot ng Hungary (Mardisia) 500 Gramo</g:title>
-      <g:description>Puting Pulot ng Hungary (Mardisia) 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/puting-pulot-ng-hungary-mardisia-500-gramo/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1517173604</g:id>
-      <g:title>Harina ng Sebada (Propetikong Talbina) 250 Gramo</g:title>
-      <g:description>Harina ng Sebada (Propetikong Talbina) 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/harina-ng-sebada-propetikong-talbina-250-gramo/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>1121679642</g:id>
       <g:title>Korean Ginseng 15 g</g:title>
       <g:description>Korean Ginseng 15 g. 0.515 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/korean-ginseng-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>650316978</g:id>
-      <g:title>Pulot ng Moringa, 1 Kilo</g:title>
-      <g:description>Pulot ng Moringa, 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-1-kilo/p650316978?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1369228614</g:id>

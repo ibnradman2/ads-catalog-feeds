@@ -411,33 +411,105 @@ BRAND_FIX = {"asal": {"شركة عسل الجبال": "عسل الجبال", "ع
 
 
 EXTRA_IMAGES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "extra_images.json")
+# معرض صور كل منتج من صفحته في المتجر (يكتبه dashboardeed_reviews.py يوميًّا، خطة Merchant 2026-10-19).
+STORE_IMAGES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "store_images.json")
+MAX_EXTRA_IMAGES = 10            # حد جوجل لـadditional_image_link
+
+
+def _img_key(url):
+    """مفتاح الصورة في سلة: آخر جزء من اسم الملف، فنسخة 1000x1000 والأصل صورة واحدة."""
+    return (url or "").strip().split("?")[0].rsplit("/", 1)[-1].rsplit("-", 1)[-1]
+
+
+def _json_store(path, store, sub=None):
+    try:
+        with open(path, encoding="utf-8") as fh:
+            d = json.load(fh) or {}
+    except (OSError, ValueError):
+        return {}
+    return ((d.get(sub) or {}) if sub else d).get(store) or {}
 
 
 def extra_image_links(items, store):
-    """صور إضافية لمنتجات بعينها في ملفي سناب وجوجل (أمر المالك 2026-10-06، عسل الجبال 6).
-    الخريطة ci\data\extra_images.json بالشكل {"asal": {"<المعرّف>": ["<رابط https>"]}}.
-    تُضاف بعد image_link، ولا تغيّر الصورة الرئيسية، ولا تكرّر رابطًا موجودًا."""
-    try:
-        with open(EXTRA_IMAGES, encoding="utf-8") as fh:
-            m = (json.load(fh) or {}).get(store) or {}
-    except (OSError, ValueError):
-        return 0
+    r"""صور إضافية في ملفي سناب وجوجل، بلا تغيير الصورة الرئيسية ولا تكرار صورة، حتى 10 في المنتج:
+    1) ci\data\extra_images.json لمنتجات بعينها (أمر المالك 2026-10-06، عسل الجبال 6) بعد image_link مباشرة،
+    2) ثم صور المعرض الجديدة فعلًا ci\data\store_images.json (خطة Merchant 2026-10-19) بعد آخر صورة إضافية.
+    يعيد عدد الصور المضافة."""
+    pinned = _json_store(EXTRA_IMAGES, store)
+    shelf = _json_store(STORE_IMAGES, store, "stores")
     done = 0
     for it in items:
-        urls = m.get(_text(it, "id")) or []
+        pid = _text(it, "id")
         img = it.find(G + "image_link")
         if img is None:
             continue
-        have = {(e.text or "").strip() for e in it.findall(G + "additional_image_link")}
-        pos = list(it).index(img) + 1
-        for u in urls:
-            if str(u).startswith("https://") and u not in have:
-                e = ET.Element(G + "additional_image_link")
-                e.text = u
-                it.insert(pos, e)
-                pos += 1
-                done += 1
+        have = {_img_key(img.text)} | {_img_key(e.text) for e in it.findall(G + "additional_image_link")}
+        # store_images.json فيه الجديد فعلًا وحده: يصفّيه feed_reviews بالمفتاح والبصمة من نسخ ملف سلة
+        for group, front in ((pinned.get(pid) or [], True), (shelf.get(pid) or [], False)):
+            cur = it.findall(G + "additional_image_link")
+            pos = list(it).index(img) + 1 if front or not cur else list(it).index(cur[-1]) + 1
+            for u in group:
+                if len(it.findall(G + "additional_image_link")) >= MAX_EXTRA_IMAGES:
+                    break
+                if str(u).startswith("https://") and _img_key(u) not in have:
+                    e = ET.Element(G + "additional_image_link")
+                    e.text = u
+                    it.insert(pos, e)
+                    have.add(_img_key(u))
+                    pos += 1
+                    done += 1
     return done
+
+
+# تحسين عناوين ملف جوجل العربي (خطة Merchant 2026-10-19، أمر المالك بالتنفيذ في كل المتاجر).
+# جوجل يطابق البحث بكلمات العنوان أولًا، وعناويننا قصيرة (28 إلى 43 حرفًا من 150 متاحة) وبعضها فيه نص ترويجي
+# يخالف إرشاداته. التحسين: توحيد الوحدات، وحذف «شحن مجاني» والخصم من العنوان، و«طبيعي» للعسل الصافي
+# (المادة 59: وصف صحيح لا ادعاء)، واسم العلامة في آخره. ويُستثنى منه المنتج في شريحة «أ» (نصف النقرات الأول):
+# حماية للكسبان (المادتان 271 و277) ومجموعة مقارنة تقيس الأثر بعد 14 يومًا.
+# يُطبَّق على الملف المنشور وحده، وملفات اللغات تُبنى من العنوان الأصلي كما كانت.
+TITLE_UNITS = [(re.compile(r"(\d+(?:[.,]\d+)?)\s*(?:جم|غم|غرام|جرام|gm|g)(?![A-Za-zء-ي])"), r"\1 جرام"),
+               (re.compile(r"(\d+(?:[.,]\d+)?)\s*(?:كيلوجرام|كيلو جرام|كيلو غرام|كجم|كغ|كيلو|kg)(?![A-Za-zء-ي])"), r"\1 كيلو")]
+TITLE_PROMO = re.compile(r"\s*[+،,-]?\s*\(?\s*(?:مع\s+|و)?شحن مجاني\s*\)?|\s*\(?\s*(?:بخصم|خصم)\s*\d+(?:[.,]\d+)?\s*[%٪]\s*\)?")
+PURE_HONEY = {"سدر", "طلح", "سمرة", "زهور", "مجرى أبيض", "مانوكا", "عسل آخر"}
+NOT_PURE = re.compile(r"مكسرات|زنجبيل|ليمون|كركم|نكهة|خلطة|مشروب")   # عسل مخلوط بغيره: لا «طبيعي»
+BRAND_SHORT = {"مؤسسة خيرات عريش للتجارة": "عريش", "إنصاف العسل": "إنصاف"}
+TITLE_MAX = 150
+
+
+def better_title(title, brand, family):
+    """يعيد العنوان المحسّن، أو العنوان نفسه إن لم يلزم تغيير."""
+    t = TITLE_PROMO.sub("", title)
+    for rx, rep in TITLE_UNITS:
+        t = rx.sub(rep, t)
+    t = re.sub(r"\s+", " ", t).strip(" -+،,")
+    if family in PURE_HONEY and "عسل" in t and "طبيعي" not in t and "+" not in t and not NOT_PURE.search(t):
+        m = re.match(r"^(.*?عسل[^\d+]*?)\s+(\d.*)$", t)
+        t = f"{m.group(1)} طبيعي {m.group(2)}" if m else t + " طبيعي"
+    b = BRAND_SHORT.get(brand, brand)
+    if b and b not in t and len(t) + len(b) + 3 <= TITLE_MAX:
+        t = f"{t} - {b}"
+    return t[:TITLE_MAX].strip()
+
+
+def improve_titles(xml_bytes, store):
+    """يحسّن عناوين ملف جوجل العربي خارج شريحة «أ». يعيد (xml، عدد المتغيّر، عيّنات قبل/بعد)."""
+    root = safe_fromstring(xml_bytes)
+    tiers = PERF_TIERS.get(store, {})
+    n, samples = 0, []
+    for it in root.findall(".//item"):
+        el = it.find(G + "title")
+        if el is None or not (el.text or "").strip() or tiers.get(_text(it, "id")) == "أ":
+            continue
+        old = el.text.strip()
+        text = old + " " + _text(it, "product_type")
+        fam = next((name for name, _, rx in FAMILIES if rx.search(text)), "أخرى")
+        new = better_title(old, _text(it, "brand").strip(), fam)
+        if new != old:
+            el.text = new
+            n += 1
+            if len(samples) < 8:
+                samples.append((old, new))
+    return ET.tostring(root, encoding="utf-8", xml_declaration=True), n, samples
 
 
 def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=None, platform=None):
@@ -499,8 +571,37 @@ def rewrite(xml_bytes, suffix, clean=False, claims_ids=(), enrich=None, store=No
         n = enrich_google(items, enrich)
         print("   إثراء: " + " · ".join(f"{k} {v}" for k, v in n.items()))
     if platform in ("google", "snap") and store:
-        extra_image_links(items, store)
+        k = extra_image_links(items, store)
+        if k:
+            print(f"   صور إضافية: {k}")
     return ET.tostring(root, encoding="utf-8", xml_declaration=True), len(items), changed
+
+
+# متجر يجلب Merchant ملفه العربي من سلة مباشرة لا من ملفنا (إنصاف، insaf_mc_fetch.py): تصله العناوين المحسّنة
+# والصور الإضافية بمصدر تكميلي في Merchant يقرأ هذا الملف (خطة Merchant 2026-10-19). اسمه بلاحقة -sup
+# فيُعامل في شرط النشر معاملة ملفات اللغات: نقصه تحذير لا يوقف النشر.
+SUPPLEMENT_STORES = {"insaf"}
+
+
+def supplement_xml(pub_xml, base_xml):
+    """ملف تكميلي: المعرّف والعنوان وكل الصور الإضافية، لكل منتج تغيّر عنوانه أو له صور إضافية."""
+    base = {_text(it, "id"): _text(it, "title") for it in safe_fromstring(base_xml).findall(".//item")}
+    rss = ET.Element("rss", {"version": "2.0"})
+    ch = ET.SubElement(rss, "channel")
+    ET.SubElement(ch, "title").text = "supplemental: titles and images"
+    n = 0
+    for it in safe_fromstring(pub_xml).findall(".//item"):
+        pid, title = _text(it, "id"), _text(it, "title")
+        imgs = [e.text for e in it.findall(G + "additional_image_link") if (e.text or "").startswith("https://")]
+        if not pid or (title == base.get(pid) and not imgs):
+            continue
+        row = ET.SubElement(ch, "item")
+        ET.SubElement(row, G + "id").text = pid
+        ET.SubElement(row, G + "title").text = title
+        for u in imgs:
+            ET.SubElement(row, G + "additional_image_link").text = u
+        n += 1
+    return ET.tostring(rss, encoding="utf-8", xml_declaration=True), n
 
 
 def write_translation_guard(rows):
@@ -592,8 +693,22 @@ def main():
                     print(f"[{store}] {f.get('name')}: ملف غير صالح — {str(e)[:80]}")
                     break
                 name = f"{store}-{i+1}-{platform}.xml"
+                pub_xml = out_xml
+                if platform == "google":     # العنوان المحسّن في الملف المنشور، واللغات من الأصل
+                    pub_xml, n_t, smp = improve_titles(out_xml, store)
+                    print(f"   عناوين محسّنة: {n_t}")
+                    for a, b in smp[:3]:
+                        print(f"      {a}  ←  {b}")
+                    if store in SUPPLEMENT_STORES and i == 0:
+                        sup, n_s = supplement_xml(pub_xml, out_xml)
+                        sname = f"{store}-{i+1}-google-sup.xml"
+                        if not check:
+                            open(os.path.join(OUT, sname), "wb").write(sup)
+                        print(f"[{store}] ملف تكميلي منتجات {n_s} → build\\feeds\\{sname}")
+                        report["files"].append({"store": store, "platform": "google-sup", "file": sname,
+                                                "products": n_s, "links": 0, "size_kb": round(len(sup) / 1024)})
                 if not check:
-                    open(os.path.join(OUT, name), "wb").write(out_xml)
+                    open(os.path.join(OUT, name), "wb").write(pub_xml)
                 print(f"[{store}] {platform:<7} منتجات {n_items} · روابط معدَّلة {n_links} → build\\feeds\\{name}")
                 report["files"].append({"store": store, "platform": platform, "file": name,
                                         "products": n_items, "links": n_links,
