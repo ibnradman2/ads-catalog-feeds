@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 11:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:03:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,36 @@
       <g:title>कश्मीरी सिद्र शहद गैलन 3 किलो + बरसीम फूल का शहद गैलन 3 किलो</g:title>
       <g:description>कश्मीरी सिद्र शहद गैलन 3 किलो + बरसीम फूल का शहद गैलन 3 किलो. 6.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/3-3/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>चीनी रॉयल जेली 15 ग्राम</g:title>
+      <g:description>चीनी रॉयल जेली 15 ग्राम. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/15/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1123362063</g:id>
+      <g:title>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम</g:title>
+      <g:description>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>मोरिंगा शहद 2 किलो</g:title>
+      <g:description>मोरिंगा शहद 2 किलो. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1257152391</g:id>
+      <g:title>मोरिंगा शहद 5 किलो गैलन थोक दाम पर</g:title>
+      <g:description>मोरिंगा शहद 5 किलो गैलन थोक दाम पर. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/5/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1162802741</g:id>
+      <g:title>शाही ख़लता की दो बोतलें 1 किलो + उपहार में ख़लते के चम्मचों का पैक</g:title>
+      <g:description>शाही ख़लता की दो बोतलें 1 किलो + उपहार में ख़लते के चम्मचों का पैक. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>313018985</g:id>
@@ -699,12 +729,6 @@
       <g:link>https://asalaljebal.sa/hi/product/p1279698288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1162802741</g:id>
-      <g:title>शाही ख़लता की दो बोतलें 1 किलो + उपहार में ख़लते के चम्मचों का पैक</g:title>
-      <g:description>शाही ख़लता की दो बोतलें 1 किलो + उपहार में ख़लते के चम्मचों का पैक. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>243164549</g:id>
       <g:title>रॉयल उसैमी सिद्र शहद 1 किलो</g:title>
       <g:description>रॉयल उसैमी सिद्र शहद 1 किलो. 1.5 kg.</g:description>
@@ -763,30 +787,6 @@
       <g:title>2 किलो जर्मन हंगेरियन सफ़ेद शहद (मर्डिसिया) + (मुफ़्त डिलीवरी)</g:title>
       <g:description>2 किलो जर्मन हंगेरियन सफ़ेद शहद (मर्डिसिया) + (मुफ़्त डिलीवरी). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1849198782</g:id>
-      <g:title>मोरिंगा शहद 2 किलो</g:title>
-      <g:description>मोरिंगा शहद 2 किलो. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1257152391</g:id>
-      <g:title>मोरिंगा शहद 5 किलो गैलन थोक दाम पर</g:title>
-      <g:description>मोरिंगा शहद 5 किलो गैलन थोक दाम पर. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/5/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1123362063</g:id>
-      <g:title>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम</g:title>
-      <g:description>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>480352283</g:id>
-      <g:title>चीनी रॉयल जेली 15 ग्राम</g:title>
-      <g:description>चीनी रॉयल जेली 15 ग्राम. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/15/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>453091196</g:id>

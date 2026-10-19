@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 10:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:21:26 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -51,7 +51,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Gifts</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Gifts</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1666723060</guid>
       <g:id>1666723060</g:id>
@@ -96,7 +96,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Flower Honey</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Flower Honey</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">323557872</guid>
       <g:id>323557872</g:id>
@@ -198,7 +198,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>Ajwa Alia Al-Madina Dates</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Dates</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Dates</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1939267679</guid>
       <g:id>1939267679</g:id>
@@ -337,7 +337,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>600 and above</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>600 and above</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1621826523</guid>
       <g:id>1621826523</g:id>
@@ -351,7 +351,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Coffee</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Coffee</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1832849003</guid>
       <g:id>1832849003</g:id>
@@ -394,7 +394,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2038336306</guid>
       <g:id>2038336306</g:id>
@@ -422,7 +422,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>300 to 599</g:custom_label_2><g:custom_label_3>Coffee</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>300 to 599</g:custom_label_2><g:custom_label_3>Coffee</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1270839426</guid>
       <g:id>1270839426</g:id>
@@ -451,7 +451,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>300 to 599</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>300 to 599</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1665411110</guid>
       <g:id>1665411110</g:id>
@@ -499,7 +499,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.528 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Saffron</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Saffron</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">432604828</guid>
       <g:id>432604828</g:id>
@@ -517,7 +517,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Cardamom</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1053775856</guid>
       <g:id>1053775856</g:id>
@@ -655,7 +655,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.95 kg</g:shipping_weight>
-    <g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">656732927</guid>
       <g:id>656732927</g:id>
@@ -684,7 +684,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Bee Products</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Bee Products</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1285757989</guid>
       <g:id>1285757989</g:id>
@@ -727,7 +727,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Other Honey</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Other Honey</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1809311902</guid>
       <g:id>1809311902</g:id>
@@ -826,7 +826,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1017600485</guid>
       <g:id>1017600485</g:id>
@@ -925,7 +925,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">74605069</guid>
       <g:id>74605069</g:id>
@@ -939,7 +939,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">339666110</guid>
       <g:id>339666110</g:id>
@@ -981,7 +981,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">398016781</guid>
       <g:id>398016781</g:id>
@@ -995,7 +995,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.505 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Saffron</g:custom_label_3><g:unit_pricing_measure>5g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Saffron</g:custom_label_3><g:unit_pricing_measure>5g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">692080584</guid>
       <g:id>692080584</g:id>
@@ -1009,7 +1009,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">988412748</guid>
       <g:id>988412748</g:id>
@@ -1023,7 +1023,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">758738089</guid>
       <g:id>758738089</g:id>
@@ -1051,7 +1051,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">757548514</guid>
       <g:id>757548514</g:id>
@@ -1065,7 +1065,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.506 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Saffron</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Saffron</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1003247052</guid>
       <g:id>1003247052</g:id>
@@ -1191,7 +1191,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1924754372</guid>
       <g:id>1924754372</g:id>
@@ -1205,7 +1205,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1959531644</guid>
       <g:id>1959531644</g:id>
@@ -1317,7 +1317,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">583414674</guid>
       <g:id>583414674</g:id>
@@ -1331,7 +1331,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">518818921</guid>
       <g:id>518818921</g:id>
@@ -1373,7 +1373,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">441888257</guid>
       <g:id>441888257</g:id>
@@ -1387,7 +1387,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">897901817</guid>
       <g:id>897901817</g:id>
@@ -1401,7 +1401,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1559719230</guid>
       <g:id>1559719230</g:id>
@@ -1429,7 +1429,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">770458728</guid>
       <g:id>770458728</g:id>
@@ -1486,7 +1486,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1378639718</guid>
       <g:id>1378639718</g:id>
@@ -1627,7 +1627,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">5849117</guid>
       <g:id>5849117</g:id>
@@ -1642,7 +1642,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1171722381</guid>
       <g:id>1171722381</g:id>
@@ -1656,7 +1656,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Flour</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Flour</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2065623105</guid>
       <g:id>2065623105</g:id>
@@ -1670,7 +1670,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Flour</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Flour</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1381474212</guid>
       <g:id>1381474212</g:id>
@@ -1713,7 +1713,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1666335790</guid>
       <g:id>1666335790</g:id>
@@ -1755,7 +1755,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">813326786</guid>
       <g:id>813326786</g:id>
@@ -1811,7 +1811,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1073244520</guid>
       <g:id>1073244520</g:id>
@@ -1825,7 +1825,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">150479264</guid>
       <g:id>150479264</g:id>
@@ -1881,7 +1881,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
+    <g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dried Fruits</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1293815972</guid>
       <g:id>1293815972</g:id>
@@ -1951,7 +1951,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">403725985</guid>
       <g:id>403725985</g:id>
@@ -2049,7 +2049,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Nuts and Seeds</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">122765420</guid>
       <g:id>122765420</g:id>
@@ -2194,7 +2194,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.2 kg</g:shipping_weight>
-    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
+    <g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Spices and Herbs</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">597312706</guid>
       <g:id>597312706</g:id>
@@ -2209,7 +2209,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>Natural Products</g:product_type>
       <g:shipping_weight>0.6 kg</g:shipping_weight>
-    <g:google_product_category>2140</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Vinegar</g:custom_label_3></item>
+    <g:google_product_category>2140</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Vinegar</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1567920614</guid>
       <g:id>1567920614</g:id>
@@ -2254,7 +2254,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>Ajwa Alia Al-Madina Dates</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dates</g:custom_label_3></item>
+    <g:google_product_category>6812</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Dates</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1588483287</guid>
       <g:id>1588483287</g:id>

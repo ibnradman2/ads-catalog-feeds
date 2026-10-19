@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 11:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:03:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,36 @@
       <g:title>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo</g:title>
       <g:description>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo. 6.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/galon-ng-kashmiri-sidr-honey-3-kilo-galon-ng-clover-honey-3-kilo/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Royal Jelly mula sa China 15 g</g:title>
+      <g:description>Royal Jelly mula sa China 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-jelly-mula-sa-china-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1123362063</g:id>
+      <g:title>Black Seed na 500 Gramo</g:title>
+      <g:description>Black Seed na 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/black-seed-na-500-gramo/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>Pulot ng Moringa 2 kg</g:title>
+      <g:description>Pulot ng Moringa 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1257152391</g:id>
+      <g:title>Pulot ng Moringa 5 kg Galon sa Presyong Pakyawan</g:title>
+      <g:description>Pulot ng Moringa 5 kg Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-5-kg-galon-sa-presyong-pakyawan/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1162802741</g:id>
+      <g:title>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo</g:title>
+      <g:description>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/dalawang-bote-ng-maharlikang-khalta-1-kilo-pakete-ng-mga-kutsara-ng-khalta-bilan/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>313018985</g:id>
@@ -699,12 +729,6 @@
       <g:link>https://asalaljebal.sa/tl/alok-sa-pulot-royal-usaimi-sidr-southern-mountain-sidr-southern-shawka-samar-pre/p1279698288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1162802741</g:id>
-      <g:title>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo</g:title>
-      <g:description>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/dalawang-bote-ng-maharlikang-khalta-1-kilo-pakete-ng-mga-kutsara-ng-khalta-bilan/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>243164549</g:id>
       <g:title>Royal Asimi Sidr Honey, 1 Kilo</g:title>
       <g:description>Royal Asimi Sidr Honey, 1 Kilo. 1.5 kg.</g:description>
@@ -763,30 +787,6 @@
       <g:title>2 kg German Hungarian White Honey (Mardisia) + (Libreng Delivery)</g:title>
       <g:description>2 kg German Hungarian White Honey (Mardisia) + (Libreng Delivery). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/2-kg-german-hungarian-white-honey-mardisia-libreng-delivery/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1849198782</g:id>
-      <g:title>Pulot ng Moringa 2 kg</g:title>
-      <g:description>Pulot ng Moringa 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1257152391</g:id>
-      <g:title>Pulot ng Moringa 5 kg Galon sa Presyong Pakyawan</g:title>
-      <g:description>Pulot ng Moringa 5 kg Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-5-kg-galon-sa-presyong-pakyawan/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1123362063</g:id>
-      <g:title>Black Seed na 500 Gramo</g:title>
-      <g:description>Black Seed na 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/black-seed-na-500-gramo/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>480352283</g:id>
-      <g:title>Royal Jelly mula sa China 15 g</g:title>
-      <g:description>Royal Jelly mula sa China 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-jelly-mula-sa-china-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>453091196</g:id>

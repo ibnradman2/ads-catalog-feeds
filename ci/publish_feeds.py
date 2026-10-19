@@ -577,10 +577,10 @@ def main():
                     if "--no-build" in sys.argv else build_feeds())
     rows = gate(proxy_report)
     if not IN_CI and not dry:
-        try:   # ملف تقييمات عسل الجبال: مرة يوميًّا، وفشله لا يوقف النشر (P-merchant-022)
+        try:   # ملفات التقييمات (عسل الجبال وعريش وهيالة): مرة يوميًّا، وفشلها لا يوقف النشر (P-merchant-022، خطة 2026-10-19)
             sys.path.insert(0, DASH)
             import feed_reviews
-            feed_reviews.run()
+            feed_reviews.run_all()
         except Exception as e:  # noqa: BLE001
             print("ملف التقييمات: تعذّر — " + type(e).__name__ + ": " + str(e)[:150])
     changed = copy_in(rows)

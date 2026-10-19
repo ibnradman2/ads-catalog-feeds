@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 11:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:03:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,36 @@
       <g:title>Garrafa de miel de Sidr de Cachemira de 3 kg + garrafa de miel de flor de trébol de 3 kg</g:title>
       <g:description>Garrafa de miel de Sidr de Cachemira de 3 kg + garrafa de miel de flor de trébol de 3 kg. 6.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/garrafa-de-miel-de-sidr-de-cachemira-de-3-kg-garrafa-de-miel-de-flor-de-tr-bol-d/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Jalea real china 15 g (alimento de las abejas reinas)</g:title>
+      <g:description>Jalea real china 15 g (alimento de las abejas reinas). 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/jalea-real-china-15-g-alimento-de-las-abejas-reinas/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1123362063</g:id>
+      <g:title>Comino negro (habbat al-baraka) en semillas 500 gramos</g:title>
+      <g:description>Comino negro (habbat al-baraka) en semillas 500 gramos. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/comino-negro-habbat-al-baraka-en-semillas-500-gramos/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>Miel de moringa 2 kg</g:title>
+      <g:description>Miel de moringa 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-moringa-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1257152391</g:id>
+      <g:title>Miel de moringa 5 kg en garrafa a precio de mayorista</g:title>
+      <g:description>Miel de moringa 5 kg en garrafa a precio de mayorista. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-moringa-5-kg-en-garrafa-a-precio-de-mayorista/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1162802741</g:id>
+      <g:title>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas</g:title>
+      <g:description>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/dos-botes-de-mezcla-de-1-kg-y-de-regalo-un-bote-de-cucharas/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>313018985</g:id>
@@ -693,12 +723,6 @@
       <g:link>https://asalaljebal.sa/es/oferta-de-miel-de-sidr-real-usaimi-sidr-de-monta-a-del-sur-samar-del-sur-talh-pr/p1279698288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1162802741</g:id>
-      <g:title>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas</g:title>
-      <g:description>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/dos-botes-de-mezcla-de-1-kg-y-de-regalo-un-bote-de-cucharas/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>243164549</g:id>
       <g:title>Miel de Sidr real Usaimi yemení 1 kg</g:title>
       <g:description>Miel de Sidr real Usaimi yemení 1 kg. 1.5 kg.</g:description>
@@ -757,30 +781,6 @@
       <g:title>2 kg de miel blanca húngara alemana (Mardisia) + (envío gratis)</g:title>
       <g:description>2 kg de miel blanca húngara alemana (Mardisia) + (envío gratis). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/2-kg-de-miel-blanca-h-ngara-alemana-mardisia-env-o-gratis/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1849198782</g:id>
-      <g:title>Miel de moringa 2 kg</g:title>
-      <g:description>Miel de moringa 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-moringa-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1257152391</g:id>
-      <g:title>Miel de moringa 5 kg en garrafa a precio de mayorista</g:title>
-      <g:description>Miel de moringa 5 kg en garrafa a precio de mayorista. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-moringa-5-kg-en-garrafa-a-precio-de-mayorista/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1123362063</g:id>
-      <g:title>Comino negro (habbat al-baraka) en semillas 500 gramos</g:title>
-      <g:description>Comino negro (habbat al-baraka) en semillas 500 gramos. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/comino-negro-habbat-al-baraka-en-semillas-500-gramos/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>480352283</g:id>
-      <g:title>Jalea real china 15 g (alimento de las abejas reinas)</g:title>
-      <g:description>Jalea real china 15 g (alimento de las abejas reinas). 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/jalea-real-china-15-g-alimento-de-las-abejas-reinas/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>453091196</g:id>

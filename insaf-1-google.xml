@@ -4,7 +4,7 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 17 Oct 2026 15:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:23:28 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -23,7 +23,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مجرى أبيض (مرديسيا)</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1086517048</guid>
       <g:id>1086517048</g:id>
@@ -39,7 +39,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1863085925</guid>
       <g:id>1863085925</g:id>
@@ -55,7 +55,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر  الفاخر</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1949696355</guid>
       <g:id>1949696355</g:id>
@@ -87,7 +87,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">879693415</guid>
       <g:id>879693415</g:id>
@@ -102,7 +102,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل بالمكسرات</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1632724705</guid>
       <g:id>1632724705</g:id>
@@ -118,7 +118,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">850933620</guid>
       <g:id>850933620</g:id>
@@ -134,7 +134,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>0.7 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">673263980</guid>
       <g:id>673263980</g:id>
@@ -150,7 +150,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">504364220</guid>
       <g:id>504364220</g:id>
@@ -166,7 +166,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل بالشمع</g:product_type>
       <g:shipping_weight>0.9 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">476216439</guid>
       <g:id>476216439</g:id>
@@ -182,7 +182,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل بالشمع</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">423215357</guid>
       <g:id>423215357</g:id>
@@ -198,7 +198,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر  الفاخر</g:product_type>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2044103725</guid>
       <g:id>2044103725</g:id>
@@ -246,7 +246,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر  الفاخر</g:product_type>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1463543429</guid>
       <g:id>1463543429</g:id>
@@ -278,7 +278,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر  الفاخر</g:product_type>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1403683377</guid>
       <g:id>1403683377</g:id>
@@ -294,7 +294,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر الملكي</g:product_type>
       <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1395738330</guid>
       <g:id>1395738330</g:id>
@@ -310,7 +310,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل بالشمع</g:product_type>
       <g:shipping_weight>1.75 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1103620581</guid>
       <g:id>1103620581</g:id>
@@ -326,7 +326,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر  الفاخر</g:product_type>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1041174705</guid>
       <g:id>1041174705</g:id>
@@ -342,7 +342,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل السدر  الفاخر</g:product_type>
       <g:shipping_weight>8.5 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1004145752</guid>
       <g:id>1004145752</g:id>
@@ -358,7 +358,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل بالشمع</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1392084004</guid>
       <g:id>1392084004</g:id>
@@ -374,7 +374,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1610749424</guid>
       <g:id>1610749424</g:id>
@@ -389,7 +389,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل حبة البركة</g:product_type>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">293213385</guid>
       <g:id>293213385</g:id>
@@ -437,7 +437,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل الزهور الطبيعي</g:product_type>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1992541699</guid>
       <g:id>1992541699</g:id>
@@ -457,7 +457,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">592690627</guid>
       <g:id>592690627</g:id>
@@ -473,7 +473,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1330375378</guid>
       <g:id>1330375378</g:id>
@@ -532,7 +532,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل مانوكا نيوزلندي</g:product_type>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مانوكا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">907457808</guid>
       <g:id>907457808</g:id>
@@ -563,7 +563,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل الزهور الطبيعي</g:product_type>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2016323095</guid>
       <g:id>2016323095</g:id>
@@ -579,7 +579,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل الزهور الطبيعي</g:product_type>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>الشتاء</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1518558086</guid>
       <g:id>1518558086</g:id>
@@ -595,7 +595,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>مجرى أبيض</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1458505546</guid>
       <g:id>1458505546</g:id>
@@ -611,7 +611,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1382517036</guid>
       <g:id>1382517036</g:id>
@@ -627,6 +627,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>كل المنتجات</g:product_type>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>مشتقات النحل</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
   </channel>
 </rss>
