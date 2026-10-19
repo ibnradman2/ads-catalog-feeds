@@ -91,6 +91,13 @@ try:
     PLATFORM_EXCLUDE = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "platform_exclusions.json"), encoding="utf-8"))
 except (OSError, ValueError):
     PLATFORM_EXCLUDE = {}
+# تصحيح عنوان منتج بعينه في لغة بعينها (ci/data/title_fix.json، مفتاحه "<متجر>:<لغة>:<المعرّف>").
+# السبب (خطة Merchant 2026-10-19): رفض جوجل «Mélange royal» و«Racikan» بسياسة التبغ لغياب كلمة العسل،
+# و«Honey Drink» بسياسة الكحول. يُطبَّق على صفحة مترجمة موجودة فقط، وتمرّ عليه فحوص اللغة كلها.
+try:
+    TITLE_FIX = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "title_fix.json"), encoding="utf-8"))
+except (OSError, ValueError):
+    TITLE_FIX = {}
 MIXED_EN = re.compile(r"(the|with|and|of|for|honey|jar|jars|natural|pure|box|bottle|delivery|free|offer|gift)", re.I)
 BRAND_PHRASES = re.compile(r"Honey Bros|Premium Manuka Honey|Manuka Honey|Black Seed Honey", re.I)
 # نوع المنتج بالإنجليزية. القيمة الجديدة غير المترجمة يُحذف حقلها من الملف الإنجليزي وتُذكر في
@@ -350,6 +357,8 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
         ar_title = ar_t[pid]
         ar_season = (it.findtext(G + "custom_label_1") or "دائم").strip()
         title = (e.get("title") or "").strip()
+        if title:
+            title = TITLE_FIX.get(f"{store}:{lang}:{pid}", title)
         if lang == "en":
             desc = clean_desc(e.get("desc"), title) if title else ""
         else:
