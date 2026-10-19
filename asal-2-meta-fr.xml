@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:13:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>272226114</g:id>
+      <g:title>Miel de marjolaine 250 g</g:title>
+      <g:description>Miel de marjolaine 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-250-g/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1086532456</g:id>
+      <g:title>Miel de Talh premium 250 g</g:title>
+      <g:description>Miel de Talh premium 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-250-g/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>946587237</g:id>
+      <g:title>Raisins secs noirs du Yémen 1 kg</g:title>
+      <g:description>Raisins secs noirs du Yémen 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-1-kg/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1883389928</g:id>
+      <g:title>Miel de marjolaine 10 kg bidon prix de gros</g:title>
+      <g:description>Miel de marjolaine 10 kg bidon prix de gros. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-10-kg-bidon-prix-de-gros/p1883389928?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1605830592</g:id>
       <g:title>Farine d'orge (talbina prophétique) 1 kg</g:title>
@@ -49,12 +73,6 @@
       <g:title>Miel de marjolaine 1 kg</g:title>
       <g:description>Miel de marjolaine 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-1-kg/p1725149288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1883389928</g:id>
-      <g:title>Miel de marjolaine 10 kg bidon prix de gros</g:title>
-      <g:description>Miel de marjolaine 10 kg bidon prix de gros. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-10-kg-bidon-prix-de-gros/p1883389928?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1620894175</g:id>
@@ -715,24 +733,6 @@
       <g:title>Raisins secs rouges du Yémen 1 kg</g:title>
       <g:description>Raisins secs rouges du Yémen 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-1-kg/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>272226114</g:id>
-      <g:title>Miel de marjolaine 250 g</g:title>
-      <g:description>Miel de marjolaine 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-250-g/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1086532456</g:id>
-      <g:title>Miel de Talh premium 250 g</g:title>
-      <g:description>Miel de Talh premium 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-250-g/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>946587237</g:id>
-      <g:title>Raisins secs noirs du Yémen 1 kg</g:title>
-      <g:description>Raisins secs noirs du Yémen 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-1-kg/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>313018985</g:id>
