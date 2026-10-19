@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 10:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:48:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1071630418</g:id>
+      <g:title>Sel rose de l’Himalaya (450 g)</g:title>
+      <g:description>Sel rose de l’Himalaya (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/fr/sel-rose-de-l-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>656732927</g:id>
+      <g:title>Encens oliban mâle Hojari (50 g)</g:title>
+      <g:description>Encens oliban mâle Hojari (50 g). 0.55 kg.</g:description>
+      <g:link>https://hayala.co/fr/encens-oliban-m-le-hojari-50-g/p656732927?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>Fenouil 1 kg</g:title>
+      <g:description>Fenouil 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/fenouil-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>257201169</g:id>
+      <g:title>Ajwain (nanakha) 1 kg</g:title>
+      <g:description>Ajwain (nanakha) 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/ajwain-nanakha-1-kg/p257201169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1147148756</g:id>
       <g:title>2 kg de miel de sidr naturel + 2 kg offerts</g:title>
@@ -235,18 +259,6 @@
       <g:title>Mushat rouge pour cheveux (500 g)</g:title>
       <g:description>Mushat rouge pour cheveux (500 g). 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/mushat-rouge-pour-cheveux-500-g/p576004363?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1071630418</g:id>
-      <g:title>Sel rose de l’Himalaya (450 g)</g:title>
-      <g:description>Sel rose de l’Himalaya (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/fr/sel-rose-de-l-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>656732927</g:id>
-      <g:title>Encens oliban mâle Hojari (50 g)</g:title>
-      <g:description>Encens oliban mâle Hojari (50 g). 0.55 kg.</g:description>
-      <g:link>https://hayala.co/fr/encens-oliban-m-le-hojari-50-g/p656732927?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>65975421</g:id>
@@ -675,12 +687,6 @@
       <g:link>https://hayala.co/fr/raisin-sec-noir-du-y-men-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>2023441167</g:id>
-      <g:title>Fenouil 1 kg</g:title>
-      <g:description>Fenouil 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/fenouil-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>2006358433</g:id>
       <g:title>Ail en poudre 500 g</g:title>
       <g:description>Ail en poudre 500 g. 1.0 kg.</g:description>
@@ -793,12 +799,6 @@
       <g:title>Ajwain (nanakha) 500 g</g:title>
       <g:description>Ajwain (nanakha) 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/ajwain-nanakha-500-g/p999780142?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>257201169</g:id>
-      <g:title>Ajwain (nanakha) 1 kg</g:title>
-      <g:description>Ajwain (nanakha) 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/ajwain-nanakha-1-kg/p257201169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1854428382</g:id>

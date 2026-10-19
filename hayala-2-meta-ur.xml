@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 10:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:48:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1071630418</g:id>
+      <g:title>گلابی ہمالیائی نمک (450 گرام)</g:title>
+      <g:description>گلابی ہمالیائی نمک (450 گرام). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/ur/450/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>سونف 1 کلو برائے مصالحہ اور بیکنگ (خشک بیج)</g:title>
+      <g:description>سونف 1 کلو برائے مصالحہ اور بیکنگ (خشک بیج). 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>257201169</g:id>
+      <g:title>اجوائن (نخوہ) 1 کلو کفایتی پیک</g:title>
+      <g:description>اجوائن (نخوہ) 1 کلو کفایتی پیک. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p257201169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2071592201</g:id>
+      <g:title>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری)</g:title>
+      <g:description>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1147148756</g:id>
       <g:title>قدرتی سدر شہد 2 کلو + 2 کلو مفت</g:title>
@@ -219,12 +243,6 @@
       <g:link>https://hayala.co/ur/12-12/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>2071592201</g:id>
-      <g:title>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1303028575</g:id>
       <g:title>سوپ مصالحہ کے 4 ڈبے</g:title>
       <g:description>سوپ مصالحہ کے 4 ڈبے. 1.0 kg.</g:description>
@@ -247,12 +265,6 @@
       <g:title>پسی ہوئی ملٹھی (500 گرام)</g:title>
       <g:description>پسی ہوئی ملٹھی (500 گرام). 1.0 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p863440747?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1071630418</g:id>
-      <g:title>گلابی ہمالیائی نمک (450 گرام)</g:title>
-      <g:description>گلابی ہمالیائی نمک (450 گرام). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/ur/450/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>65975421</g:id>
@@ -657,12 +669,6 @@
       <g:link>https://hayala.co/ur/1/p1381474212?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>2023441167</g:id>
-      <g:title>سونف 1 کلو برائے مصالحہ اور بیکنگ (خشک بیج)</g:title>
-      <g:description>سونف 1 کلو برائے مصالحہ اور بیکنگ (خشک بیج). 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/1/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>2006358433</g:id>
       <g:title>پسا ہوا لہسن 500 گرام</g:title>
       <g:description>پسا ہوا لہسن 500 گرام. 1.0 kg.</g:description>
@@ -757,12 +763,6 @@
       <g:title>کرکدے (ہبسکس) - 500 گرام</g:title>
       <g:description>کرکدے (ہبسکس) - 500 گرام. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>257201169</g:id>
-      <g:title>اجوائن (نخوہ) 1 کلو کفایتی پیک</g:title>
-      <g:description>اجوائن (نخوہ) 1 کلو کفایتی پیک. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/1/p257201169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1854428382</g:id>
