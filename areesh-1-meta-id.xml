@@ -4,27 +4,21 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 13:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:18:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <g:id>717865418</g:id>
-      <g:title>Box Hadiah Hari Nasional 8 Kemasan Madu Sidr Alami</g:title>
-      <g:description>Box Hadiah Hari Nasional 8 Kemasan Madu Sidr Alami. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/box-hadiah-hari-nasional-8-kemasan-madu-sidr-alami/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>916755779</g:id>
+      <g:title>12 Kemasan Madu Sidr Alami</g:title>
+      <g:description>12 Kemasan Madu Sidr Alami. 3.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/12-kemasan-madu-sidr-alami/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1487430420</g:id>
-      <g:title>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo)</g:title>
-      <g:description>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo). 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-alami-6-kilo-4-kilo-2-kilo/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>Racikan Royal Areesh (Kemasan 500 g)</g:title>
-      <g:description>Racikan Royal Areesh (Kemasan 500 g). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/racikan-royal-areesh-kemasan-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>1611390490</g:id>
+      <g:title>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit</g:title>
+      <g:description>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit. 0.47 kg.</g:description>
+      <g:link>https://areesh.sa/ind/3-kemasan-minuman-madu-jahe-lemon-dan-kunyit/p1611390490?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>14589094</g:id>
@@ -33,28 +27,34 @@
       <g:link>https://areesh.sa/ind/4-kg-madu-sidr-alami-gratis-2-kg-madu-bunga/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
+      <g:id>443912774</g:id>
+      <g:title>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo</g:title>
+      <g:description>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-alami-dari-pegunungan-himalaya-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
       <g:id>311501392</g:id>
       <g:title>8 Kilo Madu Bunga Alami</g:title>
       <g:description>8 Kilo Madu Bunga Alami. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/8-kilo-madu-bunga-alami/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>190273304</g:id>
-      <g:title>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami + 2 Kilo Madu Hutan Hitam Eropa</g:title>
-      <g:description>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami + 2 Kilo Madu Hutan Hitam Eropa. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/2-kilo-madu-sidr-alami-2-kilo-madu-bunga-alami-2-kilo-madu-hutan-hitam-eropa/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>2047975632</g:id>
+      <g:title>12 Kilo Madu Bunga Alami</g:title>
+      <g:description>12 Kilo Madu Bunga Alami. 12.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/12-kilo-madu-bunga-alami/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>916755779</g:id>
-      <g:title>12 Kemasan Madu Sidr Alami</g:title>
-      <g:description>12 Kemasan Madu Sidr Alami. 3.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/12-kemasan-madu-sidr-alami/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>1256707703</g:id>
+      <g:title>Satu Kemasan Madu Majra Putih (Mardisia) + Satu Kemasan Gratis</g:title>
+      <g:description>Satu Kemasan Madu Majra Putih (Mardisia) + Satu Kemasan Gratis. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/satu-kemasan-madu-majra-putih-mardisia-satu-kemasan-gratis/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>443912774</g:id>
-      <g:title>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo</g:title>
-      <g:description>Madu Sidr Alami dari Pegunungan Himalaya 10 Kilo. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-alami-dari-pegunungan-himalaya-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>1487430420</g:id>
+      <g:title>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo)</g:title>
+      <g:description>Madu Sidr Alami 6 Kilo (4 Kilo + 2 Kilo). 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-alami-6-kilo-4-kilo-2-kilo/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>146284993</g:id>
@@ -63,10 +63,28 @@
       <g:link>https://areesh.sa/ind/3-kilo-madu-sidr-alami/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1611390490</g:id>
-      <g:title>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit</g:title>
-      <g:description>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit. 0.47 kg.</g:description>
-      <g:link>https://areesh.sa/ind/3-kemasan-minuman-madu-jahe-lemon-dan-kunyit/p1611390490?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>827374682</g:id>
+      <g:title>6 Kilo Madu Jintan Hitam (Gratis Ongkir)</g:title>
+      <g:description>6 Kilo Madu Jintan Hitam (Gratis Ongkir). 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/6-kilo-madu-jintan-hitam-gratis-ongkir/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>Box Hadiah Hari Nasional 8 Kemasan Madu Sidr Alami</g:title>
+      <g:description>Box Hadiah Hari Nasional 8 Kemasan Madu Sidr Alami. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/box-hadiah-hari-nasional-8-kemasan-madu-sidr-alami/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>Racikan Royal Areesh (Kemasan 500 g)</g:title>
+      <g:description>Racikan Royal Areesh (Kemasan 500 g). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/racikan-royal-areesh-kemasan-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>190273304</g:id>
+      <g:title>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami + 2 Kilo Madu Hutan Hitam Eropa</g:title>
+      <g:description>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami + 2 Kilo Madu Hutan Hitam Eropa. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/2-kilo-madu-sidr-alami-2-kilo-madu-bunga-alami-2-kilo-madu-hutan-hitam-eropa/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>552143552</g:id>
@@ -183,12 +201,6 @@
       <g:link>https://areesh.sa/ind/galon-5-kg-madu-talh-premium/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>827374682</g:id>
-      <g:title>6 Kilo Madu Jintan Hitam (Gratis Ongkir)</g:title>
-      <g:description>6 Kilo Madu Jintan Hitam (Gratis Ongkir). 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/6-kilo-madu-jintan-hitam-gratis-ongkir/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>2132981371</g:id>
       <g:title>Madu sidr gunung 5 kg</g:title>
       <g:description>Madu sidr gunung 5 kg. 5.5 kg.</g:description>
@@ -217,18 +229,6 @@
       <g:title>2 Kilo Madu Bunga Alami</g:title>
       <g:description>2 Kilo Madu Bunga Alami. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/2-kilo-madu-bunga-alami/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2047975632</g:id>
-      <g:title>12 Kilo Madu Bunga Alami</g:title>
-      <g:description>12 Kilo Madu Bunga Alami. 12.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/12-kilo-madu-bunga-alami/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1256707703</g:id>
-      <g:title>Satu Kemasan Madu Majra Putih (Mardisia) + Satu Kemasan Gratis</g:title>
-      <g:description>Satu Kemasan Madu Majra Putih (Mardisia) + Satu Kemasan Gratis. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/satu-kemasan-madu-majra-putih-mardisia-satu-kemasan-gratis/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1425604290</g:id>

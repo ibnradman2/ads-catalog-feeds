@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 14:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:39:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -333,16 +333,16 @@
       <g:link>https://asalaljebal.sa/tr/pakistan-pe-aver-sidr-bal-7-kg-galon-toptan-fiyat/p565752464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>2144594011</g:id>
-      <g:title>Anason Balı 250 g</g:title>
-      <g:description>Anason Balı 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/anason-bal-250-g/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1571578210</g:id>
       <g:title>Premium Talh Balı 7 Kilo Toptan Bidon</g:title>
       <g:description>Premium Talh Balı 7 Kilo Toptan Bidon. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/premium-talh-bal-7-kilo-toptan-bidon/p1571578210?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>2144594011</g:id>
+      <g:title>Anason Balı 250 g</g:title>
+      <g:description>Anason Balı 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/anason-bal-250-g/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>419971394</g:id>
@@ -591,16 +591,16 @@
       <g:link>https://asalaljebal.sa/tr/yar-m-kilo-ke-mir-sidr-bal-yar-m-kilo-rek-otlu-bal-2-paket-zencefilli-limonlu-ve/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1632997500</g:id>
-      <g:title>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo</g:title>
-      <g:description>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/5-kg-yonca-i-e-i-bal-36-i-ndirimli-cretsiz-kargo/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1741453097</g:id>
       <g:title>6 Paket Keşmir Sidr Balı (600 Gram)</g:title>
       <g:description>6 Paket Keşmir Sidr Balı (600 Gram). 4.1 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/6-paket-ke-mir-sidr-bal-600-gram/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1632997500</g:id>
+      <g:title>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo</g:title>
+      <g:description>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/5-kg-yonca-i-e-i-bal-36-i-ndirimli-cretsiz-kargo/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1129449226</g:id>
@@ -1347,16 +1347,16 @@
       <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-1-kilo/p1516032688?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1735868163</g:id>
-      <g:title>Anason Balı 2 Kilo</g:title>
-      <g:description>Anason Balı 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/anason-bal-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1007628890</g:id>
       <g:title>Öğütülmüş Arap Zamkı 250 gram</g:title>
       <g:description>Öğütülmüş Arap Zamkı 250 gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/t-lm-arap-zamk-250-gram/p1007628890?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1735868163</g:id>
+      <g:title>Anason Balı 2 Kilo</g:title>
+      <g:description>Anason Balı 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/anason-bal-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>581887586</g:id>

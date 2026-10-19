@@ -4,27 +4,21 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 13:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:18:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <g:id>717865418</g:id>
-      <g:title>国庆日礼盒 8罐天然西德尔蜂蜜</g:title>
-      <g:description>国庆日礼盒 8罐天然西德尔蜂蜜. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>916755779</g:id>
+      <g:title>天然西德尔蜂蜜 12瓶装</g:title>
+      <g:description>天然西德尔蜂蜜 12瓶装. 3.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1487430420</g:id>
-      <g:title>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）</g:title>
-      <g:description>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>阿里什皇家特调（500克罐装）</g:title>
-      <g:description>阿里什皇家特调（500克罐装）. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>1611390490</g:id>
+      <g:title>3瓶姜黄柠檬生姜蜂蜜饮品</g:title>
+      <g:description>3瓶姜黄柠檬生姜蜂蜜饮品. 0.47 kg.</g:description>
+      <g:link>https://areesh.sa/zh/3/p1611390490?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>14589094</g:id>
@@ -33,28 +27,34 @@
       <g:link>https://areesh.sa/zh/4-2/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
+      <g:id>443912774</g:id>
+      <g:title>喜马拉雅山天然西德尔蜂蜜 10公斤</g:title>
+      <g:description>喜马拉雅山天然西德尔蜂蜜 10公斤. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
       <g:id>311501392</g:id>
       <g:title>天然百花蜜 8公斤</g:title>
       <g:description>天然百花蜜 8公斤. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/8/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>190273304</g:id>
-      <g:title>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤 + 欧洲黑森林蜂蜜 2公斤</g:title>
-      <g:description>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤 + 欧洲黑森林蜂蜜 2公斤. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/2-2-2/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>2047975632</g:id>
+      <g:title>天然百花蜜 12公斤</g:title>
+      <g:description>天然百花蜜 12公斤. 12.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/12/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>916755779</g:id>
-      <g:title>天然西德尔蜂蜜 12瓶装</g:title>
-      <g:description>天然西德尔蜂蜜 12瓶装. 3.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>1256707703</g:id>
+      <g:title>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶</g:title>
+      <g:description>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/mardisia/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>443912774</g:id>
-      <g:title>喜马拉雅山天然西德尔蜂蜜 10公斤</g:title>
-      <g:description>喜马拉雅山天然西德尔蜂蜜 10公斤. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>1487430420</g:id>
+      <g:title>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）</g:title>
+      <g:description>天然西德尔蜂蜜6公斤（4公斤 + 2公斤）. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/6-4-2/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>146284993</g:id>
@@ -63,10 +63,28 @@
       <g:link>https://areesh.sa/zh/3/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1611390490</g:id>
-      <g:title>3瓶姜黄柠檬生姜蜂蜜饮品</g:title>
-      <g:description>3瓶姜黄柠檬生姜蜂蜜饮品. 0.47 kg.</g:description>
-      <g:link>https://areesh.sa/zh/3/p1611390490?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:id>827374682</g:id>
+      <g:title>6公斤黑种草蜜（免费配送）</g:title>
+      <g:description>6公斤黑种草蜜（免费配送）. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/6/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>国庆日礼盒 8罐天然西德尔蜂蜜</g:title>
+      <g:description>国庆日礼盒 8罐天然西德尔蜂蜜. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>阿里什皇家特调（500克罐装）</g:title>
+      <g:description>阿里什皇家特调（500克罐装）. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>190273304</g:id>
+      <g:title>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤 + 欧洲黑森林蜂蜜 2公斤</g:title>
+      <g:description>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤 + 欧洲黑森林蜂蜜 2公斤. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/2-2-2/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>552143552</g:id>
@@ -183,12 +201,6 @@
       <g:link>https://areesh.sa/zh/5/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>827374682</g:id>
-      <g:title>6公斤黑种草蜜（免费配送）</g:title>
-      <g:description>6公斤黑种草蜜（免费配送）. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/6/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>2132981371</g:id>
       <g:title>5公斤山地西德尔蜜</g:title>
       <g:description>5公斤山地西德尔蜜. 5.5 kg.</g:description>
@@ -217,18 +229,6 @@
       <g:title>天然百花蜜 2公斤</g:title>
       <g:description>天然百花蜜 2公斤. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/2/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>2047975632</g:id>
-      <g:title>天然百花蜜 12公斤</g:title>
-      <g:description>天然百花蜜 12公斤. 12.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/12/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1256707703</g:id>
-      <g:title>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶</g:title>
-      <g:description>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/mardisia/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1425604290</g:id>

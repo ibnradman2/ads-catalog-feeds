@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 14:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:39:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -435,16 +435,16 @@
       <g:link>https://asalaljebal.sa/ur/2-470/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1632997500</g:id>
-      <g:title>5 کلو برسیم کے پھولوں کا شہد، 36 فیصد رعایت + مفت ڈیلیوری + قسطوں کی سہولت</g:title>
-      <g:description>5 کلو برسیم کے پھولوں کا شہد، 36 فیصد رعایت + مفت ڈیلیوری + قسطوں کی سہولت. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5-36/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1741453097</g:id>
       <g:title>کشمیری سدر شہد کے 6 ڈبے (600 گرام)</g:title>
       <g:description>کشمیری سدر شہد کے 6 ڈبے (600 گرام). 4.1 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1632997500</g:id>
+      <g:title>5 کلو برسیم کے پھولوں کا شہد، 36 فیصد رعایت + مفت ڈیلیوری + قسطوں کی سہولت</g:title>
+      <g:description>5 کلو برسیم کے پھولوں کا شہد، 36 فیصد رعایت + مفت ڈیلیوری + قسطوں کی سہولت. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5-36/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1813391541</g:id>
