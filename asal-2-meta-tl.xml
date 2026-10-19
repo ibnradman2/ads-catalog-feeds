@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 02:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:10:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2140503485</g:id>
+      <g:title>Royal Sidr na Pulot sa Pagkit, 5 Kilo</g:title>
+      <g:description>Royal Sidr na Pulot sa Pagkit, 5 Kilo. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-sidr-na-pulot-sa-pagkit-5-kilo/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>24757641</g:id>
+      <g:title>Pulot ng Moringa 10 kg Galon sa Presyong Pakyawan</g:title>
+      <g:description>Pulot ng Moringa 10 kg Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-10-kg-galon-sa-presyong-pakyawan/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1725149288</g:id>
       <g:title>Pulot ng Marjoram 1 Kilo</g:title>
@@ -37,12 +49,6 @@
       <g:title>Anise Honey 10 Kilo na Galon sa Presyong Pakyawan</g:title>
       <g:description>Anise Honey 10 Kilo na Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/anise-honey-10-kilo-na-galon-sa-presyong-pakyawan/p1853234062?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>24757641</g:id>
-      <g:title>Pulot ng Moringa 10 kg Galon sa Presyong Pakyawan</g:title>
-      <g:description>Pulot ng Moringa 10 kg Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-10-kg-galon-sa-presyong-pakyawan/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1327702593</g:id>
@@ -169,12 +175,6 @@
       <g:title>Puting Pulot ng Hungary (Mardisia) 10 Kilo Galon sa Presyong Pakyawan</g:title>
       <g:description>Puting Pulot ng Hungary (Mardisia) 10 Kilo Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/puting-pulot-ng-hungary-mardisia-10-kilo-galon-sa-presyong-pakyawan/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2140503485</g:id>
-      <g:title>Royal Sidr na Pulot sa Pagkit, 5 Kilo</g:title>
-      <g:description>Royal Sidr na Pulot sa Pagkit, 5 Kilo. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-sidr-na-pulot-sa-pagkit-5-kilo/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>63390305</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 02:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:10:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2140503485</g:id>
+      <g:title>Miel en panal de Sidr real 5 kg</g:title>
+      <g:description>Miel en panal de Sidr real 5 kg. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-en-panal-de-sidr-real-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>24757641</g:id>
+      <g:title>Miel de moringa 10 kg en garrafa a precio de mayorista</g:title>
+      <g:description>Miel de moringa 10 kg en garrafa a precio de mayorista. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-moringa-10-kg-en-garrafa-a-precio-de-mayorista/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1725149288</g:id>
       <g:title>Miel de mejorana 1 kg</g:title>
@@ -37,12 +49,6 @@
       <g:title>Miel de anís, garrafón de 10 kg a precio de mayorista</g:title>
       <g:description>Miel de anís, garrafón de 10 kg a precio de mayorista. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-an-s-garraf-n-de-10-kg-a-precio-de-mayorista/p1853234062?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>24757641</g:id>
-      <g:title>Miel de moringa 10 kg en garrafa a precio de mayorista</g:title>
-      <g:description>Miel de moringa 10 kg en garrafa a precio de mayorista. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-moringa-10-kg-en-garrafa-a-precio-de-mayorista/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1327702593</g:id>
@@ -169,12 +175,6 @@
       <g:title>Miel blanca de Mardisia en galón de 10 kg a precio de mayorista</g:title>
       <g:description>Miel blanca de Mardisia en galón de 10 kg a precio de mayorista. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-blanca-de-mardisia-en-gal-n-de-10-kg-a-precio-de-mayorista/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2140503485</g:id>
-      <g:title>Miel en panal de Sidr real 5 kg</g:title>
-      <g:description>Miel en panal de Sidr real 5 kg. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-en-panal-de-sidr-real-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>63390305</g:id>
