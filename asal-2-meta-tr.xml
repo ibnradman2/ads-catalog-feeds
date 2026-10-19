@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 08:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:20:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>313018985</g:id>
+      <g:title>Hail Talh Balı 1 Kilo</g:title>
+      <g:description>Hail Talh Balı 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/hail-talh-bal-1-kilo/p313018985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1314226407</g:id>
+      <g:title>Ürdün Arı Poleni 250 g</g:title>
+      <g:description>Ürdün Arı Poleni 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-250-g/p1314226407?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1854842724</g:id>
+      <g:title>Mısır Arı Sütü 10 Gram Küçük Paket</g:title>
+      <g:description>Mısır Arı Sütü 10 Gram Küçük Paket. 0.51 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/m-s-r-ar-s-t-10-gram-k-k-paket/p1854842724?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1679623271</g:id>
+      <g:title>Yemen Kırmızı Kuru Üzüm 1 Kilo</g:title>
+      <g:description>Yemen Kırmızı Kuru Üzüm 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yemen-k-rm-z-kuru-z-m-1-kilo/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>843246671</g:id>
       <g:title>Güney veya Hadramut Yabani Çiçek Balı 10 kg Bidon Toptan Fiyatına</g:title>
@@ -727,30 +751,6 @@
       <g:title>2 kg Alman Mecra Balı (Mardisia) + (Ücretsiz Kargo)</g:title>
       <g:description>2 kg Alman Mecra Balı (Mardisia) + (Ücretsiz Kargo). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/2-kg-alman-mecra-bal-mardisia-cretsiz-kargo/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1679623271</g:id>
-      <g:title>Yemen Kırmızı Kuru Üzüm 1 Kilo</g:title>
-      <g:description>Yemen Kırmızı Kuru Üzüm 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yemen-k-rm-z-kuru-z-m-1-kilo/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>313018985</g:id>
-      <g:title>Hail Talh Balı 1 Kilo</g:title>
-      <g:description>Hail Talh Balı 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/hail-talh-bal-1-kilo/p313018985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1854842724</g:id>
-      <g:title>Mısır Arı Sütü 10 Gram Küçük Paket</g:title>
-      <g:description>Mısır Arı Sütü 10 Gram Küçük Paket. 0.51 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/m-s-r-ar-s-t-10-gram-k-k-paket/p1854842724?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1314226407</g:id>
-      <g:title>Ürdün Arı Poleni 250 g</g:title>
-      <g:description>Ürdün Arı Poleni 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-250-g/p1314226407?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1849198782</g:id>

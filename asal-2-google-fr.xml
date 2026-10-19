@@ -4,10 +4,70 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 08:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:20:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">313018985</guid>
+      <g:id>313018985</g:id>
+      <g:title>Miel de Talh de Haïl 1 kg</g:title>
+      <g:description>Miel de Talh de Haïl 1 kg. Miel de Talh. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-1-kg/p313018985?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/JNRQAkdSmy1umGcMswQiB7SnCqNnA6lThxH4Lhza.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>574.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021010002</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>313018985</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1314226407</guid>
+      <g:id>1314226407</g:id>
+      <g:title>Pollen d’abeille de Jordanie 250 g</g:title>
+      <g:description>Pollen d’abeille de Jordanie 250 g. Produits de la ruche. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-de-jordanie-250-g/p1314226407?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001007003</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1314226407</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1854842724</guid>
+      <g:id>1854842724</g:id>
+      <g:title>Gelée royale égyptienne 10 g</g:title>
+      <g:description>Gelée royale égyptienne 10 g. Produits de la ruche. 0.51 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gel-e-royale-gyptienne-10-g/p1854842724?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5TwcPNte3twR6YVb33KhFcwn5X81iMuv6so7vLYT.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061008</g:item_group_id>
+      <g:shipping_weight>0.51 kg</g:shipping_weight>
+    <g:mpn>1854842724</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>10g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1679623271</guid>
+      <g:id>1679623271</g:id>
+      <g:title>Raisins secs rouges du Yémen 1 kg</g:title>
+      <g:description>Raisins secs rouges du Yémen 1 kg. Fruits secs. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-1-kg/p1679623271?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/x5pkmwIrF0SHKVpDI42XrAsjyYlrEb4m1o7addlN.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>008100101</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1679623271</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Fruits secs</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">843246671</guid>
       <g:id>843246671</g:id>
@@ -1918,66 +1978,6 @@
       <g:item_group_id>0140101038</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>1142835467</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel Majra blanc</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1679623271</guid>
-      <g:id>1679623271</g:id>
-      <g:title>Raisins secs rouges du Yémen 1 kg</g:title>
-      <g:description>Raisins secs rouges du Yémen 1 kg. Fruits secs. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-1-kg/p1679623271?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/x5pkmwIrF0SHKVpDI42XrAsjyYlrEb4m1o7addlN.jpeg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>172.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>008100101</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1679623271</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Fruits secs</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">313018985</guid>
-      <g:id>313018985</g:id>
-      <g:title>Miel de Talh de Haïl 1 kg</g:title>
-      <g:description>Miel de Talh de Haïl 1 kg. Miel de Talh. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-1-kg/p313018985?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/JNRQAkdSmy1umGcMswQiB7SnCqNnA6lThxH4Lhza.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>574.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021010002</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>313018985</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1854842724</guid>
-      <g:id>1854842724</g:id>
-      <g:title>Gelée royale égyptienne 10 g</g:title>
-      <g:description>Gelée royale égyptienne 10 g. Produits de la ruche. 0.51 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gel-e-royale-gyptienne-10-g/p1854842724?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/5TwcPNte3twR6YVb33KhFcwn5X81iMuv6so7vLYT.jpeg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061008</g:item_group_id>
-      <g:shipping_weight>0.51 kg</g:shipping_weight>
-    <g:mpn>1854842724</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>10g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1314226407</guid>
-      <g:id>1314226407</g:id>
-      <g:title>Pollen d’abeille de Jordanie 250 g</g:title>
-      <g:description>Pollen d’abeille de Jordanie 250 g. Produits de la ruche. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-de-jordanie-250-g/p1314226407?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>249.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001007003</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1314226407</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1849198782</guid>
       <g:id>1849198782</g:id>
