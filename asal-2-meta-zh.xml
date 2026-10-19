@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 04:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:11:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1605830592</g:id>
+      <g:title>大麦粉（先知式大麦粥 Talbina）1公斤</g:title>
+      <g:description>大麦粉（先知式大麦粥 Talbina）1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/talbina-1/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>690835588</g:id>
+      <g:title>整粒黑种草籽 250克</g:title>
+      <g:description>整粒黑种草籽 250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1829509087</g:id>
+      <g:title>3罐天然西德尔蜂蜜 + 免运费</g:title>
+      <g:description>3罐天然西德尔蜂蜜 + 免运费. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p1829509087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>768106172</g:id>
+      <g:title>带蜂巢的皇家西德尔蜂蜜7公斤</g:title>
+      <g:description>带蜂巢的皇家西德尔蜂蜜7公斤. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>2140503485</g:id>
       <g:title>带蜂巢的皇家西德尔蜂蜜5公斤</g:title>
@@ -231,12 +255,6 @@
       <g:link>https://asalaljebal.sa/zh/500/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>768106172</g:id>
-      <g:title>带蜂巢的皇家西德尔蜂蜜7公斤</g:title>
-      <g:description>带蜂巢的皇家西德尔蜂蜜7公斤. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/7/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1407401907</g:id>
       <g:title>带蜂巢的皇家西德尔蜂蜜10公斤，免运费</g:title>
       <g:description>带蜂巢的皇家西德尔蜂蜜10公斤，免运费. 10.5 kg.</g:description>
@@ -247,12 +265,6 @@
       <g:title>白沙瓦山地西德尔蜂蜜 3公斤</g:title>
       <g:description>白沙瓦山地西德尔蜂蜜 3公斤. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/3/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1829509087</g:id>
-      <g:title>3罐天然西德尔蜂蜜 + 免运费</g:title>
-      <g:description>3罐天然西德尔蜂蜜 + 免运费. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/3/p1829509087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1480885382</g:id>
@@ -331,12 +343,6 @@
       <g:title>约旦蜜蜂花粉 50克</g:title>
       <g:description>约旦蜜蜂花粉 50克. 0.55 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/50/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1605830592</g:id>
-      <g:title>大麦粉（先知式大麦粥 Talbina）1公斤</g:title>
-      <g:description>大麦粉（先知式大麦粥 Talbina）1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/talbina-1/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>216808863</g:id>
@@ -715,12 +721,6 @@
       <g:title>2 公斤德国白色马吉拉（马尔迪西亚）蜂蜜 + （免费配送）</g:title>
       <g:description>2 公斤德国白色马吉拉（马尔迪西亚）蜂蜜 + （免费配送）. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/2/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>690835588</g:id>
-      <g:title>整粒黑种草籽 250克</g:title>
-      <g:description>整粒黑种草籽 250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1679623271</g:id>

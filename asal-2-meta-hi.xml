@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 04:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:11:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1605830592</g:id>
+      <g:title>जौ का आटा (नबवी तल्बीना) 1 किलो</g:title>
+      <g:description>जौ का आटा (नबवी तल्बीना) 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>690835588</g:id>
+      <g:title>कलौंजी के बीज (हब्बतुल बरका) 250 ग्राम</g:title>
+      <g:description>कलौंजी के बीज (हब्बतुल बरका) 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1829509087</g:id>
+      <g:title>प्राकृतिक सिद्र शहद के 3 जार + मुफ़्त डिलीवरी</g:title>
+      <g:description>प्राकृतिक सिद्र शहद के 3 जार + मुफ़्त डिलीवरी. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/3/p1829509087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>768106172</g:id>
+      <g:title>रॉयल सिद्र मोम-छत्ता शहद 7 किलो</g:title>
+      <g:description>रॉयल सिद्र मोम-छत्ता शहद 7 किलो. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/7/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2140503485</g:id>
       <g:title>रॉयल सिद्र मोम-छत्ता शहद 5 किलो</g:title>
@@ -231,12 +255,6 @@
       <g:link>https://asalaljebal.sa/hi/500/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>768106172</g:id>
-      <g:title>रॉयल सिद्र मोम-छत्ता शहद 7 किलो</g:title>
-      <g:description>रॉयल सिद्र मोम-छत्ता शहद 7 किलो. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/7/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1407401907</g:id>
       <g:title>मोम-छत्ते वाला रॉयल सिद्र शहद 10 किलो (मुफ़्त डिलीवरी)</g:title>
       <g:description>मोम-छत्ते वाला रॉयल सिद्र शहद 10 किलो (मुफ़्त डिलीवरी). 10.5 kg.</g:description>
@@ -247,12 +265,6 @@
       <g:title>3 किलो पेशावरी पहाड़ी सिद्र शहद</g:title>
       <g:description>3 किलो पेशावरी पहाड़ी सिद्र शहद. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/3/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1829509087</g:id>
-      <g:title>प्राकृतिक सिद्र शहद के 3 जार + मुफ़्त डिलीवरी</g:title>
-      <g:description>प्राकृतिक सिद्र शहद के 3 जार + मुफ़्त डिलीवरी. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/3/p1829509087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1480885382</g:id>
@@ -331,12 +343,6 @@
       <g:title>जॉर्डनी मधुमक्खी पराग 50 ग्राम</g:title>
       <g:description>जॉर्डनी मधुमक्खी पराग 50 ग्राम. 0.55 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/50/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1605830592</g:id>
-      <g:title>जौ का आटा (नबवी तल्बीना) 1 किलो</g:title>
-      <g:description>जौ का आटा (नबवी तल्बीना) 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>216808863</g:id>
@@ -715,12 +721,6 @@
       <g:title>2 किलो जर्मन हंगेरियन सफ़ेद शहद (मर्डिसिया) + (मुफ़्त डिलीवरी)</g:title>
       <g:description>2 किलो जर्मन हंगेरियन सफ़ेद शहद (मर्डिसिया) + (मुफ़्त डिलीवरी). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>690835588</g:id>
-      <g:title>कलौंजी के बीज (हब्बतुल बरका) 250 ग्राम</g:title>
-      <g:description>कलौंजी के बीज (हब्बतुल बरका) 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1679623271</g:id>

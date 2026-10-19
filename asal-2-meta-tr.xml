@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 04:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:11:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1605830592</g:id>
+      <g:title>Arpa Unu (Nebevi Telbine) 1 kg</g:title>
+      <g:description>Arpa Unu (Nebevi Telbine) 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/arpa-unu-nebevi-telbine-1-kg/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>690835588</g:id>
+      <g:title>Çörek Otu 250 gram Bütün Tane</g:title>
+      <g:description>Çörek Otu 250 gram Bütün Tane. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rek-otu-250-gram-b-t-n-tane/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1829509087</g:id>
+      <g:title>3 Kavanoz Doğal Sidr Balı + Ücretsiz Kargo</g:title>
+      <g:description>3 Kavanoz Doğal Sidr Balı + Ücretsiz Kargo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kavanoz-do-al-sidr-bal-cretsiz-kargo/p1829509087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>768106172</g:id>
+      <g:title>Kraliyet Sidr Petek Balı 7 Kilo</g:title>
+      <g:description>Kraliyet Sidr Petek Balı 7 Kilo. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/kraliyet-sidr-petek-bal-7-kilo/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2140503485</g:id>
       <g:title>Kraliyet Sidr Petek Balı 5 Kilo</g:title>
@@ -225,12 +249,6 @@
       <g:link>https://asalaljebal.sa/tr/da-sidr-bal-500-gr/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>768106172</g:id>
-      <g:title>Kraliyet Sidr Petek Balı 7 Kilo</g:title>
-      <g:description>Kraliyet Sidr Petek Balı 7 Kilo. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/kraliyet-sidr-petek-bal-7-kilo/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1407401907</g:id>
       <g:title>Petekli Kraliyet Sidr Balı 10 Kilo, Ücretsiz Kargo</g:title>
       <g:description>Petekli Kraliyet Sidr Balı 10 Kilo, Ücretsiz Kargo. 10.5 kg.</g:description>
@@ -241,12 +259,6 @@
       <g:title>3 Kg Dağ Sidr Balı Peşaver</g:title>
       <g:description>3 Kg Dağ Sidr Balı Peşaver. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/3-kg-da-sidr-bal-pe-aver/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1829509087</g:id>
-      <g:title>3 Kavanoz Doğal Sidr Balı + Ücretsiz Kargo</g:title>
-      <g:description>3 Kavanoz Doğal Sidr Balı + Ücretsiz Kargo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kavanoz-do-al-sidr-bal-cretsiz-kargo/p1829509087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1480885382</g:id>
@@ -325,12 +337,6 @@
       <g:title>Ürdün Arı Poleni 50 g</g:title>
       <g:description>Ürdün Arı Poleni 50 g. 0.55 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1605830592</g:id>
-      <g:title>Arpa Unu (Nebevi Telbine) 1 kg</g:title>
-      <g:description>Arpa Unu (Nebevi Telbine) 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/arpa-unu-nebevi-telbine-1-kg/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>216808863</g:id>
@@ -703,12 +709,6 @@
       <g:title>2 kg Alman Mecra Balı (Mardisia) + (Ücretsiz Kargo)</g:title>
       <g:description>2 kg Alman Mecra Balı (Mardisia) + (Ücretsiz Kargo). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/2-kg-alman-mecra-bal-mardisia-cretsiz-kargo/p1142835467?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>690835588</g:id>
-      <g:title>Çörek Otu 250 gram Bütün Tane</g:title>
-      <g:description>Çörek Otu 250 gram Bütün Tane. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rek-otu-250-gram-b-t-n-tane/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1679623271</g:id>
