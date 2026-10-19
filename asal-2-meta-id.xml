@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 07:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:14:42 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>843246671</g:id>
+      <g:title>Madu Bunga Liar Selatan atau Hadrami Galon 10 Kg Harga Grosir</g:title>
+      <g:description>Madu Bunga Liar Selatan atau Hadrami Galon 10 Kg Harga Grosir. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-bunga-liar-selatan-atau-hadrami-galon-10-kg-harga-grosir/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>272226114</g:id>
       <g:title>Madu Marjoram 250 gram</g:title>
@@ -229,12 +235,6 @@
       <g:title>Madu Sidr Gunung 10 Kg Galon Harga Grosir</g:title>
       <g:description>Madu Sidr Gunung 10 Kg Galon Harga Grosir. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-sidr-gunung-10-kg-galon-harga-grosir/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>843246671</g:id>
-      <g:title>Madu Bunga Liar Selatan atau Hadrami Galon 10 Kg Harga Grosir</g:title>
-      <g:description>Madu Bunga Liar Selatan atau Hadrami Galon 10 Kg Harga Grosir. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-bunga-liar-selatan-atau-hadrami-galon-10-kg-harga-grosir/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>204409672</g:id>
