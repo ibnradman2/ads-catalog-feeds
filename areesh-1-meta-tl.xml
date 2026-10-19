@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 20:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:05:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -117,12 +117,6 @@
       <g:link>https://areesh.sa/tl/4-kilo-ng-natural-na-pulot-ng-sidr-2-kilo-ng-pulot-ng-bulaklak-nang-libre/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>443912774</g:id>
-      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
-      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>146284993</g:id>
       <g:title>3 Kilo Natural na Pulot ng Sidr</g:title>
       <g:description>3 Kilo Natural na Pulot ng Sidr. 3.5 kg.</g:description>
@@ -133,6 +127,12 @@
       <g:title>6 Kilo Pulot ng Habbat al-Barakah (Libreng Pagpapadala)</g:title>
       <g:description>6 Kilo Pulot ng Habbat al-Barakah (Libreng Pagpapadala). 6.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/6-kilo-pulot-ng-habbat-al-barakah-libreng-pagpapadala/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
+      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1256707703</g:id>
