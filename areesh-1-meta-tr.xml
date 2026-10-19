@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 21:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:09:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -111,12 +111,6 @@
       <g:link>https://areesh.sa/tr/12-paket-do-al-sidr-bal/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>14589094</g:id>
-      <g:title>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı</g:title>
-      <g:description>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/4-kg-do-al-sidr-bal-2-kg-hediye-i-ek-bal/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>146284993</g:id>
       <g:title>3 Kilo Doğal Sidr Balı</g:title>
       <g:description>3 Kilo Doğal Sidr Balı. 3.5 kg.</g:description>
@@ -139,6 +133,12 @@
       <g:title>Macar Beyaz Balı (Mardisia) Ambalajı + Bir Ambalaj Hediye</g:title>
       <g:description>Macar Beyaz Balı (Mardisia) Ambalajı + Bir Ambalaj Hediye. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tr/macar-beyaz-bal-mardisia-ambalaj-bir-ambalaj-hediye/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>14589094</g:id>
+      <g:title>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı</g:title>
+      <g:description>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/4-kg-do-al-sidr-bal-2-kg-hediye-i-ek-bal/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>765679051</g:id>

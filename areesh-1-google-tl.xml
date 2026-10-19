@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 21:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:09:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -271,22 +271,6 @@
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>1515012</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">14589094</guid>
-      <g:id>14589094</g:id>
-      <g:title>4 Kilo ng Natural na Pulot ng Sidr + 2 Kilo ng Pulot ng Bulaklak nang Libre</g:title>
-      <g:description>4 Kilo ng Natural na Pulot ng Sidr + 2 Kilo ng Pulot ng Bulaklak nang Libre. Pulot ng Sidr. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/4-kilo-ng-natural-na-pulot-ng-sidr-2-kilo-ng-pulot-ng-bulaklak-nang-libre/p14589094?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/uqOPlwdyeSwrBQOpTsjB192tAxmnLueO5Emqy5o5.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>249.00 SAR</g:price>
-      <g:sale_price>196.01 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00410031515</g:item_group_id>
-      <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>00410031515</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">146284993</guid>
       <g:id>146284993</g:id>
       <g:title>3 Kilo Natural na Pulot ng Sidr</g:title>
@@ -352,6 +336,22 @@
       <g:item_group_id>00410120202</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>00410120202</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap A</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Puting Majra na Pulot</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">14589094</guid>
+      <g:id>14589094</g:id>
+      <g:title>4 Kilo ng Natural na Pulot ng Sidr + 2 Kilo ng Pulot ng Bulaklak nang Libre</g:title>
+      <g:description>4 Kilo ng Natural na Pulot ng Sidr + 2 Kilo ng Pulot ng Bulaklak nang Libre. Pulot ng Sidr. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/4-kilo-ng-natural-na-pulot-ng-sidr-2-kilo-ng-pulot-ng-bulaklak-nang-libre/p14589094?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/uqOPlwdyeSwrBQOpTsjB192tAxmnLueO5Emqy5o5.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.00 SAR</g:price>
+      <g:sale_price>196.01 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00410031515</g:item_group_id>
+      <g:shipping_weight>6.5 kg</g:shipping_weight>
+    <g:mpn>00410031515</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">765679051</guid>
       <g:id>765679051</g:id>
