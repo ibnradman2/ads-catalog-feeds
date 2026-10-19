@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 20:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:05:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -287,24 +287,6 @@
       <g:shipping_weight>6.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">443912774</guid>
-      <g:id>443912774</g:id>
-      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
-      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/rfrtE1euIhw3hEFBBKUf6OyjNW9MQSfTl2F7uegf.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>990.00 SAR</g:price>
-      <g:sale_price>389.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0401006010</g:item_group_id>
-      <g:shipping_weight>10.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">146284993</guid>
       <g:id>146284993</g:id>
       <g:title>3 Kilo Natural na Pulot ng Sidr</g:title>
@@ -335,6 +317,24 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>014101037</g:item_group_id>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">443912774</guid>
+      <g:id>443912774</g:id>
+      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
+      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/rfrtE1euIhw3hEFBBKUf6OyjNW9MQSfTl2F7uegf.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/HOGJWi6Hx6l1P7dUX7hCJkJFAu2YzjrTSXdDQKGr.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>990.00 SAR</g:price>
+      <g:sale_price>389.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0401006010</g:item_group_id>
+      <g:shipping_weight>10.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1256707703</guid>
