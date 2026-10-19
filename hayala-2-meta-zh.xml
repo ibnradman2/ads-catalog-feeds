@@ -4,10 +4,64 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 18 Oct 2026 18:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:11:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>578517759</g:id>
+      <g:title>Luqmati Bashanfer 咖啡豆 5公斤 - Al Khair 埃塞俄比亚一级，适合阿拉伯咖啡</g:title>
+      <g:description>Luqmati Bashanfer 咖啡豆 5公斤 - Al Khair 埃塞俄比亚一级，适合阿拉伯咖啡. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/luqmati-bashanfer-5-al-khair/p578517759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1718132750</g:id>
+      <g:title>经济套装（豆蔻 + 藏红花 + 蜂蜜 + 香料 + 汤料）</g:title>
+      <g:description>经济套装（豆蔻 + 藏红花 + 蜂蜜 + 香料 + 汤料）. 3.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1666723060</g:id>
+      <g:title>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品</g:title>
+      <g:description>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>521440913</g:id>
+      <g:title>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器</g:title>
+      <g:description>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/zh/negin/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>115531510</g:id>
+      <g:title>本地野花蜂巢蜜 1公斤</g:title>
+      <g:description>本地野花蜂巢蜜 1公斤. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>323557872</g:id>
+      <g:title>刺蜜蜂巢蜜500克</g:title>
+      <g:description>刺蜜蜂巢蜜500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>999818845</g:id>
+      <g:title>山地西德尔蜂巢蜜 500克</g:title>
+      <g:description>山地西德尔蜂巢蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>2133906442</g:id>
+      <g:title>巴基斯坦松子 - 1 公斤</g:title>
+      <g:description>巴基斯坦松子 - 1 公斤. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p2133906442?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>282374221</g:id>
+      <g:title>4公斤天然西德尔蜂蜜 + 赠送2公斤</g:title>
+      <g:description>4公斤天然西德尔蜂蜜 + 赠送2公斤. 6.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/4-2/p282374221?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>497613295</g:id>
       <g:title>5公斤装黑种草蜂蜜桶 + (免运费)</g:title>
@@ -171,22 +225,10 @@
       <g:link>https://hayala.co/zh/500/p863440747?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>323557872</g:id>
-      <g:title>刺蜜蜂巢蜜500克</g:title>
-      <g:description>刺蜜蜂巢蜜500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>576004363</g:id>
       <g:title>红色玛沙特（500克）</g:title>
       <g:description>红色玛沙特（500克）. 1.0 kg.</g:description>
       <g:link>https://hayala.co/zh/500/p576004363?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>999818845</g:id>
-      <g:title>山地西德尔蜂巢蜜 500克</g:title>
-      <g:description>山地西德尔蜂巢蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1071630418</g:id>
@@ -217,12 +259,6 @@
       <g:title>哈拉尔 Bashenfer 咖啡豆 2公斤 - Al Khair 埃塞俄比亚一级阿拉伯咖啡</g:title>
       <g:description>哈拉尔 Bashenfer 咖啡豆 2公斤 - Al Khair 埃塞俄比亚一级阿拉伯咖啡. 2.5 kg.</g:description>
       <g:link>https://hayala.co/zh/bashenfer-2-al-khair/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1666723060</g:id>
-      <g:title>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品</g:title>
-      <g:description>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>331895065</g:id>
@@ -441,22 +477,10 @@
       <g:link>https://hayala.co/zh/500/p1932133262?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>2133906442</g:id>
-      <g:title>巴基斯坦松子 - 1 公斤</g:title>
-      <g:description>巴基斯坦松子 - 1 公斤. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p2133906442?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>2139954028</g:id>
       <g:title>卡图纳籽 250克</g:title>
       <g:description>卡图纳籽 250克. 0.75 kg.</g:description>
       <g:link>https://hayala.co/zh/250/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>578517759</g:id>
-      <g:title>Luqmati Bashanfer 咖啡豆 5公斤 - Al Khair 埃塞俄比亚一级，适合阿拉伯咖啡</g:title>
-      <g:description>Luqmati Bashanfer 咖啡豆 5公斤 - Al Khair 埃塞俄比亚一级，适合阿拉伯咖啡. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/luqmati-bashanfer-5-al-khair/p578517759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1147148756</g:id>
@@ -789,12 +813,6 @@
       <g:link>https://hayala.co/zh/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>282374221</g:id>
-      <g:title>4公斤天然西德尔蜂蜜 + 赠送2公斤</g:title>
-      <g:description>4公斤天然西德尔蜂蜜 + 赠送2公斤. 6.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/4-2/p282374221?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>638751991</g:id>
       <g:title>本地羊奶酥油 680克</g:title>
       <g:description>本地羊奶酥油 680克. 1.18 kg.</g:description>
@@ -831,12 +849,6 @@
       <g:link>https://hayala.co/zh/500/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1718132750</g:id>
-      <g:title>经济套装（豆蔻 + 藏红花 + 蜂蜜 + 香料 + 汤料）</g:title>
-      <g:description>经济套装（豆蔻 + 藏红花 + 蜂蜜 + 香料 + 汤料）. 3.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1567920614</g:id>
       <g:title>沙兹利亚咖啡4包</g:title>
       <g:description>沙兹利亚咖啡4包. 2.0 kg.</g:description>
@@ -861,22 +873,10 @@
       <g:link>https://hayala.co/zh/3/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>521440913</g:id>
-      <g:title>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器</g:title>
-      <g:description>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器. 0.01 kg.</g:description>
-      <g:link>https://hayala.co/zh/negin/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1038697929</g:id>
       <g:title>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器</g:title>
       <g:description>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器. 0.031 kg.</g:description>
       <g:link>https://hayala.co/zh/negin/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>115531510</g:id>
-      <g:title>本地野花蜂巢蜜 1公斤</g:title>
-      <g:description>本地野花蜂巢蜜 1公斤. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
   </channel>
 </rss>
