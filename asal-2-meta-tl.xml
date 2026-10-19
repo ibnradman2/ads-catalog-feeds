@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 09:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303334119</g:id>
+      <g:title>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo</g:title>
+      <g:description>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo. 6.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/galon-ng-kashmiri-sidr-honey-3-kilo-galon-ng-clover-honey-3-kilo/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>313018985</g:id>
       <g:title>Pulot ng Talh ng Ha'il 1 Kilo</g:title>
@@ -415,12 +421,6 @@
       <g:title>Dalawang Pakete ng Pulot na may Mani, 500 Gramo</g:title>
       <g:description>Dalawang Pakete ng Pulot na may Mani, 500 Gramo. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-pulot-na-may-mani-500-gramo/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1303334119</g:id>
-      <g:title>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo</g:title>
-      <g:description>Galon ng Kashmiri Sidr Honey 3 Kilo + Galon ng Clover Honey 3 Kilo. 6.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/galon-ng-kashmiri-sidr-honey-3-kilo-galon-ng-clover-honey-3-kilo/p1303334119?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>112154521</g:id>

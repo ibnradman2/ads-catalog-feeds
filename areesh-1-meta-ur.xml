@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 00:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1927503162</g:id>
+      <g:title>موم میں مقامی جنگلی پھولوں کا شہد، 2.5 کلو کا برتن</g:title>
+      <g:description>موم میں مقامی جنگلی پھولوں کا شہد، 2.5 کلو کا برتن. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/2-5/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>973260804</g:id>
       <g:title>پریمیم سعودی طلح شہد 1 کلو</g:title>
@@ -565,12 +571,6 @@
       <g:title>کھجور کے نر پھولوں کا زرِگل (طلع النخیل)</g:title>
       <g:description>کھجور کے نر پھولوں کا زرِگل (طلع النخیل).</g:description>
       <g:link>https://areesh.sa/ur/product/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1927503162</g:id>
-      <g:title>موم میں مقامی جنگلی پھولوں کا شہد، 2.5 کلو کا برتن</g:title>
-      <g:description>موم میں مقامی جنگلی پھولوں کا شہد، 2.5 کلو کا برتن. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/2-5/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>758688219</g:id>

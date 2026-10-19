@@ -4,10 +4,25 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 00:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:17:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1147148756</guid>
+      <g:id>1147148756</g:id>
+      <g:title>2 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
+      <g:description>2 kg Doğal Sidr Balı + 2 kg Hediye. Sidr Balı. 4.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/2-kg-do-al-sidr-bal-2-kg-hediye/p1147148756?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/yyExsm6WO6ofxrQLnbgfnOLYFhnNgapiTTM8OWet.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>410.00 SAR</g:price>
+      <g:sale_price>196.01 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>4.5 kg</g:shipping_weight>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">578517759</guid>
       <g:id>578517759</g:id>
@@ -1179,21 +1194,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1147148756</guid>
-      <g:id>1147148756</g:id>
-      <g:title>2 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
-      <g:description>2 kg Doğal Sidr Balı + 2 kg Hediye. Sidr Balı. 4.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/2-kg-do-al-sidr-bal-2-kg-hediye/p1147148756?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/yyExsm6WO6ofxrQLnbgfnOLYFhnNgapiTTM8OWet.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>410.00 SAR</g:price>
-      <g:sale_price>196.01 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">428797377</guid>
       <g:id>428797377</g:id>

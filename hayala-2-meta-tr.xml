@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 00:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:17:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1147148756</g:id>
+      <g:title>2 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
+      <g:description>2 kg Doğal Sidr Balı + 2 kg Hediye. 4.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/2-kg-do-al-sidr-bal-2-kg-hediye/p1147148756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>578517759</g:id>
       <g:title>Lokmati Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:title>
@@ -493,12 +499,6 @@
       <g:title>Psyllium (Katune) Tohumu - 250 g</g:title>
       <g:description>Psyllium (Katune) Tohumu - 250 g. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tr/psyllium-katune-tohumu-250-g/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1147148756</g:id>
-      <g:title>2 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
-      <g:description>2 kg Doğal Sidr Balı + 2 kg Hediye. 4.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/2-kg-do-al-sidr-bal-2-kg-hediye/p1147148756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>428797377</g:id>

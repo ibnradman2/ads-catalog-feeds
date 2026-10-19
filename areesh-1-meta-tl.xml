@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 00:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>552143552</g:id>
+      <g:title>Pulot ng Manuka mula New Zealand UMF 20+ MGO 830+ Homeland, 250 Gramo</g:title>
+      <g:description>Pulot ng Manuka mula New Zealand UMF 20+ MGO 830+ Homeland, 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-manuka-mula-new-zealand-umf-20-mgo-830-homeland-250-gramo/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1927503162</g:id>
+      <g:title>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg</g:title>
+      <g:description>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-ligaw-na-bulaklak-sa-wax-lokal-palayok-na-2-5-kg/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>973260804</g:id>
       <g:title>Premium na Pulot ng Talh na 1 Kilo</g:title>
@@ -525,12 +537,6 @@
       <g:link>https://areesh.sa/tl/pulot-ng-manuka-umf-10-mgo-300-mula-new-zealand-250-gramo/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>552143552</g:id>
-      <g:title>Pulot ng Manuka mula New Zealand UMF 20+ MGO 830+ Homeland, 250 Gramo</g:title>
-      <g:description>Pulot ng Manuka mula New Zealand UMF 20+ MGO 830+ Homeland, 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-manuka-mula-new-zealand-umf-20-mgo-830-homeland-250-gramo/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>732821654</g:id>
       <g:title>Pulot ng Manuka mula New Zealand UMF 15+ MGO 550+ Homeland, 250 Gramo</g:title>
       <g:description>Pulot ng Manuka mula New Zealand UMF 15+ MGO 550+ Homeland, 250 Gramo. 0.75 kg.</g:description>
@@ -619,12 +625,6 @@
       <g:title>Pollen ng Palmera ng Datiles (Tal'a an-Nakheel)</g:title>
       <g:description>Pollen ng Palmera ng Datiles (Tal'a an-Nakheel).</g:description>
       <g:link>https://areesh.sa/tl/pollen-ng-palmera-ng-datiles-tal-a-an-nakheel/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1927503162</g:id>
-      <g:title>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg</g:title>
-      <g:description>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-ligaw-na-bulaklak-sa-wax-lokal-palayok-na-2-5-kg/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>758688219</g:id>
