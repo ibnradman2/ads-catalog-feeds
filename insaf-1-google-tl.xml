@@ -4,7 +4,7 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 17:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:27:29 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -21,7 +21,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>907457808</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">879693415</guid>
       <g:id>879693415</g:id>
@@ -35,7 +35,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>879693415</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">850933620</guid>
       <g:id>850933620</g:id>
@@ -50,7 +50,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.7 kg</g:shipping_weight>
-    <g:mpn>850933620</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">795150874</guid>
       <g:id>795150874</g:id>
@@ -65,7 +65,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>795150874</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">777320175</guid>
       <g:id>777320175</g:id>
@@ -80,7 +80,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>777320175</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Talh</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Talh</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">673263980</guid>
       <g:id>673263980</g:id>
@@ -95,7 +95,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>673263980</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">592690627</guid>
       <g:id>592690627</g:id>
@@ -110,7 +110,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>592690627</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">504364220</guid>
       <g:id>504364220</g:id>
@@ -125,7 +125,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.9 kg</g:shipping_weight>
-    <g:mpn>504364220</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">476216439</guid>
       <g:id>476216439</g:id>
@@ -140,7 +140,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>476216439</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">423215357</guid>
       <g:id>423215357</g:id>
@@ -155,7 +155,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>423215357</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">293213385</guid>
       <g:id>293213385</g:id>
@@ -170,7 +170,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>293213385</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Samra</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Samra</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">284822488</guid>
       <g:id>284822488</g:id>
@@ -185,7 +185,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>284822488</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap A</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap A</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2048957687</guid>
       <g:id>2048957687</g:id>
@@ -200,7 +200,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>2048957687</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2044103725</guid>
       <g:id>2044103725</g:id>
@@ -215,7 +215,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>2044103725</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2016323095</guid>
       <g:id>2016323095</g:id>
@@ -230,7 +230,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:mpn>2016323095</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1992541699</guid>
       <g:id>1992541699</g:id>
@@ -242,14 +242,14 @@
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/SOkRLB9hHphgNdpts4D8QeY67LRmvE0xIIrLR8Rm.webp</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/ewwqCUcUsihxkZLqWNpp3mTSQpLLnYNM6HavZPCp.webp</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/gVKUVRvEq35u2HnGaDVEbhKiFJon8w47457Qs8XW.webp</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/57f43e11-40b1-41dc-95b8-65b52371d469-821x1000-iTz5HdUtdJC3UlzWnAyuRJuVenurYu0MThIyPe7g.webp</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>500.00 SAR</g:price>
       <g:sale_price>399.00 SAR</g:sale_price>
       <g:brand>Insaf</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1992541699</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>300 hanggang 599</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>300 hanggang 599</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1949696355</guid>
       <g:id>1949696355</g:id>
@@ -264,7 +264,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>1949696355</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1863085925</guid>
       <g:id>1863085925</g:id>
@@ -279,7 +279,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1863085925</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1745075758</guid>
       <g:id>1745075758</g:id>
@@ -294,7 +294,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1745075758</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Puting Majra na Pulot</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Puting Majra na Pulot</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1701257250</guid>
       <g:id>1701257250</g:id>
@@ -309,7 +309,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>4.9 kg</g:shipping_weight>
-    <g:mpn>1701257250</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1659176580</guid>
       <g:id>1659176580</g:id>
@@ -324,7 +324,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>1659176580</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1632724705</guid>
       <g:id>1632724705</g:id>
@@ -339,7 +339,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1632724705</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1610749424</guid>
       <g:id>1610749424</g:id>
@@ -353,7 +353,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1610749424</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1518558086</guid>
       <g:id>1518558086</g:id>
@@ -368,7 +368,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1518558086</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Puting Majra na Pulot</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Puting Majra na Pulot</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1463543429</guid>
       <g:id>1463543429</g:id>
@@ -383,7 +383,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>1463543429</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1458505546</guid>
       <g:id>1458505546</g:id>
@@ -398,7 +398,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1458505546</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1419760550</guid>
       <g:id>1419760550</g:id>
@@ -413,7 +413,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>1419760550</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1403683377</guid>
       <g:id>1403683377</g:id>
@@ -428,7 +428,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>1403683377</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1395738330</guid>
       <g:id>1395738330</g:id>
@@ -443,7 +443,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.75 kg</g:shipping_weight>
-    <g:mpn>1395738330</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1392084004</guid>
       <g:id>1392084004</g:id>
@@ -458,7 +458,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1392084004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1382517036</guid>
       <g:id>1382517036</g:id>
@@ -473,7 +473,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1382517036</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Produkto ng Bubuyog</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Produkto ng Bubuyog</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1338444945</guid>
       <g:id>1338444945</g:id>
@@ -485,14 +485,14 @@
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/b5KVkYxEoHNaS9Z5phOtyVxv90a2wACBOqxWHf5v.webp</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/xIeR5k8uYIJKTWTzcy3ktMWH5owr9JYWMHbHVd1V.webp</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/tLJzgPd0Tr5iL55K3JVvSMcRWP4AcUtnJE9q278Z.webp</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/52c08651-74cc-4340-b398-6c2c020f91ce-1000x973-uzMK3PP9k5WWlfIWytsN3rVYLNUKJ9PPU4athsvV.webp</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>220.00 SAR</g:price>
       <g:sale_price>199.00 SAR</g:sale_price>
       <g:brand>Insaf</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1338444945</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1330375378</guid>
       <g:id>1330375378</g:id>
@@ -511,7 +511,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1330375378</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1149830091</guid>
       <g:id>1149830091</g:id>
@@ -523,13 +523,13 @@
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/NqR7yGyVmz67lWNzM9CxzLA1LbGbNLP2Xa3D66cA.webp</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/WTZlm6zheHi3Ck2y6I6mldNElIfBCAORLELSFFF4.webp</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/qbqyN/S9t5LNiHAajRBg9j6bjeGKjWN8lMtPRvjrgvsnLA.webp</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/qbqyN/a60457ed-02bc-48cd-8ff2-4bde04c5f6dd-821x1000-HVK8F2H3ord3mEMzZe78vBQWQ6PjhHSpe7qc0I8F.webp</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>149.99 SAR</g:price>
       <g:brand>Insaf</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1149830091</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1103620581</guid>
       <g:id>1103620581</g:id>
@@ -544,7 +544,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:mpn>1103620581</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1086517048</guid>
       <g:id>1086517048</g:id>
@@ -559,7 +559,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1086517048</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1041174705</guid>
       <g:id>1041174705</g:id>
@@ -574,7 +574,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>8.5 kg</g:shipping_weight>
-    <g:mpn>1041174705</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap A</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>Pagganap A</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Regalo</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1004145752</guid>
       <g:id>1004145752</g:id>
@@ -589,6 +589,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1004145752</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Taglamig</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3></item>
   </channel>
 </rss>
