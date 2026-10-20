@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 07:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:34:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2136887666</g:id>
+      <g:title>Puting Pulot ng Hungary (Mardisia) 10 Kilo Galon sa Presyong Pakyawan</g:title>
+      <g:description>Puting Pulot ng Hungary (Mardisia) 10 Kilo Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/puting-pulot-ng-hungary-mardisia-10-kilo-galon-sa-presyong-pakyawan/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1862684535</g:id>
+      <g:title>Dalawang Pakete ng Puting Pulot ng Hungary (Mardisia) (500 gramo)</g:title>
+      <g:description>Dalawang Pakete ng Puting Pulot ng Hungary (Mardisia) (500 gramo). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-puting-pulot-ng-hungary-mardisia-500-gramo/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1374413185</g:id>
+      <g:title>Mountain Sidr Honey, Galon na 10 Kilo, Presyong Pakyawan</g:title>
+      <g:description>Mountain Sidr Honey, Galon na 10 Kilo, Presyong Pakyawan. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/mountain-sidr-honey-galon-na-10-kilo-presyong-pakyawan/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>220790277</g:id>
       <g:title>Pulot ng Acacia, 500 Gramo</g:title>
@@ -91,12 +109,6 @@
       <g:title>Natural na Inuming Pulot na may Luya, Lemon at Turmeric 470 g</g:title>
       <g:description>Natural na Inuming Pulot na may Luya, Lemon at Turmeric 470 g. 0.97 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/natural-na-inuming-pulot-na-may-luya-lemon-at-turmeric-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1862684535</g:id>
-      <g:title>Dalawang Pakete ng Puting Pulot ng Hungary (Mardisia) (500 gramo)</g:title>
-      <g:description>Dalawang Pakete ng Puting Pulot ng Hungary (Mardisia) (500 gramo). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-puting-pulot-ng-hungary-mardisia-500-gramo/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1726967627</g:id>
@@ -489,12 +501,6 @@
       <g:link>https://asalaljebal.sa/tl/premium-na-pulot-ng-samra-shawka-10-kilo-galon-sa-presyong-pakyawan/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>2136887666</g:id>
-      <g:title>Puting Pulot ng Hungary (Mardisia) 10 Kilo Galon sa Presyong Pakyawan</g:title>
-      <g:description>Puting Pulot ng Hungary (Mardisia) 10 Kilo Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/puting-pulot-ng-hungary-mardisia-10-kilo-galon-sa-presyong-pakyawan/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>63390305</g:id>
       <g:title>Premium Talh Honey 10 Kilo Galon sa Presyong Pakyawan</g:title>
       <g:description>Premium Talh Honey 10 Kilo Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
@@ -505,12 +511,6 @@
       <g:title>Pulot ng Sidr na Bundok, Galon na 7 Kilo, Presyong Pakyawan</g:title>
       <g:description>Pulot ng Sidr na Bundok, Galon na 7 Kilo, Presyong Pakyawan. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-galon-na-7-kilo-presyong-pakyawan/p598737026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1374413185</g:id>
-      <g:title>Mountain Sidr Honey, Galon na 10 Kilo, Presyong Pakyawan</g:title>
-      <g:description>Mountain Sidr Honey, Galon na 10 Kilo, Presyong Pakyawan. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/mountain-sidr-honey-galon-na-10-kilo-presyong-pakyawan/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>204409672</g:id>

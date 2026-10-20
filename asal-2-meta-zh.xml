@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 07:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:34:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2136887666</g:id>
+      <g:title>匈牙利白蜜（Mardisia）10公斤桶装 批发价</g:title>
+      <g:description>匈牙利白蜜（Mardisia）10公斤桶装 批发价. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia-10/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1862684535</g:id>
+      <g:title>两罐匈牙利白蜜（Mardisia）500克</g:title>
+      <g:description>两罐匈牙利白蜜（Mardisia）500克. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia-500/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1374413185</g:id>
+      <g:title>山地西德尔蜂蜜10公斤桶装，批发价</g:title>
+      <g:description>山地西德尔蜂蜜10公斤桶装，批发价. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>220790277</g:id>
       <g:title>洋槐蜂蜜 500克</g:title>
@@ -91,12 +109,6 @@
       <g:title>姜柠檬姜黄天然蜂蜜饮品 470克</g:title>
       <g:description>姜柠檬姜黄天然蜂蜜饮品 470克. 0.97 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/470/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1862684535</g:id>
-      <g:title>两罐匈牙利白蜜（Mardisia）500克</g:title>
-      <g:description>两罐匈牙利白蜜（Mardisia）500克. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/mardisia-500/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1726967627</g:id>
@@ -489,12 +501,6 @@
       <g:link>https://asalaljebal.sa/zh/10/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>2136887666</g:id>
-      <g:title>匈牙利白蜜（Mardisia）10公斤桶装 批发价</g:title>
-      <g:description>匈牙利白蜜（Mardisia）10公斤桶装 批发价. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/mardisia-10/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>63390305</g:id>
       <g:title>特级塔勒蜂蜜 10公斤桶装 批发价</g:title>
       <g:description>特级塔勒蜂蜜 10公斤桶装 批发价. 10.5 kg.</g:description>
@@ -505,12 +511,6 @@
       <g:title>山区西德尔蜂蜜 7公斤桶装 批发价</g:title>
       <g:description>山区西德尔蜂蜜 7公斤桶装 批发价. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/7/p598737026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1374413185</g:id>
-      <g:title>山地西德尔蜂蜜10公斤桶装，批发价</g:title>
-      <g:description>山地西德尔蜂蜜10公斤桶装，批发价. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>204409672</g:id>

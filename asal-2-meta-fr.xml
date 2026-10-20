@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 07:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:34:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2136887666</g:id>
+      <g:title>Miel de Majra blanc (Mardisia), bidon de 10 kg, prix de gros</g:title>
+      <g:description>Miel de Majra blanc (Mardisia), bidon de 10 kg, prix de gros. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-majra-blanc-mardisia-bidon-de-10-kg-prix-de-gros/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1862684535</g:id>
+      <g:title>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g</g:title>
+      <g:description>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-blanc-de-hongrie-mardisia-500-g/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1374413185</g:id>
+      <g:title>Miel de Sidr de montagne, bidon de 10 kg, prix de gros</g:title>
+      <g:description>Miel de Sidr de montagne, bidon de 10 kg, prix de gros. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-bidon-de-10-kg-prix-de-gros/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>220790277</g:id>
       <g:title>Miel d'acacia 500 g</g:title>
@@ -91,12 +109,6 @@
       <g:title>Boisson au miel naturel, gingembre, citron et curcuma 470 g</g:title>
       <g:description>Boisson au miel naturel, gingembre, citron et curcuma 470 g. 0.97 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/boisson-au-miel-naturel-gingembre-citron-et-curcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1862684535</g:id>
-      <g:title>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g</g:title>
-      <g:description>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-blanc-de-hongrie-mardisia-500-g/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1726967627</g:id>
@@ -483,12 +495,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-samra-shawka-premium-bidon-de-10-kg-prix-de-gros/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>2136887666</g:id>
-      <g:title>Miel de Majra blanc (Mardisia), bidon de 10 kg, prix de gros</g:title>
-      <g:description>Miel de Majra blanc (Mardisia), bidon de 10 kg, prix de gros. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-majra-blanc-mardisia-bidon-de-10-kg-prix-de-gros/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>63390305</g:id>
       <g:title>Miel de Talh premium 10 kg en bidon, prix de gros</g:title>
       <g:description>Miel de Talh premium 10 kg en bidon, prix de gros. 10.5 kg.</g:description>
@@ -499,12 +505,6 @@
       <g:title>Miel de sidr de montagne 7 kg, bidon au prix de gros</g:title>
       <g:description>Miel de sidr de montagne 7 kg, bidon au prix de gros. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-7-kg-bidon-au-prix-de-gros/p598737026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1374413185</g:id>
-      <g:title>Miel de Sidr de montagne, bidon de 10 kg, prix de gros</g:title>
-      <g:description>Miel de Sidr de montagne, bidon de 10 kg, prix de gros. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-bidon-de-10-kg-prix-de-gros/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>204409672</g:id>

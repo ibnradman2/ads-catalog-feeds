@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 07:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:34:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1862684535</g:id>
+      <g:title>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام)</g:title>
+      <g:description>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-500/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1374413185</g:id>
+      <g:title>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر</g:title>
+      <g:description>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>220790277</g:id>
       <g:title>ترکی اکیشیا شہد 500 گرام</g:title>
@@ -79,12 +91,6 @@
       <g:title>ادرک، لیموں اور ہلدی والا قدرتی شہد کا مشروب 470 گرام</g:title>
       <g:description>ادرک، لیموں اور ہلدی والا قدرتی شہد کا مشروب 470 گرام. 0.97 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/470/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1862684535</g:id>
-      <g:title>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام)</g:title>
-      <g:description>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-500/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1726967627</g:id>
@@ -337,12 +343,6 @@
       <g:title>7 کلو پہاڑی سدر شہد کا گیلن، تھوک قیمت پر</g:title>
       <g:description>7 کلو پہاڑی سدر شہد کا گیلن، تھوک قیمت پر. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/7/p598737026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1374413185</g:id>
-      <g:title>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر</g:title>
-      <g:description>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>204409672</g:id>
