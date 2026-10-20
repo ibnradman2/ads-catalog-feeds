@@ -4,10 +4,46 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 02:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:29:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1621826523</g:id>
+      <g:title>हरारी बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
+      <g:description>हरारी बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/5/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1832849003</g:id>
+      <g:title>साबुत मसाले 500 ग्राम</g:title>
+      <g:description>साबुत मसाले 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p1832849003?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1232653674</g:id>
+      <g:title>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम</g:title>
+      <g:description>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम. 0.51 kg.</g:description>
+      <g:link>https://hayala.co/hi/2-10/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1051236094</g:id>
+      <g:title>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो</g:title>
+      <g:description>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/3-6-1/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2038336306</g:id>
+      <g:title>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
+      <g:description>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए. 10.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/10/p2038336306?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>669353113</g:id>
+      <g:title>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए</g:title>
+      <g:description>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए. 10.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/10/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1270839426</g:id>
       <g:title>प्रथम श्रेणी की अमेरिकन इलायची एक्स्ट्रा जंबो नंबर 1, 8 मिमी मोटाई, 5 किलो कार्टन (मुफ़्त डिलीवरी)</g:title>
@@ -211,42 +247,6 @@
       <g:title>प्रथम श्रेणी की जंबो अमेरिकन इलायची नंबर 2, 7 मिमी मोटाई, 5 किलो कार्टन</g:title>
       <g:description>प्रथम श्रेणी की जंबो अमेरिकन इलायची नंबर 2, 7 मिमी मोटाई, 5 किलो कार्टन. 5.5 kg.</g:description>
       <g:link>https://hayala.co/hi/2-7-5/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1621826523</g:id>
-      <g:title>हरारी बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
-      <g:description>हरारी बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/5/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1832849003</g:id>
-      <g:title>साबुत मसाले 500 ग्राम</g:title>
-      <g:description>साबुत मसाले 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p1832849003?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1232653674</g:id>
-      <g:title>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम</g:title>
-      <g:description>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम. 0.51 kg.</g:description>
-      <g:link>https://hayala.co/hi/2-10/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1051236094</g:id>
-      <g:title>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो</g:title>
-      <g:description>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/3-6-1/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2038336306</g:id>
-      <g:title>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
-      <g:description>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए. 10.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/10/p2038336306?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>669353113</g:id>
-      <g:title>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए</g:title>
-      <g:description>हररी बाशनफ़र कॉफ़ी 10 किलो - अल-ख़ैर की इथियोपियाई पहली श्रेणी अरबी कॉफ़ी के लिए. 10.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/10/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1303028575</g:id>
