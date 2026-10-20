@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 08:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>661149787</g:id>
+      <g:title>برسیم کے پھولوں کا شہد 7 کلو گیلن، تھوک قیمت پر</g:title>
+      <g:description>برسیم کے پھولوں کا شہد 7 کلو گیلن، تھوک قیمت پر. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/7/p661149787?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1862684535</g:id>
       <g:title>سفید ہنگیرین شہد (مرڈیسیا) کے 2 ڈبے (500 گرام)</g:title>
@@ -643,12 +649,6 @@
       <g:title>اکیشیا شہد 2 کلو گرام</g:title>
       <g:description>اکیشیا شہد 2 کلو گرام. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/2/p2024213782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>661149787</g:id>
-      <g:title>برسیم کے پھولوں کا شہد 7 کلو گیلن، تھوک قیمت پر</g:title>
-      <g:description>برسیم کے پھولوں کا شہد 7 کلو گیلن، تھوک قیمت پر. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/7/p661149787?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>486057126</g:id>

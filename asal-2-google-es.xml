@@ -4,10 +4,26 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 08:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">661149787</guid>
+      <g:id>661149787</g:id>
+      <g:title>Miel de flor de trébol en garrafa de 7 kg a precio de mayorista</g:title>
+      <g:description>Miel de flor de trébol en garrafa de 7 kg a precio de mayorista. Miel de flores. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-en-garrafa-de-7-kg-a-precio-de-mayorista/p661149787?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/YStwkxotwRT5YsPqXTcurEjrdSvfGP9kd0QmdEns.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>803.00 SAR</g:price>
+      <g:sale_price>631.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003006</g:item_group_id>
+      <g:shipping_weight>7.5 kg</g:shipping_weight>
+    <g:mpn>661149787</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2136887666</guid>
       <g:id>2136887666</g:id>
@@ -2349,22 +2365,6 @@
       <g:item_group_id>0041035004</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>2024213782</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">661149787</guid>
-      <g:id>661149787</g:id>
-      <g:title>Miel de flor de trébol en garrafa de 7 kg a precio de mayorista</g:title>
-      <g:description>Miel de flor de trébol en garrafa de 7 kg a precio de mayorista. Miel de flores. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-en-garrafa-de-7-kg-a-precio-de-mayorista/p661149787?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/YStwkxotwRT5YsPqXTcurEjrdSvfGP9kd0QmdEns.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>803.00 SAR</g:price>
-      <g:sale_price>631.01 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003006</g:item_group_id>
-      <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:mpn>661149787</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">486057126</guid>
       <g:id>486057126</g:id>
