@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 09:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:14:32 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से</g:title>
+      <g:description>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2047975632</g:id>
+      <g:title>12 किलो प्राकृतिक फूलों का शहद</g:title>
+      <g:description>12 किलो प्राकृतिक फूलों का शहद. 12.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/12/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>916755779</g:id>
       <g:title>12 जार प्राकृतिक सिद्र शहद</g:title>
@@ -43,12 +55,6 @@
       <g:title>8 किलो प्राकृतिक फूलों का शहद</g:title>
       <g:description>8 किलो प्राकृतिक फूलों का शहद. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/hi/8/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2047975632</g:id>
-      <g:title>12 किलो प्राकृतिक फूलों का शहद</g:title>
-      <g:description>12 किलो प्राकृतिक फूलों का शहद. 12.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/12/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1256707703</g:id>
@@ -139,12 +145,6 @@
       <g:title>6 किलो कलौंजी शहद (मुफ़्त डिलीवरी)</g:title>
       <g:description>6 किलो कलौंजी शहद (मुफ़्त डिलीवरी). 6.5 kg.</g:description>
       <g:link>https://areesh.sa/hi/6/p827374682?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>443912774</g:id>
-      <g:title>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से</g:title>
-      <g:description>प्राकृतिक सिद्र शहद 10 किलो हिमालय के पहाड़ों से. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>765679051</g:id>
