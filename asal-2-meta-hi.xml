@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 18:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>402261162</g:id>
+      <g:title>मोरिंगा शहद 500 ग्राम</g:title>
+      <g:description>मोरिंगा शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1895717401</g:id>
+      <g:title>पराग कण (बी पोलन) 30 ग्राम</g:title>
+      <g:description>पराग कण (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/30/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>802419986</g:id>
       <g:title>जौ का आटा (नबवी तल्बीना) 500 ग्राम</g:title>
@@ -811,18 +823,6 @@
       <g:title>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम</g:title>
       <g:description>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/3-umf-10-mgo-300-250/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1895717401</g:id>
-      <g:title>पराग कण (बी पोलन) 30 ग्राम</g:title>
-      <g:description>पराग कण (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/30/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>402261162</g:id>
-      <g:title>मोरिंगा शहद 500 ग्राम</g:title>
-      <g:description>मोरिंगा शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1590017383</g:id>

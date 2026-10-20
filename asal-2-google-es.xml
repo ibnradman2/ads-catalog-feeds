@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 18:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">402261162</guid>
+      <g:id>402261162</g:id>
+      <g:title>Miel de moringa 500 g</g:title>
+      <g:description>Miel de moringa 500 g. Otras mieles. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/paqQaTgIgyWUKy5TbbztSfCyNbBCQHifR9WJzrbR.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>120.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041034002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>402261162</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1895717401</guid>
+      <g:id>1895717401</g:id>
+      <g:title>Polen de abeja (granos de polen) 30 g</g:title>
+      <g:description>Polen de abeja (granos de polen) 30 g. Productos de la colmena. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-abeja-granos-de-polen-30-g/p1895717401?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/zUc1AK3gziL2CPIKI8qW81ZwKueXiGAKtQrt9xV3.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007</g:item_group_id>
+      <g:shipping_weight>0.53 kg</g:shipping_weight>
+    <g:mpn>1895717401</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">802419986</guid>
       <g:id>802419986</g:id>
@@ -2118,36 +2148,6 @@
       <g:item_group_id>0041051004</g:item_group_id>
       <g:shipping_weight>1.25 kg</g:shipping_weight>
     <g:mpn>1961576516</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1895717401</guid>
-      <g:id>1895717401</g:id>
-      <g:title>Polen de abeja (granos de polen) 30 g</g:title>
-      <g:description>Polen de abeja (granos de polen) 30 g. Productos de la colmena. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-de-abeja-granos-de-polen-30-g/p1895717401?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/zUc1AK3gziL2CPIKI8qW81ZwKueXiGAKtQrt9xV3.jpeg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>17.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007</g:item_group_id>
-      <g:shipping_weight>0.53 kg</g:shipping_weight>
-    <g:mpn>1895717401</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Productos de la colmena</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">402261162</guid>
-      <g:id>402261162</g:id>
-      <g:title>Miel de moringa 500 g</g:title>
-      <g:description>Miel de moringa 500 g. Otras mieles. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/paqQaTgIgyWUKy5TbbztSfCyNbBCQHifR9WJzrbR.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>120.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041034002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>402261162</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1590017383</guid>
       <g:id>1590017383</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 18:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>402261162</g:id>
+      <g:title>辣木蜂蜜 500克</g:title>
+      <g:description>辣木蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1895717401</g:id>
+      <g:title>蜂花粉（花粉粒）30克</g:title>
+      <g:description>蜂花粉（花粉粒）30克. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/30/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>802419986</g:id>
       <g:title>大麦粉（先知式大麦粥 Talbina）500克</g:title>
@@ -811,18 +823,6 @@
       <g:title>3罐新西兰麦卢卡蜂蜜 UMF+10, MGO 300+, 250克</g:title>
       <g:description>3罐新西兰麦卢卡蜂蜜 UMF+10, MGO 300+, 250克. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/3-umf-10-mgo-300-250/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1895717401</g:id>
-      <g:title>蜂花粉（花粉粒）30克</g:title>
-      <g:description>蜂花粉（花粉粒）30克. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/30/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>402261162</g:id>
-      <g:title>辣木蜂蜜 500克</g:title>
-      <g:description>辣木蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1590017383</g:id>

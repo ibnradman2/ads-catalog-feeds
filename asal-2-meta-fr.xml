@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 18:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>402261162</g:id>
+      <g:title>Miel de moringa 500 g</g:title>
+      <g:description>Miel de moringa 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1895717401</g:id>
+      <g:title>Pollen d’abeille (grains de pollen) 30 g</g:title>
+      <g:description>Pollen d’abeille (grains de pollen) 30 g. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-30-g/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>802419986</g:id>
       <g:title>Farine d'orge (talbina prophétique) 500 g</g:title>
@@ -799,18 +811,6 @@
       <g:title>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g</g:title>
       <g:description>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/3-pots-de-miel-de-manuka-n-o-z-landais-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1895717401</g:id>
-      <g:title>Pollen d’abeille (grains de pollen) 30 g</g:title>
-      <g:description>Pollen d’abeille (grains de pollen) 30 g. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-30-g/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>402261162</g:id>
-      <g:title>Miel de moringa 500 g</g:title>
-      <g:description>Miel de moringa 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1590017383</g:id>
