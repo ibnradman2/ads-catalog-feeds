@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 22:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:05:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>810196573</g:id>
+      <g:title>Miel de la Selva Negra auténtica garrafa 5 kg precio mayorista</g:title>
+      <g:description>Miel de la Selva Negra auténtica garrafa 5 kg precio mayorista. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-garrafa-5-kg-precio-mayorista/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>379104845</g:id>
+      <g:title>Miel de Samar premium 250 g</g:title>
+      <g:description>Miel de Samar premium 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-250-g/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1759318609</g:id>
+      <g:title>Miel de flores silvestres del sur o de Hadramaut 500 g</g:title>
+      <g:description>Miel de flores silvestres del sur o de Hadramaut 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-500-g/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1762934428</g:id>
+      <g:title>Miel de Sidr Peshawari de Pakistán 500 g</g:title>
+      <g:description>Miel de Sidr Peshawari de Pakistán 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-de-pakist-n-500-g/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1298329746</g:id>
       <g:title>Miel de Sidr Peshawari pakistaní, 2 kg</g:title>
@@ -1009,30 +1033,6 @@
       <g:title>Miel de salam baladí en panal 500 g</g:title>
       <g:description>Miel de salam baladí en panal 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-salam-balad-en-panal-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>810196573</g:id>
-      <g:title>Miel de la Selva Negra auténtica garrafa 5 kg precio mayorista</g:title>
-      <g:description>Miel de la Selva Negra auténtica garrafa 5 kg precio mayorista. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-garrafa-5-kg-precio-mayorista/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1759318609</g:id>
-      <g:title>Miel de flores silvestres del sur o de Hadramaut 500 g</g:title>
-      <g:description>Miel de flores silvestres del sur o de Hadramaut 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-500-g/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>379104845</g:id>
-      <g:title>Miel de Samar premium 250 g</g:title>
-      <g:description>Miel de Samar premium 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-250-g/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1762934428</g:id>
-      <g:title>Miel de Sidr Peshawari de Pakistán 500 g</g:title>
-      <g:description>Miel de Sidr Peshawari de Pakistán 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-de-pakist-n-500-g/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>101060786</g:id>

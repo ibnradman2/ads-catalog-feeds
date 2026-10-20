@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 22:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:05:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>810196573</g:id>
+      <g:title>اصلی بلیک فاریسٹ شہد 5 کلو گیلن تھوک میں</g:title>
+      <g:description>اصلی بلیک فاریسٹ شہد 5 کلو گیلن تھوک میں. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>379104845</g:id>
+      <g:title>فاخر سمرہ کانٹے کا شہد 250 گرام</g:title>
+      <g:description>فاخر سمرہ کانٹے کا شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1759318609</g:id>
+      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 500 گرام</g:title>
+      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1762934428</g:id>
+      <g:title>پاکستانی پشاوری سدر شہد 500 گرام</g:title>
+      <g:description>پاکستانی پشاوری سدر شہد 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1298329746</g:id>
       <g:title>پاکستانی پشاوری سدر شہد 2 کلو</g:title>
@@ -733,30 +757,6 @@
       <g:title>مقامی سلم شہد موم کے چھتے میں 500 گرام</g:title>
       <g:description>مقامی سلم شہد موم کے چھتے میں 500 گرام. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>810196573</g:id>
-      <g:title>اصلی بلیک فاریسٹ شہد 5 کلو گیلن تھوک میں</g:title>
-      <g:description>اصلی بلیک فاریسٹ شہد 5 کلو گیلن تھوک میں. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1759318609</g:id>
-      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 500 گرام</g:title>
-      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>379104845</g:id>
-      <g:title>فاخر سمرہ کانٹے کا شہد 250 گرام</g:title>
-      <g:description>فاخر سمرہ کانٹے کا شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1762934428</g:id>
-      <g:title>پاکستانی پشاوری سدر شہد 500 گرام</g:title>
-      <g:description>پاکستانی پشاوری سدر شہد 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>101060786</g:id>
