@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 05:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:20:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>220790277</g:id>
+      <g:title>Madu Akasia 500 Gram</g:title>
+      <g:description>Madu Akasia 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-akasia-500-gram/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1792368707</g:id>
+      <g:title>Madu Syauk Samra Premium 1 Kg</g:title>
+      <g:description>Madu Syauk Samra Premium 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1152618316</g:id>
+      <g:title>Madu Syauk Samra Premium 500 g</g:title>
+      <g:description>Madu Syauk Samra Premium 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-500-g/p1152618316?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>622236865</g:id>
       <g:title>Minuman Madu Jahe, Lemon, dan Kunyit, 9 Botol</g:title>
@@ -859,24 +877,6 @@
       <g:title>3 Kemasan Madu Manuka Selandia Baru UMF+10, MGO 300+, 250 gram</g:title>
       <g:description>3 Kemasan Madu Manuka Selandia Baru UMF+10, MGO 300+, 250 gram. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/3-kemasan-madu-manuka-selandia-baru-umf-10-mgo-300-250-gram/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1152618316</g:id>
-      <g:title>Madu Syauk Samra Premium 500 g</g:title>
-      <g:description>Madu Syauk Samra Premium 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-500-g/p1152618316?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1792368707</g:id>
-      <g:title>Madu Syauk Samra Premium 1 Kg</g:title>
-      <g:description>Madu Syauk Samra Premium 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>220790277</g:id>
-      <g:title>Madu Akasia 500 Gram</g:title>
-      <g:description>Madu Akasia 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-akasia-500-gram/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>625331805</g:id>

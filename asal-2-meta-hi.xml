@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 05:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:20:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>220790277</g:id>
+      <g:title>अकेशिया शहद 500 ग्राम</g:title>
+      <g:description>अकेशिया शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1792368707</g:id>
+      <g:title>प्रीमियम शौका (समर) शहद 1 किलो</g:title>
+      <g:description>प्रीमियम शौका (समर) शहद 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1152618316</g:id>
+      <g:title>प्रीमियम शौका (समर) शहद 500 ग्राम</g:title>
+      <g:description>प्रीमियम शौका (समर) शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1152618316?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>622236865</g:id>
       <g:title>अदरक, नींबू और हल्दी वाले शहद पेय की 9 बोतलें</g:title>
@@ -871,24 +889,6 @@
       <g:title>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम</g:title>
       <g:description>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/3-umf-10-mgo-300-250/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1152618316</g:id>
-      <g:title>प्रीमियम शौका (समर) शहद 500 ग्राम</g:title>
-      <g:description>प्रीमियम शौका (समर) शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1152618316?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1792368707</g:id>
-      <g:title>प्रीमियम शौका (समर) शहद 1 किलो</g:title>
-      <g:description>प्रीमियम शौका (समर) शहद 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>220790277</g:id>
-      <g:title>अकेशिया शहद 500 ग्राम</g:title>
-      <g:description>अकेशिया शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>625331805</g:id>

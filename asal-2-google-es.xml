@@ -4,10 +4,55 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 05:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:20:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">220790277</guid>
+      <g:id>220790277</g:id>
+      <g:title>Miel de acacia 500 g</g:title>
+      <g:description>Miel de acacia 500 g. Otras mieles. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-acacia-500-g/p220790277?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BomsIw7Nk7as27ZChU3A3YG0UF3kCxzQr1CXYWUO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>95.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>220790277</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1792368707</guid>
+      <g:id>1792368707</g:id>
+      <g:title>Miel de Samar premium 1 kg</g:title>
+      <g:description>Miel de Samar premium 1 kg. Miel de Samra. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/iT1UjEKqoDTHU4xO8GZ7KLt4qhZikgWxaj258aZM.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1792368707</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1152618316</guid>
+      <g:id>1152618316</g:id>
+      <g:title>Miel de Samar premium 500 g</g:title>
+      <g:description>Miel de Samar premium 500 g. Miel de Samra. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-500-g/p1152618316?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/clrNlh5pc0i2wHG1QBnmISONJ4qvzySo7kTEgpmc.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1152618316</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">622236865</guid>
       <g:id>622236865</g:id>
@@ -2274,51 +2319,6 @@
       <g:item_group_id>0041051004</g:item_group_id>
       <g:shipping_weight>1.25 kg</g:shipping_weight>
     <g:mpn>1961576516</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1152618316</guid>
-      <g:id>1152618316</g:id>
-      <g:title>Miel de Samar premium 500 g</g:title>
-      <g:description>Miel de Samar premium 500 g. Miel de Samra. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-500-g/p1152618316?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/clrNlh5pc0i2wHG1QBnmISONJ4qvzySo7kTEgpmc.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>172.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021091002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1152618316</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1792368707</guid>
-      <g:id>1792368707</g:id>
-      <g:title>Miel de Samar premium 1 kg</g:title>
-      <g:description>Miel de Samar premium 1 kg. Miel de Samra. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/iT1UjEKqoDTHU4xO8GZ7KLt4qhZikgWxaj258aZM.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021091003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1792368707</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Samra</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">220790277</guid>
-      <g:id>220790277</g:id>
-      <g:title>Miel de acacia 500 g</g:title>
-      <g:description>Miel de acacia 500 g. Otras mieles. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-acacia-500-g/p220790277?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/BomsIw7Nk7as27ZChU3A3YG0UF3kCxzQr1CXYWUO.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>95.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041035002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>220790277</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">625331805</guid>
       <g:id>625331805</g:id>
