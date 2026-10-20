@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:24:23 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1500398965</g:id>
+      <g:title>ऐनीस शहद 5 किलो गैलन, थोक दाम पर</g:title>
+      <g:description>ऐनीस शहद 5 किलो गैलन, थोक दाम पर. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/5/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>486057126</g:id>
       <g:title>बरसीम शहद (क्लोवर) 1 किलो</g:title>
@@ -919,12 +925,6 @@
       <g:title>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम</g:title>
       <g:description>3 जार न्यूज़ीलैंड मनुका शहद UMF+10, MGO 300+, 250 ग्राम. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/3-umf-10-mgo-300-250/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1500398965</g:id>
-      <g:title>ऐनीस शहद 5 किलो गैलन, थोक दाम पर</g:title>
-      <g:description>ऐनीस शहद 5 किलो गैलन, थोक दाम पर. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/5/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>608043670</g:id>

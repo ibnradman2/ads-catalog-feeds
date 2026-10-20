@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:24:23 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1500398965</g:id>
+      <g:title>انیسون شہد 5 کلو گیلن تھوک قیمت پر</g:title>
+      <g:description>انیسون شہد 5 کلو گیلن تھوک قیمت پر. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>486057126</g:id>
       <g:title>برسیم کے پھولوں کا شہد 1 کلو</g:title>
@@ -661,12 +667,6 @@
       <g:title>3 کلو کشمیری سدر شہد کا گیلن + 3 ڈبے نبوی تلبینہ (ہدیہ)</g:title>
       <g:description>3 کلو کشمیری سدر شہد کا گیلن + 3 ڈبے نبوی تلبینہ (ہدیہ). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/3-3/p1592997301?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1500398965</g:id>
-      <g:title>انیسون شہد 5 کلو گیلن تھوک قیمت پر</g:title>
-      <g:description>انیسون شہد 5 کلو گیلن تھوک قیمت پر. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2006758939</g:id>
