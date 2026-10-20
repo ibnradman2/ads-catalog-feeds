@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 01:22:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:29:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1611390490</g:id>
+      <g:title>3 Ambalaj Zencefilli Limonlu Zerdeçallı Bal İçeceği</g:title>
+      <g:description>3 Ambalaj Zencefilli Limonlu Zerdeçallı Bal İçeceği. 0.47 kg.</g:description>
+      <g:link>https://areesh.sa/tr/3-ambalaj-zencefilli-limonlu-zerde-all-bal-i-ece-i/p1611390490?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>480738937</g:id>
+      <g:title>2 Kilo Doğal Çiçek Balı</g:title>
+      <g:description>2 Kilo Doğal Çiçek Balı. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/2-kilo-do-al-i-ek-bal/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>14589094</g:id>
+      <g:title>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı</g:title>
+      <g:description>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/4-kg-do-al-sidr-bal-2-kg-hediye-i-ek-bal/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>311501392</g:id>
+      <g:title>8 Kilo Doğal Çiçek Balı</g:title>
+      <g:description>8 Kilo Doğal Çiçek Balı. 8.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/8-kilo-do-al-i-ek-bal/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>146284993</g:id>
       <g:title>3 Kilo Doğal Sidr Balı</g:title>
@@ -25,12 +49,6 @@
       <g:title>Macar Beyaz Balı (Mardisia) Ambalajı + Bir Ambalaj Hediye</g:title>
       <g:description>Macar Beyaz Balı (Mardisia) Ambalajı + Bir Ambalaj Hediye. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tr/macar-beyaz-bal-mardisia-ambalaj-bir-ambalaj-hediye/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1611390490</g:id>
-      <g:title>3 Ambalaj Zencefilli Limonlu Zerdeçallı Bal İçeceği</g:title>
-      <g:description>3 Ambalaj Zencefilli Limonlu Zerdeçallı Bal İçeceği. 0.47 kg.</g:description>
-      <g:link>https://areesh.sa/tr/3-ambalaj-zencefilli-limonlu-zerde-all-bal-i-ece-i/p1611390490?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>717865418</g:id>
@@ -111,12 +129,6 @@
       <g:link>https://areesh.sa/tr/hadramevt-sidr-bal-1-kg/p378951093?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>311501392</g:id>
-      <g:title>8 Kilo Doğal Çiçek Balı</g:title>
-      <g:description>8 Kilo Doğal Çiçek Balı. 8.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/8-kilo-do-al-i-ek-bal/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>916755779</g:id>
       <g:title>12 Paket Doğal Sidr Balı</g:title>
       <g:description>12 Paket Doğal Sidr Balı. 3.0 kg.</g:description>
@@ -133,12 +145,6 @@
       <g:title>Himalaya Dağlarından Doğal Sidr Balı 10 Kilo</g:title>
       <g:description>Himalaya Dağlarından Doğal Sidr Balı 10 Kilo. 10.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/himalaya-da-lar-ndan-do-al-sidr-bal-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>14589094</g:id>
-      <g:title>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı</g:title>
-      <g:description>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/4-kg-do-al-sidr-bal-2-kg-hediye-i-ek-bal/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>765679051</g:id>
@@ -241,12 +247,6 @@
       <g:title>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo</g:title>
       <g:description>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo. 7.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/da-sidr-bal-7-kg-bidon-cretsiz-kargo/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>480738937</g:id>
-      <g:title>2 Kilo Doğal Çiçek Balı</g:title>
-      <g:description>2 Kilo Doğal Çiçek Balı. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/2-kilo-do-al-i-ek-bal/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1425604290</g:id>
