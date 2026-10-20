@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 13:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>608043670</g:id>
+      <g:title>Miel de Athel (Al Sal), 2 kg</g:title>
+      <g:description>Miel de Athel (Al Sal), 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-athel-al-sal-2-kg/p608043670?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1500398965</g:id>
       <g:title>Miel de anís, garrafón de 5 kg a precio de mayorista</g:title>
@@ -919,12 +925,6 @@
       <g:title>3 Frascos de Miel de Manuka de Nueva Zelanda UMF+10, MGO 300+, 250 g</g:title>
       <g:description>3 Frascos de Miel de Manuka de Nueva Zelanda UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/3-frascos-de-miel-de-manuka-de-nueva-zelanda-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>608043670</g:id>
-      <g:title>Miel de Athel (Al Sal), 2 kg</g:title>
-      <g:description>Miel de Athel (Al Sal), 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-athel-al-sal-2-kg/p608043670?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2006758939</g:id>

@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -159,9 +159,9 @@
     <item>
       <guid isPermaLink="false">717865418</guid>
       <g:id>717865418</g:id>
-      <g:title>Coffret cadeau de la Fête nationale : 8 pots de miel de Sidr naturel</g:title>
-      <g:description>Coffret cadeau de la Fête nationale : 8 pots de miel de Sidr naturel. Cadeaux. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/coffret-cadeau-de-la-f-te-nationale-8-pots-de-miel-de-sidr-naturel/p717865418?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Coffret cadeau : 8 pots de miel de Sidr naturel</g:title>
+      <g:description>Coffret cadeau : 8 pots de miel de Sidr naturel. Cadeaux. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/coffret-cadeau-8-pots-de-miel-de-sidr-naturel/p717865418?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/mNSfL2DRK7kfe0TsYP2qbzNVTmbjSQXfZa9bjdQG.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>330.00 SAR</g:price>

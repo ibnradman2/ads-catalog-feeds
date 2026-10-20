@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 13:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>608043670</g:id>
+      <g:title>Etl Balı (Sal) 2 Kilo</g:title>
+      <g:description>Etl Balı (Sal) 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/etl-bal-sal-2-kilo/p608043670?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1500398965</g:id>
       <g:title>Anason Balı 5 Kilo Galon Toptan Fiyat</g:title>
@@ -913,12 +919,6 @@
       <g:title>3 Adet Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g</g:title>
       <g:description>3 Adet Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/3-adet-yeni-zelanda-manuka-bal-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>608043670</g:id>
-      <g:title>Etl Balı (Sal) 2 Kilo</g:title>
-      <g:description>Etl Balı (Sal) 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/etl-bal-sal-2-kilo/p608043670?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2006758939</g:id>
