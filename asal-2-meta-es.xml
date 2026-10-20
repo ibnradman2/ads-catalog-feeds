@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 19:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1298329746</g:id>
+      <g:title>Miel de Sidr Peshawari pakistaní, 2 kg</g:title>
+      <g:description>Miel de Sidr Peshawari pakistaní, 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-pakistan-2-kg/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>623445940</g:id>
+      <g:title>Miel de salam baladí 1000 g</g:title>
+      <g:description>Miel de salam baladí 1000 g. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-salam-balad-1000-g/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>950198944</g:id>
+      <g:title>Miel de flor de trébol 500 g</g:title>
+      <g:description>Miel de flor de trébol 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-500-g/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>858223421</g:id>
+      <g:title>Higos secos 1 kg</g:title>
+      <g:description>Higos secos 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/higos-secos-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>909201315</g:id>
       <g:title>Oferta de miel de comino negro: garrafa de 10 kg de tamaño familiar (envío gratis)</g:title>
@@ -981,34 +1005,10 @@
       <g:link>https://asalaljebal.sa/es/miel-de-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>858223421</g:id>
-      <g:title>Higos secos 1 kg</g:title>
-      <g:description>Higos secos 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/higos-secos-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1196894843</g:id>
       <g:title>Miel de salam baladí en panal 500 g</g:title>
       <g:description>Miel de salam baladí en panal 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-salam-balad-en-panal-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>623445940</g:id>
-      <g:title>Miel de salam baladí 1000 g</g:title>
-      <g:description>Miel de salam baladí 1000 g. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-salam-balad-1000-g/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>950198944</g:id>
-      <g:title>Miel de flor de trébol 500 g</g:title>
-      <g:description>Miel de flor de trébol 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-500-g/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1298329746</g:id>
-      <g:title>Miel de Sidr Peshawari pakistaní, 2 kg</g:title>
-      <g:description>Miel de Sidr Peshawari pakistaní, 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-pakistan-2-kg/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>810196573</g:id>

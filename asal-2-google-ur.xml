@@ -4,10 +4,71 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 20:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1298329746</guid>
+      <g:id>1298329746</g:id>
+      <g:title>پاکستانی پشاوری سدر شہد 2 کلو</g:title>
+      <g:description>پاکستانی پشاوری سدر شہد 2 کلو. سدر شہد. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2/p1298329746?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/iLarCm6xDO6kloFpBmnF4EvPZJYu1VJCoVGg99uY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>229.00 SAR</g:price>
+      <g:sale_price>206.00 SAR</g:sale_price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1298329746</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">623445940</guid>
+      <g:id>623445940</g:id>
+      <g:title>مقامی سلم شہد 1000 گرام</g:title>
+      <g:description>مقامی سلم شہد 1000 گرام. دیگر شہد. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1000/p623445940?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/3PfalWQUaMz5X3oGZvRgrdd0b0BqsHRoSoQ6eflq.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>480.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>002-10008002</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>623445940</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>300 سے 599</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">950198944</guid>
+      <g:id>950198944</g:id>
+      <g:title>برسیم کے پھولوں کا شہد 500 گرام</g:title>
+      <g:description>برسیم کے پھولوں کا شہد 500 گرام. پھولوں کا شہد. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p950198944?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/14ysYYrnPzV6vn9MJrRjVRfoiawsh4aN9FlCKyiV.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>950198944</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>پھولوں کا شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">858223421</guid>
+      <g:id>858223421</g:id>
+      <g:title>خشک انجیر 1 کلو</g:title>
+      <g:description>خشک انجیر 1 کلو. خشک میوے. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p858223421?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Dm8mjuGBS16UL50WBtz2BJoifTKov3Urt0HcqjdQ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>73.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>02020203</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>858223421</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>کارکردگی ب</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>خشک میوے</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">909201315</guid>
       <g:id>909201315</g:id>
@@ -1860,21 +1921,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>431101948</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی د</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">858223421</guid>
-      <g:id>858223421</g:id>
-      <g:title>خشک انجیر 1 کلو</g:title>
-      <g:description>خشک انجیر 1 کلو. خشک میوے. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p858223421?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Dm8mjuGBS16UL50WBtz2BJoifTKov3Urt0HcqjdQ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>73.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>02020203</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>858223421</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>کارکردگی ب</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>خشک میوے</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1196894843</guid>
       <g:id>1196894843</g:id>
       <g:title>مقامی سلم شہد موم کے چھتے میں 500 گرام</g:title>
@@ -1889,52 +1935,6 @@
       <g:item_group_id>003-10008001</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1196894843</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">623445940</guid>
-      <g:id>623445940</g:id>
-      <g:title>مقامی سلم شہد 1000 گرام</g:title>
-      <g:description>مقامی سلم شہد 1000 گرام. دیگر شہد. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1000/p623445940?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/3PfalWQUaMz5X3oGZvRgrdd0b0BqsHRoSoQ6eflq.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>480.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>002-10008002</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>623445940</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>300 سے 599</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">950198944</guid>
-      <g:id>950198944</g:id>
-      <g:title>برسیم کے پھولوں کا شہد 500 گرام</g:title>
-      <g:description>برسیم کے پھولوں کا شہد 500 گرام. پھولوں کا شہد. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p950198944?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/14ysYYrnPzV6vn9MJrRjVRfoiawsh4aN9FlCKyiV.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>950198944</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>پھولوں کا شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1298329746</guid>
-      <g:id>1298329746</g:id>
-      <g:title>پاکستانی پشاوری سدر شہد 2 کلو</g:title>
-      <g:description>پاکستانی پشاوری سدر شہد 2 کلو. سدر شہد. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2/p1298329746?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/iLarCm6xDO6kloFpBmnF4EvPZJYu1VJCoVGg99uY.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>229.00 SAR</g:price>
-      <g:sale_price>206.00 SAR</g:sale_price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1298329746</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">810196573</guid>
       <g:id>810196573</g:id>
