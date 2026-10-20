@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 17:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:09:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>909201315</g:id>
+      <g:title>Çörek Otu Balı 10 Kilo Bidon, Aile Boyu Teklif (Ücretsiz Kargo)</g:title>
+      <g:description>Çörek Otu Balı 10 Kilo Bidon, Aile Boyu Teklif (Ücretsiz Kargo). 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rek-otu-bal-10-kilo-bidon-aile-boyu-teklif-cretsiz-kargo/p909201315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>138985906</g:id>
+      <g:title>Yerli Sidr Balı 500 gr</g:title>
+      <g:description>Yerli Sidr Balı 500 gr. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yerli-sidr-bal-500-gr/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Asir Dağlarından Petekli Kraliyet Sidr Balı 2 Kilo</g:title>
+      <g:description>Asir Dağlarından Petekli Kraliyet Sidr Balı 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/asir-da-lar-ndan-petekli-kraliyet-sidr-bal-2-kilo/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1059074726</g:id>
+      <g:title>Etl Balı (Sal) 500 Gram</g:title>
+      <g:description>Etl Balı (Sal) 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/etl-bal-sal-500-gram/p1059074726?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>177144225</g:id>
       <g:title>Yonca Çiçeği Balı 250 Gram</g:title>
@@ -949,30 +973,6 @@
       <g:title>Akasya Balı 250 Gram</g:title>
       <g:description>Akasya Balı 250 Gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/akasya-bal-250-gram/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1059074726</g:id>
-      <g:title>Etl Balı (Sal) 500 Gram</g:title>
-      <g:description>Etl Balı (Sal) 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/etl-bal-sal-500-gram/p1059074726?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>Asir Dağlarından Petekli Kraliyet Sidr Balı 2 Kilo</g:title>
-      <g:description>Asir Dağlarından Petekli Kraliyet Sidr Balı 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/asir-da-lar-ndan-petekli-kraliyet-sidr-bal-2-kilo/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>909201315</g:id>
-      <g:title>Çörek Otu Balı 10 Kilo Bidon, Aile Boyu Teklif (Ücretsiz Kargo)</g:title>
-      <g:description>Çörek Otu Balı 10 Kilo Bidon, Aile Boyu Teklif (Ücretsiz Kargo). 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rek-otu-bal-10-kilo-bidon-aile-boyu-teklif-cretsiz-kargo/p909201315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>138985906</g:id>
-      <g:title>Yerli Sidr Balı 500 gr</g:title>
-      <g:description>Yerli Sidr Balı 500 gr. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yerli-sidr-bal-500-gr/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>858223421</g:id>

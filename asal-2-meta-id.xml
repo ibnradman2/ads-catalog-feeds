@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 17:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:09:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>909201315</g:id>
+      <g:title>Penawaran Madu Jintan Hitam 10 Kg Galon Ukuran Keluarga (Gratis Ongkir)</g:title>
+      <g:description>Penawaran Madu Jintan Hitam 10 Kg Galon Ukuran Keluarga (Gratis Ongkir). 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/penawaran-madu-jintan-hitam-10-kg-galon-ukuran-keluarga-gratis-ongkir/p909201315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>138985906</g:id>
+      <g:title>Madu Salam Lokal 500 gram</g:title>
+      <g:description>Madu Salam Lokal 500 gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-salam-lokal-500-gram/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1059074726</g:id>
+      <g:title>Madu Athl (Shal) 500 gram</g:title>
+      <g:description>Madu Athl (Shal) 500 gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-athl-shal-500-gram/p1059074726?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>177144225</g:id>
       <g:title>Madu Semanggi 250 g</g:title>
@@ -949,30 +973,6 @@
       <g:title>Madu Akasia 250 Gram</g:title>
       <g:description>Madu Akasia 250 Gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-akasia-250-gram/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1059074726</g:id>
-      <g:title>Madu Athl (Shal) 500 gram</g:title>
-      <g:description>Madu Athl (Shal) 500 gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-athl-shal-500-gram/p1059074726?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
-      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>909201315</g:id>
-      <g:title>Penawaran Madu Jintan Hitam 10 Kg Galon Ukuran Keluarga (Gratis Ongkir)</g:title>
-      <g:description>Penawaran Madu Jintan Hitam 10 Kg Galon Ukuran Keluarga (Gratis Ongkir). 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/penawaran-madu-jintan-hitam-10-kg-galon-ukuran-keluarga-gratis-ongkir/p909201315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>138985906</g:id>
-      <g:title>Madu Salam Lokal 500 gram</g:title>
-      <g:description>Madu Salam Lokal 500 gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-salam-lokal-500-gram/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>858223421</g:id>
