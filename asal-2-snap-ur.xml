@@ -4,10 +4,56 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 10:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:03:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">486057126</guid>
+      <g:id>486057126</g:id>
+      <g:title>برسیم کے پھولوں کا شہد 1 کلو</g:title>
+      <g:description>برسیم کے پھولوں کا شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p486057126?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FbfBY6utAcecxkvmwRMrOJYUOI8aWJseeFfUCXNx.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2024213782</guid>
+      <g:id>2024213782</g:id>
+      <g:title>اکیشیا شہد 2 کلو گرام</g:title>
+      <g:description>اکیشیا شہد 2 کلو گرام. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2/p2024213782?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VGaqoM6aHOf8BvEsltxmms9iFwzJ1DeVzcV2aZII.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">35110238</guid>
+      <g:id>35110238</g:id>
+      <g:title>کالے جنگل کا اصلی شہد 2 کلو</g:title>
+      <g:description>کالے جنگل کا اصلی شہد 2 کلو. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/s5za3IZ79Thj0yHzKdb5zRRpkB4m5PRTzFNrMOna.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>276.00 SAR</g:price>
+      <g:sale_price>252.00 SAR</g:sale_price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">661149787</guid>
       <g:id>661149787</g:id>
@@ -1003,7 +1049,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/yUTqEw9DfHFrj6iGypjq8UH1iUsZ7MPtIvceG7cH.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/TmQEYx6WkuENj92VuSDNfWK2SlWG4TybPDfC28As.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/Xq5LqyqYh4Uxf7bUzYSWLA3E66Mqth3l0uqBM6qg.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jjGBpDxED1OXmV2EJVaOSzxZRQTZuF8tLNOuYkMV.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/ZhutNwOBEzk5UJYuE2jOk0OZb3hjdW1d7ojNiQus.jpg</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6883.00 SAR</g:price>
       <g:sale_price>5162.01 SAR</g:sale_price>
       <g:brand>عسل الجبل</g:brand>
@@ -1701,52 +1747,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>004100603030</g:item_group_id>
       <g:shipping_weight>3.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2024213782</guid>
-      <g:id>2024213782</g:id>
-      <g:title>اکیشیا شہد 2 کلو گرام</g:title>
-      <g:description>اکیشیا شہد 2 کلو گرام. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2/p2024213782?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/VGaqoM6aHOf8BvEsltxmms9iFwzJ1DeVzcV2aZII.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041035004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">486057126</guid>
-      <g:id>486057126</g:id>
-      <g:title>برسیم کے پھولوں کا شہد 1 کلو</g:title>
-      <g:description>برسیم کے پھولوں کا شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p486057126?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FbfBY6utAcecxkvmwRMrOJYUOI8aWJseeFfUCXNx.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>115.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">35110238</guid>
-      <g:id>35110238</g:id>
-      <g:title>کالے جنگل کا اصلی شہد 2 کلو</g:title>
-      <g:description>کالے جنگل کا اصلی شہد 2 کلو. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/s5za3IZ79Thj0yHzKdb5zRRpkB4m5PRTzFNrMOna.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>276.00 SAR</g:price>
-      <g:sale_price>252.00 SAR</g:sale_price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1500398965</guid>

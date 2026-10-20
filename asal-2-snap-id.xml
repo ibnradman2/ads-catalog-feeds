@@ -4,10 +4,71 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 10:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:03:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">486057126</guid>
+      <g:id>486057126</g:id>
+      <g:title>Madu Semanggi 1 Kg</g:title>
+      <g:description>Madu Semanggi 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-semanggi-1-kg/p486057126?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FbfBY6utAcecxkvmwRMrOJYUOI8aWJseeFfUCXNx.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">625331805</guid>
+      <g:id>625331805</g:id>
+      <g:title>Madu Sidr Kashmir (600 Gram)</g:title>
+      <g:description>Madu Sidr Kashmir (600 Gram). 1.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-600-gram/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Ubkvwyx6Io0aD5xHs7egMddnWHVGGoLiO4h7NzPJ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006008</g:item_group_id>
+      <g:shipping_weight>1.1 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2024213782</guid>
+      <g:id>2024213782</g:id>
+      <g:title>Madu Akasia 2 Kilo</g:title>
+      <g:description>Madu Akasia 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-akasia-2-kilo/p2024213782?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VGaqoM6aHOf8BvEsltxmms9iFwzJ1DeVzcV2aZII.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">35110238</guid>
+      <g:id>35110238</g:id>
+      <g:title>Madu Hutan Hitam Asli 2 Kilo</g:title>
+      <g:description>Madu Hutan Hitam Asli 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-2-kilo/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/s5za3IZ79Thj0yHzKdb5zRRpkB4m5PRTzFNrMOna.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>276.00 SAR</g:price>
+      <g:sale_price>252.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">661149787</guid>
       <g:id>661149787</g:id>
@@ -1420,7 +1481,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/yUTqEw9DfHFrj6iGypjq8UH1iUsZ7MPtIvceG7cH.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/TmQEYx6WkuENj92VuSDNfWK2SlWG4TybPDfC28As.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/Xq5LqyqYh4Uxf7bUzYSWLA3E66Mqth3l0uqBM6qg.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jjGBpDxED1OXmV2EJVaOSzxZRQTZuF8tLNOuYkMV.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/ZhutNwOBEzk5UJYuE2jOk0OZb3hjdW1d7ojNiQus.jpg</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6883.00 SAR</g:price>
       <g:sale_price>5162.01 SAR</g:sale_price>
       <g:brand>Asal Aljebal</g:brand>
@@ -2320,67 +2381,6 @@
       <g:shipping_weight>1.25 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">625331805</guid>
-      <g:id>625331805</g:id>
-      <g:title>Madu Sidr Kashmir (600 Gram)</g:title>
-      <g:description>Madu Sidr Kashmir (600 Gram). 1.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-600-gram/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Ubkvwyx6Io0aD5xHs7egMddnWHVGGoLiO4h7NzPJ.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006008</g:item_group_id>
-      <g:shipping_weight>1.1 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2024213782</guid>
-      <g:id>2024213782</g:id>
-      <g:title>Madu Akasia 2 Kilo</g:title>
-      <g:description>Madu Akasia 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-akasia-2-kilo/p2024213782?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/VGaqoM6aHOf8BvEsltxmms9iFwzJ1DeVzcV2aZII.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041035004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">486057126</guid>
-      <g:id>486057126</g:id>
-      <g:title>Madu Semanggi 1 Kg</g:title>
-      <g:description>Madu Semanggi 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-semanggi-1-kg/p486057126?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FbfBY6utAcecxkvmwRMrOJYUOI8aWJseeFfUCXNx.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>115.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">35110238</guid>
-      <g:id>35110238</g:id>
-      <g:title>Madu Hutan Hitam Asli 2 Kilo</g:title>
-      <g:description>Madu Hutan Hitam Asli 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-2-kilo/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/s5za3IZ79Thj0yHzKdb5zRRpkB4m5PRTzFNrMOna.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>276.00 SAR</g:price>
-      <g:sale_price>252.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1500398965</guid>
       <g:id>1500398965</g:id>
       <g:title>Madu Anise Galon 5 kilo Harga Grosir</g:title>
@@ -3093,7 +3093,7 @@
       <g:link>https://asalaljebal.sa/ind/madu-manuka-selandia-baru-honey-bros-premium-manuka-honey-umf-5-mgo-100-250-gram/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/7NykCZMGIpghsVwJ504t7af84AVdTNNgy2KZeiXf.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/G59KKT3VqBYUvFeesYENGSOmCkimEhLBf8N8QFwc.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/8fa4f373-18f4-42bb-95bb-ace5618b3d79-821.09375x1000-HKNRTuER17F1CR0DiWCun5cnPxl3Y8RadyXQND5C.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/08c7d087-3799-4563-87a0-2b0772a3f25e-821.09375x1000-xzC2VB9MGY53z3XpPOI01qTdrhCLVOV5zBAP5dyo.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/1773b67c-221d-4f64-a0ce-a5f548c63dca-992.73255813953x1000-BHsoxKjpTIyOuUjkjlEcmUTXOVEiZSC2V3RFpFfs.png</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>150.00 SAR</g:price>
       <g:brand>Asal Aljebal</g:brand>
       <g:condition>new</g:condition>
