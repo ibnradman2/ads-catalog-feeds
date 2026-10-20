@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 19 Oct 2026 16:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -21,7 +21,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.95 kg</g:shipping_weight>
-    <g:mpn>1071630418</g:mpn><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">656732927</guid>
       <g:id>656732927</g:id>
@@ -35,7 +35,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.55 kg</g:shipping_weight>
-    <g:mpn>656732927</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2023441167</guid>
       <g:id>2023441167</g:id>
@@ -49,7 +49,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>2023441167</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">257201169</guid>
       <g:id>257201169</g:id>
@@ -63,7 +63,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>257201169</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1147148756</guid>
       <g:id>1147148756</g:id>
@@ -78,7 +78,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:mpn>1147148756</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">578517759</guid>
       <g:id>578517759</g:id>
@@ -92,7 +92,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>578517759</g:mpn><g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1718132750</guid>
       <g:id>1718132750</g:id>
@@ -107,7 +107,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>1718132750</g:mpn><g:google_product_category>136</g:google_product_category></item>
+    <g:google_product_category>136</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1666723060</guid>
       <g:id>1666723060</g:id>
@@ -122,7 +122,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>1666723060</g:mpn><g:google_product_category>136</g:google_product_category></item>
+    <g:google_product_category>136</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">521440913</guid>
       <g:id>521440913</g:id>
@@ -137,7 +137,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.01 kg</g:shipping_weight>
-    <g:mpn>521440913</g:mpn><g:google_product_category>136</g:google_product_category></item>
+    <g:google_product_category>136</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">115531510</guid>
       <g:id>115531510</g:id>
@@ -152,7 +152,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>115531510</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">323557872</guid>
       <g:id>323557872</g:id>
@@ -166,7 +166,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>323557872</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">999818845</guid>
       <g:id>999818845</g:id>
@@ -180,7 +180,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>999818845</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2133906442</guid>
       <g:id>2133906442</g:id>
@@ -194,7 +194,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>2133906442</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">282374221</guid>
       <g:id>282374221</g:id>
@@ -209,7 +209,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>282374221</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1643632887</guid>
       <g:id>1643632887</g:id>
@@ -223,7 +223,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1643632887</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">497613295</guid>
       <g:id>497613295</g:id>
@@ -238,7 +238,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>497613295</g:mpn><g:google_product_category>4947</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>4947</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1533464823</guid>
       <g:id>1533464823</g:id>
@@ -253,7 +253,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:mpn>1533464823</g:mpn><g:google_product_category>6812</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>6812</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1939267679</guid>
       <g:id>1939267679</g:id>
@@ -268,7 +268,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.524 kg</g:shipping_weight>
-    <g:mpn>1939267679</g:mpn><g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1992072436</guid>
       <g:id>1992072436</g:id>
@@ -282,7 +282,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1992072436</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">834579494</guid>
       <g:id>834579494</g:id>
@@ -296,7 +296,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>834579494</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1843875892</guid>
       <g:id>1843875892</g:id>
@@ -312,7 +312,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1843875892</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1376854197</guid>
       <g:id>1376854197</g:id>
@@ -328,7 +328,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.55 kg</g:shipping_weight>
-    <g:mpn>1376854197</g:mpn><g:google_product_category>136</g:google_product_category><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>136</g:google_product_category><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">360158781</guid>
       <g:id>360158781</g:id>
@@ -343,7 +343,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.518 kg</g:shipping_weight>
-    <g:mpn>360158781</g:mpn><g:google_product_category>136</g:google_product_category></item>
+    <g:google_product_category>136</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">172198759</guid>
       <g:id>172198759</g:id>
@@ -358,7 +358,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>172198759</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1434036849</guid>
       <g:id>1434036849</g:id>
@@ -375,7 +375,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>1434036849</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2106298714</guid>
       <g:id>2106298714</g:id>
@@ -392,7 +392,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>2106298714</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1621826523</guid>
       <g:id>1621826523</g:id>
@@ -406,7 +406,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>1621826523</g:mpn><g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1832849003</guid>
       <g:id>1832849003</g:id>
@@ -420,7 +420,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1832849003</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1232653674</guid>
       <g:id>1232653674</g:id>
@@ -435,7 +435,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.51 kg</g:shipping_weight>
-    <g:mpn>1232653674</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1051236094</guid>
       <g:id>1051236094</g:id>
@@ -449,7 +449,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1051236094</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2038336306</guid>
       <g:id>2038336306</g:id>
@@ -463,7 +463,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>2038336306</g:mpn><g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">669353113</guid>
       <g:id>669353113</g:id>
@@ -477,7 +477,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>669353113</g:mpn><g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1270839426</guid>
       <g:id>1270839426</g:id>
@@ -492,7 +492,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>1270839426</g:mpn><g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1665411110</guid>
       <g:id>1665411110</g:id>
@@ -506,7 +506,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1665411110</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">895361493</guid>
       <g:id>895361493</g:id>
@@ -521,7 +521,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.528 kg</g:shipping_weight>
-    <g:mpn>895361493</g:mpn><g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">432604828</guid>
       <g:id>432604828</g:id>
@@ -539,7 +539,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>432604828</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1053775856</guid>
       <g:id>1053775856</g:id>
@@ -556,7 +556,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.512 kg</g:shipping_weight>
-    <g:mpn>1053775856</g:mpn><g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
+    <g:google_product_category>1529</g:google_product_category><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1303028575</guid>
       <g:id>1303028575</g:id>
@@ -571,7 +571,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1303028575</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1126381181</guid>
       <g:id>1126381181</g:id>
@@ -585,7 +585,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1126381181</g:mpn><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">158190096</guid>
       <g:id>158190096</g:id>
@@ -599,7 +599,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>158190096</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">863440747</guid>
       <g:id>863440747</g:id>
@@ -613,7 +613,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>863440747</g:mpn><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">576004363</guid>
       <g:id>576004363</g:id>
@@ -627,7 +627,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>576004363</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">65975421</guid>
       <g:id>65975421</g:id>
@@ -641,7 +641,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:mpn>65975421</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1285757989</guid>
       <g:id>1285757989</g:id>
@@ -655,7 +655,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:mpn>1285757989</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1033561560</guid>
       <g:id>1033561560</g:id>
@@ -669,7 +669,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1033561560</g:mpn><g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1868</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">331895065</guid>
       <g:id>331895065</g:id>
@@ -684,7 +684,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>331895065</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1809311902</guid>
       <g:id>1809311902</g:id>
@@ -698,7 +698,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:mpn>1809311902</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1837829247</guid>
       <g:id>1837829247</g:id>
@@ -713,7 +713,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1837829247</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1387194813</guid>
       <g:id>1387194813</g:id>
@@ -727,7 +727,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:mpn>1387194813</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">291133519</guid>
       <g:id>291133519</g:id>
@@ -741,7 +741,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.565 kg</g:shipping_weight>
-    <g:mpn>291133519</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">704453922</guid>
       <g:id>704453922</g:id>
@@ -755,7 +755,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.53 kg</g:shipping_weight>
-    <g:mpn>704453922</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1300632420</guid>
       <g:id>1300632420</g:id>
@@ -769,7 +769,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:mpn>1300632420</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">861941121</guid>
       <g:id>861941121</g:id>
@@ -783,7 +783,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>861941121</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1017600485</guid>
       <g:id>1017600485</g:id>
@@ -797,7 +797,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1017600485</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">190195544</guid>
       <g:id>190195544</g:id>
@@ -811,7 +811,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>190195544</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1759502471</guid>
       <g:id>1759502471</g:id>
@@ -825,7 +825,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1759502471</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">357854595</guid>
       <g:id>357854595</g:id>
@@ -839,7 +839,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>357854595</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">222295925</guid>
       <g:id>222295925</g:id>
@@ -853,7 +853,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>222295925</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2045612049</guid>
       <g:id>2045612049</g:id>
@@ -867,7 +867,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>2045612049</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">140660040</guid>
       <g:id>140660040</g:id>
@@ -881,7 +881,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>140660040</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">74605069</guid>
       <g:id>74605069</g:id>
@@ -895,7 +895,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>74605069</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">339666110</guid>
       <g:id>339666110</g:id>
@@ -909,7 +909,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>339666110</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">348925444</guid>
       <g:id>348925444</g:id>
@@ -923,7 +923,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>348925444</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">655013926</guid>
       <g:id>655013926</g:id>
@@ -937,7 +937,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>655013926</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">398016781</guid>
       <g:id>398016781</g:id>
@@ -951,7 +951,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.505 kg</g:shipping_weight>
-    <g:mpn>398016781</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>5g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>5g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">692080584</guid>
       <g:id>692080584</g:id>
@@ -965,7 +965,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>692080584</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">988412748</guid>
       <g:id>988412748</g:id>
@@ -979,7 +979,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>988412748</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">816858337</guid>
       <g:id>816858337</g:id>
@@ -993,7 +993,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>816858337</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">757548514</guid>
       <g:id>757548514</g:id>
@@ -1007,7 +1007,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.506 kg</g:shipping_weight>
-    <g:mpn>757548514</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1003247052</guid>
       <g:id>1003247052</g:id>
@@ -1021,7 +1021,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1003247052</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1297784385</guid>
       <g:id>1297784385</g:id>
@@ -1035,7 +1035,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1297784385</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1079475470</guid>
       <g:id>1079475470</g:id>
@@ -1049,7 +1049,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1079475470</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1002050183</guid>
       <g:id>1002050183</g:id>
@@ -1063,7 +1063,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1002050183</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1468610802</guid>
       <g:id>1468610802</g:id>
@@ -1077,7 +1077,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1468610802</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1565509631</guid>
       <g:id>1565509631</g:id>
@@ -1091,7 +1091,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1565509631</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1408049071</guid>
       <g:id>1408049071</g:id>
@@ -1105,7 +1105,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1408049071</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1841971411</guid>
       <g:id>1841971411</g:id>
@@ -1119,7 +1119,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1841971411</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1635363747</guid>
       <g:id>1635363747</g:id>
@@ -1133,7 +1133,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1635363747</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1924754372</guid>
       <g:id>1924754372</g:id>
@@ -1147,7 +1147,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1924754372</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1959531644</guid>
       <g:id>1959531644</g:id>
@@ -1161,7 +1161,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1959531644</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1932133262</guid>
       <g:id>1932133262</g:id>
@@ -1175,7 +1175,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1932133262</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">2139954028</guid>
       <g:id>2139954028</g:id>
@@ -1189,7 +1189,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>2139954028</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">428797377</guid>
       <g:id>428797377</g:id>
@@ -1203,7 +1203,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>428797377</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1433640019</guid>
       <g:id>1433640019</g:id>
@@ -1217,7 +1217,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1433640019</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1730613591</guid>
       <g:id>1730613591</g:id>
@@ -1231,7 +1231,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1730613591</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">2080319034</guid>
       <g:id>2080319034</g:id>
@@ -1245,7 +1245,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>2080319034</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1072059977</guid>
       <g:id>1072059977</g:id>
@@ -1259,7 +1259,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1072059977</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">583414674</guid>
       <g:id>583414674</g:id>
@@ -1273,7 +1273,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>583414674</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">518818921</guid>
       <g:id>518818921</g:id>
@@ -1287,7 +1287,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>518818921</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2059144227</guid>
       <g:id>2059144227</g:id>
@@ -1301,7 +1301,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>2059144227</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">522208565</guid>
       <g:id>522208565</g:id>
@@ -1315,7 +1315,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>522208565</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">441888257</guid>
       <g:id>441888257</g:id>
@@ -1329,7 +1329,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>441888257</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">897901817</guid>
       <g:id>897901817</g:id>
@@ -1343,7 +1343,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>897901817</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1559719230</guid>
       <g:id>1559719230</g:id>
@@ -1357,7 +1357,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1559719230</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">94425611</guid>
       <g:id>94425611</g:id>
@@ -1371,7 +1371,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>94425611</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">770458728</guid>
       <g:id>770458728</g:id>
@@ -1385,7 +1385,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>770458728</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">482971108</guid>
       <g:id>482971108</g:id>
@@ -1399,7 +1399,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>482971108</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">533576722</guid>
       <g:id>533576722</g:id>
@@ -1413,7 +1413,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>533576722</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1669542650</guid>
       <g:id>1669542650</g:id>
@@ -1427,7 +1427,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1669542650</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1378639718</guid>
       <g:id>1378639718</g:id>
@@ -1441,7 +1441,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1378639718</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">540081798</guid>
       <g:id>540081798</g:id>
@@ -1455,7 +1455,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>540081798</g:mpn><g:google_product_category>433</g:google_product_category></item>
+    <g:google_product_category>433</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1466026704</guid>
       <g:id>1466026704</g:id>
@@ -1469,7 +1469,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1466026704</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2082144846</guid>
       <g:id>2082144846</g:id>
@@ -1483,7 +1483,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>2082144846</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">351659116</guid>
       <g:id>351659116</g:id>
@@ -1497,7 +1497,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>351659116</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1632683015</guid>
       <g:id>1632683015</g:id>
@@ -1511,7 +1511,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1632683015</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1732878396</guid>
       <g:id>1732878396</g:id>
@@ -1525,7 +1525,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1732878396</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1833333665</guid>
       <g:id>1833333665</g:id>
@@ -1539,7 +1539,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1833333665</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">863172740</guid>
       <g:id>863172740</g:id>
@@ -1553,7 +1553,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>863172740</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">130562279</guid>
       <g:id>130562279</g:id>
@@ -1567,7 +1567,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>130562279</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">5849117</guid>
       <g:id>5849117</g:id>
@@ -1581,7 +1581,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>5849117</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1171722381</guid>
       <g:id>1171722381</g:id>
@@ -1595,7 +1595,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1171722381</g:mpn><g:google_product_category>2775</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2775</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2065623105</guid>
       <g:id>2065623105</g:id>
@@ -1609,7 +1609,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>2065623105</g:mpn><g:google_product_category>2775</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2775</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1381474212</guid>
       <g:id>1381474212</g:id>
@@ -1623,7 +1623,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1381474212</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2006358433</guid>
       <g:id>2006358433</g:id>
@@ -1637,7 +1637,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>2006358433</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1666335790</guid>
       <g:id>1666335790</g:id>
@@ -1651,7 +1651,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1666335790</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">196436999</guid>
       <g:id>196436999</g:id>
@@ -1665,7 +1665,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>196436999</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2069148014</guid>
       <g:id>2069148014</g:id>
@@ -1679,7 +1679,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>2069148014</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1474254823</guid>
       <g:id>1474254823</g:id>
@@ -1693,7 +1693,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1474254823</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">801044632</guid>
       <g:id>801044632</g:id>
@@ -1707,7 +1707,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>801044632</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1073244520</guid>
       <g:id>1073244520</g:id>
@@ -1721,7 +1721,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1073244520</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">150479264</guid>
       <g:id>150479264</g:id>
@@ -1735,7 +1735,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>150479264</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">176539565</guid>
       <g:id>176539565</g:id>
@@ -1749,7 +1749,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>176539565</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">811285941</guid>
       <g:id>811285941</g:id>
@@ -1763,7 +1763,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>811285941</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1511230577</guid>
       <g:id>1511230577</g:id>
@@ -1777,7 +1777,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1511230577</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1293815972</guid>
       <g:id>1293815972</g:id>
@@ -1791,7 +1791,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1293815972</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">373779673</guid>
       <g:id>373779673</g:id>
@@ -1805,7 +1805,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>373779673</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1701109911</guid>
       <g:id>1701109911</g:id>
@@ -1819,7 +1819,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1701109911</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1956516321</guid>
       <g:id>1956516321</g:id>
@@ -1833,7 +1833,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1956516321</g:mpn><g:google_product_category>1755</g:google_product_category></item>
+    <g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1467466677</guid>
       <g:id>1467466677</g:id>
@@ -1847,7 +1847,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1467466677</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">403725985</guid>
       <g:id>403725985</g:id>
@@ -1861,7 +1861,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>403725985</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1313413261</guid>
       <g:id>1313413261</g:id>
@@ -1875,7 +1875,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1313413261</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">999780142</guid>
       <g:id>999780142</g:id>
@@ -1889,7 +1889,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>999780142</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1854428382</guid>
       <g:id>1854428382</g:id>
@@ -1903,7 +1903,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1854428382</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">868577170</guid>
       <g:id>868577170</g:id>
@@ -1917,7 +1917,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.97 kg</g:shipping_weight>
-    <g:mpn>868577170</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1859497066</guid>
       <g:id>1859497066</g:id>
@@ -1931,7 +1931,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1859497066</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">638751991</guid>
       <g:id>638751991</g:id>
@@ -1945,7 +1945,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.18 kg</g:shipping_weight>
-    <g:mpn>638751991</g:mpn><g:google_product_category>5827</g:google_product_category><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>5827</g:google_product_category><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">528140923</guid>
       <g:id>528140923</g:id>
@@ -1960,7 +1960,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.6 kg</g:shipping_weight>
-    <g:mpn>528140923</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1218370784</guid>
       <g:id>1218370784</g:id>
@@ -1974,7 +1974,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1218370784</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">572967102</guid>
       <g:id>572967102</g:id>
@@ -1988,7 +1988,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>572967102</g:mpn><g:google_product_category>1868</g:google_product_category></item>
+    <g:google_product_category>1868</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1091901970</guid>
       <g:id>1091901970</g:id>
@@ -2003,7 +2003,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.2 kg</g:shipping_weight>
-    <g:mpn>1091901970</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">597312706</guid>
       <g:id>597312706</g:id>
@@ -2017,7 +2017,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.6 kg</g:shipping_weight>
-    <g:mpn>597312706</g:mpn><g:google_product_category>2140</g:google_product_category></item>
+    <g:google_product_category>2140</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1567920614</guid>
       <g:id>1567920614</g:id>
@@ -2032,7 +2032,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>1567920614</g:mpn><g:google_product_category>1868</g:google_product_category></item>
+    <g:google_product_category>1868</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1087629233</guid>
       <g:id>1087629233</g:id>
@@ -2047,7 +2047,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.04 kg</g:shipping_weight>
-    <g:mpn>1087629233</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">946188382</guid>
       <g:id>946188382</g:id>
@@ -2061,7 +2061,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>946188382</g:mpn><g:google_product_category>6812</g:google_product_category></item>
+    <g:google_product_category>6812</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1588483287</guid>
       <g:id>1588483287</g:id>
@@ -2076,7 +2076,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.47 kg</g:shipping_weight>
-    <g:mpn>1588483287</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1038697929</guid>
       <g:id>1038697929</g:id>
@@ -2092,6 +2092,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.031 kg</g:shipping_weight>
-    <g:mpn>1038697929</g:mpn><g:google_product_category>136</g:google_product_category></item>
+    <g:google_product_category>136</g:google_product_category></item>
   </channel>
 </rss>
