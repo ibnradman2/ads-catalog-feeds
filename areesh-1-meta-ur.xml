@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 13:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:00:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>643067018</g:id>
+      <g:title>جنگلی پھولوں کا شہد 2 کلو</g:title>
+      <g:description>جنگلی پھولوں کا شہد 2 کلو. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/2/p643067018?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>378951093</g:id>
+      <g:title>حضرمی سدر شہد 1 کلو</g:title>
+      <g:description>حضرمی سدر شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/1/p378951093?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>450163781</g:id>
       <g:title>پہاڑی سدر شہد 1 کلو</g:title>
@@ -213,12 +225,6 @@
       <g:link>https://areesh.sa/ur/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>378951093</g:id>
-      <g:title>حضرمی سدر شہد 1 کلو</g:title>
-      <g:description>حضرمی سدر شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/1/p378951093?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>765679051</g:id>
       <g:title>عریش شاہی مکسچر (500 گرام پیک)</g:title>
       <g:description>عریش شاہی مکسچر (500 گرام پیک). 1.0 kg.</g:description>
@@ -235,12 +241,6 @@
       <g:title>پریمیم سعودی طلح شہد 1 کلو</g:title>
       <g:description>پریمیم سعودی طلح شہد 1 کلو. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/1/p973260804?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>643067018</g:id>
-      <g:title>جنگلی پھولوں کا شہد 2 کلو</g:title>
-      <g:description>جنگلی پھولوں کا شہد 2 کلو. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/2/p643067018?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1425604290</g:id>

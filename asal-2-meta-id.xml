@@ -4,10 +4,46 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 13:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1853234062</g:id>
+      <g:title>Madu Anise Galon 10 kilo Harga Grosir</g:title>
+      <g:description>Madu Anise Galon 10 kilo Harga Grosir. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-anise-galon-10-kilo-harga-grosir/p1853234062?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>24757641</g:id>
+      <g:title>Madu Kelor 10 Kilo Galon Harga Grosir</g:title>
+      <g:description>Madu Kelor 10 Kilo Galon Harga Grosir. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-kelor-10-kilo-galon-harga-grosir/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>200955964</g:id>
+      <g:title>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram</g:title>
+      <g:description>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram. 4.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/galon-sidr-kashmiri-3-kilo-talbinah-500-gram/p200955964?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>Madu Sidr Peshawari Pakistan 250 Gram</g:title>
+      <g:description>Madu Sidr Peshawari Pakistan 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-peshawari-pakistan-250-gram/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>804454963</g:id>
+      <g:title>Madu Sarang Alami 400 Gram</g:title>
+      <g:description>Madu Sarang Alami 400 Gram. 0.9 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-alami-400-gram/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>Dua Kemasan Samin Domba Lokal 680 Gram</g:title>
+      <g:description>Dua Kemasan Samin Domba Lokal 680 Gram. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/dua-kemasan-samin-domba-lokal-680-gram/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1327702593</g:id>
       <g:title>Madu Syauk Samra Premium Galon 5 Kg Harga Grosir</g:title>
@@ -735,12 +771,6 @@
       <g:link>https://asalaljebal.sa/ind/habbatussauda-250-gram/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>24757641</g:id>
-      <g:title>Madu Kelor 10 Kilo Galon Harga Grosir</g:title>
-      <g:description>Madu Kelor 10 Kilo Galon Harga Grosir. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-kelor-10-kilo-galon-harga-grosir/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1725149288</g:id>
       <g:title>Madu Marjoram 1 Kilo</g:title>
       <g:description>Madu Marjoram 1 Kilo. 1.5 kg.</g:description>
@@ -757,12 +787,6 @@
       <g:title>Madu Marjoram Galon 5 Kilo Harga Grosir</g:title>
       <g:description>Madu Marjoram Galon 5 Kilo Harga Grosir. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-marjoram-galon-5-kilo-harga-grosir/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1853234062</g:id>
-      <g:title>Madu Anise Galon 10 kilo Harga Grosir</g:title>
-      <g:description>Madu Anise Galon 10 kilo Harga Grosir. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-anise-galon-10-kilo-harga-grosir/p1853234062?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>838476640</g:id>
@@ -1183,30 +1207,6 @@
       <g:title>Paket Madu Sidr Peshawari Pakistan 10 Kg Dua Galon dengan Serbuk Sari, Jintan Hitam, dan Sendok Madu Kayu (Gratis Ongkir)</g:title>
       <g:description>Paket Madu Sidr Peshawari Pakistan 10 Kg Dua Galon dengan Serbuk Sari, Jintan Hitam, dan Sendok Madu Kayu (Gratis Ongkir). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/paket-madu-sidr-peshawari-pakistan-10-kg-dua-galon-dengan-serbuk-sari-jintan-hit/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>804454963</g:id>
-      <g:title>Madu Sarang Alami 400 Gram</g:title>
-      <g:description>Madu Sarang Alami 400 Gram. 0.9 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-alami-400-gram/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1758124226</g:id>
-      <g:title>Dua Kemasan Samin Domba Lokal 680 Gram</g:title>
-      <g:description>Dua Kemasan Samin Domba Lokal 680 Gram. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/dua-kemasan-samin-domba-lokal-680-gram/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>200955964</g:id>
-      <g:title>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram</g:title>
-      <g:description>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram. 4.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/galon-sidr-kashmiri-3-kilo-talbinah-500-gram/p200955964?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>988896669</g:id>
-      <g:title>Madu Sidr Peshawari Pakistan 250 Gram</g:title>
-      <g:description>Madu Sidr Peshawari Pakistan 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-peshawari-pakistan-250-gram/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2000496810</g:id>
