@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 13:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:27:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -315,9 +315,9 @@
     <item>
       <guid isPermaLink="false">717865418</guid>
       <g:id>717865418</g:id>
-      <g:title>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey</g:title>
-      <g:description>Gift Box para sa Pambansang Araw: 8 Garapon ng Natural na Sidr Honey. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/gift-box-para-sa-pambansang-araw-8-garapon-ng-natural-na-sidr-honey/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Gift Box: 8 Garapon ng Natural na Sidr Honey</g:title>
+      <g:description>Gift Box: 8 Garapon ng Natural na Sidr Honey. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/gift-box-8-garapon-ng-natural-na-sidr-honey/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/mNSfL2DRK7kfe0TsYP2qbzNVTmbjSQXfZa9bjdQG.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>330.00 SAR</g:price>
