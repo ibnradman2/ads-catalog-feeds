@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 16:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:09:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>552143552</g:id>
+      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g</g:title>
+      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-20-mgo-830-250-g/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1927503162</g:id>
+      <g:title>Yerel Mumlu Yabani Çiçek Balı Kazanı</g:title>
+      <g:description>Yerel Mumlu Yabani Çiçek Balı Kazanı. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/yerel-mumlu-yabani-i-ek-bal-kazan/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>973260804</g:id>
+      <g:title>Lüks Talh Balı 1 kg</g:title>
+      <g:description>Lüks Talh Balı 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/l-ks-talh-bal-1-kg/p973260804?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>643067018</g:id>
       <g:title>Yabani Çiçek Balı 2 kg</g:title>
@@ -231,28 +249,10 @@
       <g:link>https://areesh.sa/tr/ilg-n-sal-bal-1-kg/p1889402382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>552143552</g:id>
-      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g</g:title>
-      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-20-mgo-830-250-g/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>765679051</g:id>
       <g:title>Areesh Kraliyet Karışımı (500 g kavanoz)</g:title>
       <g:description>Areesh Kraliyet Karışımı (500 g kavanoz). 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tr/areesh-kraliyet-kar-m-500-g-kavanoz/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1927503162</g:id>
-      <g:title>Yerel Mumlu Yabani Çiçek Balı Kazanı</g:title>
-      <g:description>Yerel Mumlu Yabani Çiçek Balı Kazanı. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/yerel-mumlu-yabani-i-ek-bal-kazan/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>973260804</g:id>
-      <g:title>Lüks Talh Balı 1 kg</g:title>
-      <g:description>Lüks Talh Balı 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/l-ks-talh-bal-1-kg/p973260804?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1425604290</g:id>
