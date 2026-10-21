@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 20:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:17:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>344412243</g:id>
+      <g:title>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros</g:title>
+      <g:description>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-10-kg-en-gros/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>957082464</g:id>
+      <g:title>Offre miel de Sidr royal Oussaïmi - miel de Sidr royal en rayon avec livraison gratuite</g:title>
+      <g:description>Offre miel de Sidr royal Oussaïmi - miel de Sidr royal en rayon avec livraison gratuite. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-miel-de-sidr-royal-oussa-mi-miel-de-sidr-royal-en-rayon-avec-livraison-gra/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1016153732</g:id>
+      <g:title>2 kg de miel de Sidr royal Asimi avec 15 pour cent de remise + livraison gratuite + paiement échelonné</g:title>
+      <g:description>2 kg de miel de Sidr royal Asimi avec 15 pour cent de remise + livraison gratuite + paiement échelonné. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/2-kg-de-miel-de-sidr-royal-asimi-avec-15-pour-cent-de-remise-livraison-gratuite-/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1232313534</g:id>
       <g:title>Miel de Sidr royal en rayon d'Assir 2 kg</g:title>
@@ -1101,12 +1119,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1016153732</g:id>
-      <g:title>2 kg de miel de Sidr royal Asimi avec 15 pour cent de remise + livraison gratuite + paiement échelonné</g:title>
-      <g:description>2 kg de miel de Sidr royal Asimi avec 15 pour cent de remise + livraison gratuite + paiement échelonné. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/2-kg-de-miel-de-sidr-royal-asimi-avec-15-pour-cent-de-remise-livraison-gratuite-/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1113268922</g:id>
       <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg)</g:title>
       <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg). 1.5 kg.</g:description>
@@ -1287,12 +1299,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-7-kg-en-gros/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>344412243</g:id>
-      <g:title>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros</g:title>
-      <g:description>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-10-kg-en-gros/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>326726179</g:id>
       <g:title>Miel de châtaignier Abu Farwa 250 g</g:title>
       <g:description>Miel de châtaignier Abu Farwa 250 g. 0.75 kg.</g:description>
@@ -1423,12 +1429,6 @@
       <g:title>Extrait de ginseng rouge coréen liquide 30 grammes</g:title>
       <g:description>Extrait de ginseng rouge coréen liquide 30 grammes. 0.53 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/extrait-de-ginseng-rouge-cor-en-liquide-30-grammes/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>957082464</g:id>
-      <g:title>Offre miel de Sidr royal Oussaïmi - miel de Sidr royal en rayon avec livraison gratuite</g:title>
-      <g:description>Offre miel de Sidr royal Oussaïmi - miel de Sidr royal en rayon avec livraison gratuite. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-miel-de-sidr-royal-oussa-mi-miel-de-sidr-royal-en-rayon-avec-livraison-gra/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>879350052</g:id>

@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 19:50:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:12:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>4 सूप मसाला पैक</g:title>
+      <g:description>4 सूप मसाला पैक. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1033561560</g:id>
+      <g:title>हरारी बाशनफ़र कॉफ़ी 2 किलो - प्रथम श्रेणी इथियोपियाई बुन अल-ख़ैर, अरबी कहवे के लिए</g:title>
+      <g:description>हरारी बाशनफ़र कॉफ़ी 2 किलो - प्रथम श्रेणी इथियोपियाई बुन अल-ख़ैर, अरबी कहवे के लिए. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/2/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1565509631</g:id>
+      <g:title>चिलगोज़ा (पाकिस्तानी) - 500gm</g:title>
+      <g:description>चिलगोज़ा (पाकिस्तानी) - 500gm. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500gm/p1565509631?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>638751991</g:id>
       <g:title>देसी भेड़ का घी 680 ग्राम</g:title>
@@ -267,12 +285,6 @@
       <g:link>https://hayala.co/hi/1/p257201169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1303028575</g:id>
-      <g:title>4 सूप मसाला पैक</g:title>
-      <g:description>4 सूप मसाला पैक. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1126381181</g:id>
       <g:title>पिसी हुई मोरिंगा (500 ग्राम)</g:title>
       <g:description>पिसी हुई मोरिंगा (500 ग्राम). 1.0 kg.</g:description>
@@ -307,12 +319,6 @@
       <g:title>जिनसेंग (जिनसेंग) 15 ग्राम</g:title>
       <g:description>जिनसेंग (जिनसेंग) 15 ग्राम. 0.515 kg.</g:description>
       <g:link>https://hayala.co/hi/15/p1285757989?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1033561560</g:id>
-      <g:title>हरारी बाशनफ़र कॉफ़ी 2 किलो - प्रथम श्रेणी इथियोपियाई बुन अल-ख़ैर, अरबी कहवे के लिए</g:title>
-      <g:description>हरारी बाशनफ़र कॉफ़ी 2 किलो - प्रथम श्रेणी इथियोपियाई बुन अल-ख़ैर, अरबी कहवे के लिए. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/2/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>331895065</g:id>
@@ -493,12 +499,6 @@
       <g:title>अखरोट (ऐन अल-जमल) (अमेरिकी) - 500gm</g:title>
       <g:description>अखरोट (ऐन अल-जमल) (अमेरिकी) - 500gm. 1.0 kg.</g:description>
       <g:link>https://hayala.co/hi/500gm/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1565509631</g:id>
-      <g:title>चिलगोज़ा (पाकिस्तानी) - 500gm</g:title>
-      <g:description>चिलगोज़ा (पाकिस्तानी) - 500gm. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500gm/p1565509631?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1408049071</g:id>

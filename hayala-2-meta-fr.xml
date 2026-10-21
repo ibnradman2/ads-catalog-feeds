@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 19:50:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:12:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>Pack de 4 boîtes d'épices pour soupe</g:title>
+      <g:description>Pack de 4 boîtes d'épices pour soupe. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/pack-de-4-bo-tes-d-pices-pour-soupe/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1033561560</g:id>
+      <g:title>Café Harari Bashenfer 2 kg – Café Al Khair d’Éthiopie, première qualité</g:title>
+      <g:description>Café Harari Bashenfer 2 kg – Café Al Khair d’Éthiopie, première qualité. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/caf-harari-bashenfer-2-kg-caf-al-khair-d-thiopie-premi-re-qualit/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1565509631</g:id>
+      <g:title>Pignons de pin pakistanais - 500 g</g:title>
+      <g:description>Pignons de pin pakistanais - 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/pignons-de-pin-pakistanais-500-g/p1565509631?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>638751991</g:id>
       <g:title>Ghee de brebis traditionnel 680 g</g:title>
@@ -249,12 +267,6 @@
       <g:link>https://hayala.co/fr/ajwain-nanakha-1-kg/p257201169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1303028575</g:id>
-      <g:title>Pack de 4 boîtes d'épices pour soupe</g:title>
-      <g:description>Pack de 4 boîtes d'épices pour soupe. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/pack-de-4-bo-tes-d-pices-pour-soupe/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1126381181</g:id>
       <g:title>Moringa moulu (500 g)</g:title>
       <g:description>Moringa moulu (500 g). 1.0 kg.</g:description>
@@ -289,12 +301,6 @@
       <g:title>Ginseng 15 g</g:title>
       <g:description>Ginseng 15 g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/fr/ginseng-15-g/p1285757989?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1033561560</g:id>
-      <g:title>Café Harari Bashenfer 2 kg – Café Al Khair d’Éthiopie, première qualité</g:title>
-      <g:description>Café Harari Bashenfer 2 kg – Café Al Khair d’Éthiopie, première qualité. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/caf-harari-bashenfer-2-kg-caf-al-khair-d-thiopie-premi-re-qualit/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>331895065</g:id>
@@ -469,12 +475,6 @@
       <g:title>Noix (américaines) - 500 g</g:title>
       <g:description>Noix (américaines) - 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/noix-am-ricaines-500-g/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1565509631</g:id>
-      <g:title>Pignons de pin pakistanais - 500 g</g:title>
-      <g:description>Pignons de pin pakistanais - 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/pignons-de-pin-pakistanais-500-g/p1565509631?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1408049071</g:id>

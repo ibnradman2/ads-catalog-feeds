@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 20:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:17:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>344412243</g:id>
+      <g:title>Madu Hutan Hitam Asli 10 Kilo Galon Grosir</g:title>
+      <g:description>Madu Hutan Hitam Asli 10 Kilo Galon Grosir. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-10-kilo-galon-grosir/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>957082464</g:id>
+      <g:title>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis</g:title>
+      <g:description>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/penawaran-madu-sidr-royal-usaimi-madu-sidr-royal-dengan-sarang-pengiriman-gratis/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1016153732</g:id>
+      <g:title>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan</g:title>
+      <g:description>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/2-kg-madu-sidr-royal-asimi-diskon-15-gratis-ongkir-cicilan/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1232313534</g:id>
       <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
@@ -1101,12 +1119,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1016153732</g:id>
-      <g:title>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan</g:title>
-      <g:description>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/2-kg-madu-sidr-royal-asimi-diskon-15-gratis-ongkir-cicilan/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1113268922</g:id>
       <g:title>Madu Kacang (Almond - Mete - Kenari - Pecan - Hazelnut - Pistachio) (1 Kilogram)</g:title>
       <g:description>Madu Kacang (Almond - Mete - Kenari - Pecan - Hazelnut - Pistachio) (1 Kilogram). 1.5 kg.</g:description>
@@ -1287,12 +1299,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-7-kilo-galon-grosir/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>344412243</g:id>
-      <g:title>Madu Hutan Hitam Asli 10 Kilo Galon Grosir</g:title>
-      <g:description>Madu Hutan Hitam Asli 10 Kilo Galon Grosir. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-10-kilo-galon-grosir/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>326726179</g:id>
       <g:title>Madu Abu Farwah (Kastanye) 250 gram</g:title>
       <g:description>Madu Abu Farwah (Kastanye) 250 gram. 0.75 kg.</g:description>
@@ -1423,12 +1429,6 @@
       <g:title>Ekstrak Ginseng Merah Korea Cair 30 gram</g:title>
       <g:description>Ekstrak Ginseng Merah Korea Cair 30 gram. 0.53 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/ekstrak-ginseng-merah-korea-cair-30-gram/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>957082464</g:id>
-      <g:title>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis</g:title>
-      <g:description>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/penawaran-madu-sidr-royal-usaimi-madu-sidr-royal-dengan-sarang-pengiriman-gratis/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>879350052</g:id>
