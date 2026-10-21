@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 18:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:50:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>638751991</g:id>
+      <g:title>Yerli Koyun Sadeyağı 680 g</g:title>
+      <g:description>Yerli Koyun Sadeyağı 680 g. 1.18 kg.</g:description>
+      <g:link>https://hayala.co/tr/yerli-koyun-sadeya-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>528140923</g:id>
+      <g:title>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan</g:title>
+      <g:description>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan. 1.6 kg.</g:description>
+      <g:link>https://hayala.co/tr/temel-baharatlar-12-ambalaj-yar-m-kilo-k-zarm-so-an/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1567920614</g:id>
+      <g:title>4 Ambalaj Şazliye Kahvesi</g:title>
+      <g:description>4 Ambalaj Şazliye Kahvesi. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/4-ambalaj-azliye-kahvesi/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1147148756</g:id>
       <g:title>2 kg Doğal Sidr Balı + 2 kg Hediye</g:title>
@@ -831,18 +849,6 @@
       <g:link>https://hayala.co/tr/ajwain-nanehah-250-g/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>638751991</g:id>
-      <g:title>Yerli Koyun Sadeyağı 680 g</g:title>
-      <g:description>Yerli Koyun Sadeyağı 680 g. 1.18 kg.</g:description>
-      <g:link>https://hayala.co/tr/yerli-koyun-sadeya-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>528140923</g:id>
-      <g:title>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan</g:title>
-      <g:description>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan. 1.6 kg.</g:description>
-      <g:link>https://hayala.co/tr/temel-baharatlar-12-ambalaj-yar-m-kilo-k-zarm-so-an/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1218370784</g:id>
       <g:title>1 kg Doğal Sidr Balı</g:title>
       <g:description>1 kg Doğal Sidr Balı. 1.0 kg.</g:description>
@@ -865,12 +871,6 @@
       <g:title>Organik Elma Sirkesi 500 ml</g:title>
       <g:description>Organik Elma Sirkesi 500 ml. 0.6 kg.</g:description>
       <g:link>https://hayala.co/tr/organik-elma-sirkesi-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1567920614</g:id>
-      <g:title>4 Ambalaj Şazliye Kahvesi</g:title>
-      <g:description>4 Ambalaj Şazliye Kahvesi. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/4-ambalaj-azliye-kahvesi/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1087629233</g:id>

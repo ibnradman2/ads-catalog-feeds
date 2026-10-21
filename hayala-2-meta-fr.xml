@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 18:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:50:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>638751991</g:id>
+      <g:title>Ghee de brebis traditionnel 680 g</g:title>
+      <g:description>Ghee de brebis traditionnel 680 g. 1.18 kg.</g:description>
+      <g:link>https://hayala.co/fr/ghee-de-brebis-traditionnel-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>528140923</g:id>
+      <g:title>Épices essentielles : 12 sachets + 500 g d'oignons frits</g:title>
+      <g:description>Épices essentielles : 12 sachets + 500 g d'oignons frits. 1.6 kg.</g:description>
+      <g:link>https://hayala.co/fr/pices-essentielles-12-sachets-500-g-d-oignons-frits/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1567920614</g:id>
+      <g:title>4 sachets de café Al Shadhiliyah</g:title>
+      <g:description>4 sachets de café Al Shadhiliyah. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/4-sachets-de-caf-al-shadhiliyah/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1147148756</g:id>
       <g:title>2 kg de miel de sidr naturel + 2 kg offerts</g:title>
@@ -819,18 +837,6 @@
       <g:link>https://hayala.co/fr/ajowan-nakhwa-250-g/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>638751991</g:id>
-      <g:title>Ghee de brebis traditionnel 680 g</g:title>
-      <g:description>Ghee de brebis traditionnel 680 g. 1.18 kg.</g:description>
-      <g:link>https://hayala.co/fr/ghee-de-brebis-traditionnel-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>528140923</g:id>
-      <g:title>Épices essentielles : 12 sachets + 500 g d'oignons frits</g:title>
-      <g:description>Épices essentielles : 12 sachets + 500 g d'oignons frits. 1.6 kg.</g:description>
-      <g:link>https://hayala.co/fr/pices-essentielles-12-sachets-500-g-d-oignons-frits/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1218370784</g:id>
       <g:title>1 kg de miel de sidr naturel</g:title>
       <g:description>1 kg de miel de sidr naturel. 1.0 kg.</g:description>
@@ -853,12 +859,6 @@
       <g:title>Vinaigre de cidre bio 500 ml</g:title>
       <g:description>Vinaigre de cidre bio 500 ml. 0.6 kg.</g:description>
       <g:link>https://hayala.co/fr/vinaigre-de-cidre-bio-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1567920614</g:id>
-      <g:title>4 sachets de café Al Shadhiliyah</g:title>
-      <g:description>4 sachets de café Al Shadhiliyah. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/4-sachets-de-caf-al-shadhiliyah/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1087629233</g:id>

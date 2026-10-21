@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 18:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:50:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>638751991</g:id>
+      <g:title>देसी भेड़ का घी 680 ग्राम</g:title>
+      <g:description>देसी भेड़ का घी 680 ग्राम. 1.18 kg.</g:description>
+      <g:link>https://hayala.co/hi/680/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>528140923</g:id>
+      <g:title>बुनियादी मसाले - 12 पैक + आधा किलो तले हुए प्याज़</g:title>
+      <g:description>बुनियादी मसाले - 12 पैक + आधा किलो तले हुए प्याज़. 1.6 kg.</g:description>
+      <g:link>https://hayala.co/hi/12/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1567920614</g:id>
+      <g:title>शाज़लिया कॉफ़ी के 4 पैक</g:title>
+      <g:description>शाज़लिया कॉफ़ी के 4 पैक. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/4/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1147148756</g:id>
       <g:title>2 किलो प्राकृतिक सिद्र शहद + 2 किलो मुफ़्त</g:title>
@@ -843,18 +861,6 @@
       <g:link>https://hayala.co/hi/250/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>638751991</g:id>
-      <g:title>देसी भेड़ का घी 680 ग्राम</g:title>
-      <g:description>देसी भेड़ का घी 680 ग्राम. 1.18 kg.</g:description>
-      <g:link>https://hayala.co/hi/680/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>528140923</g:id>
-      <g:title>बुनियादी मसाले - 12 पैक + आधा किलो तले हुए प्याज़</g:title>
-      <g:description>बुनियादी मसाले - 12 पैक + आधा किलो तले हुए प्याज़. 1.6 kg.</g:description>
-      <g:link>https://hayala.co/hi/12/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1218370784</g:id>
       <g:title>1 किलो प्राकृतिक सिद्र शहद</g:title>
       <g:description>1 किलो प्राकृतिक सिद्र शहद. 1.0 kg.</g:description>
@@ -877,12 +883,6 @@
       <g:title>ऑर्गेनिक सेब का सिरका 500 मिलीलीटर</g:title>
       <g:description>ऑर्गेनिक सेब का सिरका 500 मिलीलीटर. 0.6 kg.</g:description>
       <g:link>https://hayala.co/hi/500/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1567920614</g:id>
-      <g:title>शाज़लिया कॉफ़ी के 4 पैक</g:title>
-      <g:description>शाज़लिया कॉफ़ी के 4 पैक. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/4/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1087629233</g:id>

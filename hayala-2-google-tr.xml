@@ -4,10 +4,54 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 18:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:50:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">638751991</guid>
+      <g:id>638751991</g:id>
+      <g:title>Yerli Koyun Sadeyağı 680 g</g:title>
+      <g:description>Yerli Koyun Sadeyağı 680 g. Sade Yağ (Ghee). 1.18 kg.</g:description>
+      <g:link>https://hayala.co/tr/yerli-koyun-sadeya-680-g/p638751991?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/DDGs1Jbk4Z51IMXT1S0NYuIozZyfMogktAbi7cK3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>148.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.18 kg</g:shipping_weight>
+    <g:mpn>638751991</g:mpn><g:google_product_category>5827</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sade Yağ (Ghee)</g:custom_label_3><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">528140923</guid>
+      <g:id>528140923</g:id>
+      <g:title>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan</g:title>
+      <g:description>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan. Baharat ve Bitkiler. 1.6 kg.</g:description>
+      <g:link>https://hayala.co/tr/temel-baharatlar-12-ambalaj-yar-m-kilo-k-zarm-so-an/p528140923?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/uGkHQpTjguSoGQEgxudT5RaW3gKPvY7xWq9jblMd.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>216.00 SAR</g:price>
+      <g:sale_price>149.01 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.6 kg</g:shipping_weight>
+    <g:mpn>528140923</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1567920614</guid>
+      <g:id>1567920614</g:id>
+      <g:title>4 Ambalaj Şazliye Kahvesi</g:title>
+      <g:description>4 Ambalaj Şazliye Kahvesi. Kahve. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/4-ambalaj-azliye-kahvesi/p1567920614?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/KHkrqM65dUzJ5ofOb2TMU6t1mgwL3RDsHA9zpXcY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>207.79 SAR</g:price>
+      <g:sale_price>152.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:mpn>1567920614</g:mpn><g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kahve</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1147148756</guid>
       <g:id>1147148756</g:id>
@@ -1965,35 +2009,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1859497066</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">638751991</guid>
-      <g:id>638751991</g:id>
-      <g:title>Yerli Koyun Sadeyağı 680 g</g:title>
-      <g:description>Yerli Koyun Sadeyağı 680 g. Sade Yağ (Ghee). 1.18 kg.</g:description>
-      <g:link>https://hayala.co/tr/yerli-koyun-sadeya-680-g/p638751991?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/DDGs1Jbk4Z51IMXT1S0NYuIozZyfMogktAbi7cK3.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>148.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.18 kg</g:shipping_weight>
-    <g:mpn>638751991</g:mpn><g:google_product_category>5827</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sade Yağ (Ghee)</g:custom_label_3><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">528140923</guid>
-      <g:id>528140923</g:id>
-      <g:title>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan</g:title>
-      <g:description>Temel Baharatlar - 12 Ambalaj + Yarım Kilo Kızarmış Soğan. Baharat ve Bitkiler. 1.6 kg.</g:description>
-      <g:link>https://hayala.co/tr/temel-baharatlar-12-ambalaj-yar-m-kilo-k-zarm-so-an/p528140923?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/uGkHQpTjguSoGQEgxudT5RaW3gKPvY7xWq9jblMd.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>216.00 SAR</g:price>
-      <g:sale_price>149.01 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.6 kg</g:shipping_weight>
-    <g:mpn>528140923</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">1218370784</guid>
       <g:id>1218370784</g:id>
       <g:title>1 kg Doğal Sidr Balı</g:title>
@@ -2050,21 +2065,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.6 kg</g:shipping_weight>
     <g:mpn>597312706</g:mpn><g:google_product_category>2140</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sirke</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1567920614</guid>
-      <g:id>1567920614</g:id>
-      <g:title>4 Ambalaj Şazliye Kahvesi</g:title>
-      <g:description>4 Ambalaj Şazliye Kahvesi. Kahve. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/4-ambalaj-azliye-kahvesi/p1567920614?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/KHkrqM65dUzJ5ofOb2TMU6t1mgwL3RDsHA9zpXcY.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>207.79 SAR</g:price>
-      <g:sale_price>152.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>1567920614</g:mpn><g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kahve</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1087629233</guid>
       <g:id>1087629233</g:id>
