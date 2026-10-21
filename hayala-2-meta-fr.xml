@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 10:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:19:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>323557872</g:id>
+      <g:title>Miel de Shawka en rayon 500 g</g:title>
+      <g:description>Miel de Shawka en rayon 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/miel-de-shawka-en-rayon-500-g/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>999818845</g:id>
+      <g:title>Miel de Sidr de montagne en rayon 500 g</g:title>
+      <g:description>Miel de Sidr de montagne en rayon 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/miel-de-sidr-de-montagne-en-rayon-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2133906442</g:id>
       <g:title>Pignons de pin pakistanais - 1 kg</g:title>
@@ -217,18 +229,6 @@
       <g:title>Miel en rayon de fleurs sauvages locales 1 kg</g:title>
       <g:description>Miel en rayon de fleurs sauvages locales 1 kg. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/miel-en-rayon-de-fleurs-sauvages-locales-1-kg/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>323557872</g:id>
-      <g:title>Miel de Shawka en rayon 500 g</g:title>
-      <g:description>Miel de Shawka en rayon 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/miel-de-shawka-en-rayon-500-g/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>999818845</g:id>
-      <g:title>Miel de Sidr de montagne en rayon 500 g</g:title>
-      <g:description>Miel de Sidr de montagne en rayon 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/miel-de-sidr-de-montagne-en-rayon-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1303028575</g:id>

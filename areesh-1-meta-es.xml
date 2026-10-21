@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 09:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:19:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>83194573</g:id>
+      <g:title>5 kg de miel de Sidr de Peshawar</g:title>
+      <g:description>5 kg de miel de Sidr de Peshawar. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/5-kg-de-miel-de-sidr-de-peshawar/p83194573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>649125645</g:id>
+      <g:title>Miel de athl (salal) 2 kg</g:title>
+      <g:description>Miel de athl (salal) 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-athl-salal-2-kg/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>503369224</g:id>
       <g:title>10 kg de miel de Sidr de Cachemira + envío gratis</g:title>
@@ -199,18 +211,6 @@
       <g:title>Miel de athl (salal) 1 kg</g:title>
       <g:description>Miel de athl (salal) 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-de-athl-salal-1-kg/p1889402382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>83194573</g:id>
-      <g:title>5 kg de miel de Sidr de Peshawar</g:title>
-      <g:description>5 kg de miel de Sidr de Peshawar. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/5-kg-de-miel-de-sidr-de-peshawar/p83194573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>649125645</g:id>
-      <g:title>Miel de athl (salal) 2 kg</g:title>
-      <g:description>Miel de athl (salal) 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-athl-salal-2-kg/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>552143552</g:id>

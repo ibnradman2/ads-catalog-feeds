@@ -4,10 +4,88 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 10:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:19:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">797605987</guid>
+      <g:id>797605987</g:id>
+      <g:title>Miel de talh premium 5 kg en garrafa a precio de mayorista</g:title>
+      <g:description>Miel de talh premium 5 kg en garrafa a precio de mayorista. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-5-kg-en-garrafa-a-precio-de-mayorista/p797605987?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Q606qwsNZ8aBHErrtKbhUs2AxPlZIBn6kJaZj1PE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2010.00 SAR</g:price>
+      <g:sale_price>1835.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029005</g:item_group_id>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2101740352</guid>
+      <g:id>2101740352</g:id>
+      <g:title>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista</g:title>
+      <g:description>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-espinosa-premium-en-gal-n-de-7-kg-a-precio-de-mayorista/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/dz5RpFDNlzutRyUYGMdOUrm8BAI1xpqCikMN13qn.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2409.00 SAR</g:price>
+      <g:sale_price>1835.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091006</g:item_group_id>
+      <g:shipping_weight>7.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">645419491</guid>
+      <g:id>645419491</g:id>
+      <g:title>Miel en panal natural 1250 gramos</g:title>
+      <g:description>Miel en panal natural 1250 gramos. 1.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-en-panal-natural-1250-gramos/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/n3YvGpLghnxj7io6UDjGPTSCVQsZZdLyL8BkYGff.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/RMJ4UKEdMtnbe5AwhwLw6vGqfsAAuLPhdBBpWM7N.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>92.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031003001</g:item_group_id>
+      <g:shipping_weight>1.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">406422116</guid>
+      <g:id>406422116</g:id>
+      <g:title>Almendra yemení, 500 g</g:title>
+      <g:description>Almendra yemení, 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/almendra-yemen-500-g/p406422116?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/SqPnLx0sGRRgEpRuE13asNdBE9yZVdnqG5tutG5S.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>185.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081003001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1698035471</guid>
+      <g:id>1698035471</g:id>
+      <g:title>Almendra yemení, 1 kg</g:title>
+      <g:description>Almendra yemení, 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/almendra-yemen-1-kg/p1698035471?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/IcJR7aO61hIpXaEmyWeKfD32VjNBtbIkTna1XKB5.jpg</g:image_link>
+      <g:additional_image_link>https://ibnradman2.github.io/ads-catalog-feeds/img/asal/1698035471/almond-ad-design-sq.png</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081003002</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">2107453315</guid>
       <g:id>2107453315</g:id>
@@ -1887,38 +1965,6 @@
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">797605987</guid>
-      <g:id>797605987</g:id>
-      <g:title>Miel de talh premium 5 kg en garrafa a precio de mayorista</g:title>
-      <g:description>Miel de talh premium 5 kg en garrafa a precio de mayorista. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-5-kg-en-garrafa-a-precio-de-mayorista/p797605987?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Q606qwsNZ8aBHErrtKbhUs2AxPlZIBn6kJaZj1PE.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>2010.00 SAR</g:price>
-      <g:sale_price>1835.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041029005</g:item_group_id>
-      <g:shipping_weight>5.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2101740352</guid>
-      <g:id>2101740352</g:id>
-      <g:title>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista</g:title>
-      <g:description>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-samar-espinosa-premium-en-gal-n-de-7-kg-a-precio-de-mayorista/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/dz5RpFDNlzutRyUYGMdOUrm8BAI1xpqCikMN13qn.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>2409.00 SAR</g:price>
-      <g:sale_price>1835.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021091006</g:item_group_id>
-      <g:shipping_weight>7.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">838476640</guid>
       <g:id>838476640</g:id>
       <g:title>Pasas rojas de Yemen 500 g</g:title>
@@ -3022,52 +3068,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041007007</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">406422116</guid>
-      <g:id>406422116</g:id>
-      <g:title>Almendra yemení, 500 g</g:title>
-      <g:description>Almendra yemení, 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/almendra-yemen-500-g/p406422116?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/SqPnLx0sGRRgEpRuE13asNdBE9yZVdnqG5tutG5S.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>185.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0081003001</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">645419491</guid>
-      <g:id>645419491</g:id>
-      <g:title>Miel en panal natural 1250 gramos</g:title>
-      <g:description>Miel en panal natural 1250 gramos. 1.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-en-panal-natural-1250-gramos/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/n3YvGpLghnxj7io6UDjGPTSCVQsZZdLyL8BkYGff.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/RMJ4UKEdMtnbe5AwhwLw6vGqfsAAuLPhdBBpWM7N.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>92.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031003001</g:item_group_id>
-      <g:shipping_weight>1.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1698035471</guid>
-      <g:id>1698035471</g:id>
-      <g:title>Almendra yemení, 1 kg</g:title>
-      <g:description>Almendra yemení, 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/almendra-yemen-1-kg/p1698035471?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/IcJR7aO61hIpXaEmyWeKfD32VjNBtbIkTna1XKB5.jpg</g:image_link>
-      <g:additional_image_link>https://ibnradman2.github.io/ads-catalog-feeds/img/asal/1698035471/almond-ad-design-sq.png</g:additional_image_link><g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0081003002</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">304404767</guid>

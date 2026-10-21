@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 09:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:19:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>83194573</g:id>
+      <g:title>白沙瓦西德尔蜂蜜5公斤</g:title>
+      <g:description>白沙瓦西德尔蜂蜜5公斤. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/5/p83194573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>649125645</g:id>
+      <g:title>柽柳蜂蜜（Al Sal）2公斤</g:title>
+      <g:description>柽柳蜂蜜（Al Sal）2公斤. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/al-sal-2/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>503369224</g:id>
       <g:title>10公斤克什米尔西德尔蜂蜜 + 免费配送</g:title>
@@ -199,18 +211,6 @@
       <g:title>柽柳蜂蜜（Al Sal）1公斤</g:title>
       <g:description>柽柳蜂蜜（Al Sal）1公斤. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/al-sal-1/p1889402382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>83194573</g:id>
-      <g:title>白沙瓦西德尔蜂蜜5公斤</g:title>
-      <g:description>白沙瓦西德尔蜂蜜5公斤. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/5/p83194573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>649125645</g:id>
-      <g:title>柽柳蜂蜜（Al Sal）2公斤</g:title>
-      <g:description>柽柳蜂蜜（Al Sal）2公斤. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/al-sal-2/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>552143552</g:id>

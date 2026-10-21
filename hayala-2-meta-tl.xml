@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 10:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:19:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>323557872</g:id>
+      <g:title>Shawka Honey na may Pukyutan 500 gramo</g:title>
+      <g:description>Shawka Honey na may Pukyutan 500 gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/shawka-honey-na-may-pukyutan-500-gramo/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>999818845</g:id>
+      <g:title>Pulot-pukyutan na Sidr Bundok 500g</g:title>
+      <g:description>Pulot-pukyutan na Sidr Bundok 500g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/pulot-pukyutan-na-sidr-bundok-500g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2133906442</g:id>
       <g:title>Pine Nuts na Pakistani - 1 Kilo</g:title>
@@ -235,18 +247,6 @@
       <g:title>Isang Kilo ng Honeycomb ng Katutubong Ligaw na Bulaklak</g:title>
       <g:description>Isang Kilo ng Honeycomb ng Katutubong Ligaw na Bulaklak. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tl/isang-kilo-ng-honeycomb-ng-katutubong-ligaw-na-bulaklak/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>323557872</g:id>
-      <g:title>Shawka Honey na may Pukyutan 500 gramo</g:title>
-      <g:description>Shawka Honey na may Pukyutan 500 gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/shawka-honey-na-may-pukyutan-500-gramo/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>999818845</g:id>
-      <g:title>Pulot-pukyutan na Sidr Bundok 500g</g:title>
-      <g:description>Pulot-pukyutan na Sidr Bundok 500g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/pulot-pukyutan-na-sidr-bundok-500g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1303028575</g:id>
