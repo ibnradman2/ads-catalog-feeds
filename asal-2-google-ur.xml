@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 05:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:28:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1610407007</guid>
+      <g:id>1610407007</g:id>
+      <g:title>کالے جنگل کا اصلی شہد 1 کلو</g:title>
+      <g:description>کالے جنگل کا اصلی شہد 1 کلو. دیگر شہد. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1610407007?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/pBIE06fZ6uJ2Bx0DPxOwEpeAcjecHDMC8FznFeJe.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>138.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1610407007</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1884272643</guid>
+      <g:id>1884272643</g:id>
+      <g:title>قدرتی اکیشیا شہد 1 کلو</g:title>
+      <g:description>قدرتی اکیشیا شہد 1 کلو. دیگر شہد. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1884272643?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/pywxZOgZEh5PwNbRvjERBKexiamgBhsHUxELH6jD.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>180.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1884272643</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">275719624</guid>
       <g:id>275719624</g:id>
@@ -2214,36 +2244,6 @@
       <g:item_group_id>0041007007</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
     <g:mpn>1473483671</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1884272643</guid>
-      <g:id>1884272643</g:id>
-      <g:title>قدرتی اکیشیا شہد 1 کلو</g:title>
-      <g:description>قدرتی اکیشیا شہد 1 کلو. دیگر شہد. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1884272643?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/pywxZOgZEh5PwNbRvjERBKexiamgBhsHUxELH6jD.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>180.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041035003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1884272643</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1610407007</guid>
-      <g:id>1610407007</g:id>
-      <g:title>کالے جنگل کا اصلی شہد 1 کلو</g:title>
-      <g:description>کالے جنگل کا اصلی شہد 1 کلو. دیگر شہد. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1610407007?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/pBIE06fZ6uJ2Bx0DPxOwEpeAcjecHDMC8FznFeJe.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>138.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1610407007</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">645419491</guid>
       <g:id>645419491</g:id>

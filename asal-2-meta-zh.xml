@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 05:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:28:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1228632179</g:id>
+      <g:title>匈牙利白蜜（Mardisia）1公斤</g:title>
+      <g:description>匈牙利白蜜（Mardisia）1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia-1/p1228632179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1610407007</g:id>
+      <g:title>正宗黑森林蜂蜜 1公斤</g:title>
+      <g:description>正宗黑森林蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1880326017</g:id>
+      <g:title>柽柳蜂蜜（Al Sal）1公斤</g:title>
+      <g:description>柽柳蜂蜜（Al Sal）1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/al-sal-1/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1884272643</g:id>
+      <g:title>洋槐蜜 1公斤</g:title>
+      <g:description>洋槐蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1884272643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>275719624</g:id>
       <g:title>Abu Farwa栗子蜂蜜 500克</g:title>
@@ -1135,30 +1159,6 @@
       <g:title>优惠套装：白沙瓦西德尔蜂蜜10公斤两桶，附蜂花粉、黑种草籽和蜂蜜木勺（免运费）</g:title>
       <g:description>优惠套装：白沙瓦西德尔蜂蜜10公斤两桶，附蜂花粉、黑种草籽和蜂蜜木勺（免运费）. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/10/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1884272643</g:id>
-      <g:title>洋槐蜜 1公斤</g:title>
-      <g:description>洋槐蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1884272643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1228632179</g:id>
-      <g:title>匈牙利白蜜（Mardisia）1公斤</g:title>
-      <g:description>匈牙利白蜜（Mardisia）1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/mardisia-1/p1228632179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1880326017</g:id>
-      <g:title>柽柳蜂蜜（Al Sal）1公斤</g:title>
-      <g:description>柽柳蜂蜜（Al Sal）1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/al-sal-1/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1610407007</g:id>
-      <g:title>正宗黑森林蜂蜜 1公斤</g:title>
-      <g:description>正宗黑森林蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>406422116</g:id>
