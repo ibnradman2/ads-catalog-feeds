@@ -4,10 +4,58 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 23:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:22:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>399980213</g:id>
+      <g:title>شاہی عصیمی سدر شہد 1 کلو</g:title>
+      <g:description>شاہی عصیمی سدر شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/1/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>658291884</g:id>
+      <g:title>شوکہ شہد (پریمیم سمرہ) 2 کلو</g:title>
+      <g:description>شوکہ شہد (پریمیم سمرہ) 2 کلو. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/2/p658291884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>982423131</g:id>
+      <g:title>7 کلو گیلن کلونجی کا شہد + مفت ڈیلیوری</g:title>
+      <g:description>7 کلو گیلن کلونجی کا شہد + مفت ڈیلیوری. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/7/p982423131?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>509119034</g:id>
+      <g:title>پریمیم سعودی طلح شہد 2 کلو</g:title>
+      <g:description>پریمیم سعودی طلح شہد 2 کلو. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/2/p509119034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1789520129</g:id>
+      <g:title>عسیر کا شاہی سدر چھتے کا مٹکا</g:title>
+      <g:description>عسیر کا شاہی سدر چھتے کا مٹکا. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/product/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2057449096</g:id>
+      <g:title>5 کلو گیلن جنگلی پھولوں کا شہد</g:title>
+      <g:description>5 کلو گیلن جنگلی پھولوں کا شہد. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/5/p2057449096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1225774404</g:id>
+      <g:title>2 کلو پہاڑی سدر شہد</g:title>
+      <g:description>2 کلو پہاڑی سدر شہد. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/2/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1001322391</g:id>
+      <g:title>گیلن 7 کلو جنگلی پھولوں کا شہد + مفت ڈیلیوری</g:title>
+      <g:description>گیلن 7 کلو جنگلی پھولوں کا شہد + مفت ڈیلیوری. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/7/p1001322391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2072608418</g:id>
       <g:title>5 کلو گیلن شوکہ شہد (پریمیم سمرہ) + مفت ڈیلیوری</g:title>
@@ -153,28 +201,10 @@
       <g:link>https://areesh.sa/ur/5/p83194573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1001322391</g:id>
-      <g:title>گیلن 7 کلو جنگلی پھولوں کا شہد + مفت ڈیلیوری</g:title>
-      <g:description>گیلن 7 کلو جنگلی پھولوں کا شہد + مفت ڈیلیوری. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/7/p1001322391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>982423131</g:id>
-      <g:title>7 کلو گیلن کلونجی کا شہد + مفت ڈیلیوری</g:title>
-      <g:description>7 کلو گیلن کلونجی کا شہد + مفت ڈیلیوری. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/7/p982423131?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>649125645</g:id>
       <g:title>اثل شہد (صال شہد) 2 کلو</g:title>
       <g:description>اثل شہد (صال شہد) 2 کلو. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/2/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>399980213</g:id>
-      <g:title>شاہی عصیمی سدر شہد 1 کلو</g:title>
-      <g:description>شاہی عصیمی سدر شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/1/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>378951093</g:id>
@@ -211,36 +241,6 @@
       <g:title>پہاڑی سدر شہد 1 کلو</g:title>
       <g:description>پہاڑی سدر شہد 1 کلو. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/1/p450163781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>658291884</g:id>
-      <g:title>شوکہ شہد (پریمیم سمرہ) 2 کلو</g:title>
-      <g:description>شوکہ شہد (پریمیم سمرہ) 2 کلو. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/2/p658291884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>509119034</g:id>
-      <g:title>پریمیم سعودی طلح شہد 2 کلو</g:title>
-      <g:description>پریمیم سعودی طلح شہد 2 کلو. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/2/p509119034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1789520129</g:id>
-      <g:title>عسیر کا شاہی سدر چھتے کا مٹکا</g:title>
-      <g:description>عسیر کا شاہی سدر چھتے کا مٹکا. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/product/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2057449096</g:id>
-      <g:title>5 کلو گیلن جنگلی پھولوں کا شہد</g:title>
-      <g:description>5 کلو گیلن جنگلی پھولوں کا شہد. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/5/p2057449096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1225774404</g:id>
-      <g:title>2 کلو پہاڑی سدر شہد</g:title>
-      <g:description>2 کلو پہاڑی سدر شہد. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/2/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1425604290</g:id>
