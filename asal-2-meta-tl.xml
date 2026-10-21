@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 19:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:11:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo</g:title>
+      <g:description>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-sidr-na-pulot-sa-pagkit-mula-sa-kabundukan-ng-asir-2-kilo/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1497729139</g:id>
+      <g:title>Galon ng Pulot ng Acacia, 10 Kilo, Presyong Pakyawan</g:title>
+      <g:description>Galon ng Pulot ng Acacia, 10 Kilo, Presyong Pakyawan. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/galon-ng-pulot-ng-acacia-10-kilo-presyong-pakyawan/p1497729139?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>843246671</g:id>
+      <g:title>Wildflower Honey, Timog o Hadramawt, Galon na 10 Kilo, Presyong Pakyawan</g:title>
+      <g:description>Wildflower Honey, Timog o Hadramawt, Galon na 10 Kilo, Presyong Pakyawan. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-galon-na-10-kilo-presyong-pakyawan/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>244975038</g:id>
       <g:title>Lokal na Ghee mula sa Baka 680 Gramo</g:title>
@@ -411,12 +429,6 @@
       <g:link>https://asalaljebal.sa/tl/lokal-na-pulot-ng-salam-500-gramo/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1232313534</g:id>
-      <g:title>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo</g:title>
-      <g:description>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-sidr-na-pulot-sa-pagkit-mula-sa-kabundukan-ng-asir-2-kilo/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>1059074726</g:id>
       <g:title>Athl Honey (Sal) 500 Gramo</g:title>
       <g:description>Athl Honey (Sal) 500 Gramo. 1.0 kg.</g:description>
@@ -577,12 +589,6 @@
       <g:title>9 Bote ng Honey Drink na may Luya, Lemon at Luyang Dilaw</g:title>
       <g:description>9 Bote ng Honey Drink na may Luya, Lemon at Luyang Dilaw. 4.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/9-bote-ng-honey-drink-na-may-luya-lemon-at-luyang-dilaw/p622236865?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1497729139</g:id>
-      <g:title>Galon ng Pulot ng Acacia, 10 Kilo, Presyong Pakyawan</g:title>
-      <g:description>Galon ng Pulot ng Acacia, 10 Kilo, Presyong Pakyawan. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/galon-ng-pulot-ng-acacia-10-kilo-presyong-pakyawan/p1497729139?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>149216914</g:id>
@@ -811,12 +817,6 @@
       <g:title>Pulang Pasas na Yemeni 1 Kilo</g:title>
       <g:description>Pulang Pasas na Yemeni 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulang-pasas-na-yemeni-1-kilo/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>843246671</g:id>
-      <g:title>Wildflower Honey, Timog o Hadramawt, Galon na 10 Kilo, Presyong Pakyawan</g:title>
-      <g:description>Wildflower Honey, Timog o Hadramawt, Galon na 10 Kilo, Presyong Pakyawan. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-galon-na-10-kilo-presyong-pakyawan/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>272226114</g:id>

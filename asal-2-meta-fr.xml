@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 19:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:11:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Miel de Sidr royal en rayon d'Assir 2 kg</g:title>
+      <g:description>Miel de Sidr royal en rayon d'Assir 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-d-assir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1497729139</g:id>
+      <g:title>Bidon de miel d'acacia 10 kg en gros</g:title>
+      <g:description>Bidon de miel d'acacia 10 kg en gros. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/bidon-de-miel-d-acacia-10-kg-en-gros/p1497729139?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>843246671</g:id>
+      <g:title>Miel de fleurs sauvages du Sud ou du Hadramaout 10 kg, bidon à prix de gros</g:title>
+      <g:description>Miel de fleurs sauvages du Sud ou du Hadramaout 10 kg, bidon à prix de gros. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-sauvages-du-sud-ou-du-hadramaout-10-kg-bidon-prix-de-gros/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>244975038</g:id>
       <g:title>Ghee de vache du terroir 680 g</g:title>
@@ -405,12 +423,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-salam-du-terroir-500-g/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1232313534</g:id>
-      <g:title>Miel de Sidr royal en rayon d'Assir 2 kg</g:title>
-      <g:description>Miel de Sidr royal en rayon d'Assir 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-d-assir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1059074726</g:id>
       <g:title>Miel d'athel (Saal) 500 grammes</g:title>
       <g:description>Miel d'athel (Saal) 500 grammes. 1.0 kg.</g:description>
@@ -571,12 +583,6 @@
       <g:title>9 pots de boisson au miel, gingembre, citron et curcuma</g:title>
       <g:description>9 pots de boisson au miel, gingembre, citron et curcuma. 4.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/9-pots-de-boisson-au-miel-gingembre-citron-et-curcuma/p622236865?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1497729139</g:id>
-      <g:title>Bidon de miel d'acacia 10 kg en gros</g:title>
-      <g:description>Bidon de miel d'acacia 10 kg en gros. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/bidon-de-miel-d-acacia-10-kg-en-gros/p1497729139?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>149216914</g:id>
@@ -805,12 +811,6 @@
       <g:title>Raisins secs rouges du Yémen 1 kg</g:title>
       <g:description>Raisins secs rouges du Yémen 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-1-kg/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>843246671</g:id>
-      <g:title>Miel de fleurs sauvages du Sud ou du Hadramaout 10 kg, bidon à prix de gros</g:title>
-      <g:description>Miel de fleurs sauvages du Sud ou du Hadramaout 10 kg, bidon à prix de gros. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-sauvages-du-sud-ou-du-hadramaout-10-kg-bidon-prix-de-gros/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>272226114</g:id>
