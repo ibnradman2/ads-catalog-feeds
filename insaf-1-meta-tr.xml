@@ -4,10 +4,22 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 20 Oct 2026 08:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:22:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1403683377</g:id>
+      <g:title>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni</g:title>
+      <g:description>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni. 3.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kavanoz-peshawari-sidr-bal-500-g-hediye-ar-poleni/p1403683377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>423215357</g:id>
+      <g:title>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni</g:title>
+      <g:description>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni. 6.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kg-premium-do-al-sidr-bal-hediye-ar-poleni/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>907457808</g:id>
       <g:title>Çörek Otlu Bal 2 kg</g:title>
@@ -61,12 +73,6 @@
       <g:title>Petekli Bal 500 g</g:title>
       <g:description>Petekli Bal 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/tr/petekli-bal-500-g/p476216439?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>423215357</g:id>
-      <g:title>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni</g:title>
-      <g:description>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kg-premium-do-al-sidr-bal-hediye-ar-poleni/p423215357?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>293213385</g:id>
@@ -169,12 +175,6 @@
       <g:title>Kış Fırsatı: 6 kg Doğal Sidr Balı + 4 kg Doğal Çiçek Balı + Hediye Arı Poleni</g:title>
       <g:description>Kış Fırsatı: 6 kg Doğal Sidr Balı + 4 kg Doğal Çiçek Balı + Hediye Arı Poleni. 10.5 kg.</g:description>
       <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kg-do-al-sidr-bal-4-kg-do-al-i-ek-bal-hediye-ar-poleni/p1419760550?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1403683377</g:id>
-      <g:title>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni</g:title>
-      <g:description>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kavanoz-peshawari-sidr-bal-500-g-hediye-ar-poleni/p1403683377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1395738330</g:id>

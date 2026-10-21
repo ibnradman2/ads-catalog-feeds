@@ -4,10 +4,40 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 16:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:22:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1403683377</guid>
+      <g:id>1403683377</g:id>
+      <g:title>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni</g:title>
+      <g:description>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni. Hediyeler. 3.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kavanoz-peshawari-sidr-bal-500-g-hediye-ar-poleni/p1403683377?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/KQtDaxhq7Cj3m1a0Ny2yZUSfqV4JN2jLyWyXSheY.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>349.99 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>1403683377</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Kış</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">423215357</guid>
+      <g:id>423215357</g:id>
+      <g:title>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni</g:title>
+      <g:description>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni. Hediyeler. 6.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kg-premium-do-al-sidr-bal-hediye-ar-poleni/p423215357?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/iFlluITwBN6XG1UuD6Ba2GdLhETQRJ24WUBwfbzD.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>580.00 SAR</g:price>
+      <g:sale_price>249.00 SAR</g:sale_price>
+      <g:brand>Insaf</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>6.5 kg</g:shipping_weight>
+    <g:mpn>423215357</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Kış</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">907457808</guid>
       <g:id>907457808</g:id>
@@ -141,21 +171,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>476216439</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">423215357</guid>
-      <g:id>423215357</g:id>
-      <g:title>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni</g:title>
-      <g:description>Kış Fırsatı: 6 kg Premium Doğal Sidr Balı + Hediye Arı Poleni. Hediyeler. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kg-premium-do-al-sidr-bal-hediye-ar-poleni/p423215357?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/iFlluITwBN6XG1UuD6Ba2GdLhETQRJ24WUBwfbzD.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>580.00 SAR</g:price>
-      <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>423215357</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Kış</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">293213385</guid>
       <g:id>293213385</g:id>
@@ -414,21 +429,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
     <g:mpn>1419760550</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Kış</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1403683377</guid>
-      <g:id>1403683377</g:id>
-      <g:title>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni</g:title>
-      <g:description>Kış Fırsatı: 6 Kavanoz Peshawari Sidr Balı 500 g + Hediye Arı Poleni. Hediyeler. 3.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tr/k-f-rsat-6-kavanoz-peshawari-sidr-bal-500-g-hediye-ar-poleni/p1403683377?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/qbqyN/KQtDaxhq7Cj3m1a0Ny2yZUSfqV4JN2jLyWyXSheY.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>349.99 SAR</g:price>
-      <g:sale_price>249.00 SAR</g:sale_price>
-      <g:brand>Insaf</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>1403683377</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Kış</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hediyeler</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1395738330</guid>
       <g:id>1395738330</g:id>
