@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 09:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:06:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2107453315</g:id>
+      <g:title>5 Kilong Lokal na Pulot ng Sidr na Bundok na may 20 Porsyentong Diskwento + Libreng Pagpapadala</g:title>
+      <g:description>5 Kilong Lokal na Pulot ng Sidr na Bundok na may 20 Porsyentong Diskwento + Libreng Pagpapadala. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/5-kilong-lokal-na-pulot-ng-sidr-na-bundok-na-may-20-porsyentong-diskwento-libren/p2107453315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2136887666</g:id>
       <g:title>Puting Pulot ng Hungary (Mardisia) 10 Kilo Galon sa Presyong Pakyawan</g:title>
@@ -727,12 +733,6 @@
       <g:title>Premium na Pulot ng Samra (Shawka) 7 Kilo Galon sa Presyong Pakyawan</g:title>
       <g:description>Premium na Pulot ng Samra (Shawka) 7 Kilo Galon sa Presyong Pakyawan. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/premium-na-pulot-ng-samra-shawka-7-kilo-galon-sa-presyong-pakyawan/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2107453315</g:id>
-      <g:title>5 Kilong Lokal na Pulot ng Sidr na Bundok na may 20 Porsyentong Diskwento + Libreng Pagpapadala</g:title>
-      <g:description>5 Kilong Lokal na Pulot ng Sidr na Bundok na may 20 Porsyentong Diskwento + Libreng Pagpapadala. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/5-kilong-lokal-na-pulot-ng-sidr-na-bundok-na-may-20-porsyentong-diskwento-libren/p2107453315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>838476640</g:id>
