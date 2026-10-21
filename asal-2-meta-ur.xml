@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 07:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1374413185</g:id>
+      <g:title>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر</g:title>
+      <g:description>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1610407007</g:id>
       <g:title>کالے جنگل کا اصلی شہد 1 کلو</g:title>
@@ -91,12 +97,6 @@
       <g:title>عصیمی شاہی سدر شہد 5.5 کلو گیلن تھوک قیمت پر</g:title>
       <g:description>عصیمی شاہی سدر شہد 5.5 کلو گیلن تھوک قیمت پر. 6.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/5-5/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1374413185</g:id>
-      <g:title>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر</g:title>
-      <g:description>پہاڑی سدر شہد، 10 کلو کا گیلن تھوک قیمت پر. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>317150900</g:id>

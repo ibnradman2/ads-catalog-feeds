@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 07:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2136887666</g:id>
+      <g:title>Miel blanca de Mardisia en galón de 10 kg a precio de mayorista</g:title>
+      <g:description>Miel blanca de Mardisia en galón de 10 kg a precio de mayorista. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-blanca-de-mardisia-en-gal-n-de-10-kg-a-precio-de-mayorista/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1374413185</g:id>
+      <g:title>Miel de Sidr de montaña 10 kg, garrafa a precio de mayorista</g:title>
+      <g:description>Miel de Sidr de montaña 10 kg, garrafa a precio de mayorista. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-10-kg-garrafa-a-precio-de-mayorista/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1228632179</g:id>
       <g:title>Miel blanca de Mardisia 1 kg</g:title>
@@ -99,12 +111,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-7-kg-en-garrafa-a-precio-de-mayorista/p1571578210?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>2136887666</g:id>
-      <g:title>Miel blanca de Mardisia en galón de 10 kg a precio de mayorista</g:title>
-      <g:description>Miel blanca de Mardisia en galón de 10 kg a precio de mayorista. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-blanca-de-mardisia-en-gal-n-de-10-kg-a-precio-de-mayorista/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>2140503485</g:id>
       <g:title>Miel en panal de Sidr real 5 kg</g:title>
       <g:description>Miel en panal de Sidr real 5 kg. 5.5 kg.</g:description>
@@ -127,12 +133,6 @@
       <g:title>Miel de Sidr real Usaimi yemení 5.5 kg, garrafa a precio de mayorista</g:title>
       <g:description>Miel de Sidr real Usaimi yemení 5.5 kg, garrafa a precio de mayorista. 6.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-usaimi-yemen-5-5-kg-garrafa-a-precio-de-mayorista/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1374413185</g:id>
-      <g:title>Miel de Sidr de montaña 10 kg, garrafa a precio de mayorista</g:title>
-      <g:description>Miel de Sidr de montaña 10 kg, garrafa a precio de mayorista. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-10-kg-garrafa-a-precio-de-mayorista/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>317150900</g:id>

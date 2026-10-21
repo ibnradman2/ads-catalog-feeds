@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 07:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2136887666</g:id>
+      <g:title>व्हाइट मजरा शहद (मरदीसिया) 10 किलो गैलन, थोक भाव</g:title>
+      <g:description>व्हाइट मजरा शहद (मरदीसिया) 10 किलो गैलन, थोक भाव. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/10/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1374413185</g:id>
+      <g:title>पहाड़ी सिद्र शहद 10 किलो गैलन, थोक दाम पर</g:title>
+      <g:description>पहाड़ी सिद्र शहद 10 किलो गैलन, थोक दाम पर. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1228632179</g:id>
       <g:title>व्हाइट मजरा शहद (मरदीसिया) 1 किलो</g:title>
@@ -99,12 +111,6 @@
       <g:link>https://asalaljebal.sa/hi/7/p1571578210?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>2136887666</g:id>
-      <g:title>व्हाइट मजरा शहद (मरदीसिया) 10 किलो गैलन, थोक भाव</g:title>
-      <g:description>व्हाइट मजरा शहद (मरदीसिया) 10 किलो गैलन, थोक भाव. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/10/p2136887666?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>2140503485</g:id>
       <g:title>रॉयल सिद्र मोम-छत्ता शहद 5 किलो</g:title>
       <g:description>रॉयल सिद्र मोम-छत्ता शहद 5 किलो. 5.5 kg.</g:description>
@@ -127,12 +133,6 @@
       <g:title>रॉयल उसैमी सिद्र शहद 5.5 किलो गैलन, थोक दाम पर</g:title>
       <g:description>रॉयल उसैमी सिद्र शहद 5.5 किलो गैलन, थोक दाम पर. 6.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/5-5/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1374413185</g:id>
-      <g:title>पहाड़ी सिद्र शहद 10 किलो गैलन, थोक दाम पर</g:title>
-      <g:description>पहाड़ी सिद्र शहद 10 किलो गैलन, थोक दाम पर. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>317150900</g:id>
