@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:23:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1666723060</g:id>
+      <g:title>2 Lalagyan ng Honey na may Nuts (500g) + 1 Lalagyan (500g) Libre</g:title>
+      <g:description>2 Lalagyan ng Honey na may Nuts (500g) + 1 Lalagyan (500g) Libre. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/2-lalagyan-ng-honey-na-may-nuts-500g-1-lalagyan-500g-libre/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>521440913</g:id>
+      <g:title>Mga Gift Box - Dalawang Pakete ng Premium na Super Negin Saffron + Regalong Grater</g:title>
+      <g:description>Mga Gift Box - Dalawang Pakete ng Premium na Super Negin Saffron + Regalong Grater. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/tl/mga-gift-box-dalawang-pakete-ng-premium-na-super-negin-saffron-regalong-grater/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>115531510</g:id>
+      <g:title>Isang Kilo ng Honeycomb ng Katutubong Ligaw na Bulaklak</g:title>
+      <g:description>Isang Kilo ng Honeycomb ng Katutubong Ligaw na Bulaklak. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/isang-kilo-ng-honeycomb-ng-katutubong-ligaw-na-bulaklak/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>323557872</g:id>
       <g:title>Shawka Honey na may Pukyutan 500 gramo</g:title>
@@ -229,24 +247,6 @@
       <g:title>Ekonomikong Set (Cardamom + Saffron + Pulot + Pampalasa + Pampalasa sa Sabaw)</g:title>
       <g:description>Ekonomikong Set (Cardamom + Saffron + Pulot + Pampalasa + Pampalasa sa Sabaw). 3.0 kg.</g:description>
       <g:link>https://hayala.co/tl/ekonomikong-set-cardamom-saffron-pulot-pampalasa-pampalasa-sa-sabaw/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1666723060</g:id>
-      <g:title>2 Lalagyan ng Honey na may Nuts (500g) + 1 Lalagyan (500g) Libre</g:title>
-      <g:description>2 Lalagyan ng Honey na may Nuts (500g) + 1 Lalagyan (500g) Libre. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/2-lalagyan-ng-honey-na-may-nuts-500g-1-lalagyan-500g-libre/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>521440913</g:id>
-      <g:title>Mga Gift Box - Dalawang Pakete ng Premium na Super Negin Saffron + Regalong Grater</g:title>
-      <g:description>Mga Gift Box - Dalawang Pakete ng Premium na Super Negin Saffron + Regalong Grater. 0.01 kg.</g:description>
-      <g:link>https://hayala.co/tl/mga-gift-box-dalawang-pakete-ng-premium-na-super-negin-saffron-regalong-grater/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>115531510</g:id>
-      <g:title>Isang Kilo ng Honeycomb ng Katutubong Ligaw na Bulaklak</g:title>
-      <g:description>Isang Kilo ng Honeycomb ng Katutubong Ligaw na Bulaklak. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/isang-kilo-ng-honeycomb-ng-katutubong-ligaw-na-bulaklak/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1303028575</g:id>

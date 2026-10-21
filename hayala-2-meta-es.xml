@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:23:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1666723060</g:id>
+      <g:title>Dos envases de miel con frutos secos (500 g) + un envase (500 g) de regalo</g:title>
+      <g:description>Dos envases de miel con frutos secos (500 g) + un envase (500 g) de regalo. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/es/dos-envases-de-miel-con-frutos-secos-500-g-un-envase-500-g-de-regalo/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>521440913</g:id>
+      <g:title>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo</g:title>
+      <g:description>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/es/cajas-de-regalo-dos-envases-de-azafr-n-s-per-negin-de-lujo-rallador-de-regalo/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>115531510</g:id>
+      <g:title>Kilo de miel en panal de flores silvestres baladi</g:title>
+      <g:description>Kilo de miel en panal de flores silvestres baladi. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/kilo-de-miel-en-panal-de-flores-silvestres-baladi/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>323557872</g:id>
       <g:title>Miel de shawka en panal 500 g</g:title>
@@ -217,24 +235,6 @@
       <g:title>Surtido económico (cardamomo + azafrán + miel + especias + especias para sopa)</g:title>
       <g:description>Surtido económico (cardamomo + azafrán + miel + especias + especias para sopa). 3.0 kg.</g:description>
       <g:link>https://hayala.co/es/surtido-econ-mico-cardamomo-azafr-n-miel-especias-especias-para-sopa/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1666723060</g:id>
-      <g:title>Dos envases de miel con frutos secos (500 g) + un envase (500 g) de regalo</g:title>
-      <g:description>Dos envases de miel con frutos secos (500 g) + un envase (500 g) de regalo. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/es/dos-envases-de-miel-con-frutos-secos-500-g-un-envase-500-g-de-regalo/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>521440913</g:id>
-      <g:title>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo</g:title>
-      <g:description>Cajas de regalo - Dos envases de azafrán súper negin de lujo + rallador de regalo. 0.01 kg.</g:description>
-      <g:link>https://hayala.co/es/cajas-de-regalo-dos-envases-de-azafr-n-s-per-negin-de-lujo-rallador-de-regalo/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>115531510</g:id>
-      <g:title>Kilo de miel en panal de flores silvestres baladi</g:title>
-      <g:description>Kilo de miel en panal de flores silvestres baladi. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/kilo-de-miel-en-panal-de-flores-silvestres-baladi/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1303028575</g:id>

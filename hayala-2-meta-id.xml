@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:23:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1666723060</g:id>
+      <g:title>2 Kemasan Madu Kacang-kacangan (500 gram) + 1 Kemasan (500 gram) Hadiah</g:title>
+      <g:description>2 Kemasan Madu Kacang-kacangan (500 gram) + 1 Kemasan (500 gram) Hadiah. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/2-kemasan-madu-kacang-kacangan-500-gram-1-kemasan-500-gram-hadiah/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>521440913</g:id>
+      <g:title>Boks Hadiah - Dua Kemasan Saffron Super Negin Premium + Parutan Hadiah</g:title>
+      <g:description>Boks Hadiah - Dua Kemasan Saffron Super Negin Premium + Parutan Hadiah. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/ind/boks-hadiah-dua-kemasan-saffron-super-negin-premium-parutan-hadiah/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>115531510</g:id>
+      <g:title>1 Kg Madu Sarang Bunga Liar Lokal</g:title>
+      <g:description>1 Kg Madu Sarang Bunga Liar Lokal. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/1-kg-madu-sarang-bunga-liar-lokal/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>323557872</g:id>
       <g:title>Madu Sarang Syawkah 500 Gram</g:title>
@@ -211,24 +229,6 @@
       <g:title>Paket Ekonomis (Kapulaga + Saffron + Madu + Rempah + Rempah Sup)</g:title>
       <g:description>Paket Ekonomis (Kapulaga + Saffron + Madu + Rempah + Rempah Sup). 3.0 kg.</g:description>
       <g:link>https://hayala.co/ind/paket-ekonomis-kapulaga-saffron-madu-rempah-rempah-sup/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1666723060</g:id>
-      <g:title>2 Kemasan Madu Kacang-kacangan (500 gram) + 1 Kemasan (500 gram) Hadiah</g:title>
-      <g:description>2 Kemasan Madu Kacang-kacangan (500 gram) + 1 Kemasan (500 gram) Hadiah. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/2-kemasan-madu-kacang-kacangan-500-gram-1-kemasan-500-gram-hadiah/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>521440913</g:id>
-      <g:title>Boks Hadiah - Dua Kemasan Saffron Super Negin Premium + Parutan Hadiah</g:title>
-      <g:description>Boks Hadiah - Dua Kemasan Saffron Super Negin Premium + Parutan Hadiah. 0.01 kg.</g:description>
-      <g:link>https://hayala.co/ind/boks-hadiah-dua-kemasan-saffron-super-negin-premium-parutan-hadiah/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>115531510</g:id>
-      <g:title>1 Kg Madu Sarang Bunga Liar Lokal</g:title>
-      <g:description>1 Kg Madu Sarang Bunga Liar Lokal. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/1-kg-madu-sarang-bunga-liar-lokal/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1303028575</g:id>

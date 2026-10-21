@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:23:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1327702593</g:id>
+      <g:title>Miel de Samar premium 5 kg, garrafa al por mayor</g:title>
+      <g:description>Miel de Samar premium 5 kg, garrafa al por mayor. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-5-kg-garrafa-al-por-mayor/p1327702593?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1445425444</g:id>
+      <g:title>Miel de Sidr de Hadramaut, Do'an, garrafa de 5 kg</g:title>
+      <g:description>Miel de Sidr de Hadramaut, Do'an, garrafa de 5 kg. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-hadramaut-do-an-garrafa-de-5-kg/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>405294933</g:id>
+      <g:title>Panal de miel de sidr de montaña, 500 g</g:title>
+      <g:description>Panal de miel de sidr de montaña, 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/panal-de-miel-de-sidr-de-monta-a-500-g/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1531426089</g:id>
+      <g:title>Miel de Manuka de Nueva Zelanda Honey Bros Premium UMF+5, MGO 100+, 250 g</g:title>
+      <g:description>Miel de Manuka de Nueva Zelanda Honey Bros Premium UMF+5, MGO 100+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-manuka-de-nueva-zelanda-honey-bros-premium-umf-5-mgo-100-250-g/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>304404767</g:id>
+      <g:title>Miel en panal de talh de Hail, 500 g (medio kilo)</g:title>
+      <g:description>Miel en panal de talh de Hail, 500 g (medio kilo). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-en-panal-de-talh-de-hail-500-g-medio-kilo/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>797605987</g:id>
       <g:title>Miel de talh premium 5 kg en garrafa a precio de mayorista</g:title>
@@ -741,18 +771,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-an-s-garraf-n-de-10-kg-a-precio-de-mayorista/p1853234062?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1327702593</g:id>
-      <g:title>Miel de Samar premium 5 kg, garrafa al por mayor</g:title>
-      <g:description>Miel de Samar premium 5 kg, garrafa al por mayor. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-5-kg-garrafa-al-por-mayor/p1327702593?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1445425444</g:id>
-      <g:title>Miel de Sidr de Hadramaut, Do'an, garrafa de 5 kg</g:title>
-      <g:description>Miel de Sidr de Hadramaut, Do'an, garrafa de 5 kg. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-hadramaut-do-an-garrafa-de-5-kg/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>838476640</g:id>
       <g:title>Pasas rojas de Yemen 500 g</g:title>
       <g:description>Pasas rojas de Yemen 500 g. 1.0 kg.</g:description>
@@ -1171,24 +1189,6 @@
       <g:title>Oferta: miel de Sidr Peshawari pakistaní de 10 kg en dos garrafones con polen de abeja, semillas de comino negro y cuchara de madera para la miel (env</g:title>
       <g:description>Oferta: miel de Sidr Peshawari pakistaní de 10 kg en dos garrafones con polen de abeja, semillas de comino negro y cuchara de madera para la miel (envío gratis). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/oferta-miel-de-sidr-peshawari-pakistan-de-10-kg-en-dos-garrafones-con-polen-de-a/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>304404767</g:id>
-      <g:title>Miel en panal de talh de Hail, 500 g (medio kilo)</g:title>
-      <g:description>Miel en panal de talh de Hail, 500 g (medio kilo). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-en-panal-de-talh-de-hail-500-g-medio-kilo/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>405294933</g:id>
-      <g:title>Panal de miel de sidr de montaña, 500 g</g:title>
-      <g:description>Panal de miel de sidr de montaña, 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/panal-de-miel-de-sidr-de-monta-a-500-g/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1531426089</g:id>
-      <g:title>Miel de Manuka de Nueva Zelanda Honey Bros Premium UMF+5, MGO 100+, 250 g</g:title>
-      <g:description>Miel de Manuka de Nueva Zelanda Honey Bros Premium UMF+5, MGO 100+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-manuka-de-nueva-zelanda-honey-bros-premium-umf-5-mgo-100-250-g/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>804454963</g:id>

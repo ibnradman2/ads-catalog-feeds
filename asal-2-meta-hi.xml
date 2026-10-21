@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:23:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1327702593</g:id>
+      <g:title>प्रीमियम शौका (समर) शहद 5 किलो गैलन, थोक भाव में</g:title>
+      <g:description>प्रीमियम शौका (समर) शहद 5 किलो गैलन, थोक भाव में. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/5/p1327702593?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1445425444</g:id>
+      <g:title>हज़रमी दोअनी सिद्र शहद 5 किलो</g:title>
+      <g:description>हज़रमी दोअनी सिद्र शहद 5 किलो. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/5/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>405294933</g:id>
+      <g:title>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम</g:title>
+      <g:description>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1531426089</g:id>
+      <g:title>न्यूज़ीलैंड मनुका शहद Honey Bros Premium Manuka Honey UMF+5, MGO 100+, 250 ग्राम</g:title>
+      <g:description>न्यूज़ीलैंड मनुका शहद Honey Bros Premium Manuka Honey UMF+5, MGO 100+, 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/honey-bros-premium-manuka-honey-umf-5-mgo-100-250/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>304404767</g:id>
+      <g:title>हाइल का तल्ह शहद छत्ते सहित 500 ग्राम</g:title>
+      <g:description>हाइल का तल्ह शहद छत्ते सहित 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>797605987</g:id>
       <g:title>प्रीमियम तलह शहद 5 किलो गैलन थोक भाव पर</g:title>
@@ -741,18 +771,6 @@
       <g:link>https://asalaljebal.sa/hi/10/p1853234062?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1327702593</g:id>
-      <g:title>प्रीमियम शौका (समर) शहद 5 किलो गैलन, थोक भाव में</g:title>
-      <g:description>प्रीमियम शौका (समर) शहद 5 किलो गैलन, थोक भाव में. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/5/p1327702593?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1445425444</g:id>
-      <g:title>हज़रमी दोअनी सिद्र शहद 5 किलो</g:title>
-      <g:description>हज़रमी दोअनी सिद्र शहद 5 किलो. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/5/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>838476640</g:id>
       <g:title>यमनी लाल किशमिश 500 ग्राम</g:title>
       <g:description>यमनी लाल किशमिश 500 ग्राम. 1.0 kg.</g:description>
@@ -1177,24 +1195,6 @@
       <g:title>पाकिस्तानी पेशावरी सिद्र शहद ऑफ़र 10 किलो, दो गैलन, साथ में पराग कण, कलौंजी और लकड़ी का शहद चम्मच (मुफ़्त डिलीवरी)</g:title>
       <g:description>पाकिस्तानी पेशावरी सिद्र शहद ऑफ़र 10 किलो, दो गैलन, साथ में पराग कण, कलौंजी और लकड़ी का शहद चम्मच (मुफ़्त डिलीवरी). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/10/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>304404767</g:id>
-      <g:title>हाइल का तल्ह शहद छत्ते सहित 500 ग्राम</g:title>
-      <g:description>हाइल का तल्ह शहद छत्ते सहित 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>405294933</g:id>
-      <g:title>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम</g:title>
-      <g:description>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1531426089</g:id>
-      <g:title>न्यूज़ीलैंड मनुका शहद Honey Bros Premium Manuka Honey UMF+5, MGO 100+, 250 ग्राम</g:title>
-      <g:description>न्यूज़ीलैंड मनुका शहद Honey Bros Premium Manuka Honey UMF+5, MGO 100+, 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/honey-bros-premium-manuka-honey-umf-5-mgo-100-250/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>804454963</g:id>

@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:23:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1666723060</g:id>
+      <g:title>شہد والے میوہ جات کے دو ڈبے (500 گرام) + ایک تحفے کا ڈبہ (500 گرام)</g:title>
+      <g:description>شہد والے میوہ جات کے دو ڈبے (500 گرام) + ایک تحفے کا ڈبہ (500 گرام). 2.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>521440913</g:id>
+      <g:title>گفٹ باکس: سپر نقیل زعفران کے دو ڈبے + تحفے میں سنہری کھرل</g:title>
+      <g:description>گفٹ باکس: سپر نقیل زعفران کے دو ڈبے + تحفے میں سنہری کھرل. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/ur/product/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>115531510</g:id>
+      <g:title>موم والا شہد 1 کلو، مقامی جنگلی پھولوں کا</g:title>
+      <g:description>موم والا شہد 1 کلو، مقامی جنگلی پھولوں کا. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>323557872</g:id>
       <g:title>شوکہ شہد چھتے کے ساتھ 500 گرام</g:title>
@@ -223,24 +241,6 @@
       <g:title>کفایتی مجموعہ (الائچی + زعفران + شہد + مصالحے + سوپ کے مصالحے)</g:title>
       <g:description>کفایتی مجموعہ (الائچی + زعفران + شہد + مصالحے + سوپ کے مصالحے). 3.0 kg.</g:description>
       <g:link>https://hayala.co/ur/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1666723060</g:id>
-      <g:title>شہد والے میوہ جات کے دو ڈبے (500 گرام) + ایک تحفے کا ڈبہ (500 گرام)</g:title>
-      <g:description>شہد والے میوہ جات کے دو ڈبے (500 گرام) + ایک تحفے کا ڈبہ (500 گرام). 2.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>521440913</g:id>
-      <g:title>گفٹ باکس: سپر نقیل زعفران کے دو ڈبے + تحفے میں سنہری کھرل</g:title>
-      <g:description>گفٹ باکس: سپر نقیل زعفران کے دو ڈبے + تحفے میں سنہری کھرل. 0.01 kg.</g:description>
-      <g:link>https://hayala.co/ur/product/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>115531510</g:id>
-      <g:title>موم والا شہد 1 کلو، مقامی جنگلی پھولوں کا</g:title>
-      <g:description>موم والا شہد 1 کلو، مقامی جنگلی پھولوں کا. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1303028575</g:id>

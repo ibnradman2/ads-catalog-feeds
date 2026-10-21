@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:23:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1666723060</g:id>
+      <g:title>मेवों वाला शहद – 2 जार (500 ग्राम) + 1 जार (500 ग्राम) उपहार</g:title>
+      <g:description>मेवों वाला शहद – 2 जार (500 ग्राम) + 1 जार (500 ग्राम) उपहार. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/2-500-1-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>521440913</g:id>
+      <g:title>गिफ़्ट बॉक्स - प्रीमियम सुपर नक़ील केसर के दो पैक + उपहार में घिसनी</g:title>
+      <g:description>गिफ़्ट बॉक्स - प्रीमियम सुपर नक़ील केसर के दो पैक + उपहार में घिसनी. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/hi/product/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>115531510</g:id>
+      <g:title>देसी जंगली फूलों का मोम वाला शहद 1 किलो</g:title>
+      <g:description>देसी जंगली फूलों का मोम वाला शहद 1 किलो. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>323557872</g:id>
       <g:title>शौका शहद छत्ते सहित 500 ग्राम</g:title>
@@ -229,24 +247,6 @@
       <g:title>किफ़ायती कलेक्शन (इलायची + केसर + शहद + मसाले + सूप मसाले)</g:title>
       <g:description>किफ़ायती कलेक्शन (इलायची + केसर + शहद + मसाले + सूप मसाले). 3.0 kg.</g:description>
       <g:link>https://hayala.co/hi/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1666723060</g:id>
-      <g:title>मेवों वाला शहद – 2 जार (500 ग्राम) + 1 जार (500 ग्राम) उपहार</g:title>
-      <g:description>मेवों वाला शहद – 2 जार (500 ग्राम) + 1 जार (500 ग्राम) उपहार. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/2-500-1-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>521440913</g:id>
-      <g:title>गिफ़्ट बॉक्स - प्रीमियम सुपर नक़ील केसर के दो पैक + उपहार में घिसनी</g:title>
-      <g:description>गिफ़्ट बॉक्स - प्रीमियम सुपर नक़ील केसर के दो पैक + उपहार में घिसनी. 0.01 kg.</g:description>
-      <g:link>https://hayala.co/hi/product/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>115531510</g:id>
-      <g:title>देसी जंगली फूलों का मोम वाला शहद 1 किलो</g:title>
-      <g:description>देसी जंगली फूलों का मोम वाला शहद 1 किलो. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1303028575</g:id>
