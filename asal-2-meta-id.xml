@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 09:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:06:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2107453315</g:id>
+      <g:title>5 Kg Madu Sidr Gunung Asli Diskon 20% + Gratis Ongkir</g:title>
+      <g:description>5 Kg Madu Sidr Gunung Asli Diskon 20% + Gratis Ongkir. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/5-kg-madu-sidr-gunung-asli-diskon-20-gratis-ongkir/p2107453315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>2136887666</g:id>
       <g:title>Madu Putih Mujra (Mardisia) Galon 10 Kg Harga Grosir</g:title>
@@ -721,12 +727,6 @@
       <g:title>Madu Duri Samra Premium Galon 7 Kg Harga Grosir</g:title>
       <g:description>Madu Duri Samra Premium Galon 7 Kg Harga Grosir. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-duri-samra-premium-galon-7-kg-harga-grosir/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2107453315</g:id>
-      <g:title>5 Kg Madu Sidr Gunung Asli Diskon 20% + Gratis Ongkir</g:title>
-      <g:description>5 Kg Madu Sidr Gunung Asli Diskon 20% + Gratis Ongkir. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/5-kg-madu-sidr-gunung-asli-diskon-20-gratis-ongkir/p2107453315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>838476640</g:id>

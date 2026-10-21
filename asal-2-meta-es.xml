@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 09:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:06:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2107453315</g:id>
+      <g:title>Miel de Sidr de montaña tradicional, 5 kg, con 20 por ciento de descuento + envío gratis</g:title>
+      <g:description>Miel de Sidr de montaña tradicional, 5 kg, con 20 por ciento de descuento + envío gratis. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-tradicional-5-kg-con-20-por-ciento-de-descuento-env-o-gr/p2107453315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>2136887666</g:id>
       <g:title>Miel blanca de Mardisia en galón de 10 kg a precio de mayorista</g:title>
@@ -727,12 +733,6 @@
       <g:title>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista</g:title>
       <g:description>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-samar-espinosa-premium-en-gal-n-de-7-kg-a-precio-de-mayorista/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2107453315</g:id>
-      <g:title>Miel de Sidr de montaña tradicional, 5 kg, con 20 por ciento de descuento + envío gratis</g:title>
-      <g:description>Miel de Sidr de montaña tradicional, 5 kg, con 20 por ciento de descuento + envío gratis. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-tradicional-5-kg-con-20-por-ciento-de-descuento-env-o-gr/p2107453315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>838476640</g:id>
