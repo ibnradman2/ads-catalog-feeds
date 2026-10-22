@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:20:29 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2030973022</g:id>
+      <g:title>Paket Madu Syauka Samar - Madu Hutan Hitam - Madu Habbatussauda (Gratis Ongkir)</g:title>
+      <g:description>Paket Madu Syauka Samar - Madu Hutan Hitam - Madu Habbatussauda (Gratis Ongkir). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-madu-syauka-samar-madu-hutan-hitam-madu-habbatussauda-gratis-ongkir/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1060367261</g:id>
+      <g:title>Kurma Ajwa Aliyah Madinah Premium 3 Kilo (Gratis Ongkir)</g:title>
+      <g:description>Kurma Ajwa Aliyah Madinah Premium 3 Kilo (Gratis Ongkir). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/kurma-ajwa-aliyah-madinah-premium-3-kilo-gratis-ongkir/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>327789971</g:id>
+      <g:title>Kurma Ajwa Aliyah Madinah Premium 2 Kilo</g:title>
+      <g:description>Kurma Ajwa Aliyah Madinah Premium 2 Kilo. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/kurma-ajwa-aliyah-madinah-premium-2-kilo/p327789971?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir)</g:title>
+      <g:description>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-madu-bunga-liar-madu-sidr-pegunungan-madu-syauka-samar-gratis-ongkir/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>419971394</g:id>
       <g:title>Madu Syauk Samra Premium 2 Kg</g:title>
@@ -1465,30 +1489,6 @@
       <g:title>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir)</g:title>
       <g:description>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/paket-spesial-4-kemasan-sidr-kashmir-3-kemasan-madu-habbatussauda-jintan-hitam-s/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1060367261</g:id>
-      <g:title>Kurma Ajwa Aliyah Madinah Premium 3 Kilo (Gratis Ongkir)</g:title>
-      <g:description>Kurma Ajwa Aliyah Madinah Premium 3 Kilo (Gratis Ongkir). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/kurma-ajwa-aliyah-madinah-premium-3-kilo-gratis-ongkir/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>612621130</g:id>
-      <g:title>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir)</g:title>
-      <g:description>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-madu-bunga-liar-madu-sidr-pegunungan-madu-syauka-samar-gratis-ongkir/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2030973022</g:id>
-      <g:title>Paket Madu Syauka Samar - Madu Hutan Hitam - Madu Habbatussauda (Gratis Ongkir)</g:title>
-      <g:description>Paket Madu Syauka Samar - Madu Hutan Hitam - Madu Habbatussauda (Gratis Ongkir). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-madu-syauka-samar-madu-hutan-hitam-madu-habbatussauda-gratis-ongkir/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>327789971</g:id>
-      <g:title>Kurma Ajwa Aliyah Madinah Premium 2 Kilo</g:title>
-      <g:description>Kurma Ajwa Aliyah Madinah Premium 2 Kilo. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/kurma-ajwa-aliyah-madinah-premium-2-kilo/p327789971?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>345536874</g:id>

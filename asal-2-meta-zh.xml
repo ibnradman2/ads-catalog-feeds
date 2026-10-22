@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:20:29 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2030973022</g:id>
+      <g:title>蜂蜜套装：萨姆拉刺蜂蜜 + 黑森林蜂蜜 + 黑种草蜂蜜（免运费）</g:title>
+      <g:description>蜂蜜套装：萨姆拉刺蜂蜜 + 黑森林蜂蜜 + 黑种草蜂蜜（免运费）. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1060367261</g:id>
+      <g:title>麦地那高地阿杰瓦椰枣 优质3公斤（免运费）</g:title>
+      <g:description>麦地那高地阿杰瓦椰枣 优质3公斤（免运费）. 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/3/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>327789971</g:id>
+      <g:title>麦地那高地阿杰瓦椰枣 优质2公斤</g:title>
+      <g:description>麦地那高地阿杰瓦椰枣 优质2公斤. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p327789971?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）</g:title>
+      <g:description>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>419971394</g:id>
       <g:title>高级萨姆拉刺树蜂蜜 2公斤</g:title>
@@ -1471,30 +1495,6 @@
       <g:title>特惠套装：4罐克什米尔西德尔蜂蜜 + 3罐黑种草蜂蜜 + 木质蜂蜜勺（免运费）</g:title>
       <g:description>特惠套装：4罐克什米尔西德尔蜂蜜 + 3罐黑种草蜂蜜 + 木质蜂蜜勺（免运费）. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1060367261</g:id>
-      <g:title>麦地那高地阿杰瓦椰枣 优质3公斤（免运费）</g:title>
-      <g:description>麦地那高地阿杰瓦椰枣 优质3公斤（免运费）. 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/3/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>612621130</g:id>
-      <g:title>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）</g:title>
-      <g:description>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>2030973022</g:id>
-      <g:title>蜂蜜套装：萨姆拉刺蜂蜜 + 黑森林蜂蜜 + 黑种草蜂蜜（免运费）</g:title>
-      <g:description>蜂蜜套装：萨姆拉刺蜂蜜 + 黑森林蜂蜜 + 黑种草蜂蜜（免运费）. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>327789971</g:id>
-      <g:title>麦地那高地阿杰瓦椰枣 优质2公斤</g:title>
-      <g:description>麦地那高地阿杰瓦椰枣 优质2公斤. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/2/p327789971?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>345536874</g:id>

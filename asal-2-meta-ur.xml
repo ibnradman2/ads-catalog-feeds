@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:20:29 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2030973022</g:id>
+      <g:title>پیشکش: شوکہ شہد (سمرہ) - بلیک فاریسٹ شہد - کلونجی کا شہد (مفت ڈیلیوری)</g:title>
+      <g:description>پیشکش: شوکہ شہد (سمرہ) - بلیک فاریسٹ شہد - کلونجی کا شہد (مفت ڈیلیوری). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1060367261</g:id>
+      <g:title>عجوہ کھجور عالیہ مدینہ فاخر (3) کلو (مفت ڈیلیوری)</g:title>
+      <g:description>عجوہ کھجور عالیہ مدینہ فاخر (3) کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/3/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>پیشکش: جنگلی پھولوں کا شہد - پہاڑی سدر شہد - شوکہ شہد (سمرہ) (مفت ڈیلیوری)</g:title>
+      <g:description>پیشکش: جنگلی پھولوں کا شہد - پہاڑی سدر شہد - شوکہ شہد (سمرہ) (مفت ڈیلیوری). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>419971394</g:id>
       <g:title>فاخر سمرہ کانٹے کا شہد 2 کلو</g:title>
@@ -1099,24 +1117,6 @@
       <g:title>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری)</g:title>
       <g:description>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1060367261</g:id>
-      <g:title>عجوہ کھجور عالیہ مدینہ فاخر (3) کلو (مفت ڈیلیوری)</g:title>
-      <g:description>عجوہ کھجور عالیہ مدینہ فاخر (3) کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/3/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>612621130</g:id>
-      <g:title>پیشکش: جنگلی پھولوں کا شہد - پہاڑی سدر شہد - شوکہ شہد (سمرہ) (مفت ڈیلیوری)</g:title>
-      <g:description>پیشکش: جنگلی پھولوں کا شہد - پہاڑی سدر شہد - شوکہ شہد (سمرہ) (مفت ڈیلیوری). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2030973022</g:id>
-      <g:title>پیشکش: شوکہ شہد (سمرہ) - بلیک فاریسٹ شہد - کلونجی کا شہد (مفت ڈیلیوری)</g:title>
-      <g:description>پیشکش: شوکہ شہد (سمرہ) - بلیک فاریسٹ شہد - کلونجی کا شہد (مفت ڈیلیوری). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>345536874</g:id>
