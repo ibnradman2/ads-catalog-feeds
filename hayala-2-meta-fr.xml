@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 03:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:49:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1833333665</g:id>
+      <g:title>Figues sèches 1 kg</g:title>
+      <g:description>Figues sèches 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/figues-s-ches-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>988412748</g:id>
+      <g:title>Graines de psyllium (Qatouna) - 1 kg</g:title>
+      <g:description>Graines de psyllium (Qatouna) - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/graines-de-psyllium-qatouna-1-kg/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1635363747</g:id>
       <g:title>Pignons de pin pakistanais - 250 g</g:title>
@@ -453,12 +465,6 @@
       <g:link>https://hayala.co/fr/oignons-frits-kashna-de-premier-choix-500-g/p692080584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>988412748</g:id>
-      <g:title>Graines de psyllium (Qatouna) - 1 kg</g:title>
-      <g:description>Graines de psyllium (Qatouna) - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/graines-de-psyllium-qatouna-1-kg/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>816858337</g:id>
       <g:title>Curry Moulu 500 g</g:title>
       <g:description>Curry Moulu 500 g. 1.0 kg.</g:description>
@@ -667,12 +673,6 @@
       <g:title>Mélange d'épices moulues 500 g</g:title>
       <g:description>Mélange d'épices moulues 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/m-lange-d-pices-moulues-500-g/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1833333665</g:id>
-      <g:title>Figues sèches 1 kg</g:title>
-      <g:description>Figues sèches 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/figues-s-ches-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>863172740</g:id>

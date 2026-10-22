@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 03:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:11:28 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1125352869</g:id>
+      <g:title>Miel de flor de trébol 2 kg</g:title>
+      <g:description>Miel de flor de trébol 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>985280850</g:id>
+      <g:title>Miel de flores silvestres del sur o de Hadramaut 250 g</g:title>
+      <g:description>Miel de flores silvestres del sur o de Hadramaut 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-250-g/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>516049282</g:id>
+      <g:title>Miel de castaño Abu Farwa (castaño) 2 kg (envío gratis)</g:title>
+      <g:description>Miel de castaño Abu Farwa (castaño) 2 kg (envío gratis). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-2-kg-env-o-gratis/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>464019410</g:id>
       <g:title>Miel de Manuka Auténtica de Nueva Zelanda UMF 20+ MGO 850+ – 3 Frascos × 250 g</g:title>
@@ -1335,12 +1353,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-salam-balad-en-panal-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>516049282</g:id>
-      <g:title>Miel de castaño Abu Farwa (castaño) 2 kg (envío gratis)</g:title>
-      <g:description>Miel de castaño Abu Farwa (castaño) 2 kg (envío gratis). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-2-kg-env-o-gratis/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1245825048</g:id>
       <g:title>Polen de abeja de China – 3 envases × 500 g</g:title>
       <g:description>Polen de abeja de China – 3 envases × 500 g. 2.0 kg.</g:description>
@@ -1387,18 +1399,6 @@
       <g:title>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis</g:title>
       <g:description>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/5-kg-de-miel-de-sidr-de-peshawar-con-polen-y-semillas-de-comino-negro-con-quince/p1938149777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>985280850</g:id>
-      <g:title>Miel de flores silvestres del sur o de Hadramaut 250 g</g:title>
-      <g:description>Miel de flores silvestres del sur o de Hadramaut 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-250-g/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1125352869</g:id>
-      <g:title>Miel de flor de trébol 2 kg</g:title>
-      <g:description>Miel de flor de trébol 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-2-kg/p1125352869?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1516032688</g:id>

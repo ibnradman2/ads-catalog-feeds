@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 03:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:49:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1833333665</g:id>
+      <g:title>Higos secos 1 kg</g:title>
+      <g:description>Higos secos 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/higos-secos-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>988412748</g:id>
+      <g:title>Semillas de katuna (psilio) - 1 kg</g:title>
+      <g:description>Semillas de katuna (psilio) - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-1-kg/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1635363747</g:id>
       <g:title>Piñones de Pakistán - 250 g</g:title>
@@ -459,12 +471,6 @@
       <g:link>https://hayala.co/es/cebolla-frita-kashna-de-primera-calidad-500-g/p692080584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>988412748</g:id>
-      <g:title>Semillas de katuna (psilio) - 1 kg</g:title>
-      <g:description>Semillas de katuna (psilio) - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-1-kg/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>816858337</g:id>
       <g:title>Curry molido 500 g</g:title>
       <g:description>Curry molido 500 g. 1.0 kg.</g:description>
@@ -673,12 +679,6 @@
       <g:title>Especias variadas molidas 500 g</g:title>
       <g:description>Especias variadas molidas 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/especias-variadas-molidas-500-g/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1833333665</g:id>
-      <g:title>Higos secos 1 kg</g:title>
-      <g:description>Higos secos 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/higos-secos-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>863172740</g:id>
