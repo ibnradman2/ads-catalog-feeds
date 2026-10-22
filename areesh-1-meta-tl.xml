@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 19:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 23:48:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1559827680</g:id>
+      <g:title>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala</g:title>
+      <g:description>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/5-kg-kashmiri-sidr-na-pulot-libreng-pagpapadala/p1559827680?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>381216167</g:id>
+      <g:title>5 kg Pulot ng Itim na Buto + Libreng Pagpapadala</g:title>
+      <g:description>5 kg Pulot ng Itim na Buto + Libreng Pagpapadala. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/5-kg-pulot-ng-itim-na-buto-libreng-pagpapadala/p381216167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1789520129</g:id>
       <g:title>Royal Sidr Honeycomb Pot mula sa Asir</g:title>
@@ -447,12 +459,6 @@
       <g:link>https://areesh.sa/tl/hadhrami-sidr-na-pulot-250-g/p1749454899?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>381216167</g:id>
-      <g:title>5 kg Pulot ng Itim na Buto + Libreng Pagpapadala</g:title>
-      <g:description>5 kg Pulot ng Itim na Buto + Libreng Pagpapadala. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/5-kg-pulot-ng-itim-na-buto-libreng-pagpapadala/p381216167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>769082882</g:id>
       <g:title>Pulot ng Itim na Kagubatan 250 g</g:title>
       <g:description>Pulot ng Itim na Kagubatan 250 g. 0.75 kg.</g:description>
@@ -571,12 +577,6 @@
       <g:title>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo</g:title>
       <g:description>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo. 0.9 kg.</g:description>
       <g:link>https://areesh.sa/tl/natural-na-pulot-pukyutan-na-may-suklay-mula-turkey-400-gramo/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1559827680</g:id>
-      <g:title>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala</g:title>
-      <g:description>5 kg Kashmiri Sidr na Pulot + Libreng Pagpapadala. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/5-kg-kashmiri-sidr-na-pulot-libreng-pagpapadala/p1559827680?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>581260348</g:id>
