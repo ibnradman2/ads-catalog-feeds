@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 21:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:24:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1092237227</g:id>
+      <g:title>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری)</g:title>
+      <g:description>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری). 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/10/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>821410085</g:id>
+      <g:title>10 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + 250 گرام بی پولن + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار)</g:title>
+      <g:description>10 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + 250 گرام بی پولن + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار). 10.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/10-37-250/p821410085?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>987199113</g:id>
       <g:title>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری)</g:title>
@@ -1089,22 +1101,10 @@
       <g:link>https://asalaljebal.sa/ur/500/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1092237227</g:id>
-      <g:title>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری)</g:title>
-      <g:description>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری). 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/10/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>260814103</g:id>
       <g:title>1 کلو شوکہ شہد (سمرہ) + 1 کلو (مفت ڈیلیوری)</g:title>
       <g:description>1 کلو شوکہ شہد (سمرہ) + 1 کلو (مفت ڈیلیوری). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/1-1/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>821410085</g:id>
-      <g:title>10 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + 250 گرام بی پولن + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار)</g:title>
-      <g:description>10 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + 250 گرام بی پولن + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار). 10.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/10-37-250/p821410085?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1592997301</g:id>

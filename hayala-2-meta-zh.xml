@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 21:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:24:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>572967102</g:id>
+      <g:title>沙兹利亚咖啡500克</g:title>
+      <g:description>沙兹利亚咖啡500克. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1381474212</g:id>
       <g:title>也门黑葡萄干 - 1公斤</g:title>
@@ -835,12 +841,6 @@
       <g:title>天然姜柠檬姜黄蜂蜜饮品 470克</g:title>
       <g:description>天然姜柠檬姜黄蜂蜜饮品 470克. 0.97 kg.</g:description>
       <g:link>https://hayala.co/zh/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>572967102</g:id>
-      <g:title>沙兹利亚咖啡500克</g:title>
-      <g:description>沙兹利亚咖啡500克. 0.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1091901970</g:id>

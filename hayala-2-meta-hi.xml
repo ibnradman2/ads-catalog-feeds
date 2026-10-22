@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 21:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:24:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>572967102</g:id>
+      <g:title>शाज़लिया कॉफ़ी</g:title>
+      <g:description>शाज़लिया कॉफ़ी. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/product/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1381474212</g:id>
       <g:title>यमनी काली किशमिश - 1 किलो</g:title>
@@ -865,12 +871,6 @@
       <g:title>नख़वा (नानख़ा) 250 ग्राम</g:title>
       <g:description>नख़वा (नानख़ा) 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://hayala.co/hi/250/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>572967102</g:id>
-      <g:title>शाज़लिया कॉफ़ी</g:title>
-      <g:description>शाज़लिया कॉफ़ी. 0.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/product/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1091901970</g:id>

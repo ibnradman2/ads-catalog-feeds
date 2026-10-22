@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 20:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:24:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>581260348</g:id>
+      <g:title>Lüks Kutu (2 Kavanoz Doğal Sidr Balı)</g:title>
+      <g:description>Lüks Kutu (2 Kavanoz Doğal Sidr Balı). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/l-ks-kutu-2-kavanoz-do-al-sidr-bal/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1425604290</g:id>
+      <g:title>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı</g:title>
+      <g:description>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/2-kilo-do-al-sidr-bal-2-kilo-do-al-i-ek-bal/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1115299087</g:id>
       <g:title>Ilgın (Sal) Balı 500 g</g:title>
@@ -309,12 +321,6 @@
       <g:link>https://areesh.sa/tr/areesh-kraliyet-kar-m-500-g-kavanoz/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1425604290</g:id>
-      <g:title>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı</g:title>
-      <g:description>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/2-kilo-do-al-sidr-bal-2-kilo-do-al-i-ek-bal/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1206195242</g:id>
       <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
       <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 5+, MGO 100+, 250 g. 0.75 kg.</g:description>
@@ -583,12 +589,6 @@
       <g:title>Doğal Petek Balı 400 gram</g:title>
       <g:description>Doğal Petek Balı 400 gram. 0.9 kg.</g:description>
       <g:link>https://areesh.sa/tr/do-al-petek-bal-400-gram/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>581260348</g:id>
-      <g:title>Lüks Kutu (2 Kavanoz Doğal Sidr Balı)</g:title>
-      <g:description>Lüks Kutu (2 Kavanoz Doğal Sidr Balı). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/l-ks-kutu-2-kavanoz-do-al-sidr-bal/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>26663992</g:id>

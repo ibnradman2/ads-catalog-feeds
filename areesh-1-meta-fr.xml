@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 20:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:24:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>581260348</g:id>
+      <g:title>Coffret Prestige (deux pots de miel de sidr naturel)</g:title>
+      <g:description>Coffret Prestige (deux pots de miel de sidr naturel). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/coffret-prestige-deux-pots-de-miel-de-sidr-naturel/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1425604290</g:id>
+      <g:title>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg</g:title>
+      <g:description>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-naturel-2-kg-miel-de-fleurs-naturel-2-kg/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1115299087</g:id>
       <g:title>Miel d’Athel (Sal) 500 g</g:title>
@@ -304,15 +316,9 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>765679051</g:id>
-      <g:title>Miel de Sidr Areesh à la gelée royale et à la propolis, pot de 500 g</g:title>
-      <g:description>Miel de Sidr Areesh à la gelée royale et à la propolis, pot de 500 g. 1.0 kg.</g:description>
+      <g:title>Miel de Sidr Areesh à la gelée royale et à la propolis (pot de 500 g)</g:title>
+      <g:description>Miel de Sidr Areesh à la gelée royale et à la propolis (pot de 500 g). 1.0 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-de-sidr-areesh-la-gel-e-royale-et-la-propolis-pot-de-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1425604290</g:id>
-      <g:title>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg</g:title>
-      <g:description>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-naturel-2-kg-miel-de-fleurs-naturel-2-kg/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1206195242</g:id>
@@ -583,12 +589,6 @@
       <g:title>Miel en rayon naturel 400 grammes</g:title>
       <g:description>Miel en rayon naturel 400 grammes. 0.9 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-en-rayon-naturel-400-grammes/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>581260348</g:id>
-      <g:title>Coffret Prestige (deux pots de miel de sidr naturel)</g:title>
-      <g:description>Coffret Prestige (deux pots de miel de sidr naturel). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/coffret-prestige-deux-pots-de-miel-de-sidr-naturel/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>26663992</g:id>
