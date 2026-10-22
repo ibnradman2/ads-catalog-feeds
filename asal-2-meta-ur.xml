@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 05:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:15:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1279698288</g:id>
+      <g:title>آفر: شاہی عصیمی سدر شہد + جنوبی پہاڑی سدر + جنوبی شوکۃ سمر + ممتاز جنوبی طلح</g:title>
+      <g:description>آفر: شاہی عصیمی سدر شہد + جنوبی پہاڑی سدر + جنوبی شوکۃ سمر + ممتاز جنوبی طلح. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p1279698288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1333415564</g:id>
+      <g:title>2 کلو پہاڑی سدر شہد، 15% رعایت، مفت ڈیلیوری اور اقساط میں ادائیگی کی سہولت</g:title>
+      <g:description>2 کلو پہاڑی سدر شہد، 15% رعایت، مفت ڈیلیوری اور اقساط میں ادائیگی کی سہولت. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-15/p1333415564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1125352869</g:id>
       <g:title>برسیم کے پھولوں کا شہد 2 کلو</g:title>
@@ -891,12 +903,6 @@
       <g:link>https://asalaljebal.sa/ur/1/p1113268922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1333415564</g:id>
-      <g:title>2 کلو پہاڑی سدر شہد، 15% رعایت، مفت ڈیلیوری اور اقساط میں ادائیگی کی سہولت</g:title>
-      <g:description>2 کلو پہاڑی سدر شہد، 15% رعایت، مفت ڈیلیوری اور اقساط میں ادائیگی کی سہولت. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-15/p1333415564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>2062622663</g:id>
       <g:title>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد، 500 گرام کے 3 ڈبے</g:title>
       <g:description>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد، 500 گرام کے 3 ڈبے. 2.0 kg.</g:description>
@@ -961,12 +967,6 @@
       <g:title>1 کلو شوکہ شہد (سمرہ) + 1 کلو (مفت ڈیلیوری)</g:title>
       <g:description>1 کلو شوکہ شہد (سمرہ) + 1 کلو (مفت ڈیلیوری). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/1-1/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1279698288</g:id>
-      <g:title>آفر: شاہی عصیمی سدر شہد + جنوبی پہاڑی سدر + جنوبی شوکۃ سمر + ممتاز جنوبی طلح</g:title>
-      <g:description>آفر: شاہی عصیمی سدر شہد + جنوبی پہاڑی سدر + جنوبی شوکۃ سمر + ممتاز جنوبی طلح. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p1279698288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>243164549</g:id>

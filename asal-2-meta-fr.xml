@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 05:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:15:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1279698288</g:id>
+      <g:title>Offre de miel : Sidr royal Osaïmi + Sidr de montagne du Sud + Samra du Sud + Talh premium du Sud</g:title>
+      <g:description>Offre de miel : Sidr royal Osaïmi + Sidr de montagne du Sud + Samra du Sud + Talh premium du Sud. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-de-miel-sidr-royal-osa-mi-sidr-de-montagne-du-sud-samra-du-sud-talh-premiu/p1279698288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1262276205</g:id>
+      <g:title>Miel de Talh premium 2 kg</g:title>
+      <g:description>Miel de Talh premium 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1333415564</g:id>
+      <g:title>Miel de sidr de montagne 2 kg, remise de 15 pour cent + livraison gratuite</g:title>
+      <g:description>Miel de sidr de montagne 2 kg, remise de 15 pour cent + livraison gratuite. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-2-kg-remise-de-15-pour-cent-livraison-gratuite/p1333415564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1125352869</g:id>
       <g:title>Miel de trèfle 2 kg</g:title>
@@ -1179,12 +1197,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-en-rayon-1-kg/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1262276205</g:id>
-      <g:title>Miel de Talh premium 2 kg</g:title>
-      <g:description>Miel de Talh premium 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1113268922</g:id>
       <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg)</g:title>
       <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg). 1.5 kg.</g:description>
@@ -1195,12 +1207,6 @@
       <g:title>Miel de Talh premium 500 g</g:title>
       <g:description>Miel de Talh premium 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-500-g/p1994787951?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1333415564</g:id>
-      <g:title>Miel de sidr de montagne 2 kg, remise de 15 pour cent + livraison gratuite</g:title>
-      <g:description>Miel de sidr de montagne 2 kg, remise de 15 pour cent + livraison gratuite. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-2-kg-remise-de-15-pour-cent-livraison-gratuite/p1333415564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2062622663</g:id>
@@ -1297,12 +1303,6 @@
       <g:title>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g</g:title>
       <g:description>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/4-pots-de-miel-de-manuka-n-o-z-landais-umf-5-mgo-100-250-g/p646285546?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1279698288</g:id>
-      <g:title>Offre de miel : Sidr royal Osaïmi + Sidr de montagne du Sud + Samra du Sud + Talh premium du Sud</g:title>
-      <g:description>Offre de miel : Sidr royal Osaïmi + Sidr de montagne du Sud + Samra du Sud + Talh premium du Sud. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-de-miel-sidr-royal-osa-mi-sidr-de-montagne-du-sud-samra-du-sud-talh-premiu/p1279698288?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>243164549</g:id>
