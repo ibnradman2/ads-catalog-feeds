@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 02:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:05:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>464019410</g:id>
+      <g:title>Miel de Manuka Auténtica de Nueva Zelanda UMF 20+ MGO 850+ – 3 Frascos × 250 g</g:title>
+      <g:description>Miel de Manuka Auténtica de Nueva Zelanda UMF 20+ MGO 850+ – 3 Frascos × 250 g. 1.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-manuka-aut-ntica-de-nueva-zelanda-umf-20-mgo-850-3-frascos-250-g/p464019410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>340956813</g:id>
+      <g:title>Miel de castaño Abu Farwa (castaño) 5 kg garrafa precio mayorista (envío gratis)</g:title>
+      <g:description>Miel de castaño Abu Farwa (castaño) 5 kg garrafa precio mayorista (envío gratis). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-5-kg-garrafa-precio-mayorista-env-o-gratis/p340956813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>626002345</g:id>
       <g:title>Miel de comino negro 500 g (envío gratis)</g:title>
@@ -25,12 +37,6 @@
       <g:title>Miel de castaño Abu Farwa (castaño) 1 kg (envío gratis)</g:title>
       <g:description>Miel de castaño Abu Farwa (castaño) 1 kg (envío gratis). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-1-kg-env-o-gratis/p1506173115?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>340956813</g:id>
-      <g:title>Miel de castaño Abu Farwa (castaño) 5 kg garrafa precio mayorista (envío gratis)</g:title>
-      <g:description>Miel de castaño Abu Farwa (castaño) 5 kg garrafa precio mayorista (envío gratis). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-5-kg-garrafa-precio-mayorista-env-o-gratis/p340956813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>344412243</g:id>
@@ -781,12 +787,6 @@
       <g:title>Miel en panal de samar (espinosa) 1 kg</g:title>
       <g:description>Miel en panal de samar (espinosa) 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-en-panal-de-samar-espinosa-1-kg/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>464019410</g:id>
-      <g:title>Miel de Manuka Auténtica de Nueva Zelanda UMF 20+ MGO 850+ – 3 Frascos × 250 g</g:title>
-      <g:description>Miel de Manuka Auténtica de Nueva Zelanda UMF 20+ MGO 850+ – 3 Frascos × 250 g. 1.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-manuka-aut-ntica-de-nueva-zelanda-umf-20-mgo-850-3-frascos-250-g/p464019410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1407830458</g:id>
