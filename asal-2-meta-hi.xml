@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:02:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1292771214</g:id>
+      <g:title>प्राकृतिक सिद्र शहद के चम्मच - 100 पीस</g:title>
+      <g:description>प्राकृतिक सिद्र शहद के चम्मच - 100 पीस. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/100/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>375800244</g:id>
+      <g:title>अदरक और हल्दी वाला शहद पेय + कलौंजी शहद + कश्मीरी सिद्र शहद + फूलों के शहद का छत्ता + कलौंजी के बीज</g:title>
+      <g:description>अदरक और हल्दी वाला शहद पेय + कलौंजी शहद + कश्मीरी सिद्र शहद + फूलों के शहद का छत्ता + कलौंजी के बीज. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/product/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>516049282</g:id>
       <g:title>अबू फ़रवा (चेस्टनट) शहद 2 किलो (मुफ़्त डिलीवरी)</g:title>
@@ -1447,18 +1459,6 @@
       <g:title>खास ऑफ़र: 4 पैक कश्मीरी सिद्र शहद + 3 पैक कलौंजी (ब्लैक सीड) शहद + लकड़ी का शहद चम्मच (मुफ़्त डिलीवरी)</g:title>
       <g:description>खास ऑफ़र: 4 पैक कश्मीरी सिद्र शहद + 3 पैक कलौंजी (ब्लैक सीड) शहद + लकड़ी का शहद चम्मच (मुफ़्त डिलीवरी). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>375800244</g:id>
-      <g:title>अदरक और हल्दी वाला शहद पेय + कलौंजी शहद + कश्मीरी सिद्र शहद + फूलों के शहद का छत्ता + कलौंजी के बीज</g:title>
-      <g:description>अदरक और हल्दी वाला शहद पेय + कलौंजी शहद + कश्मीरी सिद्र शहद + फूलों के शहद का छत्ता + कलौंजी के बीज. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/product/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1292771214</g:id>
-      <g:title>प्राकृतिक सिद्र शहद के चम्मच - 100 पीस</g:title>
-      <g:description>प्राकृतिक सिद्र शहद के चम्मच - 100 पीस. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/100/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>953218840</g:id>

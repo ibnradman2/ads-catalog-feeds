@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:02:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1292771214</g:id>
+      <g:title>Cuillères de miel de sidr naturel - 100 pièces</g:title>
+      <g:description>Cuillères de miel de sidr naturel - 100 pièces. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/cuill-res-de-miel-de-sidr-naturel-100-pi-ces/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>375800244</g:id>
+      <g:title>Boisson au miel, gingembre et curcuma + miel de nigelle + miel de sidr du Cachemire + miel de fleurs en rayon + graines de nigelle</g:title>
+      <g:description>Boisson au miel, gingembre et curcuma + miel de nigelle + miel de sidr du Cachemire + miel de fleurs en rayon + graines de nigelle. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/boisson-au-miel-gingembre-et-curcuma-miel-de-nigelle-miel-de-sidr-du-cachemire-m/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>516049282</g:id>
       <g:title>Miel de châtaignier Abu Farwa 2 kg (livraison gratuite)</g:title>
@@ -1435,18 +1447,6 @@
       <g:title>L’offre spéciale : 4 pots de miel de sidr du Cachemire + 3 pots de miel de nigelle + cuillère à miel en bois (livraison gratuite)</g:title>
       <g:description>L’offre spéciale : 4 pots de miel de sidr du Cachemire + 3 pots de miel de nigelle + cuillère à miel en bois (livraison gratuite). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/l-offre-sp-ciale-4-pots-de-miel-de-sidr-du-cachemire-3-pots-de-miel-de-nigelle-c/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>375800244</g:id>
-      <g:title>Boisson au miel, gingembre et curcuma + miel de nigelle + miel de sidr du Cachemire + miel de fleurs en rayon + graines de nigelle</g:title>
-      <g:description>Boisson au miel, gingembre et curcuma + miel de nigelle + miel de sidr du Cachemire + miel de fleurs en rayon + graines de nigelle. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/boisson-au-miel-gingembre-et-curcuma-miel-de-nigelle-miel-de-sidr-du-cachemire-m/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1292771214</g:id>
-      <g:title>Cuillères de miel de sidr naturel - 100 pièces</g:title>
-      <g:description>Cuillères de miel de sidr naturel - 100 pièces. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/cuill-res-de-miel-de-sidr-naturel-100-pi-ces/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>953218840</g:id>

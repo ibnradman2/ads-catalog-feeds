@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:02:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1292771214</g:id>
+      <g:title>Sendok Madu Sidr Alami - 100 Buah</g:title>
+      <g:description>Sendok Madu Sidr Alami - 100 Buah. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/sendok-madu-sidr-alami-100-buah/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>375800244</g:id>
+      <g:title>Minuman Madu Jahe dan Kunyit + Madu Jintan Hitam + Madu Sidr Kashmir + Lilin Bunga + Biji Jintan Hitam</g:title>
+      <g:description>Minuman Madu Jahe dan Kunyit + Madu Jintan Hitam + Madu Sidr Kashmir + Lilin Bunga + Biji Jintan Hitam. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/minuman-madu-jahe-dan-kunyit-madu-jintan-hitam-madu-sidr-kashmir-lilin-bunga-bij/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>516049282</g:id>
       <g:title>Madu Abu Farwah (Kastanye) 2 Kilo (Gratis Ongkir)</g:title>
@@ -1435,18 +1447,6 @@
       <g:title>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir)</g:title>
       <g:description>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/paket-spesial-4-kemasan-sidr-kashmir-3-kemasan-madu-habbatussauda-jintan-hitam-s/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>375800244</g:id>
-      <g:title>Minuman Madu Jahe dan Kunyit + Madu Jintan Hitam + Madu Sidr Kashmir + Lilin Bunga + Biji Jintan Hitam</g:title>
-      <g:description>Minuman Madu Jahe dan Kunyit + Madu Jintan Hitam + Madu Sidr Kashmir + Lilin Bunga + Biji Jintan Hitam. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/minuman-madu-jahe-dan-kunyit-madu-jintan-hitam-madu-sidr-kashmir-lilin-bunga-bij/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1292771214</g:id>
-      <g:title>Sendok Madu Sidr Alami - 100 Buah</g:title>
-      <g:description>Sendok Madu Sidr Alami - 100 Buah. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/sendok-madu-sidr-alami-100-buah/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>953218840</g:id>

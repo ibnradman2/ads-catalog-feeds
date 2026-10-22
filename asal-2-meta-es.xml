@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:02:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1292771214</g:id>
+      <g:title>Cucharas de miel de sidr natural de Cachemira, 100 unidades</g:title>
+      <g:description>Cucharas de miel de sidr natural de Cachemira, 100 unidades. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/cucharas-de-miel-de-sidr-natural-de-cachemira-100-unidades/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>375800244</g:id>
+      <g:title>Miel de sidr de Cachemira, 500 g, con comino negro y panal de flores</g:title>
+      <g:description>Miel de sidr de Cachemira, 500 g, con comino negro y panal de flores. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-cachemira-500-g-con-comino-negro-y-panal-de-flores/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>516049282</g:id>
       <g:title>Miel de castaño Abu Farwa (castaño) 2 kg (envío gratis)</g:title>
@@ -1441,18 +1453,6 @@
       <g:title>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis)</g:title>
       <g:description>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/oferta-especial-4-envases-de-miel-de-sidr-de-cachemira-3-envases-de-miel-de-comi/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>375800244</g:id>
-      <g:title>Miel de sidr de Cachemira, 500 g, con comino negro y panal de flores</g:title>
-      <g:description>Miel de sidr de Cachemira, 500 g, con comino negro y panal de flores. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-cachemira-500-g-con-comino-negro-y-panal-de-flores/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1292771214</g:id>
-      <g:title>Cucharas de miel de sidr natural de Cachemira, 100 unidades</g:title>
-      <g:description>Cucharas de miel de sidr natural de Cachemira, 100 unidades. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/cucharas-de-miel-de-sidr-natural-de-cachemira-100-unidades/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>953218840</g:id>

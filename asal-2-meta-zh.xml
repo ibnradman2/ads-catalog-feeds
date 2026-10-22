@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:02:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1292771214</g:id>
+      <g:title>天然西德尔蜂蜜便携小勺 100支</g:title>
+      <g:description>天然西德尔蜂蜜便携小勺 100支. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/100/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>375800244</g:id>
+      <g:title>克什米尔西德尔蜂蜜500克 + 姜黄生姜蜂蜜饮品 + 黑种草籽蜂蜜 + 花蜜巢蜜 + 黑种草籽</g:title>
+      <g:description>克什米尔西德尔蜂蜜500克 + 姜黄生姜蜂蜜饮品 + 黑种草籽蜂蜜 + 花蜜巢蜜 + 黑种草籽. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>516049282</g:id>
       <g:title>Abu Farwa栗子蜂蜜 2公斤（免运费）</g:title>
@@ -1441,18 +1453,6 @@
       <g:title>特惠套装：4罐克什米尔西德尔蜂蜜 + 3罐黑种草蜂蜜 + 木质蜂蜜勺（免运费）</g:title>
       <g:description>特惠套装：4罐克什米尔西德尔蜂蜜 + 3罐黑种草蜂蜜 + 木质蜂蜜勺（免运费）. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>375800244</g:id>
-      <g:title>克什米尔西德尔蜂蜜500克 + 姜黄生姜蜂蜜饮品 + 黑种草籽蜂蜜 + 花蜜巢蜜 + 黑种草籽</g:title>
-      <g:description>克什米尔西德尔蜂蜜500克 + 姜黄生姜蜂蜜饮品 + 黑种草籽蜂蜜 + 花蜜巢蜜 + 黑种草籽. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1292771214</g:id>
-      <g:title>天然西德尔蜂蜜便携小勺 100支</g:title>
-      <g:description>天然西德尔蜂蜜便携小勺 100支. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/100/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>953218840</g:id>
