@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>419971394</g:id>
+      <g:title>Premium Samra Thorn Honey, 2 Kilo</g:title>
+      <g:description>Premium Samra Thorn Honey, 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/premium-samra-thorn-honey-2-kilo/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1434663258</g:id>
+      <g:title>Clover Honey Galon na 10 Kilo sa Presyong Pakyawan</g:title>
+      <g:description>Clover Honey Galon na 10 Kilo sa Presyong Pakyawan. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/clover-honey-galon-na-10-kilo-sa-presyong-pakyawan/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>953218840</g:id>
       <g:title>Mga Kutsarang Natural na Pulot na Sidr 25 piraso</g:title>
@@ -567,12 +579,6 @@
       <g:link>https://asalaljebal.sa/tl/kashmiri-na-pulot-ng-sidr-250-gramo/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1434663258</g:id>
-      <g:title>Clover Honey Galon na 10 Kilo sa Presyong Pakyawan</g:title>
-      <g:description>Clover Honey Galon na 10 Kilo sa Presyong Pakyawan. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/clover-honey-galon-na-10-kilo-sa-presyong-pakyawan/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>810196573</g:id>
       <g:title>Tunay na Black Forest Honey 5 Kilo Galon sa Pakyawan</g:title>
       <g:description>Tunay na Black Forest Honey 5 Kilo Galon sa Pakyawan. 5.5 kg.</g:description>
@@ -1087,12 +1093,6 @@
       <g:title>Pulot ng Anis 250 Gramo</g:title>
       <g:description>Pulot ng Anis 250 Gramo. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-ng-anis-250-gramo/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>419971394</g:id>
-      <g:title>Premium Samra Thorn Honey, 2 Kilo</g:title>
-      <g:description>Premium Samra Thorn Honey, 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/premium-samra-thorn-honey-2-kilo/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>715471592</g:id>

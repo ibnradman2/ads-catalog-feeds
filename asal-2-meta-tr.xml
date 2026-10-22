@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>419971394</g:id>
+      <g:title>Premium Dikenli Semure Balı 2 kg</g:title>
+      <g:description>Premium Dikenli Semure Balı 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/premium-dikenli-semure-bal-2-kg/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1434663258</g:id>
+      <g:title>Toptan Yonca Balı 10 Kilo Bidon</g:title>
+      <g:description>Toptan Yonca Balı 10 Kilo Bidon. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/toptan-yonca-bal-10-kilo-bidon/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>953218840</g:id>
       <g:title>Doğal Sidr Balı Kaşıkları 25 Kaşık</g:title>
@@ -561,12 +573,6 @@
       <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-250-gram/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1434663258</g:id>
-      <g:title>Toptan Yonca Balı 10 Kilo Bidon</g:title>
-      <g:description>Toptan Yonca Balı 10 Kilo Bidon. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/toptan-yonca-bal-10-kilo-bidon/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>810196573</g:id>
       <g:title>Orijinal Kara Orman Balı 5 Kilo Bidon, Toptan</g:title>
       <g:description>Orijinal Kara Orman Balı 5 Kilo Bidon, Toptan. 5.5 kg.</g:description>
@@ -1081,12 +1087,6 @@
       <g:title>Anason Balı 250 g</g:title>
       <g:description>Anason Balı 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/anason-bal-250-g/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>419971394</g:id>
-      <g:title>Premium Dikenli Semure Balı 2 kg</g:title>
-      <g:description>Premium Dikenli Semure Balı 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/premium-dikenli-semure-bal-2-kg/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>715471592</g:id>

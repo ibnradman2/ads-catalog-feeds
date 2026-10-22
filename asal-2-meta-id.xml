@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>419971394</g:id>
+      <g:title>Madu Syauk Samra Premium 2 Kg</g:title>
+      <g:description>Madu Syauk Samra Premium 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-2-kg/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1434663258</g:id>
+      <g:title>Madu Semanggi Galon 10 Kilo Harga Grosir</g:title>
+      <g:description>Madu Semanggi Galon 10 Kilo Harga Grosir. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-semanggi-galon-10-kilo-harga-grosir/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>953218840</g:id>
       <g:title>Sendok Madu Sidr Alami 25 Sendok</g:title>
@@ -561,12 +573,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-250-g/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1434663258</g:id>
-      <g:title>Madu Semanggi Galon 10 Kilo Harga Grosir</g:title>
-      <g:description>Madu Semanggi Galon 10 Kilo Harga Grosir. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-semanggi-galon-10-kilo-harga-grosir/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>810196573</g:id>
       <g:title>Madu Hutan Hitam Asli 5 Kilo Galon Grosir</g:title>
       <g:description>Madu Hutan Hitam Asli 5 Kilo Galon Grosir. 5.5 kg.</g:description>
@@ -1081,12 +1087,6 @@
       <g:title>Madu Adas Manis 250 gram</g:title>
       <g:description>Madu Adas Manis 250 gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-adas-manis-250-gram/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>419971394</g:id>
-      <g:title>Madu Syauk Samra Premium 2 Kg</g:title>
-      <g:description>Madu Syauk Samra Premium 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-2-kg/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>715471592</g:id>

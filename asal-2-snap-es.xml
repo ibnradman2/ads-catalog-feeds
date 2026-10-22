@@ -4,10 +4,41 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">419971394</guid>
+      <g:id>419971394</g:id>
+      <g:title>Miel de Samar premium 2 kg</g:title>
+      <g:description>Miel de Samar premium 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-2-kg/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/82NHLS2xjp3hk6MXxyZYldcsiDXImjqsg8lTyYsG.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>688.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1434663258</guid>
+      <g:id>1434663258</g:id>
+      <g:title>Miel de flor de trébol 10 kg garrafa precio mayorista</g:title>
+      <g:description>Miel de flor de trébol 10 kg garrafa precio mayorista. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-10-kg-garrafa-precio-mayorista/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/pnu2uDRTJBp7DotpJVwM21h3rnTAzfKX2mGvMWRq.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1147.00 SAR</g:price>
+      <g:sale_price>688.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041003007</g:item_group_id>
+      <g:shipping_weight>10.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">953218840</guid>
       <g:id>953218840</g:id>
@@ -1484,22 +1515,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1434663258</guid>
-      <g:id>1434663258</g:id>
-      <g:title>Miel de flor de trébol 10 kg garrafa precio mayorista</g:title>
-      <g:description>Miel de flor de trébol 10 kg garrafa precio mayorista. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-10-kg-garrafa-precio-mayorista/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/pnu2uDRTJBp7DotpJVwM21h3rnTAzfKX2mGvMWRq.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1147.00 SAR</g:price>
-      <g:sale_price>688.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041003007</g:item_group_id>
-      <g:shipping_weight>10.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">810196573</guid>
       <g:id>810196573</g:id>
       <g:title>Miel de la Selva Negra auténtica garrafa 5 kg precio mayorista</g:title>
@@ -2853,21 +2868,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041049001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">419971394</guid>
-      <g:id>419971394</g:id>
-      <g:title>Miel de Samar premium 2 kg</g:title>
-      <g:description>Miel de Samar premium 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-samar-premium-2-kg/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/82NHLS2xjp3hk6MXxyZYldcsiDXImjqsg8lTyYsG.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>688.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021091004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">715471592</guid>

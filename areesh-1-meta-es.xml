@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:10:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1036170524</g:id>
+      <g:title>Oferta: 2 kg de miel de Sidr natural + 2 kg gratis</g:title>
+      <g:description>Oferta: 2 kg de miel de Sidr natural + 2 kg gratis. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/oferta-2-kg-de-miel-de-sidr-natural-2-kg-gratis/p1036170524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1808589975</g:id>
       <g:title>3 envases de polen de abeja de 500 g</g:title>
@@ -481,12 +487,6 @@
       <g:title>Miel de Athl (Saal) 500 g</g:title>
       <g:description>Miel de Athl (Saal) 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-de-athl-saal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1036170524</g:id>
-      <g:title>Oferta: 2 kg de miel de Sidr natural + 2 kg gratis</g:title>
-      <g:description>Oferta: 2 kg de miel de Sidr natural + 2 kg gratis. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/oferta-2-kg-de-miel-de-sidr-natural-2-kg-gratis/p1036170524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>277670775</g:id>

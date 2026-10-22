@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:10:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1036170524</g:id>
+      <g:title>Offre : 2 kg de miel de Sidr naturel + 2 kg offerts</g:title>
+      <g:description>Offre : 2 kg de miel de Sidr naturel + 2 kg offerts. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/offre-2-kg-de-miel-de-sidr-naturel-2-kg-offerts/p1036170524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1808589975</g:id>
       <g:title>3 pots de pollen d’abeille de l’Himalaya 500 g</g:title>
@@ -481,12 +487,6 @@
       <g:title>Miel d’Athel (Sal) 500 g</g:title>
       <g:description>Miel d’Athel (Sal) 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-d-athel-sal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1036170524</g:id>
-      <g:title>Offre : 2 kg de miel de Sidr naturel + 2 kg offerts</g:title>
-      <g:description>Offre : 2 kg de miel de Sidr naturel + 2 kg offerts. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/offre-2-kg-de-miel-de-sidr-naturel-2-kg-offerts/p1036170524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>277670775</g:id>

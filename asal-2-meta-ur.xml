@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 15:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:15:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>419971394</g:id>
+      <g:title>فاخر سمرہ کانٹے کا شہد 2 کلو</g:title>
+      <g:description>فاخر سمرہ کانٹے کا شہد 2 کلو. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1434663258</g:id>
+      <g:title>برسیم کے پھولوں کا شہد 10 کلو گیلن، تھوک خریداری کے لیے</g:title>
+      <g:description>برسیم کے پھولوں کا شہد 10 کلو گیلن، تھوک خریداری کے لیے. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/10/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>953218840</g:id>
       <g:title>قدرتی سدر شہد کے چمچ 25 عدد</g:title>
@@ -441,12 +453,6 @@
       <g:link>https://asalaljebal.sa/ur/250/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1434663258</g:id>
-      <g:title>برسیم کے پھولوں کا شہد 10 کلو گیلن، تھوک خریداری کے لیے</g:title>
-      <g:description>برسیم کے پھولوں کا شہد 10 کلو گیلن، تھوک خریداری کے لیے. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/10/p1434663258?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>810196573</g:id>
       <g:title>اصلی بلیک فاریسٹ شہد 5 کلو گیلن تھوک میں</g:title>
       <g:description>اصلی بلیک فاریسٹ شہد 5 کلو گیلن تھوک میں. 5.5 kg.</g:description>
@@ -811,12 +817,6 @@
       <g:title>انیسون شہد 250 گرام کی بوتل</g:title>
       <g:description>انیسون شہد 250 گرام کی بوتل. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/250/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>419971394</g:id>
-      <g:title>فاخر سمرہ کانٹے کا شہد 2 کلو</g:title>
-      <g:description>فاخر سمرہ کانٹے کا شہد 2 کلو. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2/p419971394?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>204409672</g:id>
