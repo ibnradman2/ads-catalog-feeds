@@ -4,10 +4,40 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 16:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:13:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1122433710</guid>
+      <g:id>1122433710</g:id>
+      <g:title>شوکہ شہد (پریمیم سمرہ) 500 گرام</g:title>
+      <g:description>شوکہ شہد (پریمیم سمرہ) 500 گرام. سمرہ شہد. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/500/p1122433710?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/jcRKDeDHCD8SGhbxRzbmdFsKVhbyoq1GyuE55mZO.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>عریش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021092002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>0021092002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سمرہ شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">689992194</guid>
+      <g:id>689992194</g:id>
+      <g:title>سفید مجری شہد 500 گرام</g:title>
+      <g:description>سفید مجری شہد 500 گرام. سفید مجرہ شہد. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/500/p689992194?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/WijCXW3hc5D9ooAXJ37ClrKipuKchaJHijGR3Q4Q.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>عریش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041012001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>0041012001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سفید مجرہ شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1036170524</guid>
       <g:id>1036170524</g:id>
@@ -790,21 +820,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>162309629</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>300 سے 599</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1122433710</guid>
-      <g:id>1122433710</g:id>
-      <g:title>شوکہ شہد (پریمیم سمرہ) 500 گرام</g:title>
-      <g:description>شوکہ شہد (پریمیم سمرہ) 500 گرام. سمرہ شہد. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/500/p1122433710?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/jcRKDeDHCD8SGhbxRzbmdFsKVhbyoq1GyuE55mZO.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>172.99 SAR</g:price>
-      <g:brand>عریش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021092002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>0021092002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سمرہ شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">548974799</guid>
       <g:id>548974799</g:id>
       <g:title>پشاوری سدر شہد 1 کلو</g:title>
@@ -864,21 +879,6 @@
       <g:item_group_id>0041007001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>0041007001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی د</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">689992194</guid>
-      <g:id>689992194</g:id>
-      <g:title>سفید مجری شہد 500 گرام</g:title>
-      <g:description>سفید مجری شہد 500 گرام. سفید مجرہ شہد. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/500/p689992194?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/WijCXW3hc5D9ooAXJ37ClrKipuKchaJHijGR3Q4Q.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>172.99 SAR</g:price>
-      <g:brand>عریش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041012001</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>0041012001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سفید مجرہ شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">401594117</guid>
       <g:id>401594117</g:id>
