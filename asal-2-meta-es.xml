@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 20:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:09:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
+      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>534917756</g:id>
+      <g:title>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis)</g:title>
+      <g:description>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-dorada-miel-shawka-miel-talh-miel-de-bosque-env-o-gratis/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1017059861</g:id>
+      <g:title>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis)</g:title>
+      <g:description>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-de-1-kg-de-miel-de-comino-negro-1-kg-de-miel-de-flor-de-tr-bol-env-o-grat/p1017059861?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>565752464</g:id>
       <g:title>Miel de Sidr Peshawari pakistaní, garrafón de 7 kg a precio de mayorista</g:title>
@@ -1513,24 +1531,6 @@
       <g:title>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis)</g:title>
       <g:description>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/oferta-especial-4-envases-de-miel-de-sidr-de-cachemira-3-envases-de-miel-de-comi/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1017059861</g:id>
-      <g:title>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis)</g:title>
-      <g:description>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-de-1-kg-de-miel-de-comino-negro-1-kg-de-miel-de-flor-de-tr-bol-env-o-grat/p1017059861?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>534917756</g:id>
-      <g:title>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis)</g:title>
-      <g:description>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-dorada-miel-shawka-miel-talh-miel-de-bosque-env-o-gratis/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>987199113</g:id>
-      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
-      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>685341090</g:id>

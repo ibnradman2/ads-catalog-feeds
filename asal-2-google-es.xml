@@ -4,10 +4,58 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 20:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:09:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">987199113</guid>
+      <g:id>987199113</g:id>
+      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
+      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). Miel de flores. 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/jvMH7CRJAy2OnpVBFziAJXyEgG9enT1dUfjpcQuT.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>368.00 SAR</g:price>
+      <g:sale_price>294.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101006</g:item_group_id>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    <g:mpn>987199113</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">534917756</guid>
+      <g:id>534917756</g:id>
+      <g:title>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis)</g:title>
+      <g:description>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis). Miel de Talh. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-dorada-miel-shawka-miel-talh-miel-de-bosque-env-o-gratis/p534917756?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/N0uMXXvG4S07bK1FRveXD3ypjQVqMY7wWiVOpH4P.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>483.00 SAR</g:price>
+      <g:sale_price>340.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101005</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>534917756</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1017059861</guid>
+      <g:id>1017059861</g:id>
+      <g:title>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis)</g:title>
+      <g:description>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis). Miel de flores. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-de-1-kg-de-miel-de-comino-negro-1-kg-de-miel-de-flor-de-tr-bol-env-o-grat/p1017059861?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/uVpQmN8mb8fAqldr01pXGwxvhI89OvQ0jtOcLDCT.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101010</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:mpn>1017059861</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">565752464</guid>
       <g:id>565752464</g:id>
@@ -3983,54 +4031,6 @@
       <g:item_group_id>0140101007</g:item_group_id>
       <g:shipping_weight>3.5 kg</g:shipping_weight>
     <g:mpn>879350052</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1017059861</guid>
-      <g:id>1017059861</g:id>
-      <g:title>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis)</g:title>
-      <g:description>Oferta de 1 kg de miel de comino negro + 1 kg de miel de flor de trébol (envío gratis). Miel de flores. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-de-1-kg-de-miel-de-comino-negro-1-kg-de-miel-de-flor-de-tr-bol-env-o-grat/p1017059861?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/uVpQmN8mb8fAqldr01pXGwxvhI89OvQ0jtOcLDCT.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101010</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>1017059861</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">534917756</guid>
-      <g:id>534917756</g:id>
-      <g:title>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis)</g:title>
-      <g:description>Oferta Dorada (miel Shawka - miel Talh - miel de bosque) (envío gratis). Miel de Talh. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-dorada-miel-shawka-miel-talh-miel-de-bosque-env-o-gratis/p534917756?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/N0uMXXvG4S07bK1FRveXD3ypjQVqMY7wWiVOpH4P.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>483.00 SAR</g:price>
-      <g:sale_price>340.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101005</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>534917756</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">987199113</guid>
-      <g:id>987199113</g:id>
-      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
-      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). Miel de flores. 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/jvMH7CRJAy2OnpVBFziAJXyEgG9enT1dUfjpcQuT.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>368.00 SAR</g:price>
-      <g:sale_price>294.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101006</g:item_group_id>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>987199113</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento D</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de flores</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">685341090</guid>
       <g:id>685341090</g:id>

@@ -4,10 +4,38 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 20:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:09:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1381474212</guid>
+      <g:id>1381474212</g:id>
+      <g:title>Pasas negras yemeníes - 1 kg</g:title>
+      <g:description>Pasas negras yemeníes - 1 kg. Frutas secas. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pasas-negras-yemen-es-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/M7eifqEQAtCA93csULm7sAm7AOJM5PhveXibqdId.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1381474212</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Frutas secas</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1293815972</guid>
+      <g:id>1293815972</g:id>
+      <g:title>Hibisco 1 kg</g:title>
+      <g:description>Hibisco 1 kg. Infusiones. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/hibisco-1-kg/p1293815972?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/NHoMCyd2cbbR7SV7iQNQhwSsVU8HRwpU9QE5YnZv.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>59.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1293815972</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Infusiones</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">398016781</guid>
       <g:id>398016781</g:id>
@@ -1687,20 +1715,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>2065623105</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Harina</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1381474212</guid>
-      <g:id>1381474212</g:id>
-      <g:title>Pasas negras yemeníes - 1 kg</g:title>
-      <g:description>Pasas negras yemeníes - 1 kg. Frutas secas. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/pasas-negras-yemen-es-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/M7eifqEQAtCA93csULm7sAm7AOJM5PhveXibqdId.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1381474212</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Frutas secas</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">2006358433</guid>
       <g:id>2006358433</g:id>
       <g:title>Ajo molido 500 g</g:title>
@@ -1854,20 +1868,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1511230577</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Frutas secas</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1293815972</guid>
-      <g:id>1293815972</g:id>
-      <g:title>Hibisco 1 kg</g:title>
-      <g:description>Hibisco 1 kg. Infusiones. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/hibisco-1-kg/p1293815972?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/NHoMCyd2cbbR7SV7iQNQhwSsVU8HRwpU9QE5YnZv.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>59.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1293815972</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>Menos de 100</g:custom_label_2><g:custom_label_3>Infusiones</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">373779673</guid>
       <g:id>373779673</g:id>

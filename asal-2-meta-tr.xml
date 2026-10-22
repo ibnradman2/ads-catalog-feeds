@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 20:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:09:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo)</g:title>
+      <g:description>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/g-m-teklif-kara-orman-bal-rek-otu-bal-yonca-i-e-i-bal-cretsiz-kargo/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>534917756</g:id>
+      <g:title>Altın Teklif (Diken Balı - Talh Balı - Orman Balı) (Ücretsiz Kargo)</g:title>
+      <g:description>Altın Teklif (Diken Balı - Talh Balı - Orman Balı) (Ücretsiz Kargo). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/alt-n-teklif-diken-bal-talh-bal-orman-bal-cretsiz-kargo/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1017059861</g:id>
+      <g:title>Çörek Otlu Bal 1 Kilo + Yonca Çiçeği Balı 1 Kilo Teklifi (Ücretsiz Kargo)</g:title>
+      <g:description>Çörek Otlu Bal 1 Kilo + Yonca Çiçeği Balı 1 Kilo Teklifi (Ücretsiz Kargo). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rek-otlu-bal-1-kilo-yonca-i-e-i-bal-1-kilo-teklifi-cretsiz-kargo/p1017059861?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>565752464</g:id>
       <g:title>Pakistan Peşaver Sidr Balı 7 Kg Galon Toptan Fiyat</g:title>
@@ -1507,24 +1525,6 @@
       <g:title>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo)</g:title>
       <g:description>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/zel-teklif-4-paket-ke-mir-sidr-bal-3-paket-siyah-rek-otu-bal-ah-ap-bal-ka-cretsi/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1017059861</g:id>
-      <g:title>Çörek Otlu Bal 1 Kilo + Yonca Çiçeği Balı 1 Kilo Teklifi (Ücretsiz Kargo)</g:title>
-      <g:description>Çörek Otlu Bal 1 Kilo + Yonca Çiçeği Balı 1 Kilo Teklifi (Ücretsiz Kargo). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rek-otlu-bal-1-kilo-yonca-i-e-i-bal-1-kilo-teklifi-cretsiz-kargo/p1017059861?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>534917756</g:id>
-      <g:title>Altın Teklif (Diken Balı - Talh Balı - Orman Balı) (Ücretsiz Kargo)</g:title>
-      <g:description>Altın Teklif (Diken Balı - Talh Balı - Orman Balı) (Ücretsiz Kargo). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/alt-n-teklif-diken-bal-talh-bal-orman-bal-cretsiz-kargo/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>987199113</g:id>
-      <g:title>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo)</g:title>
-      <g:description>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/g-m-teklif-kara-orman-bal-rek-otu-bal-yonca-i-e-i-bal-cretsiz-kargo/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>685341090</g:id>
