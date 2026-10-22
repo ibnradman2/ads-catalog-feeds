@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 19:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:21:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1115299087</g:id>
+      <g:title>Miel d’Athel (Sal) 500 g</g:title>
+      <g:description>Miel d’Athel (Sal) 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-d-athel-sal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1122433710</g:id>
       <g:title>Miel d'épines (Samar premium) 500 g</g:title>
@@ -298,8 +304,8 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>765679051</g:id>
-      <g:title>Miel de Sidr Areesh à la gelée royale et à la propolis (pot de 500 g)</g:title>
-      <g:description>Miel de Sidr Areesh à la gelée royale et à la propolis (pot de 500 g). 1.0 kg.</g:description>
+      <g:title>Miel de Sidr Areesh à la gelée royale et à la propolis, pot de 500 g</g:title>
+      <g:description>Miel de Sidr Areesh à la gelée royale et à la propolis, pot de 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-de-sidr-areesh-la-gel-e-royale-et-la-propolis-pot-de-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
@@ -481,12 +487,6 @@
       <g:title>Miel d’Athel (Sal) 250 g</g:title>
       <g:description>Miel d’Athel (Sal) 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-d-athel-sal-250-g/p940145162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1115299087</g:id>
-      <g:title>Miel d’Athel (Sal) 500 g</g:title>
-      <g:description>Miel d’Athel (Sal) 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-d-athel-sal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>277670775</g:id>
