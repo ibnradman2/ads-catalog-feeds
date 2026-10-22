@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 09:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:21:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>312187437</g:id>
+      <g:title>Miel de sidr de montagne de Peshawar 3 kg</g:title>
+      <g:description>Miel de sidr de montagne de Peshawar 3 kg. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>394421153</g:id>
       <g:title>Extrait de ginseng rouge coréen liquide 30 grammes</g:title>
@@ -619,12 +625,6 @@
       <g:title>Miel de Sidr royal en rayon 10 kg, livraison gratuite</g:title>
       <g:description>Miel de Sidr royal en rayon 10 kg, livraison gratuite. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-10-kg-livraison-gratuite/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>312187437</g:id>
-      <g:title>Miel de sidr de montagne de Peshawar 3 kg</g:title>
-      <g:description>Miel de sidr de montagne de Peshawar 3 kg. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1829509087</g:id>

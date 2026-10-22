@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 09:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:21:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>312187437</g:id>
+      <g:title>3 Kg Dağ Sidr Balı Peşaver</g:title>
+      <g:description>3 Kg Dağ Sidr Balı Peşaver. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kg-da-sidr-bal-pe-aver/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>394421153</g:id>
       <g:title>Sıvı Kore Kırmızı Ginseng Özütü 30 Gram</g:title>
@@ -619,12 +625,6 @@
       <g:title>Petekli Kraliyet Sidr Balı 10 Kilo, Ücretsiz Kargo</g:title>
       <g:description>Petekli Kraliyet Sidr Balı 10 Kilo, Ücretsiz Kargo. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/petekli-kraliyet-sidr-bal-10-kilo-cretsiz-kargo/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>312187437</g:id>
-      <g:title>3 Kg Dağ Sidr Balı Peşaver</g:title>
-      <g:description>3 Kg Dağ Sidr Balı Peşaver. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kg-da-sidr-bal-pe-aver/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1829509087</g:id>

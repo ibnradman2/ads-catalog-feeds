@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:21:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>311501392</g:id>
+      <g:title>8 کلو قدرتی پھولوں کا شہد</g:title>
+      <g:description>8 کلو قدرتی پھولوں کا شہد. 8.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/8/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1487430420</g:id>
+      <g:title>قدرتی سدر شہد 6 کلو (2 کلو کے 3 ڈبے، تیسرا مفت)</g:title>
+      <g:description>قدرتی سدر شہد 6 کلو (2 کلو کے 3 ڈبے، تیسرا مفت). 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/6-2-3/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>893293328</g:id>
       <g:title>کلونجی کا شہد، 4 جار</g:title>
@@ -225,22 +237,10 @@
       <g:link>https://areesh.sa/ur/2/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>311501392</g:id>
-      <g:title>8 کلو قدرتی پھولوں کا شہد</g:title>
-      <g:description>8 کلو قدرتی پھولوں کا شہد. 8.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/8/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1256707703</g:id>
       <g:title>سفید مجری شہد (مردیسیا) کی ایک بوتل + ایک بوتل مفت</g:title>
       <g:description>سفید مجری شہد (مردیسیا) کی ایک بوتل + ایک بوتل مفت. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ur/product/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>قدرتی سدر شہد 6 کلو (2 کلو کے 3 ڈبے، تیسرا مفت)</g:title>
-      <g:description>قدرتی سدر شہد 6 کلو (2 کلو کے 3 ڈبے، تیسرا مفت). 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/6-2-3/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1307810461</g:id>
