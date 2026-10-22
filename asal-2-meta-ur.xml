@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 01:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 02:02:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>626002345</g:id>
+      <g:title>کلونجی کا شہد 500 گرام (مفت ڈیلیوری)</g:title>
+      <g:description>کلونجی کا شہد 500 گرام (مفت ڈیلیوری). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p626002345?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>801221806</g:id>
+      <g:title>کلونجی کا شہد، 2 کلو کا جار (مفت ڈیلیوری)</g:title>
+      <g:description>کلونجی کا شہد، 2 کلو کا جار (مفت ڈیلیوری). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2/p801221806?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1506173115</g:id>
+      <g:title>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری)</g:title>
+      <g:description>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1506173115?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>340956813</g:id>
+      <g:title>ابو فروہ شہد (شاہ بلوط) 5 کلو گیلن، تھوک قیمت پر (مفت ڈیلیوری)</g:title>
+      <g:description>ابو فروہ شہد (شاہ بلوط) 5 کلو گیلن، تھوک قیمت پر (مفت ڈیلیوری). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5/p340956813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>344412243</g:id>
       <g:title>اصلی بلیک فاریسٹ شہد 10 کلو گیلن تھوک میں</g:title>
@@ -961,30 +985,6 @@
       <g:title>مقامی سلم شہد موم کے چھتے میں 500 گرام</g:title>
       <g:description>مقامی سلم شہد موم کے چھتے میں 500 گرام. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1506173115</g:id>
-      <g:title>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1506173115?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>801221806</g:id>
-      <g:title>کلونجی کا شہد، 2 کلو کا جار (مفت ڈیلیوری)</g:title>
-      <g:description>کلونجی کا شہد، 2 کلو کا جار (مفت ڈیلیوری). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2/p801221806?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>626002345</g:id>
-      <g:title>کلونجی کا شہد 500 گرام (مفت ڈیلیوری)</g:title>
-      <g:description>کلونجی کا شہد 500 گرام (مفت ڈیلیوری). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p626002345?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>340956813</g:id>
-      <g:title>ابو فروہ شہد (شاہ بلوط) 5 کلو گیلن، تھوک قیمت پر (مفت ڈیلیوری)</g:title>
-      <g:description>ابو فروہ شہد (شاہ بلوط) 5 کلو گیلن، تھوک قیمت پر (مفت ڈیلیوری). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5/p340956813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>516049282</g:id>
