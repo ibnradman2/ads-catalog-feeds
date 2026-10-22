@@ -4,10 +4,40 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 10:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1939267679</guid>
+      <g:id>1939267679</g:id>
+      <g:title>24 sobres de azafrán Super Negin de 24 g + envío gratis</g:title>
+      <g:description>24 sobres de azafrán Super Negin de 24 g + envío gratis. Azafrán. 0.524 kg.</g:description>
+      <g:link>https://hayala.co/es/24-sobres-de-azafr-n-super-negin-de-24-g-env-o-gratis/p1939267679?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/pH5Psc6iiHdwaTSh11kpnYC2bUDNKzEUtZBDGUDe.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>480.00 SAR</g:price>
+      <g:sale_price>320.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.524 kg</g:shipping_weight>
+    <g:mpn>1939267679</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Azafrán</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">360158781</guid>
+      <g:id>360158781</g:id>
+      <g:title>18 envases de azafrán súper negin de 1 g + mortero de azafrán de regalo</g:title>
+      <g:description>18 envases de azafrán súper negin de 1 g + mortero de azafrán de regalo. Regalos. 0.518 kg.</g:description>
+      <g:link>https://hayala.co/es/18-envases-de-azafr-n-s-per-negin-de-1-g-mortero-de-azafr-n-de-regalo/p360158781?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/MyIYz9CFenfXivzMx0yS1fuVLtTDRWW3DcxYNyXw.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>360.00 SAR</g:price>
+      <g:sale_price>240.01 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.518 kg</g:shipping_weight>
+    <g:mpn>360158781</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Regalos</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1232653674</guid>
       <g:id>1232653674</g:id>
@@ -445,21 +475,6 @@
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:mpn>1533464823</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Dátiles</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
-      <guid isPermaLink="false">1939267679</guid>
-      <g:id>1939267679</g:id>
-      <g:title>24 sobres de azafrán Super Negin de 24 g + envío gratis</g:title>
-      <g:description>24 sobres de azafrán Super Negin de 24 g + envío gratis. Azafrán. 0.524 kg.</g:description>
-      <g:link>https://hayala.co/es/24-sobres-de-azafr-n-super-negin-de-24-g-env-o-gratis/p1939267679?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/pH5Psc6iiHdwaTSh11kpnYC2bUDNKzEUtZBDGUDe.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>480.00 SAR</g:price>
-      <g:sale_price>320.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.524 kg</g:shipping_weight>
-    <g:mpn>1939267679</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>300 a 599</g:custom_label_2><g:custom_label_3>Azafrán</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
       <guid isPermaLink="false">1992072436</guid>
       <g:id>1992072436</g:id>
       <g:title>Miel en panal de samra (shawka) 1 kg</g:title>
@@ -568,21 +583,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>2106298714</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>600 o más</g:custom_label_2><g:custom_label_3>Cardamomo</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">360158781</guid>
-      <g:id>360158781</g:id>
-      <g:title>18 envases de azafrán súper negin de 1 g + mortero de azafrán de regalo</g:title>
-      <g:description>18 envases de azafrán súper negin de 1 g + mortero de azafrán de regalo. Regalos. 0.518 kg.</g:description>
-      <g:link>https://hayala.co/es/18-envases-de-azafr-n-s-per-negin-de-1-g-mortero-de-azafr-n-de-regalo/p360158781?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/MyIYz9CFenfXivzMx0yS1fuVLtTDRWW3DcxYNyXw.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>360.00 SAR</g:price>
-      <g:sale_price>240.01 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.518 kg</g:shipping_weight>
-    <g:mpn>360158781</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Regalos</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1621826523</guid>
       <g:id>1621826523</g:id>

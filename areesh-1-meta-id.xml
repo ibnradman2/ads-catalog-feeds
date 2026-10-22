@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 10:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>552143552</g:id>
+      <g:title>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+20, MGO 830+, 250 gm</g:title>
+      <g:description>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+20, MGO 830+, 250 gm. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-manuka-honey-umf-20-mgo-830-250-gm/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>378951093</g:id>
+      <g:title>Madu Sidr Hadrami 1 Kilo</g:title>
+      <g:description>Madu Sidr Hadrami 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-hadrami-1-kilo/p378951093?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>503369224</g:id>
+      <g:title>10 Kilo Madu Sidr Kashmir + Pengiriman Gratis</g:title>
+      <g:description>10 Kilo Madu Sidr Kashmir + Pengiriman Gratis. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/10-kilo-madu-sidr-kashmir-pengiriman-gratis/p503369224?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>399980213</g:id>
+      <g:title>Madu Sidr Royal Osaimi 1 kg</g:title>
+      <g:description>Madu Sidr Royal Osaimi 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-royal-osaimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>311501392</g:id>
       <g:title>8 Kilo Madu Bunga Alami</g:title>
@@ -57,12 +81,6 @@
       <g:link>https://areesh.sa/ind/pot-sarang-madu-bunga-liar-lokal/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>552143552</g:id>
-      <g:title>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+20, MGO 830+, 250 gm</g:title>
-      <g:description>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+20, MGO 830+, 250 gm. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-manuka-honey-umf-20-mgo-830-250-gm/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>973260804</g:id>
       <g:title>Madu Talh Premium 1 kg</g:title>
       <g:description>Madu Talh Premium 1 kg. 1.5 kg.</g:description>
@@ -73,12 +91,6 @@
       <g:title>Madu Bunga Liar 2 Kg</g:title>
       <g:description>Madu Bunga Liar 2 Kg. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-bunga-liar-2-kg/p643067018?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>378951093</g:id>
-      <g:title>Madu Sidr Hadrami 1 Kilo</g:title>
-      <g:description>Madu Sidr Hadrami 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-hadrami-1-kilo/p378951093?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>450163781</g:id>
@@ -99,22 +111,10 @@
       <g:link>https://areesh.sa/ind/madu-athl-saal-2-kg/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>503369224</g:id>
-      <g:title>10 Kilo Madu Sidr Kashmir + Pengiriman Gratis</g:title>
-      <g:description>10 Kilo Madu Sidr Kashmir + Pengiriman Gratis. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/10-kilo-madu-sidr-kashmir-pengiriman-gratis/p503369224?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>916755779</g:id>
       <g:title>12 Kemasan Madu Sidr Alami</g:title>
       <g:description>12 Kemasan Madu Sidr Alami. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/12-kemasan-madu-sidr-alami/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>399980213</g:id>
-      <g:title>Madu Sidr Royal Osaimi 1 kg</g:title>
-      <g:description>Madu Sidr Royal Osaimi 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-royal-osaimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>658291884</g:id>

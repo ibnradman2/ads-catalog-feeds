@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 10:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1939267679</g:id>
+      <g:title>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping</g:title>
+      <g:description>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping. 0.524 kg.</g:description>
+      <g:link>https://hayala.co/tl/24-pakete-ng-super-nakhil-na-safron-24-gramo-libreng-shipping/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>360158781</g:id>
+      <g:title>18 Pakete ng Super Nakhil na Safron 18 Gramo + Libreng Pandurog ng Safron</g:title>
+      <g:description>18 Pakete ng Super Nakhil na Safron 18 Gramo + Libreng Pandurog ng Safron. 0.518 kg.</g:description>
+      <g:link>https://hayala.co/tl/18-pakete-ng-super-nakhil-na-safron-18-gramo-libreng-pandurog-ng-safron/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1232653674</g:id>
       <g:title>2 Pakete ng Super Nakhil na Safron 10 Gramo</g:title>
@@ -189,12 +201,6 @@
       <g:link>https://hayala.co/tl/premium-na-ajwa-aliyah-madinah-na-dates-5-kilo-libreng-delivery/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1939267679</g:id>
-      <g:title>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping</g:title>
-      <g:description>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping. 0.524 kg.</g:description>
-      <g:link>https://hayala.co/tl/24-pakete-ng-super-nakhil-na-safron-24-gramo-libreng-shipping/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>1992072436</g:id>
       <g:title>Samra (Shawka) Honey na may Pukyutan 1 kilo</g:title>
       <g:description>Samra (Shawka) Honey na may Pukyutan 1 kilo. 1.5 kg.</g:description>
@@ -235,12 +241,6 @@
       <g:title>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo</g:title>
       <g:description>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo. 5.5 kg.</g:description>
       <g:link>https://hayala.co/tl/amerikanong-jumbo-cardamom-na-unang-grado-blg-2-7-mm-karton-na-5-kilo/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>360158781</g:id>
-      <g:title>18 Pakete ng Super Nakhil na Safron 18 Gramo + Libreng Pandurog ng Safron</g:title>
-      <g:description>18 Pakete ng Super Nakhil na Safron 18 Gramo + Libreng Pandurog ng Safron. 0.518 kg.</g:description>
-      <g:link>https://hayala.co/tl/18-pakete-ng-super-nakhil-na-safron-18-gramo-libreng-pandurog-ng-safron/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1621826523</g:id>
