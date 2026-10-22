@@ -4,10 +4,70 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:18:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1516032688</guid>
+      <g:id>1516032688</g:id>
+      <g:title>Miel de Sidr du Cachemire 1 kg</g:title>
+      <g:description>Miel de Sidr du Cachemire 1 kg. Miel de Sidr. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-cachemire-1-kg/p1516032688?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>85.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1516032688</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1735868163</guid>
+      <g:id>1735868163</g:id>
+      <g:title>Miel d'anis 2 kg</g:title>
+      <g:description>Miel d'anis 2 kg. Autres miels. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-d-anis-2-kg/p1735868163?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/trawHAL7jgRgoz9ZGD0xGd6u8RErpgeG8LcmjZ0f.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041049004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1735868163</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">84471662</guid>
+      <g:id>84471662</g:id>
+      <g:title>Propolis naturelle – 65 g</g:title>
+      <g:description>Propolis naturelle – 65 g. Produits de la ruche. 0.565 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/propolis-naturelle-65-g/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061040001</g:item_group_id>
+      <g:shipping_weight>0.565 kg</g:shipping_weight>
+    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">622456174</guid>
+      <g:id>622456174</g:id>
+      <g:title>Miel de Talh premium 1 kg</g:title>
+      <g:description>Miel de Talh premium 1 kg. Miel de Talh. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>402.01 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>622456174</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1279698288</guid>
       <g:id>1279698288</g:id>
@@ -3658,66 +3718,6 @@
       <g:item_group_id>0041007005</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1938149777</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1516032688</guid>
-      <g:id>1516032688</g:id>
-      <g:title>Miel de Sidr du Cachemire 1 kg</g:title>
-      <g:description>Miel de Sidr du Cachemire 1 kg. Miel de Sidr. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-cachemire-1-kg/p1516032688?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/B3s8nw7VPuz799nuPSfP6ea0ZgxsDsHxC9GWWCfU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>85.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1516032688</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1735868163</guid>
-      <g:id>1735868163</g:id>
-      <g:title>Miel d'anis 2 kg</g:title>
-      <g:description>Miel d'anis 2 kg. Autres miels. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-d-anis-2-kg/p1735868163?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/trawHAL7jgRgoz9ZGD0xGd6u8RErpgeG8LcmjZ0f.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041049004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1735868163</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">622456174</guid>
-      <g:id>622456174</g:id>
-      <g:title>Miel de Talh premium 1 kg</g:title>
-      <g:description>Miel de Talh premium 1 kg. Miel de Talh. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/y1tmqf4C01VKYdk9DChpFCOQk8LFOBVypssmaJCD.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>402.01 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041029003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>622456174</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel de Talh</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">84471662</guid>
-      <g:id>84471662</g:id>
-      <g:title>Propolis naturelle – 65 g</g:title>
-      <g:description>Propolis naturelle – 65 g. Produits de la ruche. 0.565 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/propolis-naturelle-65-g/p84471662?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GOls8LdWOM9C9EyzleGpGeoOAwfg8s1xEbh21gW3.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061040001</g:item_group_id>
-      <g:shipping_weight>0.565 kg</g:shipping_weight>
-    <g:mpn>84471662</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>65g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">34055028</guid>
       <g:id>34055028</g:id>

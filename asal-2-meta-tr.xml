@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:18:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1516032688</g:id>
+      <g:title>Keşmir Sidr Balı 1 Kilo</g:title>
+      <g:description>Keşmir Sidr Balı 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-1-kilo/p1516032688?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1735868163</g:id>
+      <g:title>Anason Balı 2 Kilo</g:title>
+      <g:description>Anason Balı 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/anason-bal-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>84471662</g:id>
+      <g:title>Doğal Propolis - 65 Gram</g:title>
+      <g:description>Doğal Propolis - 65 Gram. 0.565 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/do-al-propolis-65-gram/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>622456174</g:id>
+      <g:title>Premium Talh Balı 1 Kilo</g:title>
+      <g:description>Premium Talh Balı 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/premium-talh-bal-1-kilo/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1279698288</g:id>
       <g:title>Bal Teklifi Asimi Kraliyet Sidr Balı + Güney Dağ Sidr Balı + Güney Semer Dikeni Balı + Güney Seçkin Talh Balı</g:title>
@@ -1393,30 +1417,6 @@
       <g:title>5 Kg Peşaver Sidr Balı, Polen ve Çörek Otu ile Yüzde 15 İndirimli + Ücretsiz Kargo</g:title>
       <g:description>5 Kg Peşaver Sidr Balı, Polen ve Çörek Otu ile Yüzde 15 İndirimli + Ücretsiz Kargo. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/5-kg-pe-aver-sidr-bal-polen-ve-rek-otu-ile-y-zde-15-i-ndirimli-cretsiz-kargo/p1938149777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1516032688</g:id>
-      <g:title>Keşmir Sidr Balı 1 Kilo</g:title>
-      <g:description>Keşmir Sidr Balı 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-1-kilo/p1516032688?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1735868163</g:id>
-      <g:title>Anason Balı 2 Kilo</g:title>
-      <g:description>Anason Balı 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/anason-bal-2-kilo/p1735868163?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>622456174</g:id>
-      <g:title>Premium Talh Balı 1 Kilo</g:title>
-      <g:description>Premium Talh Balı 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/premium-talh-bal-1-kilo/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>84471662</g:id>
-      <g:title>Doğal Propolis - 65 Gram</g:title>
-      <g:description>Doğal Propolis - 65 Gram. 0.565 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/do-al-propolis-65-gram/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>34055028</g:id>
