@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 22:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:00:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>757548514</g:id>
+      <g:title>6 پیکٹ سپر نقیل زعفران 6 گرام</g:title>
+      <g:description>6 پیکٹ سپر نقیل زعفران 6 گرام. 0.506 kg.</g:description>
+      <g:link>https://hayala.co/ur/6-6/p757548514?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1303028575</g:id>
       <g:title>سوپ مصالحہ کے 4 ڈبے</g:title>
@@ -445,12 +451,6 @@
       <g:title>کری پاؤڈر 500 گرام</g:title>
       <g:description>کری پاؤڈر 500 گرام. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p816858337?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>757548514</g:id>
-      <g:title>6 پیکٹ سپر نقیل زعفران 6 گرام</g:title>
-      <g:description>6 پیکٹ سپر نقیل زعفران 6 گرام. 0.506 kg.</g:description>
-      <g:link>https://hayala.co/ur/6-6/p757548514?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1003247052</g:id>

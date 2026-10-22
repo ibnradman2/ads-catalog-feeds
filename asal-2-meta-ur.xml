@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 22:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,30 @@
       <g:title>اصلی بلیک فاریسٹ شہد 10 کلو گیلن تھوک میں</g:title>
       <g:description>اصلی بلیک فاریسٹ شہد 10 کلو گیلن تھوک میں. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/10/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>شاہ بلوط کا شہد (ابو فروہ) 250 گرام</g:title>
+      <g:description>شاہ بلوط کا شہد (ابو فروہ) 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>کالے دانے (کلونجی) کا شہد 250 گرام</g:title>
+      <g:description>کالے دانے (کلونجی) کا شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1718386524</g:id>
+      <g:title>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں</g:title>
+      <g:description>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/7/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1473483671</g:id>
+      <g:title>آفر: پاکستانی پشاوری سدر شہد 10 کلو کے دو گیلن، ساتھ بی پولن، کلونجی اور شہد کا لکڑی کا چمچ (مفت ڈیلیوری)</g:title>
+      <g:description>آفر: پاکستانی پشاوری سدر شہد 10 کلو کے دو گیلن، ساتھ بی پولن، کلونجی اور شہد کا لکڑی کا چمچ (مفت ڈیلیوری). 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/10/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>957082464</g:id>
@@ -937,30 +961,6 @@
       <g:title>مقامی سلم شہد موم کے چھتے میں 500 گرام</g:title>
       <g:description>مقامی سلم شہد موم کے چھتے میں 500 گرام. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1473483671</g:id>
-      <g:title>آفر: پاکستانی پشاوری سدر شہد 10 کلو کے دو گیلن، ساتھ بی پولن، کلونجی اور شہد کا لکڑی کا چمچ (مفت ڈیلیوری)</g:title>
-      <g:description>آفر: پاکستانی پشاوری سدر شہد 10 کلو کے دو گیلن، ساتھ بی پولن، کلونجی اور شہد کا لکڑی کا چمچ (مفت ڈیلیوری). 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/10/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2000496810</g:id>
-      <g:title>کالے دانے (کلونجی) کا شہد 250 گرام</g:title>
-      <g:description>کالے دانے (کلونجی) کا شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1718386524</g:id>
-      <g:title>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں</g:title>
-      <g:description>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/7/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>شاہ بلوط کا شہد (ابو فروہ) 250 گرام</g:title>
-      <g:description>شاہ بلوط کا شہد (ابو فروہ) 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1506173115</g:id>

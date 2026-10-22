@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 22:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,30 @@
       <g:title>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros</g:title>
       <g:description>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-10-kg-en-gros/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Miel de châtaignier Abu Farwa 250 g</g:title>
+      <g:description>Miel de châtaignier Abu Farwa 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-ch-taignier-abu-farwa-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>Miel de nigelle authentique 250 g</g:title>
+      <g:description>Miel de nigelle authentique 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-nigelle-authentique-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1718386524</g:id>
+      <g:title>Miel de la Forêt-Noire authentique, bidon de 7 kg en gros</g:title>
+      <g:description>Miel de la Forêt-Noire authentique, bidon de 7 kg en gros. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-7-kg-en-gros/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1473483671</g:id>
+      <g:title>Offre miel de sidr de Peshawar pakistanais 10 kg, deux bidons avec pollen, nigelle et cuillères en bois (livraison gratuite)</g:title>
+      <g:description>Offre miel de sidr de Peshawar pakistanais 10 kg, deux bidons avec pollen, nigelle et cuillères en bois (livraison gratuite). 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-miel-de-sidr-de-peshawar-pakistanais-10-kg-deux-bidons-avec-pollen-nigelle/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>957082464</g:id>
@@ -1279,30 +1303,6 @@
       <g:title>Miel de Salam en rayon 500 g</g:title>
       <g:description>Miel de Salam en rayon 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-salam-en-rayon-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1473483671</g:id>
-      <g:title>Offre miel de sidr de Peshawar pakistanais 10 kg, deux bidons avec pollen, nigelle et cuillères en bois (livraison gratuite)</g:title>
-      <g:description>Offre miel de sidr de Peshawar pakistanais 10 kg, deux bidons avec pollen, nigelle et cuillères en bois (livraison gratuite). 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-miel-de-sidr-de-peshawar-pakistanais-10-kg-deux-bidons-avec-pollen-nigelle/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2000496810</g:id>
-      <g:title>Miel de nigelle authentique 250 g</g:title>
-      <g:description>Miel de nigelle authentique 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-nigelle-authentique-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1718386524</g:id>
-      <g:title>Miel de la Forêt-Noire authentique, bidon de 7 kg en gros</g:title>
-      <g:description>Miel de la Forêt-Noire authentique, bidon de 7 kg en gros. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-7-kg-en-gros/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Miel de châtaignier Abu Farwa 250 g</g:title>
-      <g:description>Miel de châtaignier Abu Farwa 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-ch-taignier-abu-farwa-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1506173115</g:id>

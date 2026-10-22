@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 23:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -24,6 +24,71 @@
       <g:item_group_id>0041010007</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
     <g:mpn>344412243</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>600 pataas</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">326726179</guid>
+      <g:id>326726179</g:id>
+      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
+      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. Ibang Pulot-pukyutan. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/f8WKQQnrwiSohIi6qOz5yGEZSAUqSQkqSWurQS0G.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/4ukEi7rvoFmBHQxtaCmv27uM64U0AhbtTrC5zFIE.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>53.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041027001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>326726179</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2000496810</guid>
+      <g:id>2000496810</g:id>
+      <g:title>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g</g:title>
+      <g:description>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g. Ibang Pulot-pukyutan. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/black-seed-honey-pulot-ng-habbat-al-barakah-250-g/p2000496810?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/g2susDQMUPWeUbqsi80iZBN6GyTG7xoMDtOAbrK2.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>2000496810</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1718386524</guid>
+      <g:id>1718386524</g:id>
+      <g:title>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan</g:title>
+      <g:description>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan. Ibang Pulot-pukyutan. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-7-kilo-galon-sa-pakyawan/p1718386524?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/heQEH8KvUIo8SNK0gWoMUrkfnhpZxuKRIS9zIiZ0.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>964.00 SAR</g:price>
+      <g:sale_price>803.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010006</g:item_group_id>
+      <g:shipping_weight>7.5 kg</g:shipping_weight>
+    <g:mpn>1718386524</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>600 pataas</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1473483671</guid>
+      <g:id>1473483671</g:id>
+      <g:title>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala)</g:title>
+      <g:description>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala). Pulot ng Sidr. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-pulot-ng-sidr-na-peshawari-mula-sa-pakistan-10-kilo-sa-dalawang-galon-may-p/p1473483671?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/9uFXFbYnqv0Gr2t0eT8Htl6hvJE8fNpQG8AJY3Vj.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/SGjZhGEVbFvyiJt7cn7dc8uGxRwCrH8YElq7ifSh.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/RCxXyVitr2oF35Byanu84Zwc9G8nAmA4IgIDTOTy.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1180.00 SAR</g:price>
+      <g:sale_price>885.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007007</g:item_group_id>
+      <g:shipping_weight>10.5 kg</g:shipping_weight>
+    <g:mpn>1473483671</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>600 pataas</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">957082464</guid>
       <g:id>957082464</g:id>
@@ -3382,71 +3447,6 @@
       <g:item_group_id>003-10008001</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1196894843</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1473483671</guid>
-      <g:id>1473483671</g:id>
-      <g:title>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala)</g:title>
-      <g:description>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala). Pulot ng Sidr. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/alok-pulot-ng-sidr-na-peshawari-mula-sa-pakistan-10-kilo-sa-dalawang-galon-may-p/p1473483671?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/9uFXFbYnqv0Gr2t0eT8Htl6hvJE8fNpQG8AJY3Vj.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/SGjZhGEVbFvyiJt7cn7dc8uGxRwCrH8YElq7ifSh.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/RCxXyVitr2oF35Byanu84Zwc9G8nAmA4IgIDTOTy.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1180.00 SAR</g:price>
-      <g:sale_price>885.01 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007007</g:item_group_id>
-      <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>1473483671</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>600 pataas</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">2000496810</guid>
-      <g:id>2000496810</g:id>
-      <g:title>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g</g:title>
-      <g:description>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g. Ibang Pulot-pukyutan. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/black-seed-honey-pulot-ng-habbat-al-barakah-250-g/p2000496810?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/g2susDQMUPWeUbqsi80iZBN6GyTG7xoMDtOAbrK2.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>49.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041004001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>2000496810</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1718386524</guid>
-      <g:id>1718386524</g:id>
-      <g:title>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan</g:title>
-      <g:description>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan. Ibang Pulot-pukyutan. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-7-kilo-galon-sa-pakyawan/p1718386524?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/heQEH8KvUIo8SNK0gWoMUrkfnhpZxuKRIS9zIiZ0.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>964.00 SAR</g:price>
-      <g:sale_price>803.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010006</g:item_group_id>
-      <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:mpn>1718386524</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>600 pataas</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">326726179</guid>
-      <g:id>326726179</g:id>
-      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
-      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. Ibang Pulot-pukyutan. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/f8WKQQnrwiSohIi6qOz5yGEZSAUqSQkqSWurQS0G.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/4ukEi7rvoFmBHQxtaCmv27uM64U0AhbtTrC5zFIE.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>53.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041027001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>326726179</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1506173115</guid>
       <g:id>1506173115</g:id>

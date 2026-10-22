@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 22:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,30 @@
       <g:title>Tunay na Black Forest Honey 10 Kilo Galon sa Pakyawan</g:title>
       <g:description>Tunay na Black Forest Honey 10 Kilo Galon sa Pakyawan. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-10-kilo-galon-sa-pakyawan/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
+      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g</g:title>
+      <g:description>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/black-seed-honey-pulot-ng-habbat-al-barakah-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1718386524</g:id>
+      <g:title>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan</g:title>
+      <g:description>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-7-kilo-galon-sa-pakyawan/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1473483671</g:id>
+      <g:title>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala)</g:title>
+      <g:description>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala). 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-pulot-ng-sidr-na-peshawari-mula-sa-pakistan-10-kilo-sa-dalawang-galon-may-p/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>957082464</g:id>
@@ -1291,30 +1315,6 @@
       <g:title>Pulot ng Salam sa Suklay, Lokal, 500 Gramo</g:title>
       <g:description>Pulot ng Salam sa Suklay, Lokal, 500 Gramo. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-ng-salam-sa-suklay-lokal-500-gramo/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1473483671</g:id>
-      <g:title>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala)</g:title>
-      <g:description>Alok: Pulot ng Sidr na Peshawari mula sa Pakistan, 10 Kilo sa Dalawang Galon, may Pollen, Itim na Buto at Kahoy na Kutsara (Libreng Pagpapadala). 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/alok-pulot-ng-sidr-na-peshawari-mula-sa-pakistan-10-kilo-sa-dalawang-galon-may-p/p1473483671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2000496810</g:id>
-      <g:title>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g</g:title>
-      <g:description>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/black-seed-honey-pulot-ng-habbat-al-barakah-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1718386524</g:id>
-      <g:title>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan</g:title>
-      <g:description>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-7-kilo-galon-sa-pakyawan/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
-      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1506173115</g:id>
