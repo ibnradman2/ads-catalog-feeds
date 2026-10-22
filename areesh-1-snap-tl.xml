@@ -4,10 +4,26 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 13:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:06:42 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1808589975</guid>
+      <g:id>1808589975</g:id>
+      <g:title>3 Pakete ng Bee Pollen na 500 Gramo</g:title>
+      <g:description>3 Pakete ng Bee Pollen na 500 Gramo. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/3-pakete-ng-bee-pollen-na-500-gramo/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>270.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">552143552</guid>
       <g:id>552143552</g:id>
@@ -98,7 +114,7 @@
       <g:additional_image_link>https://cdn.salla.sa/KPEvG/Nwrvi8LUIRIZ786y2QF0B5B4PZe96rr7xSEI3kRK.png</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/KPEvG/r7XmCIItuPi4K5SohLnBTweiFpyur8Ro5XFaaX6Z.png</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/KPEvG/DHMvfUNdSYk64p5wA8IPhwGirVY6XkAE67i5WZoJ.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/85565343-c166-45e5-ad55-a087365e1e46-1000x1000-Etwo0fisJNPWDZKD39blnccMlGwwpfSFhghDqCcX.png</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/KPEvG/6c454ece-8c7a-4ca6-860b-80beaf7bc2ce-1000x1000-AjCpDAS1AWculmakCIlxKuyylnRXBKdPzmNbuhK4.png</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/KPEvG/7f60f88b-8617-49d7-bdfb-fec19f792e48-1000x1000-ZyIFsUc3eiloTnHomYS0n7IYBFowdzpU1hv7h52P.png</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/KPEvG/400cdeb7-c962-4319-89b3-71d1835aa172-1000x1000-YPqy0zBBtcWt1QbH8IJu1HiflIRFFDwo77gK8QAV.png</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/KPEvG/529955f2-8e81-4c7d-8abd-bd83a69d352a-1000x1000-isT9qD0tmQwH8gzaaHSCm6HngH05EqUkPzDNy9nW.png</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>579.99 SAR</g:price>
       <g:sale_price>249.00 SAR</g:sale_price>
       <g:brand>Areesh</g:brand>
@@ -1148,22 +1164,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0061007030</g:item_group_id>
       <g:shipping_weight>0.53 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1808589975</guid>
-      <g:id>1808589975</g:id>
-      <g:title>3 Pakete ng Bee Pollen na 500 Gramo</g:title>
-      <g:description>3 Pakete ng Bee Pollen na 500 Gramo. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/3-pakete-ng-bee-pollen-na-500-gramo/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>270.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007004</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1749454899</guid>
