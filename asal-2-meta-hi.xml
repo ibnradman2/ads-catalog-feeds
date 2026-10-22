@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 07:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:18:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>394421153</g:id>
+      <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
+      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>34055028</g:id>
+      <g:title>क़सीम खलास खजूर का कार्टन 8 किलो</g:title>
+      <g:description>क़सीम खलास खजूर का कार्टन 8 किलो. 8.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1516032688</g:id>
       <g:title>कश्मीरी सिद्र शहद 1 किलो</g:title>
@@ -1429,18 +1441,6 @@
       <g:title>5 किलो पेशावरी सिद्र शहद, मधुमक्खी पराग और कलौंजी के साथ, 15% छूट पर + मुफ़्त डिलीवरी</g:title>
       <g:description>5 किलो पेशावरी सिद्र शहद, मधुमक्खी पराग और कलौंजी के साथ, 15% छूट पर + मुफ़्त डिलीवरी. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/5-15/p1938149777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>34055028</g:id>
-      <g:title>क़सीम खलास खजूर का कार्टन 8 किलो</g:title>
-      <g:description>क़सीम खलास खजूर का कार्टन 8 किलो. 8.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम</g:title>
-      <g:description>कोरियाई लाल जिनसेंग (Ginseng) का तरल अर्क 30 ग्राम. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/ginseng-30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>879350052</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 07:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:18:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>394421153</g:id>
+      <g:title>Extracto líquido de ginseng rojo coreano 30 gramos</g:title>
+      <g:description>Extracto líquido de ginseng rojo coreano 30 gramos. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/extracto-l-quido-de-ginseng-rojo-coreano-30-gramos/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>34055028</g:id>
+      <g:title>Caja de dátil Khalas de Qassim 8 kg</g:title>
+      <g:description>Caja de dátil Khalas de Qassim 8 kg. 8.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/caja-de-d-til-khalas-de-qassim-8-kg/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1516032688</g:id>
       <g:title>Miel de Sidr de Cachemira 1 kg</g:title>
@@ -1423,18 +1435,6 @@
       <g:title>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis</g:title>
       <g:description>5 kg de miel de Sidr de Peshawar con polen y semillas de comino negro, con quince por ciento de descuento + envío gratis. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/5-kg-de-miel-de-sidr-de-peshawar-con-polen-y-semillas-de-comino-negro-con-quince/p1938149777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>34055028</g:id>
-      <g:title>Caja de dátil Khalas de Qassim 8 kg</g:title>
-      <g:description>Caja de dátil Khalas de Qassim 8 kg. 8.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/caja-de-d-til-khalas-de-qassim-8-kg/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>Extracto líquido de ginseng rojo coreano 30 gramos</g:title>
-      <g:description>Extracto líquido de ginseng rojo coreano 30 gramos. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/extracto-l-quido-de-ginseng-rojo-coreano-30-gramos/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>879350052</g:id>

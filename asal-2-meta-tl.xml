@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 07:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:18:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>394421153</g:id>
+      <g:title>Likidong Extract ng Korean Red Ginseng 30 gramo</g:title>
+      <g:description>Likidong Extract ng Korean Red Ginseng 30 gramo. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/likidong-extract-ng-korean-red-ginseng-30-gramo/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>34055028</g:id>
+      <g:title>Kahon ng Datiles na Khalas ng Qassim, 8 Kilo</g:title>
+      <g:description>Kahon ng Datiles na Khalas ng Qassim, 8 Kilo. 8.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/kahon-ng-datiles-na-khalas-ng-qassim-8-kilo/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1516032688</g:id>
       <g:title>Kashmiri Sidr na Pulot, 1 Kilo</g:title>
@@ -1429,18 +1441,6 @@
       <g:title>5 Kilong Pulot ng Sidr na Peshawari na may Pollen at Itim na Buto, May 15 Porsiyentong Diskwento + Libreng Pagpapadala</g:title>
       <g:description>5 Kilong Pulot ng Sidr na Peshawari na may Pollen at Itim na Buto, May 15 Porsiyentong Diskwento + Libreng Pagpapadala. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/5-kilong-pulot-ng-sidr-na-peshawari-na-may-pollen-at-itim-na-buto-may-15-porsiye/p1938149777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>34055028</g:id>
-      <g:title>Kahon ng Datiles na Khalas ng Qassim, 8 Kilo</g:title>
-      <g:description>Kahon ng Datiles na Khalas ng Qassim, 8 Kilo. 8.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/kahon-ng-datiles-na-khalas-ng-qassim-8-kilo/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>Likidong Extract ng Korean Red Ginseng 30 gramo</g:title>
-      <g:description>Likidong Extract ng Korean Red Ginseng 30 gramo. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/likidong-extract-ng-korean-red-ginseng-30-gramo/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>879350052</g:id>

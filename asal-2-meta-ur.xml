@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 07:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:18:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>394421153</g:id>
+      <g:title>کوریائی سرخ جنسنگ کا مائع عرق 30 گرام</g:title>
+      <g:description>کوریائی سرخ جنسنگ کا مائع عرق 30 گرام. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>34055028</g:id>
+      <g:title>خلاص قصیم کھجور کا کارٹن 8 کلو</g:title>
+      <g:description>خلاص قصیم کھجور کا کارٹن 8 کلو. 8.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1516032688</g:id>
       <g:title>کشمیری سدر شہد 1 کلو</g:title>
@@ -1051,18 +1063,6 @@
       <g:title>5 کلو پشاوری سدر شہد پولن اور کلونجی کے ساتھ، 15% رعایت، مفت ڈیلیوری اور اقساط کی سہولت</g:title>
       <g:description>5 کلو پشاوری سدر شہد پولن اور کلونجی کے ساتھ، 15% رعایت، مفت ڈیلیوری اور اقساط کی سہولت. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/5-15/p1938149777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>34055028</g:id>
-      <g:title>خلاص قصیم کھجور کا کارٹن 8 کلو</g:title>
-      <g:description>خلاص قصیم کھجور کا کارٹن 8 کلو. 8.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/8/p34055028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>394421153</g:id>
-      <g:title>کوریائی سرخ جنسنگ کا مائع عرق 30 گرام</g:title>
-      <g:description>کوریائی سرخ جنسنگ کا مائع عرق 30 گرام. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/30/p394421153?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>879350052</g:id>
