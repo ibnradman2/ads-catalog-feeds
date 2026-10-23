@@ -4,10 +4,46 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 10:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:10:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>234492327</g:id>
+      <g:title>Miel de nigella 500 g</g:title>
+      <g:description>Miel de nigella 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-nigella-500-g/p234492327?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>940145162</g:id>
+      <g:title>Miel de Athl (Saal) 250 g</g:title>
+      <g:description>Miel de Athl (Saal) 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-athl-saal-250-g/p940145162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>893293328</g:id>
+      <g:title>4 envases de miel de Habba Sawda (comino negro)</g:title>
+      <g:description>4 envases de miel de Habba Sawda (comino negro). 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/4-envases-de-miel-de-habba-sawda-comino-negro/p893293328?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1957761862</g:id>
+      <g:title>Miel de Sidr de montaña 500 g</g:title>
+      <g:description>Miel de Sidr de montaña 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-de-monta-a-500-g/p1957761862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>399980213</g:id>
+      <g:title>Miel de Sidr real Asimi 1 kg</g:title>
+      <g:description>Miel de Sidr real Asimi 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-real-asimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>503369224</g:id>
+      <g:title>10 kg de miel de Sidr de Cachemira + envío gratis</g:title>
+      <g:description>10 kg de miel de Sidr de Cachemira + envío gratis. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/10-kg-de-miel-de-sidr-de-cachemira-env-o-gratis/p503369224?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>548974799</g:id>
       <g:title>Miel de Sidr de Peshawar 1 kg</g:title>
@@ -87,18 +123,6 @@
       <g:link>https://areesh.sa/es/oferta-2-kg-de-miel-de-sidr-natural-2-kg-gratis/p1036170524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>503369224</g:id>
-      <g:title>10 kg de miel de Sidr de Cachemira + envío gratis</g:title>
-      <g:description>10 kg de miel de Sidr de Cachemira + envío gratis. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/10-kg-de-miel-de-sidr-de-cachemira-env-o-gratis/p503369224?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>399980213</g:id>
-      <g:title>Miel de Sidr real Asimi 1 kg</g:title>
-      <g:description>Miel de Sidr real Asimi 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-real-asimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>311501392</g:id>
       <g:title>Miel de flores natural 8 kg</g:title>
       <g:description>Miel de flores natural 8 kg. 8.5 kg.</g:description>
@@ -109,18 +133,6 @@
       <g:title>Miel de Sidr natural 6 kg (3 envases de 2 kg, el tercero gratis)</g:title>
       <g:description>Miel de Sidr natural 6 kg (3 envases de 2 kg, el tercero gratis). 6.5 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-de-sidr-natural-6-kg-3-envases-de-2-kg-el-tercero-gratis/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>893293328</g:id>
-      <g:title>4 envases de miel de Habba Sawda (comino negro)</g:title>
-      <g:description>4 envases de miel de Habba Sawda (comino negro). 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/4-envases-de-miel-de-habba-sawda-comino-negro/p893293328?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1957761862</g:id>
-      <g:title>Miel de Sidr de montaña 500 g</g:title>
-      <g:description>Miel de Sidr de montaña 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-de-monta-a-500-g/p1957761862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1559827680</g:id>
@@ -447,12 +459,6 @@
       <g:link>https://areesh.sa/es/miel-de-nigella-250-g/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>234492327</g:id>
-      <g:title>Miel de nigella 500 g</g:title>
-      <g:description>Miel de nigella 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-nigella-500-g/p234492327?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>807269030</g:id>
       <g:title>Miel de nigella 1 kg</g:title>
       <g:description>Miel de nigella 1 kg. 1.5 kg.</g:description>
@@ -493,12 +499,6 @@
       <g:title>Miel del Bosque Negro (miel de mielada) 250 g</g:title>
       <g:description>Miel del Bosque Negro (miel de mielada) 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-del-bosque-negro-miel-de-mielada-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>940145162</g:id>
-      <g:title>Miel de Athl (Saal) 250 g</g:title>
-      <g:description>Miel de Athl (Saal) 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-athl-saal-250-g/p940145162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1126573678</g:id>

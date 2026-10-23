@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 09:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:48:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>540081798</g:id>
+      <g:title>چیا کے بیج (چیا سیڈز) - 500 گرام</g:title>
+      <g:description>چیا کے بیج (چیا سیڈز) - 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p540081798?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>5849117</g:id>
       <g:title>شامی خشک انجیر 500 گرام</g:title>
@@ -655,12 +661,6 @@
       <g:title>چیا کے بیج (چیا سیڈز) - 250 گرام</g:title>
       <g:description>چیا کے بیج (چیا سیڈز) - 250 گرام. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ur/250/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>540081798</g:id>
-      <g:title>چیا کے بیج (چیا سیڈز) - 500 گرام</g:title>
-      <g:description>چیا کے بیج (چیا سیڈز) - 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p540081798?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2082144846</g:id>

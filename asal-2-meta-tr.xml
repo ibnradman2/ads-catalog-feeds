@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 10:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:10:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1298738551</g:id>
+      <g:title>Hadramut Dû'an Sidr Balı 1 kg</g:title>
+      <g:description>Hadramut Dû'an Sidr Balı 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/hadramut-d-an-sidr-bal-1-kg/p1298738551?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>424111501</g:id>
       <g:title>Dağ Sidr Balı 1 Kg</g:title>
@@ -1225,12 +1231,6 @@
       <g:title>Anason Balı 1 kg</g:title>
       <g:description>Anason Balı 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/anason-bal-1-kg/p1212649180?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1298738551</g:id>
-      <g:title>Hadramut Dû'an Sidr Balı 1 kg</g:title>
-      <g:description>Hadramut Dû'an Sidr Balı 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/hadramut-d-an-sidr-bal-1-kg/p1298738551?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1798147214</g:id>
