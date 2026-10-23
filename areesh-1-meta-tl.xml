@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 19:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:48:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>769082882</g:id>
+      <g:title>Pulot ng Itim na Kagubatan 250 g</g:title>
+      <g:description>Pulot ng Itim na Kagubatan 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-itim-na-kagubatan-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1606889632</g:id>
+      <g:title>Pulot ng Itim na Buto (Black Seed) 250g</g:title>
+      <g:description>Pulot ng Itim na Buto (Black Seed) 250g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-itim-na-buto-black-seed-250g/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2072608418</g:id>
       <g:title>Galon na 5 kg Pulot ng Shawk (Premium na Samra) + Libreng Delivery</g:title>
@@ -495,12 +507,6 @@
       <g:link>https://areesh.sa/tl/pulot-ng-bulaklak-ng-klouber-500g/p1930504799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1606889632</g:id>
-      <g:title>Pulot ng Itim na Buto (Black Seed) 250g</g:title>
-      <g:description>Pulot ng Itim na Buto (Black Seed) 250g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-itim-na-buto-black-seed-250g/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>807269030</g:id>
       <g:title>Pulot ng Itim na Buto (Black Seed) 1 kg</g:title>
       <g:description>Pulot ng Itim na Buto (Black Seed) 1 kg. 1.5 kg.</g:description>
@@ -535,12 +541,6 @@
       <g:title>Hadhrami Sidr na Pulot 250 g</g:title>
       <g:description>Hadhrami Sidr na Pulot 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/tl/hadhrami-sidr-na-pulot-250-g/p1749454899?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>769082882</g:id>
-      <g:title>Pulot ng Itim na Kagubatan 250 g</g:title>
-      <g:description>Pulot ng Itim na Kagubatan 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-itim-na-kagubatan-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1126573678</g:id>

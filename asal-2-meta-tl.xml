@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 18:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1372377871</g:id>
+      <g:title>Pulot na Talh ng Hail na may Pulot-pukyutan 1 Kilo</g:title>
+      <g:description>Pulot na Talh ng Hail na may Pulot-pukyutan 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-na-talh-ng-hail-na-may-pulot-pukyutan-1-kilo/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1293030213</g:id>
+      <g:title>Natural na Bundok na Sidr Honey na may Honeycomb, 1 Kilo (Libreng Pagpapadala)</g:title>
+      <g:description>Natural na Bundok na Sidr Honey na may Honeycomb, 1 Kilo (Libreng Pagpapadala). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/natural-na-bundok-na-sidr-honey-na-may-honeycomb-1-kilo-libreng-pagpapadala/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm</g:title>
@@ -1299,12 +1311,6 @@
       <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-500-gramo/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1293030213</g:id>
-      <g:title>Natural na Bundok na Sidr Honey na may Honeycomb, 1 Kilo (Libreng Pagpapadala)</g:title>
-      <g:description>Natural na Bundok na Sidr Honey na may Honeycomb, 1 Kilo (Libreng Pagpapadala). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/natural-na-bundok-na-sidr-honey-na-may-honeycomb-1-kilo-libreng-pagpapadala/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>520040245</g:id>
       <g:title>Pulot na Sidr ng Hadhramaut na Doani 500 gramo</g:title>
       <g:description>Pulot na Sidr ng Hadhramaut na Doani 500 gramo. 1.0 kg.</g:description>
@@ -1429,12 +1435,6 @@
       <g:title>3 Kilo ng Pulot na Sidr ng Kashmir, 22% Diskwento at Libreng Pagpapadala (Ani na Bihira ang Kalidad, Napakalimitadong Dami)</g:title>
       <g:description>3 Kilo ng Pulot na Sidr ng Kashmir, 22% Diskwento at Libreng Pagpapadala (Ani na Bihira ang Kalidad, Napakalimitadong Dami). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/3-kilo-ng-pulot-na-sidr-ng-kashmir-22-diskwento-at-libreng-pagpapadala-ani-na-bi/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1372377871</g:id>
-      <g:title>Pulot na Talh ng Hail na may Pulot-pukyutan 1 Kilo</g:title>
-      <g:description>Pulot na Talh ng Hail na may Pulot-pukyutan 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-na-talh-ng-hail-na-may-pulot-pukyutan-1-kilo/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1113268922</g:id>

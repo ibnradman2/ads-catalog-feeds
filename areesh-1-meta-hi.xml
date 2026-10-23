@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 19:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:48:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>769082882</g:id>
+      <g:title>ब्लैक फ़ॉरेस्ट शहद 250 ग्राम</g:title>
+      <g:description>ब्लैक फ़ॉरेस्ट शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/hi/250/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1606889632</g:id>
+      <g:title>ब्लैक सीड (कलौंजी) शहद 250 ग्राम</g:title>
+      <g:description>ब्लैक सीड (कलौंजी) शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/hi/250/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2072608418</g:id>
       <g:title>5 किलो गैलन शौक़ा (समरा प्रीमियम) शहद + (मुफ़्त डिलीवरी)</g:title>
@@ -495,12 +507,6 @@
       <g:link>https://areesh.sa/hi/500/p1930504799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1606889632</g:id>
-      <g:title>ब्लैक सीड (कलौंजी) शहद 250 ग्राम</g:title>
-      <g:description>ब्लैक सीड (कलौंजी) शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/hi/250/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>807269030</g:id>
       <g:title>ब्लैक सीड (कलौंजी) शहद 1 किलो</g:title>
       <g:description>ब्लैक सीड (कलौंजी) शहद 1 किलो. 1.5 kg.</g:description>
@@ -535,12 +541,6 @@
       <g:title>हद्रमी सिद्र शहद 250 ग्राम</g:title>
       <g:description>हद्रमी सिद्र शहद 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/hi/250/p1749454899?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>769082882</g:id>
-      <g:title>ब्लैक फ़ॉरेस्ट शहद 250 ग्राम</g:title>
-      <g:description>ब्लैक फ़ॉरेस्ट शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/hi/250/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1126573678</g:id>

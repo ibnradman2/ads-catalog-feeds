@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 18:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1372377871</g:id>
+      <g:title>Hail Talh Balı Petekli 1 Kg</g:title>
+      <g:description>Hail Talh Balı Petekli 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/hail-talh-bal-petekli-1-kg/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1293030213</g:id>
+      <g:title>Dağ Yöresel Petekli Sidr Balı 1 Kilo (Ücretsiz Kargo)</g:title>
+      <g:description>Dağ Yöresel Petekli Sidr Balı 1 Kilo (Ücretsiz Kargo). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/da-y-resel-petekli-sidr-bal-1-kilo-cretsiz-kargo/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>Yeni Zelanda Manuka Balı Honey Bros Premium UMF 20+ MGO 850+ 250 Gram</g:title>
@@ -1293,12 +1305,6 @@
       <g:link>https://asalaljebal.sa/tr/da-sidr-bal-500-gr/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1293030213</g:id>
-      <g:title>Dağ Yöresel Petekli Sidr Balı 1 Kilo (Ücretsiz Kargo)</g:title>
-      <g:description>Dağ Yöresel Petekli Sidr Balı 1 Kilo (Ücretsiz Kargo). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/da-y-resel-petekli-sidr-bal-1-kilo-cretsiz-kargo/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>520040245</g:id>
       <g:title>Hadramut Dû'an Sidr Balı 500 gram</g:title>
       <g:description>Hadramut Dû'an Sidr Balı 500 gram. 1.0 kg.</g:description>
@@ -1423,12 +1429,6 @@
       <g:title>3 Kg Keşmir Sidr Balı %22 İndirimli, Ücretsiz Kargo (Çok Sınırlı Miktarda Nadir Kalite Hasat)</g:title>
       <g:description>3 Kg Keşmir Sidr Balı %22 İndirimli, Ücretsiz Kargo (Çok Sınırlı Miktarda Nadir Kalite Hasat). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/3-kg-ke-mir-sidr-bal-22-i-ndirimli-cretsiz-kargo-ok-s-n-rl-miktarda-nadir-kalite/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1372377871</g:id>
-      <g:title>Hail Talh Balı Petekli 1 Kg</g:title>
-      <g:description>Hail Talh Balı Petekli 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/hail-talh-bal-petekli-1-kg/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1113268922</g:id>

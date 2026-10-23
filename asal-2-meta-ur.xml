@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1372377871</g:id>
+      <g:title>حائل کا طلح شہد چھتے کے ساتھ 1 کلو</g:title>
+      <g:description>حائل کا طلح شہد چھتے کے ساتھ 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1293030213</g:id>
+      <g:title>دیسی پہاڑی سدر شہد موم کے ساتھ 1 کلو (مفت ڈیلیوری)</g:title>
+      <g:description>دیسی پہاڑی سدر شہد موم کے ساتھ 1 کلو (مفت ڈیلیوری). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1919160088</g:id>
       <g:title>3 پیک الجبال رائل مکسچر، آدھا کلو سائز</g:title>
@@ -981,12 +993,6 @@
       <g:link>https://asalaljebal.sa/ur/500/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1293030213</g:id>
-      <g:title>دیسی پہاڑی سدر شہد موم کے ساتھ 1 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>دیسی پہاڑی سدر شہد موم کے ساتھ 1 کلو (مفت ڈیلیوری). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1158327183</g:id>
       <g:title>پہاڑی سدر شہد 250 گرام</g:title>
       <g:description>پہاڑی سدر شہد 250 گرام. 0.75 kg.</g:description>
@@ -1081,12 +1087,6 @@
       <g:title>3 کلو کشمیری سدر شہد مفت ڈیلیوری کے ساتھ (نایاب معیار کی فصل، بہت محدود مقدار)</g:title>
       <g:description>3 کلو کشمیری سدر شہد مفت ڈیلیوری کے ساتھ (نایاب معیار کی فصل، بہت محدود مقدار). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/3/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1372377871</g:id>
-      <g:title>حائل کا طلح شہد چھتے کے ساتھ 1 کلو</g:title>
-      <g:description>حائل کا طلح شہد چھتے کے ساتھ 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1113268922</g:id>

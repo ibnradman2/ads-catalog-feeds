@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 19:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1372377871</g:id>
+      <g:title>Miel de talh de Haïl en rayon 1 kg</g:title>
+      <g:description>Miel de talh de Haïl en rayon 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-en-rayon-1-kg/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1293030213</g:id>
+      <g:title>Miel de sidr de montagne artisanal en rayon 1 kg (livraison gratuite)</g:title>
+      <g:description>Miel de sidr de montagne artisanal en rayon 1 kg (livraison gratuite). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-artisanal-en-rayon-1-kg-livraison-gratuite/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>Miel de Manuka néo-zélandais Honey Bros Premium UMF+20, MGO 850+, 250 g</g:title>
@@ -1293,12 +1305,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-500-g/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1293030213</g:id>
-      <g:title>Miel de sidr de montagne artisanal en rayon 1 kg (livraison gratuite)</g:title>
-      <g:description>Miel de sidr de montagne artisanal en rayon 1 kg (livraison gratuite). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-artisanal-en-rayon-1-kg-livraison-gratuite/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>520040245</g:id>
       <g:title>Miel de sidr du Hadramaout Daoani 500 g</g:title>
       <g:description>Miel de sidr du Hadramaout Daoani 500 g. 1.0 kg.</g:description>
@@ -1423,12 +1429,6 @@
       <g:title>3 kg de miel de sidr cachemiri avec 22 % de remise et livraison gratuite (récolte de qualité rare, quantité très limitée)</g:title>
       <g:description>3 kg de miel de sidr cachemiri avec 22 % de remise et livraison gratuite (récolte de qualité rare, quantité très limitée). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/3-kg-de-miel-de-sidr-cachemiri-avec-22-de-remise-et-livraison-gratuite-r-colte-d/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1372377871</g:id>
-      <g:title>Miel de talh de Haïl en rayon 1 kg</g:title>
-      <g:description>Miel de talh de Haïl en rayon 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-en-rayon-1-kg/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1113268922</g:id>

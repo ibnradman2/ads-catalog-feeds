@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 19:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:48:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>769082882</g:id>
+      <g:title>Kara Orman Balı 250 g</g:title>
+      <g:description>Kara Orman Balı 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tr/kara-orman-bal-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1606889632</g:id>
+      <g:title>Çörek Otu Balı 250 Gram</g:title>
+      <g:description>Çörek Otu Balı 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tr/rek-otu-bal-250-gram/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2072608418</g:id>
       <g:title>5 Kilo Premium Samra (Dikenli Akasya) Balı Bidonu + Ücretsiz Kargo</g:title>
@@ -495,12 +507,6 @@
       <g:link>https://areesh.sa/tr/yonca-i-e-i-bal-500-g/p1930504799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1606889632</g:id>
-      <g:title>Çörek Otu Balı 250 Gram</g:title>
-      <g:description>Çörek Otu Balı 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tr/rek-otu-bal-250-gram/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>807269030</g:id>
       <g:title>Çörek Otu Balı 1 Kilo</g:title>
       <g:description>Çörek Otu Balı 1 Kilo. 1.5 kg.</g:description>
@@ -535,12 +541,6 @@
       <g:title>Hadramevt Sidr Balı 250 g</g:title>
       <g:description>Hadramevt Sidr Balı 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/tr/hadramevt-sidr-bal-250-g/p1749454899?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>769082882</g:id>
-      <g:title>Kara Orman Balı 250 g</g:title>
-      <g:description>Kara Orman Balı 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tr/kara-orman-bal-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1126573678</g:id>

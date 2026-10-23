@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 18:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1372377871</g:id>
+      <g:title>Madu Akasia Sarang Hail 1 Kilo</g:title>
+      <g:description>Madu Akasia Sarang Hail 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-akasia-sarang-hail-1-kilo/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1293030213</g:id>
+      <g:title>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir)</g:title>
+      <g:description>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-gunung-lokal-dengan-sarang-1-kilo-gratis-ongkir/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>Madu Manuka New Zealand Honey Bros Premium UMF 20+ MGO 850+ 250 Gram</g:title>
@@ -1293,12 +1305,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-sidr-gunung-500g/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1293030213</g:id>
-      <g:title>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir)</g:title>
-      <g:description>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-gunung-lokal-dengan-sarang-1-kilo-gratis-ongkir/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>520040245</g:id>
       <g:title>Madu Sidr Hadhrami Do'an 500 gram</g:title>
       <g:description>Madu Sidr Hadhrami Do'an 500 gram. 1.0 kg.</g:description>
@@ -1423,12 +1429,6 @@
       <g:title>3 Kg Madu Sidr Kashmiri Diskon 22% dengan Gratis Ongkir (Panen Kualitas Langka, Jumlah Sangat Terbatas)</g:title>
       <g:description>3 Kg Madu Sidr Kashmiri Diskon 22% dengan Gratis Ongkir (Panen Kualitas Langka, Jumlah Sangat Terbatas). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/3-kg-madu-sidr-kashmiri-diskon-22-dengan-gratis-ongkir-panen-kualitas-langka-jum/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1372377871</g:id>
-      <g:title>Madu Akasia Sarang Hail 1 Kilo</g:title>
-      <g:description>Madu Akasia Sarang Hail 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-akasia-sarang-hail-1-kilo/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1113268922</g:id>

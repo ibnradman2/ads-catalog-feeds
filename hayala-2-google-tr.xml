@@ -4,10 +4,38 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 19:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:48:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">2139954028</guid>
+      <g:id>2139954028</g:id>
+      <g:title>Psyllium (Katune) Tohumu - 250 g</g:title>
+      <g:description>Psyllium (Katune) Tohumu - 250 g. Kuruyemiş ve Tohumlar. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tr/psyllium-katune-tohumu-250-g/p2139954028?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/jshmOrZtkb30SAiZwAAUFcNBRRBLyVThyPwweHKT.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>2139954028</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">597312706</guid>
+      <g:id>597312706</g:id>
+      <g:title>Organik Elma Sirkesi 500 ml</g:title>
+      <g:description>Organik Elma Sirkesi 500 ml. Sirke. 0.6 kg.</g:description>
+      <g:link>https://hayala.co/tr/organik-elma-sirkesi-500-ml/p597312706?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/sVS1wVVavpQIT9PSKGPQtmehMVhTPiiXEy8pGXEo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.6 kg</g:shipping_weight>
+    <g:mpn>597312706</g:mpn><g:google_product_category>2140</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sirke</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">863172740</guid>
       <g:id>863172740</g:id>
@@ -39,9 +67,9 @@
     <item>
       <guid isPermaLink="false">1071630418</guid>
       <g:id>1071630418</g:id>
-      <g:title>Himalaya Pembe Tuzu (450 g)</g:title>
-      <g:description>Himalaya Pembe Tuzu (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/tr/himalaya-pembe-tuzu-450-g/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Pembe Kaya Tuzu (450 g)</g:title>
+      <g:description>Pembe Kaya Tuzu (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/tr/pembe-kaya-tuzu-450-g/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>9.00 SAR</g:price>
@@ -1436,20 +1464,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1959531644</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Baharat ve Bitkiler</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">2139954028</guid>
-      <g:id>2139954028</g:id>
-      <g:title>Psyllium (Katune) Tohumu - 250 g</g:title>
-      <g:description>Psyllium (Katune) Tohumu - 250 g. Kuruyemiş ve Tohumlar. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tr/psyllium-katune-tohumu-250-g/p2139954028?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/jshmOrZtkb30SAiZwAAUFcNBRRBLyVThyPwweHKT.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>2139954028</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">428797377</guid>
       <g:id>428797377</g:id>
       <g:title>Kurutulmuş Ananas 1 kg</g:title>
@@ -2051,20 +2065,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1859497066</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">597312706</guid>
-      <g:id>597312706</g:id>
-      <g:title>Organik Elma Sirkesi 500 ml</g:title>
-      <g:description>Organik Elma Sirkesi 500 ml. Sirke. 0.6 kg.</g:description>
-      <g:link>https://hayala.co/tr/organik-elma-sirkesi-500-ml/p597312706?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/sVS1wVVavpQIT9PSKGPQtmehMVhTPiiXEy8pGXEo.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.6 kg</g:shipping_weight>
-    <g:mpn>597312706</g:mpn><g:google_product_category>2140</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Sirke</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1087629233</guid>
       <g:id>1087629233</g:id>

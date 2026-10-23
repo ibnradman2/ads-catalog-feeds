@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 18:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1372377871</g:id>
+      <g:title>哈伊勒塔勒赫巢蜜 1公斤</g:title>
+      <g:description>哈伊勒塔勒赫巢蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1293030213</g:id>
+      <g:title>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）</g:title>
+      <g:description>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>新西兰麦卢卡蜂蜜 Honey Bros UMF 20+ MGO 850+ 250克</g:title>
@@ -1293,12 +1305,6 @@
       <g:link>https://asalaljebal.sa/zh/500/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1293030213</g:id>
-      <g:title>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）</g:title>
-      <g:description>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>520040245</g:id>
       <g:title>哈德拉毛多安西德尔蜂蜜 500 克</g:title>
       <g:description>哈德拉毛多安西德尔蜂蜜 500 克. 1.0 kg.</g:description>
@@ -1423,12 +1429,6 @@
       <g:title>3公斤克什米尔西德尔蜂蜜，立减百分之二十二，免运费（稀有品质采收，数量极少）</g:title>
       <g:description>3公斤克什米尔西德尔蜂蜜，立减百分之二十二，免运费（稀有品质采收，数量极少）. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/3/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1372377871</g:id>
-      <g:title>哈伊勒塔勒赫巢蜜 1公斤</g:title>
-      <g:description>哈伊勒塔勒赫巢蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1113268922</g:id>

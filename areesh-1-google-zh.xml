@@ -4,10 +4,40 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 19:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:48:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">769082882</guid>
+      <g:id>769082882</g:id>
+      <g:title>黑森林蜂蜜 250克</g:title>
+      <g:description>黑森林蜂蜜 250克. 其他蜂蜜. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/250/p769082882?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/X21NBmmELIX9Zd4S416sdB00PQxGukbOHQrvjpva.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>43.45 SAR</g:price>
+      <g:brand>阿里什</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>0041010001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1606889632</guid>
+      <g:id>1606889632</g:id>
+      <g:title>黑种草蜂蜜 250克</g:title>
+      <g:description>黑种草蜂蜜 250克. 其他蜂蜜. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/250/p1606889632?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/47ZrAEGmC1us10DS83H51mCeXE2NuLarrLalJABr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.00 SAR</g:price>
+      <g:brand>阿里什</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041004001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>0041004001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2072608418</guid>
       <g:id>2072608418</g:id>
@@ -101,8 +131,8 @@
     <item>
       <guid isPermaLink="false">443912774</guid>
       <g:id>443912774</g:id>
-      <g:title>喜马拉雅山天然西德尔蜂蜜 10公斤</g:title>
-      <g:description>喜马拉雅山天然西德尔蜂蜜 10公斤. 西德尔蜂蜜. 10.5 kg.</g:description>
+      <g:title>天然西德尔蜂蜜 10公斤</g:title>
+      <g:description>天然西德尔蜂蜜 10公斤. 西德尔蜂蜜. 10.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/rfrtE1euIhw3hEFBBKUf6OyjNW9MQSfTl2F7uegf.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/KPEvG/sjT5KpObkCHGGO6NqEFedDIVpx5MY13FnrxO9MLj.png</g:additional_image_link>
@@ -1262,21 +1292,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>0041003002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1606889632</guid>
-      <g:id>1606889632</g:id>
-      <g:title>黑种草蜂蜜 250克</g:title>
-      <g:description>黑种草蜂蜜 250克. 其他蜂蜜. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/250/p1606889632?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/47ZrAEGmC1us10DS83H51mCeXE2NuLarrLalJABr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>49.00 SAR</g:price>
-      <g:brand>阿里什</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041004001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041004001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">807269030</guid>
       <g:id>807269030</g:id>
       <g:title>黑种草蜂蜜 1公斤</g:title>
@@ -1367,21 +1382,6 @@
       <g:item_group_id>0011207001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>0011207001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">769082882</guid>
-      <g:id>769082882</g:id>
-      <g:title>黑森林蜂蜜 250克</g:title>
-      <g:description>黑森林蜂蜜 250克. 其他蜂蜜. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/250/p769082882?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/X21NBmmELIX9Zd4S416sdB00PQxGukbOHQrvjpva.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>43.45 SAR</g:price>
-      <g:brand>阿里什</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041010001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1126573678</guid>
       <g:id>1126573678</g:id>
