@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 02:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:35:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1297784385</g:id>
+      <g:title>اسپغول کے بیج (قطونہ) - 500 گرام</g:title>
+      <g:description>اسپغول کے بیج (قطونہ) - 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2069148014</g:id>
+      <g:title>پسا زیرہ 500 گرام باریک تیز خوشبو</g:title>
+      <g:description>پسا زیرہ 500 گرام باریک تیز خوشبو. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p2069148014?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>357854595</g:id>
+      <g:title>انیسون 1 کلو دانے چائے اور مٹھائی کے لیے</g:title>
+      <g:description>انیسون 1 کلو دانے چائے اور مٹھائی کے لیے. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p357854595?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>572967102</g:id>
       <g:title>شاذلیہ قہوہ</g:title>
@@ -435,12 +453,6 @@
       <g:link>https://hayala.co/ur/250/p1759502471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>357854595</g:id>
-      <g:title>انیسون 1 کلو دانے چائے اور مٹھائی کے لیے</g:title>
-      <g:description>انیسون 1 کلو دانے چائے اور مٹھائی کے لیے. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/1/p357854595?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>222295925</g:id>
       <g:title>انیسون 250 گرام بیکنگ اور انیسون کے مشروب کے لیے</g:title>
       <g:description>انیسون 250 گرام بیکنگ اور انیسون کے مشروب کے لیے. 0.75 kg.</g:description>
@@ -499,12 +511,6 @@
       <g:title>پیکان گری - 250 گرام</g:title>
       <g:description>پیکان گری - 250 گرام. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ur/250/p1003247052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1297784385</g:id>
-      <g:title>اسپغول کے بیج (قطونہ) - 500 گرام</g:title>
-      <g:description>اسپغول کے بیج (قطونہ) - 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1079475470</g:id>
@@ -721,12 +727,6 @@
       <g:title>سونف 250 گرام، سالم بیج، چائے اور بیکنگ کے لیے</g:title>
       <g:description>سونف 250 گرام، سالم بیج، چائے اور بیکنگ کے لیے. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ur/250/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2069148014</g:id>
-      <g:title>پسا زیرہ 500 گرام باریک تیز خوشبو</g:title>
-      <g:description>پسا زیرہ 500 گرام باریک تیز خوشبو. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p2069148014?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1474254823</g:id>

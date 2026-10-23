@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 02:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:35:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1297784385</g:id>
+      <g:title>Buto ng Qatuna - 500gm</g:title>
+      <g:description>Buto ng Qatuna - 500gm. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-qatuna-500gm/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>2069148014</g:id>
+      <g:title>Giniling na Kumin 500gm</g:title>
+      <g:description>Giniling na Kumin 500gm. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/giniling-na-kumin-500gm/p2069148014?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>357854595</g:id>
+      <g:title>Anis 1 Kilo</g:title>
+      <g:description>Anis 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/anis-1-kilo/p357854595?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>572967102</g:id>
       <g:title>Shadhiliya Coffee</g:title>
@@ -447,12 +465,6 @@
       <g:link>https://hayala.co/tl/buto-ng-fenugreek-hulba-250-gramo/p1759502471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>357854595</g:id>
-      <g:title>Anis 1 Kilo</g:title>
-      <g:description>Anis 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/anis-1-kilo/p357854595?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>222295925</g:id>
       <g:title>Anis 250 Gramo</g:title>
       <g:description>Anis 250 Gramo. 0.75 kg.</g:description>
@@ -517,12 +529,6 @@
       <g:title>Pecan Nuts - 250gm</g:title>
       <g:description>Pecan Nuts - 250gm. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tl/pecan-nuts-250gm/p1003247052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1297784385</g:id>
-      <g:title>Buto ng Qatuna - 500gm</g:title>
-      <g:description>Buto ng Qatuna - 500gm. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-qatuna-500gm/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1079475470</g:id>
@@ -763,12 +769,6 @@
       <g:title>Fennel 250 Gramo</g:title>
       <g:description>Fennel 250 Gramo. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tl/fennel-250-gramo/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2069148014</g:id>
-      <g:title>Giniling na Kumin 500gm</g:title>
-      <g:description>Giniling na Kumin 500gm. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/giniling-na-kumin-500gm/p2069148014?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1474254823</g:id>
