@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:11:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1225774404</g:id>
+      <g:title>2 kilos de miel de Sidr de montaña</g:title>
+      <g:description>2 kilos de miel de Sidr de montaña. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/2-kilos-de-miel-de-sidr-de-monta-a/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2057449096</g:id>
+      <g:title>Garrafa de 5 kg de miel de flores silvestres</g:title>
+      <g:description>Garrafa de 5 kg de miel de flores silvestres. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/garrafa-de-5-kg-de-miel-de-flores-silvestres/p2057449096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>509119034</g:id>
+      <g:title>Miel de talh premium 2 kg</g:title>
+      <g:description>Miel de talh premium 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-talh-premium-2-kg/p509119034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1001322391</g:id>
+      <g:title>Garrafa de 7 kilos de miel de flores silvestres + envío gratis</g:title>
+      <g:description>Garrafa de 7 kilos de miel de flores silvestres + envío gratis. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/garrafa-de-7-kilos-de-miel-de-flores-silvestres-env-o-gratis/p1001322391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>658291884</g:id>
       <g:title>Miel de Shawka Samra premium 2 kg</g:title>
@@ -247,30 +271,6 @@
       <g:title>12 envases de miel de Sidr natural</g:title>
       <g:description>12 envases de miel de Sidr natural. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/es/12-envases-de-miel-de-sidr-natural/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>509119034</g:id>
-      <g:title>Miel de talh premium 2 kg</g:title>
-      <g:description>Miel de talh premium 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-talh-premium-2-kg/p509119034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2057449096</g:id>
-      <g:title>Garrafa de 5 kg de miel de flores silvestres</g:title>
-      <g:description>Garrafa de 5 kg de miel de flores silvestres. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/garrafa-de-5-kg-de-miel-de-flores-silvestres/p2057449096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1225774404</g:id>
-      <g:title>2 kilos de miel de Sidr de montaña</g:title>
-      <g:description>2 kilos de miel de Sidr de montaña. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/2-kilos-de-miel-de-sidr-de-monta-a/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1001322391</g:id>
-      <g:title>Garrafa de 7 kilos de miel de flores silvestres + envío gratis</g:title>
-      <g:description>Garrafa de 7 kilos de miel de flores silvestres + envío gratis. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/garrafa-de-7-kilos-de-miel-de-flores-silvestres-env-o-gratis/p1001322391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2072608418</g:id>

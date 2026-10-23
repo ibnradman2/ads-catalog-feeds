@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:10:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1919160088</g:id>
+      <g:title>3 پیک الجبال رائل مکسچر، آدھا کلو سائز</g:title>
+      <g:description>3 پیک الجبال رائل مکسچر، آدھا کلو سائز. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/3/p1919160088?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>195894643</g:id>
+      <g:title>2.5 کلو دیسی جنگلی پھولوں کے شہد کا چھتہ (دیگچی)</g:title>
+      <g:description>2.5 کلو دیسی جنگلی پھولوں کے شہد کا چھتہ (دیگچی). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-5/p195894643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>612621130</g:id>
       <g:title>پیشکش: جنگلی پھولوں کا شہد - پہاڑی سدر شہد - شوکہ شہد (سمرہ) (مفت ڈیلیوری)</g:title>
@@ -1125,12 +1137,6 @@
       <g:link>https://asalaljebal.sa/ur/2-1/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1919160088</g:id>
-      <g:title>3 پیک الجبال رائل مکسچر، آدھا کلو سائز</g:title>
-      <g:description>3 پیک الجبال رائل مکسچر، آدھا کلو سائز. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/3/p1919160088?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>605570884</g:id>
       <g:title>پہاڑی سدر شہد کے دو ڈبے 500 گرام + آدھا کلو نبوی تلبینہ (ہدیہ)</g:title>
       <g:description>پہاڑی سدر شہد کے دو ڈبے 500 گرام + آدھا کلو نبوی تلبینہ (ہدیہ). 2.0 kg.</g:description>
@@ -1171,12 +1177,6 @@
       <g:title>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری)</g:title>
       <g:description>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>195894643</g:id>
-      <g:title>2.5 کلو دیسی جنگلی پھولوں کے شہد کا چھتہ (دیگچی)</g:title>
-      <g:description>2.5 کلو دیسی جنگلی پھولوں کے شہد کا چھتہ (دیگچی). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-5/p195894643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1281597213</g:id>

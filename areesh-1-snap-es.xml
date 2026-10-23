@@ -4,10 +4,71 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:11:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1225774404</guid>
+      <g:id>1225774404</g:id>
+      <g:title>2 kilos de miel de Sidr de montaña</g:title>
+      <g:description>2 kilos de miel de Sidr de montaña. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/2-kilos-de-miel-de-sidr-de-monta-a/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/SAQ9E9yYKsJVPTJchn6vQITnz5tqcKV9bFqWTdrJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>918.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2057449096</guid>
+      <g:id>2057449096</g:id>
+      <g:title>Garrafa de 5 kg de miel de flores silvestres</g:title>
+      <g:description>Garrafa de 5 kg de miel de flores silvestres. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/garrafa-de-5-kg-de-miel-de-flores-silvestres/p2057449096?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/h6bPyWova5Rg12fEk7eipmC30vkWMS7mSp8KPVpJ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1147.00 SAR</g:price>
+      <g:sale_price>918.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002005</g:item_group_id>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">509119034</guid>
+      <g:id>509119034</g:id>
+      <g:title>Miel de talh premium 2 kg</g:title>
+      <g:description>Miel de talh premium 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-talh-premium-2-kg/p509119034?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/P9v18xrgJMLYM9Q66dj2rRXmz3UXwisSXxSKS3sb.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>804.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1001322391</guid>
+      <g:id>1001322391</g:id>
+      <g:title>Garrafa de 7 kilos de miel de flores silvestres + envío gratis</g:title>
+      <g:description>Garrafa de 7 kilos de miel de flores silvestres + envío gratis. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/garrafa-de-7-kilos-de-miel-de-flores-silvestres-env-o-gratis/p1001322391?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/IwKO7Z05bAvm4QV9ZtWCExfZvDDmxOHnKu1SUnLY.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1600.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002007</g:item_group_id>
+      <g:shipping_weight>7.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">658291884</guid>
       <g:id>658291884</g:id>
@@ -636,67 +697,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>1515012</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">509119034</guid>
-      <g:id>509119034</g:id>
-      <g:title>Miel de talh premium 2 kg</g:title>
-      <g:description>Miel de talh premium 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-talh-premium-2-kg/p509119034?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/P9v18xrgJMLYM9Q66dj2rRXmz3UXwisSXxSKS3sb.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>804.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041029004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2057449096</guid>
-      <g:id>2057449096</g:id>
-      <g:title>Garrafa de 5 kg de miel de flores silvestres</g:title>
-      <g:description>Garrafa de 5 kg de miel de flores silvestres. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/garrafa-de-5-kg-de-miel-de-flores-silvestres/p2057449096?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/h6bPyWova5Rg12fEk7eipmC30vkWMS7mSp8KPVpJ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1147.00 SAR</g:price>
-      <g:sale_price>918.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021002005</g:item_group_id>
-      <g:shipping_weight>5.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1225774404</guid>
-      <g:id>1225774404</g:id>
-      <g:title>2 kilos de miel de Sidr de montaña</g:title>
-      <g:description>2 kilos de miel de Sidr de montaña. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/2-kilos-de-miel-de-sidr-de-monta-a/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/SAQ9E9yYKsJVPTJchn6vQITnz5tqcKV9bFqWTdrJ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>918.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041021004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1001322391</guid>
-      <g:id>1001322391</g:id>
-      <g:title>Garrafa de 7 kilos de miel de flores silvestres + envío gratis</g:title>
-      <g:description>Garrafa de 7 kilos de miel de flores silvestres + envío gratis. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/garrafa-de-7-kilos-de-miel-de-flores-silvestres-env-o-gratis/p1001322391?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/IwKO7Z05bAvm4QV9ZtWCExfZvDDmxOHnKu1SUnLY.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1600.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021002007</g:item_group_id>
-      <g:shipping_weight>7.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">2072608418</guid>

@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:15:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -96,9 +96,9 @@
     <item>
       <guid isPermaLink="false">1300632420</guid>
       <g:id>1300632420</g:id>
-      <g:title>Gelée royale chinoise 15 g</g:title>
-      <g:description>Gelée royale chinoise 15 g. Produits de la ruche. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/fr/gel-e-royale-chinoise-15-g/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Gelée royale 15 g</g:title>
+      <g:description>Gelée royale 15 g. Produits de la ruche. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/fr/gel-e-royale-15-g/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/muP7fWDTRXRSzOWbM6qQ0pDn9UdjUezE2UALfu1G.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>35.00 SAR</g:price>

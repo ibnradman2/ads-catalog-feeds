@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 15:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:10:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>646285546</g:id>
+      <g:title>4 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g</g:title>
+      <g:description>4 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/4-adet-yeni-zelanda-manuka-bal-umf-5-mgo-100-250-g/p646285546?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1919160088</g:id>
+      <g:title>3 Paket Kraliyet Dağ Karışımı, 500 gramlık</g:title>
+      <g:description>3 Paket Kraliyet Dağ Karışımı, 500 gramlık. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-paket-kraliyet-da-kar-m-500-graml-k/p1919160088?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>195894643</g:id>
+      <g:title>Yerli Yabani Çiçek Petek Balı Kabı</g:title>
+      <g:description>Yerli Yabani Çiçek Petek Balı Kabı. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yerli-yabani-i-ek-petek-bal-kab/p195894643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>480352283</g:id>
       <g:title>Çin Arı Ana Sütü 15 gr</g:title>
@@ -1461,12 +1479,6 @@
       <g:link>https://asalaljebal.sa/tr/2-kg-kara-orman-bal-1-kg-hediye/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1919160088</g:id>
-      <g:title>3 Paket Kraliyet Dağ Karışımı, 500 gramlık</g:title>
-      <g:description>3 Paket Kraliyet Dağ Karışımı, 500 gramlık. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-paket-kraliyet-da-kar-m-500-graml-k/p1919160088?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1774089564</g:id>
       <g:title>2 Kutu Yeni Zelanda Manuka Balı UMF+15 | UMF+10</g:title>
       <g:description>2 Kutu Yeni Zelanda Manuka Balı UMF+15 | UMF+10. 0.5 kg.</g:description>
@@ -1483,12 +1495,6 @@
       <g:title>Sidr Balı Dağ Karışımı 500 g</g:title>
       <g:description>Sidr Balı Dağ Karışımı 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/sidr-bal-da-kar-m-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>646285546</g:id>
-      <g:title>4 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g</g:title>
-      <g:description>4 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/4-adet-yeni-zelanda-manuka-bal-umf-5-mgo-100-250-g/p646285546?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1592997301</g:id>
@@ -1549,12 +1555,6 @@
       <g:title>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo)</g:title>
       <g:description>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/zel-teklif-4-paket-ke-mir-sidr-bal-3-paket-siyah-rek-otu-bal-ah-ap-bal-ka-cretsi/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>195894643</g:id>
-      <g:title>Yerli Yabani Çiçek Petek Balı Kabı</g:title>
-      <g:description>Yerli Yabani Çiçek Petek Balı Kabı. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yerli-yabani-i-ek-petek-bal-kab/p195894643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1281597213</g:id>
