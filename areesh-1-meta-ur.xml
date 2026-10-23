@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 18:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:16:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2072608418</g:id>
+      <g:title>5 کلو گیلن شوکہ شہد (پریمیم سمرہ) + مفت ڈیلیوری</g:title>
+      <g:description>5 کلو گیلن شوکہ شہد (پریمیم سمرہ) + مفت ڈیلیوری. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/5/p2072608418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2132981371</g:id>
+      <g:title>5 کلو پہاڑی سدر شہد</g:title>
+      <g:description>5 کلو پہاڑی سدر شہد. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/5/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>699162529</g:id>
+      <g:title>7 کلو گیلن پریمیم شوکہ سمرہ شہد + مفت ڈیلیوری</g:title>
+      <g:description>7 کلو گیلن پریمیم شوکہ سمرہ شہد + مفت ڈیلیوری. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/7/p699162529?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1282566969</g:id>
+      <g:title>5 کلو گیلن پریمیم سعودی طلح شہد</g:title>
+      <g:description>5 کلو گیلن پریمیم سعودی طلح شہد. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/5/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1525447859</g:id>
       <g:title>ترکی کا قدرتی چھتے والا شہد 400 گرام</g:title>
@@ -259,30 +283,6 @@
       <g:title>قدرتی سدر شہد کی 12 بوتلیں</g:title>
       <g:description>قدرتی سدر شہد کی 12 بوتلیں. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/ur/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2072608418</g:id>
-      <g:title>5 کلو گیلن شوکہ شہد (پریمیم سمرہ) + مفت ڈیلیوری</g:title>
-      <g:description>5 کلو گیلن شوکہ شہد (پریمیم سمرہ) + مفت ڈیلیوری. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/5/p2072608418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1282566969</g:id>
-      <g:title>5 کلو گیلن پریمیم سعودی طلح شہد</g:title>
-      <g:description>5 کلو گیلن پریمیم سعودی طلح شہد. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/5/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2132981371</g:id>
-      <g:title>5 کلو پہاڑی سدر شہد</g:title>
-      <g:description>5 کلو پہاڑی سدر شہد. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/5/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>699162529</g:id>
-      <g:title>7 کلو گیلن پریمیم شوکہ سمرہ شہد + مفت ڈیلیوری</g:title>
-      <g:description>7 کلو گیلن پریمیم شوکہ سمرہ شہد + مفت ڈیلیوری. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/7/p699162529?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1457720894</g:id>

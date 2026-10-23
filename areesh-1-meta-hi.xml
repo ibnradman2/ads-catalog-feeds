@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 18:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:16:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2072608418</g:id>
+      <g:title>5 किलो गैलन शौक़ा (समरा प्रीमियम) शहद + (मुफ़्त डिलीवरी)</g:title>
+      <g:description>5 किलो गैलन शौक़ा (समरा प्रीमियम) शहद + (मुफ़्त डिलीवरी). 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/5/p2072608418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2132981371</g:id>
+      <g:title>पहाड़ी सिदर शहद 5 किलो</g:title>
+      <g:description>पहाड़ी सिदर शहद 5 किलो. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/5/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>699162529</g:id>
+      <g:title>7 किलो गैलन शौक़ा समरा प्रीमियम शहद + (मुफ़्त डिलीवरी)</g:title>
+      <g:description>7 किलो गैलन शौक़ा समरा प्रीमियम शहद + (मुफ़्त डिलीवरी). 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/7/p699162529?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1282566969</g:id>
+      <g:title>5 किलो का गैलन प्रीमियम तलह शहद</g:title>
+      <g:description>5 किलो का गैलन प्रीमियम तलह शहद. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/5/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1525447859</g:id>
       <g:title>प्राकृतिक मोम वाला शहद 400 ग्राम</g:title>
@@ -283,30 +307,6 @@
       <g:title>12 जार प्राकृतिक सिद्र शहद</g:title>
       <g:description>12 जार प्राकृतिक सिद्र शहद. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/hi/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2072608418</g:id>
-      <g:title>5 किलो गैलन शौक़ा (समरा प्रीमियम) शहद + (मुफ़्त डिलीवरी)</g:title>
-      <g:description>5 किलो गैलन शौक़ा (समरा प्रीमियम) शहद + (मुफ़्त डिलीवरी). 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/5/p2072608418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1282566969</g:id>
-      <g:title>5 किलो का गैलन प्रीमियम तलह शहद</g:title>
-      <g:description>5 किलो का गैलन प्रीमियम तलह शहद. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/5/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2132981371</g:id>
-      <g:title>पहाड़ी सिदर शहद 5 किलो</g:title>
-      <g:description>पहाड़ी सिदर शहद 5 किलो. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/5/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>699162529</g:id>
-      <g:title>7 किलो गैलन शौक़ा समरा प्रीमियम शहद + (मुफ़्त डिलीवरी)</g:title>
-      <g:description>7 किलो गैलन शौक़ा समरा प्रीमियम शहद + (मुफ़्त डिलीवरी). 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/7/p699162529?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1457720894</g:id>
