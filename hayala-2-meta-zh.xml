@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 08:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:11:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>5849117</g:id>
+      <g:title>干无花果 500克</g:title>
+      <g:description>干无花果 500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p5849117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1932133262</g:id>
       <g:title>黑胡椒粉 500克</g:title>
@@ -709,12 +715,6 @@
       <g:title>洋甘菊花250克</g:title>
       <g:description>洋甘菊花250克. 0.75 kg.</g:description>
       <g:link>https://hayala.co/zh/250/p130562279?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>5849117</g:id>
-      <g:title>干无花果 500克</g:title>
-      <g:description>干无花果 500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p5849117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1171722381</g:id>

@@ -4,10 +4,72 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 08:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:07:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">378951093</guid>
+      <g:id>378951093</g:id>
+      <g:title>Hadramevt Sidr Balı 1 kg</g:title>
+      <g:description>Hadramevt Sidr Balı 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/hadramevt-sidr-bal-1-kg/p378951093?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/xok4Bbw7fjjxNzsgtrqwlqoVKTOToaVXrFR6AFDr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>450.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">689992194</guid>
+      <g:id>689992194</g:id>
+      <g:title>Beyaz Mecra Balı 500 g</g:title>
+      <g:description>Beyaz Mecra Balı 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/beyaz-mecra-bal-500-g/p689992194?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/WijCXW3hc5D9ooAXJ37ClrKipuKchaJHijGR3Q4Q.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>172.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041012001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">552143552</guid>
+      <g:id>552143552</g:id>
+      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g</g:title>
+      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-20-mgo-830-250-g/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/1mrXQSiPaYO45MRHX5U4os9cxYg4IeZ37plxXKxg.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>500.00 SAR</g:price>
+      <g:sale_price>399.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041051001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1808589975</guid>
+      <g:id>1808589975</g:id>
+      <g:title>3 Paket Polen Taneleri 500 gram</g:title>
+      <g:description>3 Paket Polen Taneleri 500 gram. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/3-paket-polen-taneleri-500-gram/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>270.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">226374656</guid>
       <g:id>226374656</g:id>
@@ -122,21 +184,6 @@
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">689992194</guid>
-      <g:id>689992194</g:id>
-      <g:title>Beyaz Mecra Balı 500 g</g:title>
-      <g:description>Beyaz Mecra Balı 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/beyaz-mecra-bal-500-g/p689992194?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/WijCXW3hc5D9ooAXJ37ClrKipuKchaJHijGR3Q4Q.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>172.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041012001</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1036170524</guid>
       <g:id>1036170524</g:id>
       <g:title>Kampanya: 2 kg doğal Sidr balı + 2 kg hediye</g:title>
@@ -151,53 +198,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>015007004</g:item_group_id>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1808589975</guid>
-      <g:id>1808589975</g:id>
-      <g:title>3 Paket Polen Taneleri 500 gram</g:title>
-      <g:description>3 Paket Polen Taneleri 500 gram. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/3-paket-polen-taneleri-500-gram/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/e8aff6ca-d63c-4388-96cb-71a698d3a13f-500x500-UH14KUmsFsDprPImxHhrgKBsDubAQTMu5mNy9EIm.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>270.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007004</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">552143552</guid>
-      <g:id>552143552</g:id>
-      <g:title>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g</g:title>
-      <g:description>Yeni Zelanda Manuka Balı Homeland Premium UMF 20+, MGO 830+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tr/yeni-zelanda-manuka-bal-homeland-premium-umf-20-mgo-830-250-g/p552143552?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/1mrXQSiPaYO45MRHX5U4os9cxYg4IeZ37plxXKxg.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>500.00 SAR</g:price>
-      <g:sale_price>399.00 SAR</g:sale_price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041051001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">378951093</guid>
-      <g:id>378951093</g:id>
-      <g:title>Hadramevt Sidr Balı 1 kg</g:title>
-      <g:description>Hadramevt Sidr Balı 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/hadramevt-sidr-bal-1-kg/p378951093?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/xok4Bbw7fjjxNzsgtrqwlqoVKTOToaVXrFR6AFDr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>450.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011207003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">503369224</guid>
