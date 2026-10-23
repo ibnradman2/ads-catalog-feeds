@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 12:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:49:26 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>622456174</g:id>
+      <g:title>Premium Talh Honey 1 Kilo</g:title>
+      <g:description>Premium Talh Honey 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/premium-talh-honey-1-kilo/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala)</g:title>
+      <g:description>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-sa-pulot-wildflower-honey-mountain-sidr-honey-at-shawka-samar-honey-libreng/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>Pakistani Peshawari Sidr Honey 250 Gramo</g:title>
+      <g:description>Pakistani Peshawari Sidr Honey 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pakistani-peshawari-sidr-honey-250-gramo/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1030292422</g:id>
+      <g:title>Kalahating Kilo ng Kashmiri Sidr Honey + Kalahating Kilo ng Black Seed Honey + 2 Garapon ng Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Bla</g:title>
+      <g:description>Kalahating Kilo ng Kashmiri Sidr Honey + Kalahating Kilo ng Black Seed Honey + 2 Garapon ng Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Black Seed. 2.44 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/kalahating-kilo-ng-kashmiri-sidr-honey-kalahating-kilo-ng-black-seed-honey-2-gar/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>480352283</g:id>
       <g:title>Royal Jelly mula sa China 15 g</g:title>
@@ -207,12 +231,6 @@
       <g:link>https://asalaljebal.sa/tl/premium-na-ajwa-dates-mula-sa-aliyah-ng-madinah-2-kilo/p327789971?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>612621130</g:id>
-      <g:title>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala)</g:title>
-      <g:description>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/alok-sa-pulot-wildflower-honey-mountain-sidr-honey-at-shawka-samar-honey-libreng/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>419971394</g:id>
       <g:title>Premium Samra Thorn Honey, 2 Kilo</g:title>
       <g:description>Premium Samra Thorn Honey, 2 Kilo. 2.5 kg.</g:description>
@@ -331,12 +349,6 @@
       <g:title>Natural na Propolis - 65 gramo</g:title>
       <g:description>Natural na Propolis - 65 gramo. 0.565 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/natural-na-propolis-65-gramo/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>622456174</g:id>
-      <g:title>Premium Talh Honey 1 Kilo</g:title>
-      <g:description>Premium Talh Honey 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/premium-talh-honey-1-kilo/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1279698288</g:id>
@@ -523,12 +535,6 @@
       <g:title>Galon ng Sidr na Kashmiri na 3 Kilo + Talbina na 500 Gramo</g:title>
       <g:description>Galon ng Sidr na Kashmiri na 3 Kilo + Talbina na 500 Gramo. 4.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/galon-ng-sidr-na-kashmiri-na-3-kilo-talbina-na-500-gramo/p200955964?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>988896669</g:id>
-      <g:title>Pakistani Peshawari Sidr Honey 250 Gramo</g:title>
-      <g:description>Pakistani Peshawari Sidr Honey 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pakistani-peshawari-sidr-honey-250-gramo/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>804454963</g:id>
@@ -1369,12 +1375,6 @@
       <g:title>Mga Mani na may Pulot (Almond - Cashew - Walnut - Pecan - Hazelnut - Pistachio) (500 Gramo)</g:title>
       <g:description>Mga Mani na may Pulot (Almond - Cashew - Walnut - Pecan - Hazelnut - Pistachio) (500 Gramo). 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/mga-mani-na-may-pulot-almond-cashew-walnut-pecan-hazelnut-pistachio-500-gramo/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1030292422</g:id>
-      <g:title>Kalahating Kilo ng Kashmiri Sidr Honey + Kalahating Kilo ng Black Seed Honey + 2 Garapon ng Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Bla</g:title>
-      <g:description>Kalahating Kilo ng Kashmiri Sidr Honey + Kalahating Kilo ng Black Seed Honey + 2 Garapon ng Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Black Seed. 2.44 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/kalahating-kilo-ng-kashmiri-sidr-honey-kalahating-kilo-ng-black-seed-honey-2-gar/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1632997500</g:id>

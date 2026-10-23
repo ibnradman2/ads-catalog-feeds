@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 12:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:49:26 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>622456174</g:id>
+      <g:title>Premium Talh Balı 1 Kilo</g:title>
+      <g:description>Premium Talh Balı 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/premium-talh-bal-1-kilo/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Yabani Çiçek Balı, Dağ Sidr Balı ve Semur Dikeni Balı Fırsatı (Ücretsiz Kargo)</g:title>
+      <g:description>Yabani Çiçek Balı, Dağ Sidr Balı ve Semur Dikeni Balı Fırsatı (Ücretsiz Kargo). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yabani-i-ek-bal-da-sidr-bal-ve-semur-dikeni-bal-f-rsat-cretsiz-kargo/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>Peşaver Sidr Balı Pakistan 250 Gram</g:title>
+      <g:description>Peşaver Sidr Balı Pakistan 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/pe-aver-sidr-bal-pakistan-250-gram/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1030292422</g:id>
+      <g:title>Yarım Kilo Keşmir Sidr Balı + Yarım Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu</g:title>
+      <g:description>Yarım Kilo Keşmir Sidr Balı + Yarım Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu. 2.44 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yar-m-kilo-ke-mir-sidr-bal-yar-m-kilo-rek-otlu-bal-2-paket-zencefilli-limonlu-ve/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>480352283</g:id>
       <g:title>Çin Arı Ana Sütü 15 gr</g:title>
@@ -207,12 +231,6 @@
       <g:link>https://asalaljebal.sa/tr/aliye-medine-acve-hurmas-se-kin-2-kilo/p327789971?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>612621130</g:id>
-      <g:title>Yabani Çiçek Balı, Dağ Sidr Balı ve Semur Dikeni Balı Fırsatı (Ücretsiz Kargo)</g:title>
-      <g:description>Yabani Çiçek Balı, Dağ Sidr Balı ve Semur Dikeni Balı Fırsatı (Ücretsiz Kargo). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yabani-i-ek-bal-da-sidr-bal-ve-semur-dikeni-bal-f-rsat-cretsiz-kargo/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>419971394</g:id>
       <g:title>Premium Dikenli Semure Balı 2 kg</g:title>
       <g:description>Premium Dikenli Semure Balı 2 kg. 2.5 kg.</g:description>
@@ -331,12 +349,6 @@
       <g:title>Doğal Propolis - 65 Gram</g:title>
       <g:description>Doğal Propolis - 65 Gram. 0.565 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/do-al-propolis-65-gram/p84471662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>622456174</g:id>
-      <g:title>Premium Talh Balı 1 Kilo</g:title>
-      <g:description>Premium Talh Balı 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/premium-talh-bal-1-kilo/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1279698288</g:id>
@@ -523,12 +535,6 @@
       <g:title>Keşmir Sidr Balı Bidon 3 kg + Telbine 500 gram</g:title>
       <g:description>Keşmir Sidr Balı Bidon 3 kg + Telbine 500 gram. 4.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-bidon-3-kg-telbine-500-gram/p200955964?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>988896669</g:id>
-      <g:title>Peşaver Sidr Balı Pakistan 250 Gram</g:title>
-      <g:description>Peşaver Sidr Balı Pakistan 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/pe-aver-sidr-bal-pakistan-250-gram/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>804454963</g:id>
@@ -1363,12 +1369,6 @@
       <g:title>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram)</g:title>
       <g:description>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram). 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/ball-kuruyemi-badem-kaju-ceviz-pekan-cevizi-f-nd-k-antep-f-st-500-gram/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1030292422</g:id>
-      <g:title>Yarım Kilo Keşmir Sidr Balı + Yarım Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu</g:title>
-      <g:description>Yarım Kilo Keşmir Sidr Balı + Yarım Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu. 2.44 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yar-m-kilo-ke-mir-sidr-bal-yar-m-kilo-rek-otlu-bal-2-paket-zencefilli-limonlu-ve/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1632997500</g:id>
