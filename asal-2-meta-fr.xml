@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:11:14 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>36619997</g:id>
+      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium UMF+20, MGO 850+, 250 g</g:title>
+      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium UMF+20, MGO 850+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-umf-20-mgo-850-250-g/p36619997?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1961576516</g:id>
+      <g:title>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g</g:title>
+      <g:description>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/3-pots-de-miel-de-manuka-n-o-z-landais-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>646285546</g:id>
       <g:title>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g</g:title>
@@ -1503,12 +1515,6 @@
       <g:link>https://asalaljebal.sa/fr/bidon-de-3-kg-de-miel-de-sidr-du-cachemire-3-sachets-de-talbina-proph-tique-cade/p1592997301?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1961576516</g:id>
-      <g:title>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g</g:title>
-      <g:description>3 pots de miel de Manuka néo-zélandais UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/3-pots-de-miel-de-manuka-n-o-z-landais-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>431101948</g:id>
       <g:title>Miel d'acacia 250 g</g:title>
       <g:description>Miel d'acacia 250 g. 0.75 kg.</g:description>
@@ -1519,12 +1525,6 @@
       <g:title>Miel de Salam en rayon 500 g</g:title>
       <g:description>Miel de Salam en rayon 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-salam-en-rayon-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>36619997</g:id>
-      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium UMF+20, MGO 850+, 250 g</g:title>
-      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium UMF+20, MGO 850+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-umf-20-mgo-850-250-g/p36619997?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1170804255</g:id>

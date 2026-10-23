@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:16:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>863172740</g:id>
+      <g:title>कैमोमाइल के फूल 500 ग्राम</g:title>
+      <g:description>कैमोमाइल के फूल 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>सौंफ 1 किलो</g:title>
+      <g:description>सौंफ 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1071630418</g:id>
+      <g:title>हिमालयन गुलाबी नमक (450 ग्राम)</g:title>
+      <g:description>हिमालयन गुलाबी नमक (450 ग्राम). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/hi/450/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1300632420</g:id>
+      <g:title>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम</g:title>
+      <g:description>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/hi/15/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>140660040</g:id>
       <g:title>जंगली ज़ातर की पत्तियाँ 1 किलो</g:title>
@@ -37,18 +61,6 @@
       <g:title>यमनी काली किशमिश - 500 ग्राम</g:title>
       <g:description>यमनी काली किशमिश - 500 ग्राम. 1.0 kg.</g:description>
       <g:link>https://hayala.co/hi/500/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1071630418</g:id>
-      <g:title>हिमालयन गुलाबी नमक (450 ग्राम)</g:title>
-      <g:description>हिमालयन गुलाबी नमक (450 ग्राम). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/hi/450/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1300632420</g:id>
-      <g:title>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम</g:title>
-      <g:description>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/hi/15/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>540081798</g:id>
@@ -411,12 +423,6 @@
       <g:link>https://hayala.co/hi/50/p656732927?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>2023441167</g:id>
-      <g:title>सौंफ 1 किलो</g:title>
-      <g:description>सौंफ 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>257201169</g:id>
       <g:title>नख़वा (नानख़ा) 1 किलो</g:title>
       <g:description>नख़वा (नानख़ा) 1 किलो. 1.5 kg.</g:description>
@@ -739,12 +745,6 @@
       <g:title>मिश्रित पिसा मसाला 500gm</g:title>
       <g:description>मिश्रित पिसा मसाला 500gm. 1.0 kg.</g:description>
       <g:link>https://hayala.co/hi/500gm/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>863172740</g:id>
-      <g:title>कैमोमाइल के फूल 500 ग्राम</g:title>
-      <g:description>कैमोमाइल के फूल 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>130562279</g:id>

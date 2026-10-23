@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:11:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1525447859</g:id>
+      <g:title>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo</g:title>
+      <g:description>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo. 0.9 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-pulot-pukyutan-na-may-suklay-mula-turkey-400-gramo/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>758688219</g:id>
+      <g:title>Natural na Inuming Pulot na may Luya, Lemon at Turmeric 550 ml</g:title>
+      <g:description>Natural na Inuming Pulot na may Luya, Lemon at Turmeric 550 ml. 0.55 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-inuming-pulot-na-may-luya-lemon-at-turmeric-550-ml/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
+      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1225774404</g:id>
       <g:title>2 Kilo ng Pulot ng Sidr sa Bundok</g:title>
@@ -97,12 +115,6 @@
       <g:title>Pulot ng Shawk (Premium na Samra) 250g</g:title>
       <g:description>Pulot ng Shawk (Premium na Samra) 250g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/tl/pulot-ng-shawk-premium-na-samra-250g/p482548143?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>443912774</g:id>
-      <g:title>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya</g:title>
-      <g:description>Natural na Sidr Honey 10 Kilo mula sa mga Bundok ng Himalaya. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo-mula-sa-mga-bundok-ng-himalaya/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1559827680</g:id>
@@ -585,12 +597,6 @@
       <g:link>https://areesh.sa/tl/natural-na-lokal-na-propolis-65-gramo/p283801056?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1525447859</g:id>
-      <g:title>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo</g:title>
-      <g:description>Natural na Pulot-pukyutan na may Suklay mula Turkey, 400 Gramo. 0.9 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-pulot-pukyutan-na-may-suklay-mula-turkey-400-gramo/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>26663992</g:id>
       <g:title>Pollen</g:title>
       <g:description>Pollen. 0.5 kg.</g:description>
@@ -619,12 +625,6 @@
       <g:title>Pollen ng Palmera ng Datiles (Tal'a an-Nakheel)</g:title>
       <g:description>Pollen ng Palmera ng Datiles (Tal'a an-Nakheel).</g:description>
       <g:link>https://areesh.sa/tl/pollen-ng-palmera-ng-datiles-tal-a-an-nakheel/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>758688219</g:id>
-      <g:title>Natural na Inuming Pulot na may Luya, Lemon at Turmeric 550 ml</g:title>
-      <g:description>Natural na Inuming Pulot na may Luya, Lemon at Turmeric 550 ml. 0.55 kg.</g:description>
-      <g:link>https://areesh.sa/tl/natural-na-inuming-pulot-na-may-luya-lemon-at-turmeric-550-ml/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
   </channel>
 </rss>

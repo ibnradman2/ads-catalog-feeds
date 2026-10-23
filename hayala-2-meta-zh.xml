@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:16:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>863172740</g:id>
+      <g:title>洋甘菊花500克</g:title>
+      <g:description>洋甘菊花500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>茴香籽1公斤</g:title>
+      <g:description>茴香籽1公斤. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1071630418</g:id>
+      <g:title>喜马拉雅粉盐（450克）</g:title>
+      <g:description>喜马拉雅粉盐（450克）. 0.95 kg.</g:description>
+      <g:link>https://hayala.co/zh/450/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1300632420</g:id>
+      <g:title>中国蜂王浆15克</g:title>
+      <g:description>中国蜂王浆15克. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/zh/15/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>140660040</g:id>
       <g:title>野生百里香叶1公斤</g:title>
@@ -37,18 +61,6 @@
       <g:title>也门黑葡萄干 - 500克</g:title>
       <g:description>也门黑葡萄干 - 500克. 1.0 kg.</g:description>
       <g:link>https://hayala.co/zh/500/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1071630418</g:id>
-      <g:title>喜马拉雅粉盐（450克）</g:title>
-      <g:description>喜马拉雅粉盐（450克）. 0.95 kg.</g:description>
-      <g:link>https://hayala.co/zh/450/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1300632420</g:id>
-      <g:title>中国蜂王浆15克</g:title>
-      <g:description>中国蜂王浆15克. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/zh/15/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>540081798</g:id>
@@ -393,12 +405,6 @@
       <g:link>https://hayala.co/zh/50/p656732927?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>2023441167</g:id>
-      <g:title>茴香籽1公斤</g:title>
-      <g:description>茴香籽1公斤. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>257201169</g:id>
       <g:title>阿育旺籽1公斤</g:title>
       <g:description>阿育旺籽1公斤. 1.5 kg.</g:description>
@@ -715,12 +721,6 @@
       <g:title>混合香料粉 500克</g:title>
       <g:description>混合香料粉 500克. 1.0 kg.</g:description>
       <g:link>https://hayala.co/zh/500/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>863172740</g:id>
-      <g:title>洋甘菊花500克</g:title>
-      <g:description>洋甘菊花500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>130562279</g:id>

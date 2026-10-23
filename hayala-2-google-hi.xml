@@ -4,10 +4,66 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:16:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">863172740</guid>
+      <g:id>863172740</g:id>
+      <g:title>कैमोमाइल के फूल 500 ग्राम</g:title>
+      <g:description>कैमोमाइल के फूल 500 ग्राम. मेवे और बीज. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p863172740?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/cszc2VVA8k4n3zjoLrROSKxOQGnlgZRCKHtcgCZ1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>863172740</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मेवे और बीज</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2023441167</guid>
+      <g:id>2023441167</g:id>
+      <g:title>सौंफ 1 किलो</g:title>
+      <g:description>सौंफ 1 किलो. मेवे और बीज. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p2023441167?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/pM8GuDbWkxAF8VTF1u2KseYsU2A90IwmvFRWs82W.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>2023441167</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मेवे और बीज</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1071630418</guid>
+      <g:id>1071630418</g:id>
+      <g:title>हिमालयन गुलाबी नमक (450 ग्राम)</g:title>
+      <g:description>हिमालयन गुलाबी नमक (450 ग्राम). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/hi/450/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.00 SAR</g:price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.95 kg</g:shipping_weight>
+    <g:mpn>1071630418</g:mpn><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1300632420</guid>
+      <g:id>1300632420</g:id>
+      <g:title>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम</g:title>
+      <g:description>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम. मधुमक्खी उत्पाद. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/hi/15/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/muP7fWDTRXRSzOWbM6qQ0pDn9UdjUezE2UALfu1G.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.515 kg</g:shipping_weight>
+    <g:mpn>1300632420</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मधुमक्खी उत्पाद</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">140660040</guid>
       <g:id>140660040</g:id>
@@ -79,34 +135,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>770458728</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>सूखे फल</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1071630418</guid>
-      <g:id>1071630418</g:id>
-      <g:title>हिमालयन गुलाबी नमक (450 ग्राम)</g:title>
-      <g:description>हिमालयन गुलाबी नमक (450 ग्राम). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/hi/450/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>9.00 SAR</g:price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.95 kg</g:shipping_weight>
-    <g:mpn>1071630418</g:mpn><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:unit_pricing_measure>450g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1300632420</guid>
-      <g:id>1300632420</g:id>
-      <g:title>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम</g:title>
-      <g:description>चीनी रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम. मधुमक्खी उत्पाद. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/hi/15/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/muP7fWDTRXRSzOWbM6qQ0pDn9UdjUezE2UALfu1G.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:mpn>1300632420</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मधुमक्खी उत्पाद</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">540081798</guid>
       <g:id>540081798</g:id>
@@ -991,20 +1019,6 @@
       <g:shipping_weight>0.55 kg</g:shipping_weight>
     <g:mpn>656732927</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मेवे और बीज</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">2023441167</guid>
-      <g:id>2023441167</g:id>
-      <g:title>सौंफ 1 किलो</g:title>
-      <g:description>सौंफ 1 किलो. मेवे और बीज. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p2023441167?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/pM8GuDbWkxAF8VTF1u2KseYsU2A90IwmvFRWs82W.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>2023441167</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मेवे और बीज</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">257201169</guid>
       <g:id>257201169</g:id>
       <g:title>नख़वा (नानख़ा) 1 किलो</g:title>
@@ -1762,20 +1776,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1732878396</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मसाले और जड़ी-बूटियाँ</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">863172740</guid>
-      <g:id>863172740</g:id>
-      <g:title>कैमोमाइल के फूल 500 ग्राम</g:title>
-      <g:description>कैमोमाइल के फूल 500 ग्राम. मेवे और बीज. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p863172740?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/cszc2VVA8k4n3zjoLrROSKxOQGnlgZRCKHtcgCZ1.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>863172740</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>प्रदर्शन डी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से कम</g:custom_label_2><g:custom_label_3>मेवे और बीज</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">130562279</guid>
       <g:id>130562279</g:id>

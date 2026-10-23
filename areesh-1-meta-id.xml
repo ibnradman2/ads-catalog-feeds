@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:11:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1525447859</g:id>
+      <g:title>Madu Sarang Alami 400 Gram</g:title>
+      <g:description>Madu Sarang Alami 400 Gram. 0.9 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sarang-alami-400-gram/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>758688219</g:id>
+      <g:title>Minuman Madu Alami Jahe, Lemon, dan Kunyit 550 ml</g:title>
+      <g:description>Minuman Madu Alami Jahe, Lemon, dan Kunyit 550 ml. 0.55 kg.</g:description>
+      <g:link>https://areesh.sa/ind/minuman-madu-alami-jahe-lemon-dan-kunyit-550-ml/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>Madu Sidr Alami 10 Kilo</g:title>
+      <g:description>Madu Sidr Alami 10 Kilo. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-alami-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1225774404</g:id>
       <g:title>Madu sidr gunung 2 kg</g:title>
@@ -97,12 +115,6 @@
       <g:title>Madu Syauka (Samra Premium) 250 g</g:title>
       <g:description>Madu Syauka (Samra Premium) 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-syauka-samra-premium-250-g/p482548143?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>443912774</g:id>
-      <g:title>Madu Sidr Alami 10 Kilo</g:title>
-      <g:description>Madu Sidr Alami 10 Kilo. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-alami-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1559827680</g:id>
@@ -585,12 +597,6 @@
       <g:link>https://areesh.sa/ind/propolis-lokal-alami-65-gram/p283801056?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1525447859</g:id>
-      <g:title>Madu Sarang Alami 400 Gram</g:title>
-      <g:description>Madu Sarang Alami 400 Gram. 0.9 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sarang-alami-400-gram/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>26663992</g:id>
       <g:title>Serbuk Sari Lebah</g:title>
       <g:description>Serbuk Sari Lebah. 0.5 kg.</g:description>
@@ -619,12 +625,6 @@
       <g:title>Serbuk Sari Kurma (Tal' An-Nakhil)</g:title>
       <g:description>Serbuk Sari Kurma (Tal' An-Nakhil).</g:description>
       <g:link>https://areesh.sa/ind/serbuk-sari-kurma-tal-an-nakhil/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>758688219</g:id>
-      <g:title>Minuman Madu Alami Jahe, Lemon, dan Kunyit 550 ml</g:title>
-      <g:description>Minuman Madu Alami Jahe, Lemon, dan Kunyit 550 ml. 0.55 kg.</g:description>
-      <g:link>https://areesh.sa/ind/minuman-madu-alami-jahe-lemon-dan-kunyit-550-ml/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
   </channel>
 </rss>

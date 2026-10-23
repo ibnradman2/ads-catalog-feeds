@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:11:14 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>36619997</g:id>
+      <g:title>Yeni Zelanda Manuka Balı Honey Bros Premium UMF 20+ MGO 850+ 250 Gram</g:title>
+      <g:description>Yeni Zelanda Manuka Balı Honey Bros Premium UMF 20+ MGO 850+ 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yeni-zelanda-manuka-bal-honey-bros-premium-umf-20-mgo-850-250-gram/p36619997?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1961576516</g:id>
+      <g:title>3 Adet Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g</g:title>
+      <g:description>3 Adet Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-adet-yeni-zelanda-manuka-bal-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>646285546</g:id>
       <g:title>4 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g</g:title>
@@ -1503,12 +1515,6 @@
       <g:link>https://asalaljebal.sa/tr/3-kg-ke-mir-sidr-bal-galon-3-telbine-hediye/p1592997301?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1961576516</g:id>
-      <g:title>3 Adet Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g</g:title>
-      <g:description>3 Adet Yeni Zelanda Manuka Balı UMF+10, MGO 300+, 250 g. 1.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-adet-yeni-zelanda-manuka-bal-umf-10-mgo-300-250-g/p1961576516?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>431101948</g:id>
       <g:title>Akasya Balı 250 Gram</g:title>
       <g:description>Akasya Balı 250 Gram. 0.75 kg.</g:description>
@@ -1519,12 +1525,6 @@
       <g:title>Petekli Yerli Sidr Balı 500 gram</g:title>
       <g:description>Petekli Yerli Sidr Balı 500 gram. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/petekli-yerli-sidr-bal-500-gram/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>36619997</g:id>
-      <g:title>Yeni Zelanda Manuka Balı Honey Bros Premium UMF 20+ MGO 850+ 250 Gram</g:title>
-      <g:description>Yeni Zelanda Manuka Balı Honey Bros Premium UMF 20+ MGO 850+ 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yeni-zelanda-manuka-bal-honey-bros-premium-umf-20-mgo-850-250-gram/p36619997?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1170804255</g:id>

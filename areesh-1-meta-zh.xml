@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:11:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1525447859</g:id>
+      <g:title>天然蜂巢蜜 400克</g:title>
+      <g:description>天然蜂巢蜜 400克. 0.9 kg.</g:description>
+      <g:link>https://areesh.sa/zh/400/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>758688219</g:id>
+      <g:title>天然姜黄柠檬生姜蜂蜜饮品550毫升</g:title>
+      <g:description>天然姜黄柠檬生姜蜂蜜饮品550毫升. 0.55 kg.</g:description>
+      <g:link>https://areesh.sa/zh/550/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>喜马拉雅山天然西德尔蜂蜜 10公斤</g:title>
+      <g:description>喜马拉雅山天然西德尔蜂蜜 10公斤. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1225774404</g:id>
       <g:title>2公斤山地西德尔蜜</g:title>
@@ -97,12 +115,6 @@
       <g:title>萨马尔蜂蜜（Shawka优质款）250克</g:title>
       <g:description>萨马尔蜂蜜（Shawka优质款）250克. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/zh/shawka-250/p482548143?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>443912774</g:id>
-      <g:title>喜马拉雅山天然西德尔蜂蜜 10公斤</g:title>
-      <g:description>喜马拉雅山天然西德尔蜂蜜 10公斤. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1559827680</g:id>
@@ -585,12 +597,6 @@
       <g:link>https://areesh.sa/zh/65/p283801056?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1525447859</g:id>
-      <g:title>天然蜂巢蜜 400克</g:title>
-      <g:description>天然蜂巢蜜 400克. 0.9 kg.</g:description>
-      <g:link>https://areesh.sa/zh/400/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>26663992</g:id>
       <g:title>蜂花粉</g:title>
       <g:description>蜂花粉. 0.5 kg.</g:description>
@@ -619,12 +625,6 @@
       <g:title>椰枣花粉</g:title>
       <g:description>椰枣花粉.</g:description>
       <g:link>https://areesh.sa/zh/product/p957180464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>758688219</g:id>
-      <g:title>天然姜黄柠檬生姜蜂蜜饮品550毫升</g:title>
-      <g:description>天然姜黄柠檬生姜蜂蜜饮品550毫升. 0.55 kg.</g:description>
-      <g:link>https://areesh.sa/zh/550/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
   </channel>
 </rss>
