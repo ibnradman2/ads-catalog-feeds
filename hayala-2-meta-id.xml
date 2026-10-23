@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 22 Oct 2026 21:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 02:33:49 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>572967102</g:id>
+      <g:title>Kopi Arab Al-Shadhliyah</g:title>
+      <g:description>Kopi Arab Al-Shadhliyah. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/kopi-arab-al-shadhliyah/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1381474212</g:id>
       <g:title>Kismis Hitam Yaman - 1 Kg</g:title>
@@ -841,12 +847,6 @@
       <g:title>Nakhwa (Nanakhah) 250 Gram</g:title>
       <g:description>Nakhwa (Nanakhah) 250 Gram. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ind/nakhwa-nanakhah-250-gram/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>572967102</g:id>
-      <g:title>Kopi Arab Al-Shadhliyah</g:title>
-      <g:description>Kopi Arab Al-Shadhliyah. 0.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/kopi-arab-al-shadhliyah/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1091901970</g:id>
