@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Royal Jelly mula sa China 15 g</g:title>
+      <g:description>Royal Jelly mula sa China 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-jelly-mula-sa-china-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>622456174</g:id>
       <g:title>Premium Talh Honey 1 Kilo</g:title>
@@ -31,12 +37,6 @@
       <g:title>Kalahating Kilo ng Kashmiri Sidr Honey + Kalahating Kilo ng Black Seed Honey + 2 Garapon ng Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Bla</g:title>
       <g:description>Kalahating Kilo ng Kashmiri Sidr Honey + Kalahating Kilo ng Black Seed Honey + 2 Garapon ng Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Black Seed. 2.44 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/kalahating-kilo-ng-kashmiri-sidr-honey-kalahating-kilo-ng-black-seed-honey-2-gar/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>480352283</g:id>
-      <g:title>Royal Jelly mula sa China 15 g</g:title>
-      <g:description>Royal Jelly mula sa China 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-jelly-mula-sa-china-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>501836455</g:id>

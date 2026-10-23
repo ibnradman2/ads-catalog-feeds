@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>339666110</g:id>
+      <g:title>Walnut Amerika 250 gram</g:title>
+      <g:description>Walnut Amerika 250 gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/walnut-amerika-250-gram/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>770458728</g:id>
+      <g:title>Kismis Hitam Yaman - 500 g</g:title>
+      <g:description>Kismis Hitam Yaman - 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/kismis-hitam-yaman-500-g/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1071630418</g:id>
       <g:title>Garam Himalaya Merah Muda (450 g)</g:title>
@@ -495,12 +507,6 @@
       <g:link>https://hayala.co/ind/jahe-bubuk-500-g/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>339666110</g:id>
-      <g:title>Walnut Amerika 250 gram</g:title>
-      <g:description>Walnut Amerika 250 gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/walnut-amerika-250-gram/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>348925444</g:id>
       <g:title>Kenari Amerika - 1 Kg</g:title>
       <g:description>Kenari Amerika - 1 Kg. 1.5 kg.</g:description>
@@ -643,12 +649,6 @@
       <g:title>Pepaya Kering 1 Kilo</g:title>
       <g:description>Pepaya Kering 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://hayala.co/ind/pepaya-kering-1-kilo/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>770458728</g:id>
-      <g:title>Kismis Hitam Yaman - 500 g</g:title>
-      <g:description>Kismis Hitam Yaman - 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/kismis-hitam-yaman-500-g/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>482971108</g:id>

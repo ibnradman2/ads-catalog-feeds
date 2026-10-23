@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Jalea real china 15 g (alimento de las abejas reinas)</g:title>
+      <g:description>Jalea real china 15 g (alimento de las abejas reinas). 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/jalea-real-china-15-g-alimento-de-las-abejas-reinas/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>622456174</g:id>
       <g:title>Miel de talh premium 1 kg</g:title>
@@ -31,12 +37,6 @@
       <g:title>Medio kilo de miel de Sidr de Cachemira + medio kilo de miel de comino negro + 2 envases de miel con jengibre, limón y cúrcuma (470 g) + granos de com</g:title>
       <g:description>Medio kilo de miel de Sidr de Cachemira + medio kilo de miel de comino negro + 2 envases de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro. 2.44 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/medio-kilo-de-miel-de-sidr-de-cachemira-medio-kilo-de-miel-de-comino-negro-2-env/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>480352283</g:id>
-      <g:title>Jalea real china 15 g (alimento de las abejas reinas)</g:title>
-      <g:description>Jalea real china 15 g (alimento de las abejas reinas). 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/jalea-real-china-15-g-alimento-de-las-abejas-reinas/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>501836455</g:id>

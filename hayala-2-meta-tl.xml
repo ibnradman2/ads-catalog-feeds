@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>339666110</g:id>
+      <g:title>Walnut (Amerikano) - 250 Gramo</g:title>
+      <g:description>Walnut (Amerikano) - 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/walnut-amerikano-250-gramo/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>770458728</g:id>
+      <g:title>Itim na Pasas na Yemeni - 500 Gramo</g:title>
+      <g:description>Itim na Pasas na Yemeni - 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/itim-na-pasas-na-yemeni-500-gramo/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1071630418</g:id>
       <g:title>Pink Himalayan Salt (450 g)</g:title>
@@ -513,12 +525,6 @@
       <g:link>https://hayala.co/tl/giniling-na-luya-ginger-500-gramo/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>339666110</g:id>
-      <g:title>Walnut (Amerikano) - 250 Gramo</g:title>
-      <g:description>Walnut (Amerikano) - 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/walnut-amerikano-250-gramo/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>348925444</g:id>
       <g:title>Walnut (Amerikano) - 1 Kilo</g:title>
       <g:description>Walnut (Amerikano) - 1 Kilo. 1.5 kg.</g:description>
@@ -667,12 +673,6 @@
       <g:title>Tuyong Papaya 1kg</g:title>
       <g:description>Tuyong Papaya 1kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tl/tuyong-papaya-1kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>770458728</g:id>
-      <g:title>Itim na Pasas na Yemeni - 500 Gramo</g:title>
-      <g:description>Itim na Pasas na Yemeni - 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/itim-na-pasas-na-yemeni-500-gramo/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>482971108</g:id>

@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">480352283</guid>
+      <g:id>480352283</g:id>
+      <g:title>Gelée royale chinoise 15 g</g:title>
+      <g:description>Gelée royale chinoise 15 g. Produits de la ruche. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gel-e-royale-chinoise-15-g/p480352283?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/U5TC5X2vvywkk88ePGvQCH4XcohfACtFYIFhcFdH.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061003</g:item_group_id>
+      <g:shipping_weight>0.515 kg</g:shipping_weight>
+    <g:mpn>480352283</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">622456174</guid>
       <g:id>622456174</g:id>
@@ -70,21 +85,6 @@
       <g:item_group_id>0140101019</g:item_group_id>
       <g:shipping_weight>2.44 kg</g:shipping_weight>
     <g:mpn>1030292422</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">480352283</guid>
-      <g:id>480352283</g:id>
-      <g:title>Gelée royale chinoise 15 g</g:title>
-      <g:description>Gelée royale chinoise 15 g. Produits de la ruche. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gel-e-royale-chinoise-15-g/p480352283?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/U5TC5X2vvywkk88ePGvQCH4XcohfACtFYIFhcFdH.jpeg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061003</g:item_group_id>
-      <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:mpn>480352283</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">501836455</guid>
       <g:id>501836455</g:id>

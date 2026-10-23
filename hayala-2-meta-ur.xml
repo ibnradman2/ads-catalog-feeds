@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>339666110</g:id>
+      <g:title>امریکی اخروٹ (عین الجمل) - 250gm</g:title>
+      <g:description>امریکی اخروٹ (عین الجمل) - 250gm. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ur/250gm/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>770458728</g:id>
+      <g:title>یمنی کالی کشمش - 500 گرام</g:title>
+      <g:description>یمنی کالی کشمش - 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1071630418</g:id>
       <g:title>گلابی ہمالیائی نمک (450 گرام)</g:title>
@@ -501,12 +513,6 @@
       <g:link>https://hayala.co/ur/500/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>339666110</g:id>
-      <g:title>امریکی اخروٹ (عین الجمل) - 250gm</g:title>
-      <g:description>امریکی اخروٹ (عین الجمل) - 250gm. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ur/250gm/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>348925444</g:id>
       <g:title>امریکی اخروٹ (عین الجمل) - 1 کلو</g:title>
       <g:description>امریکی اخروٹ (عین الجمل) - 1 کلو. 1.5 kg.</g:description>
@@ -637,12 +643,6 @@
       <g:title>خشک پپیتا 1 کلو، نرم قاشیں مہمان نوازی کے لیے</g:title>
       <g:description>خشک پپیتا 1 کلو، نرم قاشیں مہمان نوازی کے لیے. 1.5 kg.</g:description>
       <g:link>https://hayala.co/ur/1/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>770458728</g:id>
-      <g:title>یمنی کالی کشمش - 500 گرام</g:title>
-      <g:description>یمنی کالی کشمش - 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>533576722</g:id>

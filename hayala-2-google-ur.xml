@@ -4,10 +4,38 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">339666110</guid>
+      <g:id>339666110</g:id>
+      <g:title>امریکی اخروٹ (عین الجمل) - 250gm</g:title>
+      <g:description>امریکی اخروٹ (عین الجمل) - 250gm. گری دار میوے اور بیج. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ur/250gm/p339666110?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Zv5YQUG1KsctYwKGoe61KO04aYv1WyALDpEIbz59.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>ہیالہ</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>339666110</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>کارکردگی د</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>گری دار میوے اور بیج</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">770458728</guid>
+      <g:id>770458728</g:id>
+      <g:title>یمنی کالی کشمش - 500 گرام</g:title>
+      <g:description>یمنی کالی کشمش - 500 گرام. خشک میوے. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p770458728?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/c2IGPaXgwOEKakRXMcpid4RwAtnZg0SgaeSbEq9L.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>ہیالہ</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>770458728</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>کارکردگی د</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>خشک میوے</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1071630418</guid>
       <g:id>1071630418</g:id>
@@ -1202,20 +1230,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>74605069</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>مصالحے اور جڑی بوٹیاں</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">339666110</guid>
-      <g:id>339666110</g:id>
-      <g:title>امریکی اخروٹ (عین الجمل) - 250gm</g:title>
-      <g:description>امریکی اخروٹ (عین الجمل) - 250gm. گری دار میوے اور بیج. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ur/250gm/p339666110?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Zv5YQUG1KsctYwKGoe61KO04aYv1WyALDpEIbz59.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 SAR</g:price>
-      <g:brand>ہیالہ</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>339666110</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>کارکردگی د</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>گری دار میوے اور بیج</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">348925444</guid>
       <g:id>348925444</g:id>
       <g:title>امریکی اخروٹ (عین الجمل) - 1 کلو</g:title>
@@ -1523,20 +1537,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>94425611</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>خشک میوے</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">770458728</guid>
-      <g:id>770458728</g:id>
-      <g:title>یمنی کالی کشمش - 500 گرام</g:title>
-      <g:description>یمنی کالی کشمش - 500 گرام. خشک میوے. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p770458728?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/c2IGPaXgwOEKakRXMcpid4RwAtnZg0SgaeSbEq9L.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 SAR</g:price>
-      <g:brand>ہیالہ</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>770458728</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>کارکردگی د</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے کم</g:custom_label_2><g:custom_label_3>خشک میوے</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">533576722</guid>
       <g:id>533576722</g:id>
