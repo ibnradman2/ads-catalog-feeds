@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:06:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1162802741</g:id>
+      <g:title>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas</g:title>
+      <g:description>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/dos-botes-de-mezcla-de-1-kg-y-de-regalo-un-bote-de-cucharas/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>260814103</g:id>
+      <g:title>1 kg de miel de Shawk (Samra) + 1 kg (envío gratis)</g:title>
+      <g:description>1 kg de miel de Shawk (Samra) + 1 kg (envío gratis). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/1-kg-de-miel-de-shawk-samra-1-kg-env-o-gratis/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>803494818</g:id>
+      <g:title>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-j</g:title>
+      <g:description>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-jamal). 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/frutos-secos-variados-mezcla-de-d-tiles-almendras-pi-ones-d-tiles-frescos-pistac/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1436534649</g:id>
       <g:title>Miel de Manuka UMF 5+ | UMF 15+ | UMF 20+ (Pack de 3 frascos)</g:title>
@@ -1095,12 +1113,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-moringa-5-kg-en-garrafa-a-precio-de-mayorista/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1162802741</g:id>
-      <g:title>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas</g:title>
-      <g:description>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/dos-botes-de-mezcla-de-1-kg-y-de-regalo-un-bote-de-cucharas/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1314226407</g:id>
       <g:title>Polen de abeja jordano, 250 g</g:title>
       <g:description>Polen de abeja jordano, 250 g. 0.75 kg.</g:description>
@@ -1473,12 +1485,6 @@
       <g:link>https://asalaljebal.sa/es/mezcla-de-miel-de-al-jabal-con-sidr-natural-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>260814103</g:id>
-      <g:title>1 kg de miel de Shawk (Samra) + 1 kg (envío gratis)</g:title>
-      <g:description>1 kg de miel de Shawk (Samra) + 1 kg (envío gratis). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/1-kg-de-miel-de-shawk-samra-1-kg-env-o-gratis/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>646285546</g:id>
       <g:title>4 Frascos de Miel de Manuka de Nueva Zelanda UMF+5, MGO 100+, 250 g</g:title>
       <g:description>4 Frascos de Miel de Manuka de Nueva Zelanda UMF+5, MGO 100+, 250 g. 1.5 kg.</g:description>
@@ -1549,12 +1555,6 @@
       <g:title>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis)</g:title>
       <g:description>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/oferta-especial-4-envases-de-miel-de-sidr-de-cachemira-3-envases-de-miel-de-comi/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>803494818</g:id>
-      <g:title>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-j</g:title>
-      <g:description>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-jamal). 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/frutos-secos-variados-mezcla-de-d-tiles-almendras-pi-ones-d-tiles-frescos-pistac/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>195894643</g:id>

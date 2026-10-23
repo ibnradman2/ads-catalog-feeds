@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:06:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1162802741</g:id>
+      <g:title>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert</g:title>
+      <g:description>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/deux-pots-de-m-lange-de-1-kg-un-pot-de-cuill-res-m-lange-offert/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>260814103</g:id>
+      <g:title>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite)</g:title>
+      <g:description>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-de-shawka-samra-1-kg-livraison-gratuite/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>803494818</g:id>
+      <g:title>Noix et fruits secs assortis 720 g sans miel (dattes, amandes, pignons, dattes fraîches balah, pistaches, noix, noix de coco, nigelle, carvi, cacahuèt</g:title>
+      <g:description>Noix et fruits secs assortis 720 g sans miel (dattes, amandes, pignons, dattes fraîches balah, pistaches, noix, noix de coco, nigelle, carvi, cacahuètes, ayn al-jamal). 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/noix-et-fruits-secs-assortis-720-g-sans-miel-dattes-amandes-pignons-dattes-fra-c/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1436534649</g:id>
       <g:title>Miel de Manuka UMF 5+ | UMF 15+ | UMF 20+</g:title>
@@ -1089,12 +1107,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-moringa-bidon-de-5-kg-au-prix-de-gros/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1162802741</g:id>
-      <g:title>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert</g:title>
-      <g:description>Deux pots de mélange de 1 kg + un pot de cuillères à mélange offert. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/deux-pots-de-m-lange-de-1-kg-un-pot-de-cuill-res-m-lange-offert/p1162802741?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1314226407</g:id>
       <g:title>Pollen d’abeille de Jordanie 250 g</g:title>
       <g:description>Pollen d’abeille de Jordanie 250 g. 0.75 kg.</g:description>
@@ -1467,12 +1479,6 @@
       <g:link>https://asalaljebal.sa/fr/m-lange-des-montagnes-au-miel-de-sidr-naturel-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>260814103</g:id>
-      <g:title>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite)</g:title>
-      <g:description>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-de-shawka-samra-1-kg-livraison-gratuite/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>646285546</g:id>
       <g:title>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g</g:title>
       <g:description>4 pots de miel de Manuka néo-zélandais UMF+5, MGO 100+, 250 g. 1.5 kg.</g:description>
@@ -1543,12 +1549,6 @@
       <g:title>L’offre spéciale : 4 pots de miel de sidr du Cachemire + 3 pots de miel de nigelle + cuillère à miel en bois (livraison gratuite)</g:title>
       <g:description>L’offre spéciale : 4 pots de miel de sidr du Cachemire + 3 pots de miel de nigelle + cuillère à miel en bois (livraison gratuite). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/l-offre-sp-ciale-4-pots-de-miel-de-sidr-du-cachemire-3-pots-de-miel-de-nigelle-c/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>803494818</g:id>
-      <g:title>Noix et fruits secs assortis 720 g sans miel (dattes, amandes, pignons, dattes fraîches balah, pistaches, noix, noix de coco, nigelle, carvi, cacahuèt</g:title>
-      <g:description>Noix et fruits secs assortis 720 g sans miel (dattes, amandes, pignons, dattes fraîches balah, pistaches, noix, noix de coco, nigelle, carvi, cacahuètes, ayn al-jamal). 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/noix-et-fruits-secs-assortis-720-g-sans-miel-dattes-amandes-pignons-dattes-fra-c/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>195894643</g:id>

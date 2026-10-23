@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:06:18 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>226374656</g:id>
+      <g:title>Miel de talh premium 250 g</g:title>
+      <g:description>Miel de talh premium 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-talh-premium-250-g/p226374656?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1206195242</g:id>
+      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
+      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1115299087</g:id>
+      <g:title>Miel de Athl (Saal) 500 g</g:title>
+      <g:description>Miel de Athl (Saal) 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-athl-saal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1122433710</g:id>
+      <g:title>Miel de Shawka Samra premium 500 g</g:title>
+      <g:description>Miel de Shawka Samra premium 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-shawka-samra-premium-500-g/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>277670775</g:id>
       <g:title>4 kg de miel de flores natural</g:title>
@@ -25,18 +49,6 @@
       <g:title>2 kg de miel de Sidr natural + 2 kg de miel de flores natural</g:title>
       <g:description>2 kg de miel de Sidr natural + 2 kg de miel de flores natural. 4.5 kg.</g:description>
       <g:link>https://areesh.sa/es/2-kg-de-miel-de-sidr-natural-2-kg-de-miel-de-flores-natural/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1115299087</g:id>
-      <g:title>Miel de Athl (Saal) 500 g</g:title>
-      <g:description>Miel de Athl (Saal) 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-athl-saal-500-g/p1115299087?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1122433710</g:id>
-      <g:title>Miel de Shawka Samra premium 500 g</g:title>
-      <g:description>Miel de Shawka Samra premium 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-shawka-samra-premium-500-g/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>689992194</g:id>
@@ -327,12 +339,6 @@
       <g:link>https://areesh.sa/es/mezcla-real-de-areesh-envase-de-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1206195242</g:id>
-      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
-      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1303550999</g:id>
       <g:title>Miel de Sidr de montaña en panal 500 g</g:title>
       <g:description>Miel de Sidr de montaña en panal 500 g. 1.0 kg.</g:description>
@@ -391,12 +397,6 @@
       <g:title>Miel de talh premium 500 g</g:title>
       <g:description>Miel de talh premium 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-de-talh-premium-500-g/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>226374656</g:id>
-      <g:title>Miel de talh premium 250 g</g:title>
-      <g:description>Miel de talh premium 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-talh-premium-250-g/p226374656?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1774315670</g:id>
