@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>中国蜂王浆 15克</g:title>
+      <g:description>中国蜂王浆 15克. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/15/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>蜜蜂花粉 1公斤</g:title>
+      <g:description>蜜蜂花粉 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1720926903</g:id>
+      <g:title>蜂王浆 250克</g:title>
+      <g:description>蜂王浆 250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1245825048</g:id>
+      <g:title>中国蜂花粉 3包×500克</g:title>
+      <g:description>中国蜂花粉 3包×500克. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/3-500/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>辣木蜂蜜 2公斤</g:title>
+      <g:description>辣木蜂蜜 2公斤. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1298738551</g:id>
       <g:title>哈德拉毛多安西德尔蜂蜜 1 公斤</g:title>
@@ -1095,22 +1125,10 @@
       <g:link>https://asalaljebal.sa/zh/mardisia-500/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>480352283</g:id>
-      <g:title>中国蜂王浆 15克</g:title>
-      <g:description>中国蜂王浆 15克. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/15/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1123362063</g:id>
       <g:title>整粒黑种草籽 500克</g:title>
       <g:description>整粒黑种草籽 500克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1849198782</g:id>
-      <g:title>辣木蜂蜜 2公斤</g:title>
-      <g:description>辣木蜂蜜 2公斤. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/2/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1257152391</g:id>
@@ -1305,12 +1323,6 @@
       <g:link>https://asalaljebal.sa/zh/500/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1720926903</g:id>
-      <g:title>蜂王浆 250克</g:title>
-      <g:description>蜂王浆 250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1766572873</g:id>
       <g:title>蜂王浆干粉 10克</g:title>
       <g:description>蜂王浆干粉 10克. 0.51 kg.</g:description>
@@ -1321,12 +1333,6 @@
       <g:title>蜜蜂花粉 250克</g:title>
       <g:description>蜜蜂花粉 250克. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>蜜蜂花粉 1公斤</g:title>
-      <g:description>蜜蜂花粉 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>577031151</g:id>
@@ -1513,12 +1519,6 @@
       <g:title>本地萨拉姆巢蜜 500克</g:title>
       <g:description>本地萨拉姆巢蜜 500克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1245825048</g:id>
-      <g:title>中国蜂花粉 3包×500克</g:title>
-      <g:description>中国蜂花粉 3包×500克. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/3-500/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>36619997</g:id>

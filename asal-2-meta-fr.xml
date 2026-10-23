@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Gelée royale chinoise 15 g</g:title>
+      <g:description>Gelée royale chinoise 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gel-e-royale-chinoise-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>Pollen d'abeille 1 kg</g:title>
+      <g:description>Pollen d'abeille 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1720926903</g:id>
+      <g:title>Gelée royale 250 g</g:title>
+      <g:description>Gelée royale 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gel-e-royale-250-g/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1245825048</g:id>
+      <g:title>Pollen d'abeille (grains de pollen) de Chine – 3 sachets × 500 g</g:title>
+      <g:description>Pollen d'abeille (grains de pollen) de Chine – 3 sachets × 500 g. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-de-chine-3-sachets-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>Miel de moringa 2 kg</g:title>
+      <g:description>Miel de moringa 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1298738551</g:id>
       <g:title>Miel de sidr du Hadramaout Daoani 1 kg</g:title>
@@ -1095,22 +1125,10 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-majra-blanc-mardisia-500-g/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>480352283</g:id>
-      <g:title>Gelée royale chinoise 15 g</g:title>
-      <g:description>Gelée royale chinoise 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gel-e-royale-chinoise-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1123362063</g:id>
       <g:title>Graines de nigelle 500 g</g:title>
       <g:description>Graines de nigelle 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/graines-de-nigelle-500-g/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1849198782</g:id>
-      <g:title>Miel de moringa 2 kg</g:title>
-      <g:description>Miel de moringa 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1257152391</g:id>
@@ -1305,12 +1323,6 @@
       <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-500-g/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1720926903</g:id>
-      <g:title>Gelée royale 250 g</g:title>
-      <g:description>Gelée royale 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gel-e-royale-250-g/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1766572873</g:id>
       <g:title>Poudre de gelée royale – 10 g</g:title>
       <g:description>Poudre de gelée royale – 10 g. 0.51 kg.</g:description>
@@ -1321,12 +1333,6 @@
       <g:title>Pollen d'abeille 250 g</g:title>
       <g:description>Pollen d'abeille 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-250-g/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>Pollen d'abeille 1 kg</g:title>
-      <g:description>Pollen d'abeille 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>577031151</g:id>
@@ -1507,12 +1513,6 @@
       <g:title>Miel de Salam en rayon 500 g</g:title>
       <g:description>Miel de Salam en rayon 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-salam-en-rayon-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1245825048</g:id>
-      <g:title>Pollen d'abeille (grains de pollen) de Chine – 3 sachets × 500 g</g:title>
-      <g:description>Pollen d'abeille (grains de pollen) de Chine – 3 sachets × 500 g. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-de-chine-3-sachets-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>36619997</g:id>

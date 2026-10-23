@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:00:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1071630418</g:id>
+      <g:title>Pink Himalayan Salt (450 g)</g:title>
+      <g:description>Pink Himalayan Salt (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/tl/pink-himalayan-salt-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1300632420</g:id>
+      <g:title>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g</g:title>
+      <g:description>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/tl/chinese-royal-jelly-pagkain-ng-mga-reyna-ng-bubuyog-15g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>540081798</g:id>
       <g:title>Buto ng Chia - 500 Gramo</g:title>
@@ -363,12 +375,6 @@
       <g:link>https://hayala.co/tl/grade-1-american-cardamom-blg-1-8mm-ang-kapal-karton-na-2-5-kilo-libreng-deliver/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1071630418</g:id>
-      <g:title>Pink Himalayan Salt (450 g)</g:title>
-      <g:description>Pink Himalayan Salt (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/tl/pink-himalayan-salt-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>656732927</g:id>
       <g:title>Lubban Dhakar Hawjari (50 g)</g:title>
       <g:description>Lubban Dhakar Hawjari (50 g). 0.55 kg.</g:description>
@@ -457,12 +463,6 @@
       <g:title>Bee Pollen (Pollen Grains) 30 gramo</g:title>
       <g:description>Bee Pollen (Pollen Grains) 30 gramo. 0.53 kg.</g:description>
       <g:link>https://hayala.co/tl/bee-pollen-pollen-grains-30-gramo/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1300632420</g:id>
-      <g:title>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g</g:title>
-      <g:description>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/tl/chinese-royal-jelly-pagkain-ng-mga-reyna-ng-bubuyog-15g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>861941121</g:id>

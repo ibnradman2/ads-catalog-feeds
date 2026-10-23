@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Çin Arı Ana Sütü 15 gr</g:title>
+      <g:description>Çin Arı Ana Sütü 15 gr. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/in-ar-ana-s-t-15-gr/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>Arı Poleni 1 Kg</g:title>
+      <g:description>Arı Poleni 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ar-poleni-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1720926903</g:id>
+      <g:title>Arı Sütü 250 Gram</g:title>
+      <g:description>Arı Sütü 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ar-s-t-250-gram/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1245825048</g:id>
+      <g:title>Bal Poleni (Arı Poleni) Çin - 3 Paket x 500 g</g:title>
+      <g:description>Bal Poleni (Arı Poleni) Çin - 3 Paket x 500 g. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/bal-poleni-ar-poleni-in-3-paket-x-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>Moringa Balı 2 kg</g:title>
+      <g:description>Moringa Balı 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/moringa-bal-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1298738551</g:id>
       <g:title>Hadramut Dû'an Sidr Balı 1 kg</g:title>
@@ -1095,22 +1125,10 @@
       <g:link>https://asalaljebal.sa/tr/beyaz-krema-bal-mardisia-500-gram/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>480352283</g:id>
-      <g:title>Çin Arı Ana Sütü 15 gr</g:title>
-      <g:description>Çin Arı Ana Sütü 15 gr. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/in-ar-ana-s-t-15-gr/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1123362063</g:id>
       <g:title>Çörek Otu 500 gram Bütün Tane</g:title>
       <g:description>Çörek Otu 500 gram Bütün Tane. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/rek-otu-500-gram-b-t-n-tane/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1849198782</g:id>
-      <g:title>Moringa Balı 2 kg</g:title>
-      <g:description>Moringa Balı 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/moringa-bal-2-kg/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1257152391</g:id>
@@ -1305,12 +1323,6 @@
       <g:link>https://asalaljebal.sa/tr/ar-poleni-500-gram/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1720926903</g:id>
-      <g:title>Arı Sütü 250 Gram</g:title>
-      <g:description>Arı Sütü 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ar-s-t-250-gram/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1766572873</g:id>
       <g:title>Arı Sütü Tozu - 10 Gram</g:title>
       <g:description>Arı Sütü Tozu - 10 Gram. 0.51 kg.</g:description>
@@ -1321,12 +1333,6 @@
       <g:title>Polen 250 Gram</g:title>
       <g:description>Polen 250 Gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/polen-250-gram/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>Arı Poleni 1 Kg</g:title>
-      <g:description>Arı Poleni 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ar-poleni-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>577031151</g:id>
@@ -1507,12 +1513,6 @@
       <g:title>Petekli Yerli Sidr Balı 500 gram</g:title>
       <g:description>Petekli Yerli Sidr Balı 500 gram. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/petekli-yerli-sidr-bal-500-gram/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1245825048</g:id>
-      <g:title>Bal Poleni (Arı Poleni) Çin - 3 Paket x 500 g</g:title>
-      <g:description>Bal Poleni (Arı Poleni) Çin - 3 Paket x 500 g. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/bal-poleni-ar-poleni-in-3-paket-x-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>36619997</g:id>

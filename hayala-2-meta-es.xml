@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:00:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1071630418</g:id>
+      <g:title>Sal rosada del Himalaya (450 g)</g:title>
+      <g:description>Sal rosada del Himalaya (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/es/sal-rosada-del-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1300632420</g:id>
+      <g:title>Jalea real china 15 g</g:title>
+      <g:description>Jalea real china 15 g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/es/jalea-real-china-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>540081798</g:id>
       <g:title>Semillas de chía - 500 g</g:title>
@@ -351,12 +363,6 @@
       <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-extra-jumbo-n-mero-1-8-mm-1-kg/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1071630418</g:id>
-      <g:title>Sal rosada del Himalaya (450 g)</g:title>
-      <g:description>Sal rosada del Himalaya (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/es/sal-rosada-del-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>656732927</g:id>
       <g:title>Incienso luban dhakar hojari (50 g)</g:title>
       <g:description>Incienso luban dhakar hojari (50 g). 0.55 kg.</g:description>
@@ -445,12 +451,6 @@
       <g:title>Polen de abeja (granos de polen) 30 g</g:title>
       <g:description>Polen de abeja (granos de polen) 30 g. 0.53 kg.</g:description>
       <g:link>https://hayala.co/es/polen-de-abeja-granos-de-polen-30-g/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1300632420</g:id>
-      <g:title>Jalea real china 15 g</g:title>
-      <g:description>Jalea real china 15 g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/es/jalea-real-china-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>861941121</g:id>

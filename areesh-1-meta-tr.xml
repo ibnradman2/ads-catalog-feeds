@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2144586991</g:id>
+      <g:title>Doğal Petek Balı 1250 gram</g:title>
+      <g:description>Doğal Petek Balı 1250 gram. 1.75 kg.</g:description>
+      <g:link>https://areesh.sa/tr/do-al-petek-bal-1250-gram/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>234492327</g:id>
       <g:title>Çörek Otu Balı 500 Gram</g:title>
@@ -577,12 +583,6 @@
       <g:title>Keşmir Sidr Balı 500 g</g:title>
       <g:description>Keşmir Sidr Balı 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tr/ke-mir-sidr-bal-500-g/p979497193?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>2144586991</g:id>
-      <g:title>Doğal Petek Balı 1250 gram</g:title>
-      <g:description>Doğal Petek Balı 1250 gram. 1.75 kg.</g:description>
-      <g:link>https://areesh.sa/tr/do-al-petek-bal-1250-gram/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1525447859</g:id>

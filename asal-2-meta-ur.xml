@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>501836455</g:id>
+      <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو</g:title>
+      <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1720926903</g:id>
+      <g:title>رائل جیلی (شہد کی ملکہ کی غذا) 250 گرام</g:title>
+      <g:description>رائل جیلی (شہد کی ملکہ کی غذا) 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1245825048</g:id>
+      <g:title>شہد کی مکھی کا زردانہ (بی پولن) چین سے – 3 ڈبے × 500 گرام</g:title>
+      <g:description>شہد کی مکھی کا زردانہ (بی پولن) چین سے – 3 ڈبے × 500 گرام. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/3-500/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1849198782</g:id>
+      <g:title>مورنگا شہد 2 کلو</g:title>
+      <g:description>مورنگا شہد 2 کلو. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1298738551</g:id>
       <g:title>حضرمی دوعنی سدر شہد 1 کلو</g:title>
@@ -873,12 +897,6 @@
       <g:link>https://asalaljebal.sa/ur/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1849198782</g:id>
-      <g:title>مورنگا شہد 2 کلو</g:title>
-      <g:description>مورنگا شہد 2 کلو. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2/p1849198782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1257152391</g:id>
       <g:title>مورنگا شہد 5 کلو گیلن، تھوک قیمت پر</g:title>
       <g:description>مورنگا شہد 5 کلو گیلن، تھوک قیمت پر. 5.5 kg.</g:description>
@@ -987,12 +1005,6 @@
       <g:link>https://asalaljebal.sa/ur/500/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1720926903</g:id>
-      <g:title>رائل جیلی (شہد کی ملکہ کی غذا) 250 گرام</g:title>
-      <g:description>رائل جیلی (شہد کی ملکہ کی غذا) 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1766572873</g:id>
       <g:title>رائل جیلی (ملکہ کی غذا) پاؤڈر - 10 گرام</g:title>
       <g:description>رائل جیلی (ملکہ کی غذا) پاؤڈر - 10 گرام. 0.51 kg.</g:description>
@@ -1003,12 +1015,6 @@
       <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام</g:title>
       <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>501836455</g:id>
-      <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو</g:title>
-      <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>577031151</g:id>
@@ -1147,12 +1153,6 @@
       <g:title>مقامی سلم شہد موم کے چھتے میں 500 گرام</g:title>
       <g:description>مقامی سلم شہد موم کے چھتے میں 500 گرام. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1245825048</g:id>
-      <g:title>شہد کی مکھی کا زردانہ (بی پولن) چین سے – 3 ڈبے × 500 گرام</g:title>
-      <g:description>شہد کی مکھی کا زردانہ (بی پولن) چین سے – 3 ڈبے × 500 گرام. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/3-500/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>52483795</g:id>

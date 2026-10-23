@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2144586991</g:id>
+      <g:title>Madu Sarang Alami 1250 Gram</g:title>
+      <g:description>Madu Sarang Alami 1250 Gram. 1.75 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sarang-alami-1250-gram/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>234492327</g:id>
       <g:title>Madu Habbatussauda 500 g</g:title>
@@ -577,12 +583,6 @@
       <g:title>Madu Sidr Kashmiri 500 g</g:title>
       <g:description>Madu Sidr Kashmiri 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-500-g/p979497193?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2144586991</g:id>
-      <g:title>Madu Sarang Alami 1250 Gram</g:title>
-      <g:description>Madu Sarang Alami 1250 Gram. 1.75 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sarang-alami-1250-gram/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1525447859</g:id>
