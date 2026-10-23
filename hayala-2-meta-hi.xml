@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>140660040</g:id>
+      <g:title>जंगली ज़ातर की पत्तियाँ 1 किलो</g:title>
+      <g:description>जंगली ज़ातर की पत्तियाँ 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1313413261</g:id>
+      <g:title>हिबिस्कस 500 ग्राम</g:title>
+      <g:description>हिबिस्कस 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1091901970</g:id>
+      <g:title>सूप मसाला</g:title>
+      <g:description>सूप मसाला. 0.2 kg.</g:description>
+      <g:link>https://hayala.co/hi/product/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>339666110</g:id>
       <g:title>अखरोट (ऐन अल-जमल) (अमेरिकी) - 250gm</g:title>
@@ -513,12 +531,6 @@
       <g:link>https://hayala.co/hi/500/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>140660040</g:id>
-      <g:title>जंगली ज़ातर की पत्तियाँ 1 किलो</g:title>
-      <g:description>जंगली ज़ातर की पत्तियाँ 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>74605069</g:id>
       <g:title>पिसी अदरक 500 ग्राम</g:title>
       <g:description>पिसी अदरक 500 ग्राम. 1.0 kg.</g:description>
@@ -843,12 +855,6 @@
       <g:link>https://hayala.co/hi/500/p403725985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1313413261</g:id>
-      <g:title>हिबिस्कस 500 ग्राम</g:title>
-      <g:description>हिबिस्कस 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>999780142</g:id>
       <g:title>नख़वा (नानख़ा) 500 ग्राम</g:title>
       <g:description>नख़वा (नानख़ा) 500 ग्राम. 1.0 kg.</g:description>
@@ -871,12 +877,6 @@
       <g:title>नख़वा (नानख़ा) 250 ग्राम</g:title>
       <g:description>नख़वा (नानख़ा) 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://hayala.co/hi/250/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1091901970</g:id>
-      <g:title>सूप मसाला</g:title>
-      <g:description>सूप मसाला. 0.2 kg.</g:description>
-      <g:link>https://hayala.co/hi/product/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>597312706</g:id>

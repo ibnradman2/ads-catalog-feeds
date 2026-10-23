@@ -4,10 +4,53 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">140660040</guid>
+      <g:id>140660040</g:id>
+      <g:title>Feuilles de thym sauvage 1 kg</g:title>
+      <g:description>Feuilles de thym sauvage 1 kg. Épices et herbes. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-1-kg/p140660040?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/WDYgzF4EMp11bCQ96EZf6QMpL5auwWlWAwzv3sLY.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>30.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>140660040</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Épices et herbes</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1313413261</guid>
+      <g:id>1313413261</g:id>
+      <g:title>Hibiscus séché (karkadé) 500 g</g:title>
+      <g:description>Hibiscus séché (karkadé) 500 g. Infusions. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/hibiscus-s-ch-karkad-500-g/p1313413261?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/hYEQgBW9lkTerJ4JlcCFXJEBxXeOKmfztpqMTt6p.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>32.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1313413261</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1091901970</guid>
+      <g:id>1091901970</g:id>
+      <g:title>Épices pour soupe</g:title>
+      <g:description>Épices pour soupe. Épices et herbes. 0.2 kg.</g:description>
+      <g:link>https://hayala.co/fr/pices-pour-soupe/p1091901970?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/1oQsyaF0XonZJaUovmeyMIDbqzplngPa6JUwzjv5.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1OGO31voMKQqtk43NBbVIz8ZZ4vMUpDrzQSXW2fw.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.2 kg</g:shipping_weight>
+    <g:mpn>1091901970</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Épices et herbes</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">339666110</guid>
       <g:id>339666110</g:id>
@@ -39,9 +82,9 @@
     <item>
       <guid isPermaLink="false">1071630418</guid>
       <g:id>1071630418</g:id>
-      <g:title>Sel rose de l’Himalaya (450 g)</g:title>
-      <g:description>Sel rose de l’Himalaya (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/fr/sel-rose-de-l-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Sel gemme rose (450 g)</g:title>
+      <g:description>Sel gemme rose (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/fr/sel-gemme-rose-450-g/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>9.00 SAR</g:price>
@@ -1179,20 +1222,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>2045612049</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Noix et graines</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">140660040</guid>
-      <g:id>140660040</g:id>
-      <g:title>Feuilles de thym sauvage 1 kg</g:title>
-      <g:description>Feuilles de thym sauvage 1 kg. Épices et herbes. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-1-kg/p140660040?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/WDYgzF4EMp11bCQ96EZf6QMpL5auwWlWAwzv3sLY.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>30.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>140660040</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Épices et herbes</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">74605069</guid>
       <g:id>74605069</g:id>
       <g:title>Gingembre Moulu 500 g</g:title>
@@ -1935,20 +1964,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>403725985</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1313413261</guid>
-      <g:id>1313413261</g:id>
-      <g:title>Hibiscus séché (karkadé) 500 g</g:title>
-      <g:description>Hibiscus séché (karkadé) 500 g. Infusions. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/hibiscus-s-ch-karkad-500-g/p1313413261?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/hYEQgBW9lkTerJ4JlcCFXJEBxXeOKmfztpqMTt6p.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>32.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1313413261</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">999780142</guid>
       <g:id>999780142</g:id>
       <g:title>Ajwain (nanakha) 500 g</g:title>
@@ -2004,21 +2019,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1859497066</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Noix et graines</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1091901970</guid>
-      <g:id>1091901970</g:id>
-      <g:title>Épices pour soupe</g:title>
-      <g:description>Épices pour soupe. Épices et herbes. 0.2 kg.</g:description>
-      <g:link>https://hayala.co/fr/pices-pour-soupe/p1091901970?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/1oQsyaF0XonZJaUovmeyMIDbqzplngPa6JUwzjv5.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1OGO31voMKQqtk43NBbVIz8ZZ4vMUpDrzQSXW2fw.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.2 kg</g:shipping_weight>
-    <g:mpn>1091901970</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Épices et herbes</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">597312706</guid>
       <g:id>597312706</g:id>

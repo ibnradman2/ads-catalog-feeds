@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>140660040</g:id>
+      <g:title>野生百里香叶1公斤</g:title>
+      <g:description>野生百里香叶1公斤. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1313413261</g:id>
+      <g:title>洛神花干 500克</g:title>
+      <g:description>洛神花干 500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1091901970</g:id>
+      <g:title>汤料香料</g:title>
+      <g:description>汤料香料. 0.2 kg.</g:description>
+      <g:link>https://hayala.co/zh/product/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>339666110</g:id>
       <g:title>核桃（美国）- 250gm</g:title>
@@ -495,12 +513,6 @@
       <g:link>https://hayala.co/zh/500/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>140660040</g:id>
-      <g:title>野生百里香叶1公斤</g:title>
-      <g:description>野生百里香叶1公斤. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>74605069</g:id>
       <g:title>姜粉 500克</g:title>
       <g:description>姜粉 500克. 1.0 kg.</g:description>
@@ -819,12 +831,6 @@
       <g:link>https://hayala.co/zh/500/p403725985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1313413261</g:id>
-      <g:title>洛神花干 500克</g:title>
-      <g:description>洛神花干 500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>999780142</g:id>
       <g:title>阿育旺籽500克</g:title>
       <g:description>阿育旺籽500克. 1.0 kg.</g:description>
@@ -841,12 +847,6 @@
       <g:title>天然姜柠檬姜黄蜂蜜饮品 470克</g:title>
       <g:description>天然姜柠檬姜黄蜂蜜饮品 470克. 0.97 kg.</g:description>
       <g:link>https://hayala.co/zh/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1091901970</g:id>
-      <g:title>汤料香料</g:title>
-      <g:description>汤料香料. 0.2 kg.</g:description>
-      <g:link>https://hayala.co/zh/product/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>597312706</g:id>

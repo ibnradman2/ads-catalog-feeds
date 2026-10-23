@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 14:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:14:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>140660040</g:id>
+      <g:title>Feuilles de thym sauvage 1 kg</g:title>
+      <g:description>Feuilles de thym sauvage 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-1-kg/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1313413261</g:id>
+      <g:title>Hibiscus séché (karkadé) 500 g</g:title>
+      <g:description>Hibiscus séché (karkadé) 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/hibiscus-s-ch-karkad-500-g/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1091901970</g:id>
+      <g:title>Épices pour soupe</g:title>
+      <g:description>Épices pour soupe. 0.2 kg.</g:description>
+      <g:link>https://hayala.co/fr/pices-pour-soupe/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>339666110</g:id>
       <g:title>Noix (américaines) - 250 g</g:title>
@@ -22,9 +40,9 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1071630418</g:id>
-      <g:title>Sel rose de l’Himalaya (450 g)</g:title>
-      <g:description>Sel rose de l’Himalaya (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/fr/sel-rose-de-l-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Sel gemme rose (450 g)</g:title>
+      <g:description>Sel gemme rose (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/fr/sel-gemme-rose-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1300632420</g:id>
@@ -495,12 +513,6 @@
       <g:link>https://hayala.co/fr/anis-500-g/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>140660040</g:id>
-      <g:title>Feuilles de thym sauvage 1 kg</g:title>
-      <g:description>Feuilles de thym sauvage 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-1-kg/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>74605069</g:id>
       <g:title>Gingembre Moulu 500 g</g:title>
       <g:description>Gingembre Moulu 500 g. 1.0 kg.</g:description>
@@ -819,12 +831,6 @@
       <g:link>https://hayala.co/fr/sauge-s-ch-e-500-g/p403725985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1313413261</g:id>
-      <g:title>Hibiscus séché (karkadé) 500 g</g:title>
-      <g:description>Hibiscus séché (karkadé) 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/hibiscus-s-ch-karkad-500-g/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>999780142</g:id>
       <g:title>Ajwain (nanakha) 500 g</g:title>
       <g:description>Ajwain (nanakha) 500 g. 1.0 kg.</g:description>
@@ -847,12 +853,6 @@
       <g:title>Ajowan (nakhwa) 250 g</g:title>
       <g:description>Ajowan (nakhwa) 250 g. 0.75 kg.</g:description>
       <g:link>https://hayala.co/fr/ajowan-nakhwa-250-g/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1091901970</g:id>
-      <g:title>Épices pour soupe</g:title>
-      <g:description>Épices pour soupe. 0.2 kg.</g:description>
-      <g:link>https://hayala.co/fr/pices-pour-soupe/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>597312706</g:id>
