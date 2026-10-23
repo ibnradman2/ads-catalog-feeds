@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 08:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:10:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>424111501</g:id>
+      <g:title>Dağ Sidr Balı 1 Kg</g:title>
+      <g:description>Dağ Sidr Balı 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/da-sidr-bal-1-kg/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>623445940</g:id>
+      <g:title>Yerli Sidr Balı 1000 gr</g:title>
+      <g:description>Yerli Sidr Balı 1000 gr. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yerli-sidr-bal-1000-gr/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>2 Adet 1 kg Karışım Balı + Hediye Karışım Kaşığı Paketi</g:title>
@@ -735,12 +747,6 @@
       <g:link>https://asalaljebal.sa/tr/pakistan-pe-aver-sidr-bal-2-kg/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>623445940</g:id>
-      <g:title>Yerli Sidr Balı 1000 gr</g:title>
-      <g:description>Yerli Sidr Balı 1000 gr. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yerli-sidr-bal-1000-gr/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>950198944</g:id>
       <g:title>Yonca Çiçeği Balı 500 Gram</g:title>
       <g:description>Yonca Çiçeği Balı 500 Gram. 1.0 kg.</g:description>
@@ -1243,12 +1249,6 @@
       <g:title>Hadramut Dû'an Sidr Balı 500 gram</g:title>
       <g:description>Hadramut Dû'an Sidr Balı 500 gram. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/hadramut-d-an-sidr-bal-500-gram/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>424111501</g:id>
-      <g:title>Dağ Sidr Balı 1 Kg</g:title>
-      <g:description>Dağ Sidr Balı 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/da-sidr-bal-1-kg/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1158327183</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 08:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:10:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>424111501</g:id>
+      <g:title>Pulot ng Sidr na Bundok, 1 Kilo</g:title>
+      <g:description>Pulot ng Sidr na Bundok, 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-1-kilo/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>623445940</g:id>
+      <g:title>Lokal na Pulot ng Salam 1000 Gramo</g:title>
+      <g:description>Lokal na Pulot ng Salam 1000 Gramo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/lokal-na-pulot-ng-salam-1000-gramo/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo</g:title>
@@ -741,12 +753,6 @@
       <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-peshawari-mula-sa-pakistan-2-kilo/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>623445940</g:id>
-      <g:title>Lokal na Pulot ng Salam 1000 Gramo</g:title>
-      <g:description>Lokal na Pulot ng Salam 1000 Gramo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/lokal-na-pulot-ng-salam-1000-gramo/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>950198944</g:id>
       <g:title>Clover Honey 500 g</g:title>
       <g:description>Clover Honey 500 g. 1.0 kg.</g:description>
@@ -1249,12 +1255,6 @@
       <g:title>Pulot na Sidr ng Hadhramaut na Doani 500 gramo</g:title>
       <g:description>Pulot na Sidr ng Hadhramaut na Doani 500 gramo. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-na-sidr-ng-hadhramaut-na-doani-500-gramo/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>424111501</g:id>
-      <g:title>Pulot ng Sidr na Bundok, 1 Kilo</g:title>
-      <g:description>Pulot ng Sidr na Bundok, 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-1-kilo/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1158327183</g:id>

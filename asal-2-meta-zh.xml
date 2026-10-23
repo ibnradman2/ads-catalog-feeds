@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 08:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:10:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>424111501</g:id>
+      <g:title>山区西德尔蜂蜜 1公斤</g:title>
+      <g:description>山区西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>623445940</g:id>
+      <g:title>本地萨拉姆蜂蜜（金合欢蜜）1000克</g:title>
+      <g:description>本地萨拉姆蜂蜜（金合欢蜜）1000克. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1000/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>两罐1公斤混合蜂蜜 + 赠送混合蜂蜜小勺一罐</g:title>
@@ -735,12 +747,6 @@
       <g:link>https://asalaljebal.sa/zh/2/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>623445940</g:id>
-      <g:title>本地萨拉姆蜂蜜（金合欢蜜）1000克</g:title>
-      <g:description>本地萨拉姆蜂蜜（金合欢蜜）1000克. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1000/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>950198944</g:id>
       <g:title>三叶草蜂蜜 500克</g:title>
       <g:description>三叶草蜂蜜 500克. 1.0 kg.</g:description>
@@ -1243,12 +1249,6 @@
       <g:title>哈德拉毛多安西德尔蜂蜜 500 克</g:title>
       <g:description>哈德拉毛多安西德尔蜂蜜 500 克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>424111501</g:id>
-      <g:title>山区西德尔蜂蜜 1公斤</g:title>
-      <g:description>山区西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1158327183</g:id>

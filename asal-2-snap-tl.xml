@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 09:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:10:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">424111501</guid>
+      <g:id>424111501</g:id>
+      <g:title>Pulot ng Sidr na Bundok, 1 Kilo</g:title>
+      <g:description>Pulot ng Sidr na Bundok, 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-1-kilo/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5131hrBlqkuwvXS0krmoaUB9AxlJCah4w0K3etOX.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>459.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021010</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">623445940</guid>
+      <g:id>623445940</g:id>
+      <g:title>Lokal na Pulot ng Salam 1000 Gramo</g:title>
+      <g:description>Lokal na Pulot ng Salam 1000 Gramo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/lokal-na-pulot-ng-salam-1000-gramo/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/3PfalWQUaMz5X3oGZvRgrdd0b0BqsHRoSoQ6eflq.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>480.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>002-10008002</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1162802741</guid>
       <g:id>1162802741</g:id>
@@ -1362,7 +1392,7 @@
       <g:link>https://asalaljebal.sa/tl/pulot-ng-manuka-mula-new-zealand-honey-bros-premium-manuka-honey-umf-5-mgo-100-2/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/7NykCZMGIpghsVwJ504t7af84AVdTNNgy2KZeiXf.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/G59KKT3VqBYUvFeesYENGSOmCkimEhLBf8N8QFwc.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/8fa4f373-18f4-42bb-95bb-ace5618b3d79-821.09375x1000-HKNRTuER17F1CR0DiWCun5cnPxl3Y8RadyXQND5C.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/08c7d087-3799-4563-87a0-2b0772a3f25e-821.09375x1000-xzC2VB9MGY53z3XpPOI01qTdrhCLVOV5zBAP5dyo.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/1773b67c-221d-4f64-a0ce-a5f548c63dca-992.73255813953x1000-BHsoxKjpTIyOuUjkjlEcmUTXOVEiZSC2V3RFpFfs.png</g:additional_image_link><g:availability>in stock</g:availability>
       <g:price>150.00 SAR</g:price>
       <g:brand>Asal Aljebal</g:brand>
       <g:condition>new</g:condition>
@@ -1948,21 +1978,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">623445940</guid>
-      <g:id>623445940</g:id>
-      <g:title>Lokal na Pulot ng Salam 1000 Gramo</g:title>
-      <g:description>Lokal na Pulot ng Salam 1000 Gramo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/lokal-na-pulot-ng-salam-1000-gramo/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/3PfalWQUaMz5X3oGZvRgrdd0b0BqsHRoSoQ6eflq.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>480.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>002-10008002</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">950198944</guid>
       <g:id>950198944</g:id>
       <g:title>Clover Honey 500 g</g:title>
@@ -2151,7 +2166,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/yUTqEw9DfHFrj6iGypjq8UH1iUsZ7MPtIvceG7cH.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/TmQEYx6WkuENj92VuSDNfWK2SlWG4TybPDfC28As.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/Xq5LqyqYh4Uxf7bUzYSWLA3E66Mqth3l0uqBM6qg.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jjGBpDxED1OXmV2EJVaOSzxZRQTZuF8tLNOuYkMV.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/ZhutNwOBEzk5UJYuE2jOk0OZb3hjdW1d7ojNiQus.jpg</g:additional_image_link><g:availability>in stock</g:availability>
       <g:price>6883.00 SAR</g:price>
       <g:sale_price>5162.01 SAR</g:sale_price>
       <g:brand>Asal Aljebal</g:brand>
@@ -3284,21 +3299,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0011222002</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">424111501</guid>
-      <g:id>424111501</g:id>
-      <g:title>Pulot ng Sidr na Bundok, 1 Kilo</g:title>
-      <g:description>Pulot ng Sidr na Bundok, 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-1-kilo/p424111501?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/5131hrBlqkuwvXS0krmoaUB9AxlJCah4w0K3etOX.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>459.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041021010</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1158327183</guid>
