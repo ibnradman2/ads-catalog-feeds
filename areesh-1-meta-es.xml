@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 15:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:00:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>658291884</g:id>
+      <g:title>Miel de Shawka Samra premium 2 kg</g:title>
+      <g:description>Miel de Shawka Samra premium 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-shawka-samra-premium-2-kg/p658291884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>649125645</g:id>
+      <g:title>Miel de athl (salal) 2 kg</g:title>
+      <g:description>Miel de athl (salal) 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-athl-salal-2-kg/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>982423131</g:id>
+      <g:title>Garrafa de 7 kilos de miel de comino negro + envío gratis</g:title>
+      <g:description>Garrafa de 7 kilos de miel de comino negro + envío gratis. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/garrafa-de-7-kilos-de-miel-de-comino-negro-env-o-gratis/p982423131?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>450163781</g:id>
+      <g:title>Miel de Sidr de montaña 1 kilo</g:title>
+      <g:description>Miel de Sidr de montaña 1 kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-de-monta-a-1-kilo/p450163781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>515879663</g:id>
       <g:title>Miel de Sidr de Cachemira 2 kg</g:title>
@@ -219,34 +243,10 @@
       <g:link>https://areesh.sa/es/olla-de-panal-de-flores-silvestres-locales/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>450163781</g:id>
-      <g:title>Miel de Sidr de montaña 1 kilo</g:title>
-      <g:description>Miel de Sidr de montaña 1 kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-de-monta-a-1-kilo/p450163781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>649125645</g:id>
-      <g:title>Miel de athl (salal) 2 kg</g:title>
-      <g:description>Miel de athl (salal) 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-athl-salal-2-kg/p649125645?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>916755779</g:id>
       <g:title>12 envases de miel de Sidr natural</g:title>
       <g:description>12 envases de miel de Sidr natural. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/es/12-envases-de-miel-de-sidr-natural/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>658291884</g:id>
-      <g:title>Miel de Shawka Samra premium 2 kg</g:title>
-      <g:description>Miel de Shawka Samra premium 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-shawka-samra-premium-2-kg/p658291884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>982423131</g:id>
-      <g:title>Garrafa de 7 kilos de miel de comino negro + envío gratis</g:title>
-      <g:description>Garrafa de 7 kilos de miel de comino negro + envío gratis. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/garrafa-de-7-kilos-de-miel-de-comino-negro-env-o-gratis/p982423131?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>509119034</g:id>
