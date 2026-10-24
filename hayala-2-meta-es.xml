@@ -4,10 +4,46 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:15:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>863172740</g:id>
+      <g:title>Flores de manzanilla 500 gramos</g:title>
+      <g:description>Flores de manzanilla 500 gramos. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/flores-de-manzanilla-500-gramos/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>597312706</g:id>
+      <g:title>Vinagre de manzana ecológico 500 ml</g:title>
+      <g:description>Vinagre de manzana ecológico 500 ml. 0.6 kg.</g:description>
+      <g:link>https://hayala.co/es/vinagre-de-manzana-ecol-gico-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>140660040</g:id>
+      <g:title>Hojas de tomillo silvestre 1 kg</g:title>
+      <g:description>Hojas de tomillo silvestre 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-1-kg/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>Hinojo en grano 1 kg</g:title>
+      <g:description>Hinojo en grano 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/hinojo-en-grano-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2045612049</g:id>
+      <g:title>Anís 500 g</g:title>
+      <g:description>Anís 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/an-s-500-g/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2139954028</g:id>
+      <g:title>Semillas de katuna (psilio) - 250 g</g:title>
+      <g:description>Semillas de katuna (psilio) - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-250-g/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>2006358433</g:id>
       <g:title>Ajo molido 500 g</g:title>
@@ -141,36 +177,6 @@
       <g:link>https://hayala.co/es/salvia-1-kilo/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>2045612049</g:id>
-      <g:title>Anís 500 g</g:title>
-      <g:description>Anís 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/an-s-500-g/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2139954028</g:id>
-      <g:title>Semillas de katuna (psilio) - 250 g</g:title>
-      <g:description>Semillas de katuna (psilio) - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-250-g/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>597312706</g:id>
-      <g:title>Vinagre de manzana ecológico 500 ml</g:title>
-      <g:description>Vinagre de manzana ecológico 500 ml. 0.6 kg.</g:description>
-      <g:link>https://hayala.co/es/vinagre-de-manzana-ecol-gico-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>863172740</g:id>
-      <g:title>Flores de manzanilla 500 gramos</g:title>
-      <g:description>Flores de manzanilla 500 gramos. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/flores-de-manzanilla-500-gramos/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2023441167</g:id>
-      <g:title>Hinojo en grano 1 kg</g:title>
-      <g:description>Hinojo en grano 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/hinojo-en-grano-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1071630418</g:id>
       <g:title>Sal rosada del Himalaya (450 g)</g:title>
       <g:description>Sal rosada del Himalaya (450 g). 0.95 kg.</g:description>
@@ -181,12 +187,6 @@
       <g:title>Jalea real china 15 g</g:title>
       <g:description>Jalea real china 15 g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/es/jalea-real-china-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>140660040</g:id>
-      <g:title>Hojas de tomillo silvestre 1 kg</g:title>
-      <g:description>Hojas de tomillo silvestre 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-1-kg/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1313413261</g:id>

@@ -4,10 +4,46 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:15:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>863172740</g:id>
+      <g:title>Bulaklak ng Chamomile 500 Gramo</g:title>
+      <g:description>Bulaklak ng Chamomile 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/bulaklak-ng-chamomile-500-gramo/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>597312706</g:id>
+      <g:title>Organic na Apple Cider Vinegar 500 ml</g:title>
+      <g:description>Organic na Apple Cider Vinegar 500 ml. 0.6 kg.</g:description>
+      <g:link>https://hayala.co/tl/organic-na-apple-cider-vinegar-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>140660040</g:id>
+      <g:title>Dahon ng Ligaw na Thyme 1 Kilo</g:title>
+      <g:description>Dahon ng Ligaw na Thyme 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/dahon-ng-ligaw-na-thyme-1-kilo/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>Fennel 1 Kilo</g:title>
+      <g:description>Fennel 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/fennel-1-kilo/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>2045612049</g:id>
+      <g:title>Anis 500 Gramo</g:title>
+      <g:description>Anis 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/anis-500-gramo/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>2139954028</g:id>
+      <g:title>Buto ng Qatuna - 250gm</g:title>
+      <g:description>Buto ng Qatuna - 250gm. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-qatuna-250gm/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2006358433</g:id>
       <g:title>Giniling na Bawang 500gm</g:title>
@@ -147,36 +183,6 @@
       <g:link>https://hayala.co/tl/sage-maramiyah-1-kilo/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>2045612049</g:id>
-      <g:title>Anis 500 Gramo</g:title>
-      <g:description>Anis 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/anis-500-gramo/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2139954028</g:id>
-      <g:title>Buto ng Qatuna - 250gm</g:title>
-      <g:description>Buto ng Qatuna - 250gm. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-qatuna-250gm/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>597312706</g:id>
-      <g:title>Organic na Apple Cider Vinegar 500 ml</g:title>
-      <g:description>Organic na Apple Cider Vinegar 500 ml. 0.6 kg.</g:description>
-      <g:link>https://hayala.co/tl/organic-na-apple-cider-vinegar-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>863172740</g:id>
-      <g:title>Bulaklak ng Chamomile 500 Gramo</g:title>
-      <g:description>Bulaklak ng Chamomile 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/bulaklak-ng-chamomile-500-gramo/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2023441167</g:id>
-      <g:title>Fennel 1 Kilo</g:title>
-      <g:description>Fennel 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/fennel-1-kilo/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>1071630418</g:id>
       <g:title>Pink Rock Salt (450 g)</g:title>
       <g:description>Pink Rock Salt (450 g). 0.95 kg.</g:description>
@@ -187,12 +193,6 @@
       <g:title>Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g</g:title>
       <g:description>Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/tl/royal-jelly-pagkain-ng-mga-reyna-ng-bubuyog-15g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>140660040</g:id>
-      <g:title>Dahon ng Ligaw na Thyme 1 Kilo</g:title>
-      <g:description>Dahon ng Ligaw na Thyme 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/dahon-ng-ligaw-na-thyme-1-kilo/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1313413261</g:id>

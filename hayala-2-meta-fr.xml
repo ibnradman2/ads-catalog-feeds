@@ -4,10 +4,46 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:15:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>863172740</g:id>
+      <g:title>Fleurs de camomille séchées 500 g</g:title>
+      <g:description>Fleurs de camomille séchées 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/fleurs-de-camomille-s-ch-es-500-g/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>597312706</g:id>
+      <g:title>Vinaigre de cidre bio 500 ml</g:title>
+      <g:description>Vinaigre de cidre bio 500 ml. 0.6 kg.</g:description>
+      <g:link>https://hayala.co/fr/vinaigre-de-cidre-bio-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>140660040</g:id>
+      <g:title>Feuilles de thym sauvage 1 kg</g:title>
+      <g:description>Feuilles de thym sauvage 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-1-kg/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2023441167</g:id>
+      <g:title>Fenouil 1 kg</g:title>
+      <g:description>Fenouil 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/fenouil-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2045612049</g:id>
+      <g:title>Anis 500 g</g:title>
+      <g:description>Anis 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/anis-500-g/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2139954028</g:id>
+      <g:title>Graines de psyllium (Qatouna) - 250 g</g:title>
+      <g:description>Graines de psyllium (Qatouna) - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/fr/graines-de-psyllium-qatouna-250-g/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2006358433</g:id>
       <g:title>Ail en poudre 500 g</g:title>
@@ -141,36 +177,6 @@
       <g:link>https://hayala.co/fr/sauge-s-ch-e-1-kg/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>2045612049</g:id>
-      <g:title>Anis 500 g</g:title>
-      <g:description>Anis 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/anis-500-g/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2139954028</g:id>
-      <g:title>Graines de psyllium (Qatouna) - 250 g</g:title>
-      <g:description>Graines de psyllium (Qatouna) - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/fr/graines-de-psyllium-qatouna-250-g/p2139954028?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>597312706</g:id>
-      <g:title>Vinaigre de cidre bio 500 ml</g:title>
-      <g:description>Vinaigre de cidre bio 500 ml. 0.6 kg.</g:description>
-      <g:link>https://hayala.co/fr/vinaigre-de-cidre-bio-500-ml/p597312706?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>863172740</g:id>
-      <g:title>Fleurs de camomille séchées 500 g</g:title>
-      <g:description>Fleurs de camomille séchées 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/fleurs-de-camomille-s-ch-es-500-g/p863172740?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2023441167</g:id>
-      <g:title>Fenouil 1 kg</g:title>
-      <g:description>Fenouil 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/fenouil-1-kg/p2023441167?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1071630418</g:id>
       <g:title>Sel gemme rose (450 g)</g:title>
       <g:description>Sel gemme rose (450 g). 0.95 kg.</g:description>
@@ -181,12 +187,6 @@
       <g:title>Gelée royale 15 g</g:title>
       <g:description>Gelée royale 15 g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/fr/gel-e-royale-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>140660040</g:id>
-      <g:title>Feuilles de thym sauvage 1 kg</g:title>
-      <g:description>Feuilles de thym sauvage 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-1-kg/p140660040?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1313413261</g:id>
