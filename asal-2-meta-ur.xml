@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 08:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:04:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>534917756</g:id>
+      <g:title>سنہری پیشکش (شوکہ شہد - طلح شہد - جنگل کا شہد) (مفت ڈیلیوری)</g:title>
+      <g:description>سنہری پیشکش (شوکہ شہد - طلح شہد - جنگل کا شہد) (مفت ڈیلیوری). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1792368707</g:id>
+      <g:title>فاخر سمرہ کانٹے کا شہد 1 کلو</g:title>
+      <g:description>فاخر سمرہ کانٹے کا شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>612621130</g:id>
       <g:title>پیشکش: جنگلی پھولوں کا شہد - پہاڑی سدر شہد - شوکہ شہد (سمرہ) (مفت ڈیلیوری)</g:title>
@@ -199,12 +211,6 @@
       <g:title>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری)</g:title>
       <g:description>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری). 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/product/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>534917756</g:id>
-      <g:title>سنہری پیشکش (شوکہ شہد - طلح شہد - جنگل کا شہد) (مفت ڈیلیوری)</g:title>
-      <g:description>سنہری پیشکش (شوکہ شہد - طلح شہد - جنگل کا شہد) (مفت ڈیلیوری). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1017059861</g:id>
@@ -805,12 +811,6 @@
       <g:title>ترکی اکیشیا شہد 500 گرام</g:title>
       <g:description>ترکی اکیشیا شہد 500 گرام. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1792368707</g:id>
-      <g:title>فاخر سمرہ کانٹے کا شہد 1 کلو</g:title>
-      <g:description>فاخر سمرہ کانٹے کا شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1152618316</g:id>
