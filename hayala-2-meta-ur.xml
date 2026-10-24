@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 12:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:09:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1956516321</g:id>
+      <g:title>خشک آم 250 گرام، آزمائشی چھوٹی پیکنگ</g:title>
+      <g:description>خشک آم 250 گرام، آزمائشی چھوٹی پیکنگ. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ur/250/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2059144227</g:id>
+      <g:title>خشک ایوکاڈو کی قاشیں 250 گرام</g:title>
+      <g:description>خشک ایوکاڈو کی قاشیں 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ur/250/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1732878396</g:id>
       <g:title>مکس پسے مصالحے 500 گرام</g:title>
@@ -669,12 +681,6 @@
       <g:link>https://hayala.co/ur/500/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>2059144227</g:id>
-      <g:title>خشک ایوکاڈو کی قاشیں 250 گرام</g:title>
-      <g:description>خشک ایوکاڈو کی قاشیں 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ur/250/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>441888257</g:id>
       <g:title>خشک ایوکاڈو کی قاشیں 500 گرام</g:title>
       <g:description>خشک ایوکاڈو کی قاشیں 500 گرام. 1.0 kg.</g:description>
@@ -799,12 +805,6 @@
       <g:title>پسی ہلدی 500 گرام</g:title>
       <g:description>پسی ہلدی 500 گرام. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1956516321</g:id>
-      <g:title>خشک آم 250 گرام، آزمائشی چھوٹی پیکنگ</g:title>
-      <g:description>خشک آم 250 گرام، آزمائشی چھوٹی پیکنگ. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ur/250/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1854428382</g:id>

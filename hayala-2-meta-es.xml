@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 12:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:09:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>692080584</g:id>
+      <g:title>Cebolla frita (kashna) de primera calidad 500 g</g:title>
+      <g:description>Cebolla frita (kashna) de primera calidad 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/cebolla-frita-kashna-de-primera-calidad-500-g/p692080584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1956516321</g:id>
+      <g:title>Mango deshidratado 250 g</g:title>
+      <g:description>Mango deshidratado 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/mango-deshidratado-250-g/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2059144227</g:id>
+      <g:title>Aguacate deshidratado 250 g</g:title>
+      <g:description>Aguacate deshidratado 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/aguacate-deshidratado-250-g/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1732878396</g:id>
       <g:title>Especias variadas molidas 500 g</g:title>
@@ -597,12 +615,6 @@
       <g:link>https://hayala.co/es/cilantro-molido-500-g/p655013926?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>692080584</g:id>
-      <g:title>Cebolla frita (kashna) de primera calidad 500 g</g:title>
-      <g:description>Cebolla frita (kashna) de primera calidad 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/cebolla-frita-kashna-de-primera-calidad-500-g/p692080584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>816858337</g:id>
       <g:title>Curry molido 500 g</g:title>
       <g:description>Curry molido 500 g. 1.0 kg.</g:description>
@@ -673,12 +685,6 @@
       <g:title>Hojas de tomillo silvestre (500 g)</g:title>
       <g:description>Hojas de tomillo silvestre (500 g). 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/hojas-de-tomillo-silvestre-500-g/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2059144227</g:id>
-      <g:title>Aguacate deshidratado 250 g</g:title>
-      <g:description>Aguacate deshidratado 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/aguacate-deshidratado-250-g/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>441888257</g:id>
@@ -823,12 +829,6 @@
       <g:title>Cúrcuma molida 500 g</g:title>
       <g:description>Cúrcuma molida 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/c-rcuma-molida-500-g/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1956516321</g:id>
-      <g:title>Mango deshidratado 250 g</g:title>
-      <g:description>Mango deshidratado 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/mango-deshidratado-250-g/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1467466677</g:id>

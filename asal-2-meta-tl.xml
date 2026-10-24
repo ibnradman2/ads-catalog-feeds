@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 12:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:07:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1281597213</g:id>
+      <g:title>Dalawang Pakete ng Premium na Baladi na Pulot ng Talh</g:title>
+      <g:description>Dalawang Pakete ng Premium na Baladi na Pulot ng Talh. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-premium-na-baladi-na-pulot-ng-talh/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1880326017</g:id>
+      <g:title>Athl Honey (Sal) 1 Kilo</g:title>
+      <g:description>Athl Honey (Sal) 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/athl-honey-sal-1-kilo/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1080100078</g:id>
+      <g:title>Alok: Kalahating Kilo ng Natural na Sidr Honey + Kalahating Kilo ng Majra Honey (Mardesia) + Kalahating Kilo ng Black Forest Honey (Libreng Pagpapadal</g:title>
+      <g:description>Alok: Kalahating Kilo ng Natural na Sidr Honey + Kalahating Kilo ng Majra Honey (Mardesia) + Kalahating Kilo ng Black Forest Honey (Libreng Pagpapadala). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-kalahating-kilo-ng-natural-na-sidr-honey-kalahating-kilo-ng-majra-honey-mar/p1080100078?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>534917756</g:id>
       <g:title>Golden na Alok (Shawka Honey - Talh Honey - Black Forest Honey) (Libreng Shipping)</g:title>
@@ -307,12 +325,6 @@
       <g:title>Tunay na Black Forest Honey 5 Kilo Galon sa Pakyawan</g:title>
       <g:description>Tunay na Black Forest Honey 5 Kilo Galon sa Pakyawan. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-5-kilo-galon-sa-pakyawan/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1080100078</g:id>
-      <g:title>Alok: Kalahating Kilo ng Natural na Sidr Honey + Kalahating Kilo ng Majra Honey (Mardesia) + Kalahating Kilo ng Black Forest Honey (Libreng Pagpapadal</g:title>
-      <g:description>Alok: Kalahating Kilo ng Natural na Sidr Honey + Kalahating Kilo ng Majra Honey (Mardesia) + Kalahating Kilo ng Black Forest Honey (Libreng Pagpapadala). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/alok-kalahating-kilo-ng-natural-na-sidr-honey-kalahating-kilo-ng-majra-honey-mar/p1080100078?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>345536874</g:id>
@@ -721,12 +733,6 @@
       <g:title>Tunay na Black Forest Honey 1 Kilo</g:title>
       <g:description>Tunay na Black Forest Honey 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-1-kilo/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1880326017</g:id>
-      <g:title>Athl Honey (Sal) 1 Kilo</g:title>
-      <g:description>Athl Honey (Sal) 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/athl-honey-sal-1-kilo/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1884272643</g:id>
@@ -1568,11 +1574,5 @@
       <g:description>Espesyal na Alok: 4 na Garapon ng Kashmiri Sidr Honey + 3 Garapon ng Black Seed Honey + Kahoy na Kutsara ng Pulot (Libreng Delivery). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/espesyal-na-alok-4-na-garapon-ng-kashmiri-sidr-honey-3-garapon-ng-black-seed-hon/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1281597213</g:id>
-      <g:title>Dalawang Pakete ng Premium na Baladi na Pulot ng Talh</g:title>
-      <g:description>Dalawang Pakete ng Premium na Baladi na Pulot ng Talh. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-premium-na-baladi-na-pulot-ng-talh/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-  </channel>
+    </channel>
 </rss>

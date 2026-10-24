@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 12:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:09:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>692080584</g:id>
+      <g:title>Pritong Sibuyas (Kashna) Unang Grado - 500 Gramo</g:title>
+      <g:description>Pritong Sibuyas (Kashna) Unang Grado - 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/pritong-sibuyas-kashna-unang-grado-500-gramo/p692080584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1956516321</g:id>
+      <g:title>Dried Mango (Pinatuyong Mangga) 250g</g:title>
+      <g:description>Dried Mango (Pinatuyong Mangga) 250g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/dried-mango-pinatuyong-mangga-250g/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>2059144227</g:id>
+      <g:title>Tuyong Avocado 250g</g:title>
+      <g:description>Tuyong Avocado 250g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/tuyong-avocado-250g/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1732878396</g:id>
       <g:title>Halo-halong Giniling na Pampalasa 500gm</g:title>
@@ -615,12 +633,6 @@
       <g:link>https://hayala.co/tl/giniling-na-kulantro-coriander-500-gramo/p655013926?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>692080584</g:id>
-      <g:title>Pritong Sibuyas (Kashna) Unang Grado - 500 Gramo</g:title>
-      <g:description>Pritong Sibuyas (Kashna) Unang Grado - 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/pritong-sibuyas-kashna-unang-grado-500-gramo/p692080584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>816858337</g:id>
       <g:title>Giniling na Curry 500 Gramo</g:title>
       <g:description>Giniling na Curry 500 Gramo. 1.0 kg.</g:description>
@@ -691,12 +703,6 @@
       <g:title>Dahon ng Ligaw na Thyme 500 Gramo</g:title>
       <g:description>Dahon ng Ligaw na Thyme 500 Gramo. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tl/dahon-ng-ligaw-na-thyme-500-gramo/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2059144227</g:id>
-      <g:title>Tuyong Avocado 250g</g:title>
-      <g:description>Tuyong Avocado 250g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/tuyong-avocado-250g/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>441888257</g:id>
@@ -841,12 +847,6 @@
       <g:title>Giniling na Luyang Dilaw 500gm</g:title>
       <g:description>Giniling na Luyang Dilaw 500gm. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tl/giniling-na-luyang-dilaw-500gm/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1956516321</g:id>
-      <g:title>Dried Mango (Pinatuyong Mangga) 250g</g:title>
-      <g:description>Dried Mango (Pinatuyong Mangga) 250g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/dried-mango-pinatuyong-mangga-250g/p1956516321?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1467466677</g:id>

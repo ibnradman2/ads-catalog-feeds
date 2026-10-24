@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 12:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:07:48 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1281597213</g:id>
+      <g:title>高档本地塔勒赫蜂蜜两罐装</g:title>
+      <g:description>高档本地塔勒赫蜂蜜两罐装. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1880326017</g:id>
+      <g:title>柽柳蜂蜜（Al Sal）1公斤</g:title>
+      <g:description>柽柳蜂蜜（Al Sal）1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/al-sal-1/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1080100078</g:id>
+      <g:title>组合优惠：半公斤天然西德尔蜂蜜 + 半公斤匈牙利白蜜（Mardisia）+ 半公斤黑森林蜂蜜（包邮）</g:title>
+      <g:description>组合优惠：半公斤天然西德尔蜂蜜 + 半公斤匈牙利白蜜（Mardisia）+ 半公斤黑森林蜂蜜（包邮）. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/mardisia/p1080100078?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>534917756</g:id>
       <g:title>黄金套装（Shawka蜂蜜 - 塔勒蜂蜜 - 森林蜂蜜）（免运费）</g:title>
@@ -307,12 +325,6 @@
       <g:title>正宗黑森林蜂蜜 5公斤桶装 批发</g:title>
       <g:description>正宗黑森林蜂蜜 5公斤桶装 批发. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/5/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1080100078</g:id>
-      <g:title>组合优惠：半公斤天然西德尔蜂蜜 + 半公斤匈牙利白蜜（Mardisia）+ 半公斤黑森林蜂蜜（包邮）</g:title>
-      <g:description>组合优惠：半公斤天然西德尔蜂蜜 + 半公斤匈牙利白蜜（Mardisia）+ 半公斤黑森林蜂蜜（包邮）. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/mardisia/p1080100078?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>345536874</g:id>
@@ -715,12 +727,6 @@
       <g:title>正宗黑森林蜂蜜 1公斤</g:title>
       <g:description>正宗黑森林蜂蜜 1公斤. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/1/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1880326017</g:id>
-      <g:title>柽柳蜂蜜（Al Sal）1公斤</g:title>
-      <g:description>柽柳蜂蜜（Al Sal）1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/al-sal-1/p1880326017?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1884272643</g:id>
@@ -1562,11 +1568,5 @@
       <g:description>特惠套装：4罐克什米尔西德尔蜂蜜 + 3罐黑种草蜂蜜 + 木质蜂蜜勺（免运费）. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1281597213</g:id>
-      <g:title>高档本地塔勒赫蜂蜜两罐装</g:title>
-      <g:description>高档本地塔勒赫蜂蜜两罐装. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-  </channel>
+    </channel>
 </rss>
