@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 13:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:46:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1474254823</g:id>
+      <g:title>Cannelle en poudre 500 g</g:title>
+      <g:description>Cannelle en poudre 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/cannelle-en-poudre-500-g/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>74605069</g:id>
+      <g:title>Gingembre Moulu 500 g</g:title>
+      <g:description>Gingembre Moulu 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/gingembre-moulu-500-g/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>816858337</g:id>
+      <g:title>Curry Moulu 500 g</g:title>
+      <g:description>Curry Moulu 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/curry-moulu-500-g/p816858337?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>692080584</g:id>
       <g:title>Oignons frits (kashna) de premier choix 500 g</g:title>
@@ -591,12 +609,6 @@
       <g:link>https://hayala.co/fr/anis-250-g/p222295925?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>74605069</g:id>
-      <g:title>Gingembre Moulu 500 g</g:title>
-      <g:description>Gingembre Moulu 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/gingembre-moulu-500-g/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>348925444</g:id>
       <g:title>Noix (américaines) - 1 kg</g:title>
       <g:description>Noix (américaines) - 1 kg. 1.5 kg.</g:description>
@@ -607,12 +619,6 @@
       <g:title>Coriandre Moulue 500 g</g:title>
       <g:description>Coriandre Moulue 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/coriandre-moulue-500-g/p655013926?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>816858337</g:id>
-      <g:title>Curry Moulu 500 g</g:title>
-      <g:description>Curry Moulu 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/curry-moulu-500-g/p816858337?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1079475470</g:id>
@@ -775,12 +781,6 @@
       <g:title>Fenouil 250 g</g:title>
       <g:description>Fenouil 250 g. 0.75 kg.</g:description>
       <g:link>https://hayala.co/fr/fenouil-250-g/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1474254823</g:id>
-      <g:title>Cannelle en poudre 500 g</g:title>
-      <g:description>Cannelle en poudre 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/cannelle-en-poudre-500-g/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>801044632</g:id>
