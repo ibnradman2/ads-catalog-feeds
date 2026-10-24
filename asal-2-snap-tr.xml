@@ -4,10 +4,57 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 20:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:05:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">35110238</guid>
+      <g:id>35110238</g:id>
+      <g:title>Orijinal Kara Orman Balı 2 Kilo, Koyu ve Test Edilmiş</g:title>
+      <g:description>Orijinal Kara Orman Balı 2 Kilo, Koyu ve Test Edilmiş. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/orijinal-kara-orman-bal-2-kilo-koyu-ve-test-edilmi/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/s5za3IZ79Thj0yHzKdb5zRRpkB4m5PRTzFNrMOna.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>276.00 SAR</g:price>
+      <g:sale_price>252.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1798147214</guid>
+      <g:id>1798147214</g:id>
+      <g:title>Dağ Sidr Balı 500 Gr</g:title>
+      <g:description>Dağ Sidr Balı 500 Gr. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/da-sidr-bal-500-gr/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LMcQQKerpXtDMQuDZEYcZ0KtPzhv9bAnVzw2n8R3.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>258.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041021009</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2030973022</guid>
+      <g:id>2030973022</g:id>
+      <g:title>Bal Teklifi Semer Dikeni Balı - Kara Orman Balı - Çörek Otu Balı (Ücretsiz Kargo)</g:title>
+      <g:description>Bal Teklifi Semer Dikeni Balı - Kara Orman Balı - Çörek Otu Balı (Ücretsiz Kargo). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/bal-teklifi-semer-dikeni-bal-kara-orman-bal-rek-otu-bal-cretsiz-kargo/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/YyyZqycPFoDCLReTLGdsVAHcaHLZDvAfTx6vrmhF.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>345.00 SAR</g:price>
+      <g:sale_price>260.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101004</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">2037297617</guid>
       <g:id>2037297617</g:id>
@@ -1010,22 +1057,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0081010001</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2030973022</guid>
-      <g:id>2030973022</g:id>
-      <g:title>Bal Teklifi Semer Dikeni Balı - Kara Orman Balı - Çörek Otu Balı (Ücretsiz Kargo)</g:title>
-      <g:description>Bal Teklifi Semer Dikeni Balı - Kara Orman Balı - Çörek Otu Balı (Ücretsiz Kargo). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/bal-teklifi-semer-dikeni-bal-kara-orman-bal-rek-otu-bal-cretsiz-kargo/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Sj5QOQ6QTNf6UrHZs4QOOBVStbJtOQkYA51j3sOo.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>345.00 SAR</g:price>
-      <g:sale_price>260.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101004</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1060367261</guid>
@@ -2787,22 +2818,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">35110238</guid>
-      <g:id>35110238</g:id>
-      <g:title>Orijinal Kara Orman Balı 2 Kilo, Koyu ve Test Edilmiş</g:title>
-      <g:description>Orijinal Kara Orman Balı 2 Kilo, Koyu ve Test Edilmiş. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/orijinal-kara-orman-bal-2-kilo-koyu-ve-test-edilmi/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/s5za3IZ79Thj0yHzKdb5zRRpkB4m5PRTzFNrMOna.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>276.00 SAR</g:price>
-      <g:sale_price>252.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">661149787</guid>
       <g:id>661149787</g:id>
       <g:title>Yonca Çiçeği Balı 7 Kilo Bidon, Toptan Fiyat</g:title>
@@ -3558,21 +3573,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041049003</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1798147214</guid>
-      <g:id>1798147214</g:id>
-      <g:title>Dağ Sidr Balı 500 Gr</g:title>
-      <g:description>Dağ Sidr Balı 500 Gr. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/da-sidr-bal-500-gr/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/LMcQQKerpXtDMQuDZEYcZ0KtPzhv9bAnVzw2n8R3.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>258.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041021009</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">520040245</guid>

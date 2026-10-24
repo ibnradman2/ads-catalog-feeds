@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 20:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:05:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>35110238</g:id>
+      <g:title>Miel de la Selva Negra auténtica 2 kg</g:title>
+      <g:description>Miel de la Selva Negra auténtica 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-2-kg/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1798147214</g:id>
+      <g:title>Miel de Sidr de montaña, 500 gramos</g:title>
+      <g:description>Miel de Sidr de montaña, 500 gramos. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-500-gramos/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2030973022</g:id>
+      <g:title>Oferta de miel de Samar, miel de la Selva Negra y miel de comino negro (Envío gratis)</g:title>
+      <g:description>Oferta de miel de Samar, miel de la Selva Negra y miel de comino negro (Envío gratis). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-de-miel-de-samar-miel-de-la-selva-negra-y-miel-de-comino-negro-env-o-grat/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>2037297617</g:id>
       <g:title>Miel de Manuka de Nueva Zelanda Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g</g:title>
@@ -385,12 +403,6 @@
       <g:title>Café Al Shazliya: café árabe molido de lujo con café, cardamomo y azafrán</g:title>
       <g:description>Café Al Shazliya: café árabe molido de lujo con café, cardamomo y azafrán. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/caf-al-shazliya-caf-rabe-molido-de-lujo-con-caf-cardamomo-y-azafr-n/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2030973022</g:id>
-      <g:title>Oferta de miel de Samar, miel de la Selva Negra y miel de comino negro (Envío gratis)</g:title>
-      <g:description>Oferta de miel de Samar, miel de la Selva Negra y miel de comino negro (Envío gratis). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-de-miel-de-samar-miel-de-la-selva-negra-y-miel-de-comino-negro-env-o-grat/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1060367261</g:id>
@@ -1065,12 +1077,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-acacia-2-kg/p2024213782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>35110238</g:id>
-      <g:title>Miel de la Selva Negra auténtica 2 kg</g:title>
-      <g:description>Miel de la Selva Negra auténtica 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-2-kg/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>661149787</g:id>
       <g:title>Miel de flor de trébol en garrafa de 7 kg a precio de mayorista</g:title>
       <g:description>Miel de flor de trébol en garrafa de 7 kg a precio de mayorista. 7.5 kg.</g:description>
@@ -1357,12 +1363,6 @@
       <g:title>Miel de anís 1 kg</g:title>
       <g:description>Miel de anís 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-an-s-1-kg/p1212649180?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1798147214</g:id>
-      <g:title>Miel de Sidr de montaña, 500 gramos</g:title>
-      <g:description>Miel de Sidr de montaña, 500 gramos. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-500-gramos/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>520040245</g:id>

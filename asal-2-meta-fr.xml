@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 20:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:05:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>35110238</g:id>
+      <g:title>Miel de la Forêt-Noire authentique 2 kg</g:title>
+      <g:description>Miel de la Forêt-Noire authentique 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-2-kg/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1798147214</g:id>
+      <g:title>Miel de sidr de montagne 500 g</g:title>
+      <g:description>Miel de sidr de montagne 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-500-g/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2030973022</g:id>
+      <g:title>Offre de miel : Samra – Forêt-Noire – Nigelle (livraison gratuite)</g:title>
+      <g:description>Offre de miel : Samra – Forêt-Noire – Nigelle (livraison gratuite). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-de-miel-samra-for-t-noire-nigelle-livraison-gratuite/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2037297617</g:id>
       <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g</g:title>
@@ -385,12 +403,6 @@
       <g:title>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran</g:title>
       <g:description>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/caf-al-shadhiliya-caf-arabe-moulu-haut-de-gamme-au-caf-la-cardamome-et-au-safran/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2030973022</g:id>
-      <g:title>Offre de miel : Samra – Forêt-Noire – Nigelle (livraison gratuite)</g:title>
-      <g:description>Offre de miel : Samra – Forêt-Noire – Nigelle (livraison gratuite). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-de-miel-samra-for-t-noire-nigelle-livraison-gratuite/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1060367261</g:id>
@@ -1059,12 +1071,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-d-acacia-2-kg/p2024213782?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>35110238</g:id>
-      <g:title>Miel de la Forêt-Noire authentique 2 kg</g:title>
-      <g:description>Miel de la Forêt-Noire authentique 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-2-kg/p35110238?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>661149787</g:id>
       <g:title>Miel de trèfle en jarre de 7 kg, prix de gros</g:title>
       <g:description>Miel de trèfle en jarre de 7 kg, prix de gros. 7.5 kg.</g:description>
@@ -1351,12 +1357,6 @@
       <g:title>Miel d'anis 1 kg</g:title>
       <g:description>Miel d'anis 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-d-anis-1-kg/p1212649180?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1798147214</g:id>
-      <g:title>Miel de sidr de montagne 500 g</g:title>
-      <g:description>Miel de sidr de montagne 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-500-g/p1798147214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>520040245</g:id>
