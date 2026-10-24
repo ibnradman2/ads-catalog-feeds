@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 23:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:09:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>548974799</g:id>
+      <g:title>白沙瓦西德尔蜂蜜1公斤</g:title>
+      <g:description>白沙瓦西德尔蜂蜜1公斤. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/1/p548974799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>561200214</g:id>
+      <g:title>刺树蜂巢蜜 500克</g:title>
+      <g:description>刺树蜂巢蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/500/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>162309629</g:id>
+      <g:title>山地西德尔蜂巢蜜 1公斤</g:title>
+      <g:description>山地西德尔蜂巢蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/1/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>587159425</g:id>
+      <g:title>萨马尔（刺树）蜂巢蜜 1公斤</g:title>
+      <g:description>萨马尔（刺树）蜂巢蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/1/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1303550999</g:id>
       <g:title>山地西德尔蜂巢蜜 500克</g:title>
@@ -273,12 +297,6 @@
       <g:link>https://areesh.sa/zh/1/p399980213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>548974799</g:id>
-      <g:title>白沙瓦西德尔蜂蜜1公斤</g:title>
-      <g:description>白沙瓦西德尔蜂蜜1公斤. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/1/p548974799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>378951093</g:id>
       <g:title>哈德拉毛西德尔蜂蜜 1公斤</g:title>
       <g:description>哈德拉毛西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
@@ -427,24 +445,6 @@
       <g:title>白色马吉拉蜂蜜 1公斤</g:title>
       <g:description>白色马吉拉蜂蜜 1公斤. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>561200214</g:id>
-      <g:title>刺树蜂巢蜜 500克</g:title>
-      <g:description>刺树蜂巢蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/500/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>587159425</g:id>
-      <g:title>萨马尔（刺树）蜂巢蜜 1公斤</g:title>
-      <g:description>萨马尔（刺树）蜂巢蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/1/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>162309629</g:id>
-      <g:title>山地西德尔蜂巢蜜 1公斤</g:title>
-      <g:description>山地西德尔蜂巢蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/1/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1921376200</g:id>

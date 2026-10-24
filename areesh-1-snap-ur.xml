@@ -4,10 +4,67 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 23:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:09:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">548974799</guid>
+      <g:id>548974799</g:id>
+      <g:title>پشاوری سدر شہد 1 کلو</g:title>
+      <g:description>پشاوری سدر شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/1/p548974799?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/68qdJLl81NKC65WrDOZlb1JGKGuiyP2fjmp5PCkv.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>عریش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">561200214</guid>
+      <g:id>561200214</g:id>
+      <g:title>کانٹے دار چھتے والا شہد 500 گرام</g:title>
+      <g:description>کانٹے دار چھتے والا شہد 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/500/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/khtpqzh0eVcarkiubKMIuLLexYU9jL1LIzzQHBSo.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>200.00 SAR</g:price>
+      <g:brand>عریش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">162309629</guid>
+      <g:id>162309629</g:id>
+      <g:title>پہاڑی سدر چھتے والا شہد 1 کلو</g:title>
+      <g:description>پہاڑی سدر چھتے والا شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/1/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/dcR95uSPq2g8blc8FnBCV7rG2qo3VjY9Rd2jEFv8.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>390.00 SAR</g:price>
+      <g:brand>عریش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">587159425</guid>
+      <g:id>587159425</g:id>
+      <g:title>سمرہ (کانٹے دار) چھتے والا شہد 1 کلو</g:title>
+      <g:description>سمرہ (کانٹے دار) چھتے والا شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/1/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/M4n6TJlJ7CLYMyI9OnvE28AGcKq8maro3CrMX0pE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>عریش</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1303550999</guid>
       <g:id>1303550999</g:id>
@@ -621,21 +678,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">548974799</guid>
-      <g:id>548974799</g:id>
-      <g:title>پشاوری سدر شہد 1 کلو</g:title>
-      <g:description>پشاوری سدر شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/1/p548974799?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/68qdJLl81NKC65WrDOZlb1JGKGuiyP2fjmp5PCkv.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>115.00 SAR</g:price>
-      <g:brand>عریش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">378951093</guid>
       <g:id>378951093</g:id>
       <g:title>حضرمی سدر شہد 1 کلو</g:title>
@@ -1006,48 +1048,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041012002</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">561200214</guid>
-      <g:id>561200214</g:id>
-      <g:title>کانٹے دار چھتے والا شہد 500 گرام</g:title>
-      <g:description>کانٹے دار چھتے والا شہد 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/500/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/khtpqzh0eVcarkiubKMIuLLexYU9jL1LIzzQHBSo.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>200.00 SAR</g:price>
-      <g:brand>عریش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">587159425</guid>
-      <g:id>587159425</g:id>
-      <g:title>سمرہ (کانٹے دار) چھتے والا شہد 1 کلو</g:title>
-      <g:description>سمرہ (کانٹے دار) چھتے والا شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/1/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/M4n6TJlJ7CLYMyI9OnvE28AGcKq8maro3CrMX0pE.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
-      <g:brand>عریش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">162309629</guid>
-      <g:id>162309629</g:id>
-      <g:title>پہاڑی سدر چھتے والا شہد 1 کلو</g:title>
-      <g:description>پہاڑی سدر چھتے والا شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/1/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/dcR95uSPq2g8blc8FnBCV7rG2qo3VjY9Rd2jEFv8.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>390.00 SAR</g:price>
-      <g:brand>عریش</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
