@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 09:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:10:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1930504799</g:id>
+      <g:title>Miel de flor de trébol 500 g</g:title>
+      <g:description>Miel de flor de trébol 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-flor-de-tr-bol-500-g/p1930504799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>276517184</g:id>
+      <g:title>Miel de Sidr de montaña 250 g</g:title>
+      <g:description>Miel de Sidr de montaña 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-de-monta-a-250-g/p276517184?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>557058910</g:id>
+      <g:title>Miel de flor de trébol 1 kilo</g:title>
+      <g:description>Miel de flor de trébol 1 kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-flor-de-tr-bol-1-kilo/p557058910?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1897520045</g:id>
+      <g:title>Miel de Shawka Samra premium 1 kg</g:title>
+      <g:description>Miel de Shawka Samra premium 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-shawka-samra-premium-1-kg/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1774315670</g:id>
       <g:title>Miel de flores silvestres 250 g</g:title>
@@ -493,30 +517,6 @@
       <g:title>Miel blanca de Mardisia 1 kg</g:title>
       <g:description>Miel blanca de Mardisia 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-blanca-de-mardisia-1-kg/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1897520045</g:id>
-      <g:title>Miel de Shawka Samra premium 1 kg</g:title>
-      <g:description>Miel de Shawka Samra premium 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-shawka-samra-premium-1-kg/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>276517184</g:id>
-      <g:title>Miel de Sidr de montaña 250 g</g:title>
-      <g:description>Miel de Sidr de montaña 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-de-monta-a-250-g/p276517184?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>557058910</g:id>
-      <g:title>Miel de flor de trébol 1 kilo</g:title>
-      <g:description>Miel de flor de trébol 1 kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-flor-de-tr-bol-1-kilo/p557058910?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1930504799</g:id>
-      <g:title>Miel de flor de trébol 500 g</g:title>
-      <g:description>Miel de flor de trébol 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-flor-de-tr-bol-500-g/p1930504799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>807269030</g:id>
