@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:14:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2082144846</g:id>
+      <g:title>Giniling na Thyme 1 Kilo</g:title>
+      <g:description>Giniling na Thyme 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/giniling-na-thyme-1-kilo/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>861941121</g:id>
+      <g:title>Buto ng Fenugreek (Hulba) 1 Kilo</g:title>
+      <g:description>Buto ng Fenugreek (Hulba) 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-fenugreek-hulba-1-kilo/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1378639718</g:id>
+      <g:title>Buto ng Chia - 250 Gramo</g:title>
+      <g:description>Buto ng Chia - 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-chia-250-gramo/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1730613591</g:id>
       <g:title>Dried Pineapple (Pinatuyong Pinya) 250g</g:title>
@@ -543,12 +561,6 @@
       <g:link>https://hayala.co/tl/bee-pollen-pollen-grains-30-gramo/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>861941121</g:id>
-      <g:title>Buto ng Fenugreek (Hulba) 1 Kilo</g:title>
-      <g:description>Buto ng Fenugreek (Hulba) 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-fenugreek-hulba-1-kilo/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>1017600485</g:id>
       <g:title>Giniling na Gum Arabic 250 Gramo</g:title>
       <g:description>Giniling na Gum Arabic 250 Gramo. 0.75 kg.</g:description>
@@ -723,22 +735,10 @@
       <g:link>https://hayala.co/tl/buto-ng-chia-1-kilo/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
-      <g:id>1378639718</g:id>
-      <g:title>Buto ng Chia - 250 Gramo</g:title>
-      <g:description>Buto ng Chia - 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-chia-250-gramo/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
       <g:id>1466026704</g:id>
       <g:title>Giniling na Thyme 250 Gramo</g:title>
       <g:description>Giniling na Thyme 250 Gramo. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tl/giniling-na-thyme-250-gramo/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2082144846</g:id>
-      <g:title>Giniling na Thyme 1 Kilo</g:title>
-      <g:description>Giniling na Thyme 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/giniling-na-thyme-1-kilo/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>351659116</g:id>
