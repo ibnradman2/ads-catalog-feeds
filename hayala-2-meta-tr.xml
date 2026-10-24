@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:09:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1732878396</g:id>
+      <g:title>Karışık Öğütülmüş Baharat 500 gr</g:title>
+      <g:description>Karışık Öğütülmüş Baharat 500 gr. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kar-k-t-lm-baharat-500-gr/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1959531644</g:id>
+      <g:title>Öğütülmüş Tatlı Biber (Paprika) 500 Gram</g:title>
+      <g:description>Öğütülmüş Tatlı Biber (Paprika) 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-tatl-biber-paprika-500-gram/p1959531644?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2082144846</g:id>
       <g:title>Öğütülmüş Kekik 1 kilo</g:title>
@@ -639,12 +651,6 @@
       <g:link>https://hayala.co/tr/pekan-cevizi-500-g/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1959531644</g:id>
-      <g:title>Öğütülmüş Tatlı Biber (Paprika) 500 Gram</g:title>
-      <g:description>Öğütülmüş Tatlı Biber (Paprika) 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/t-lm-tatl-biber-paprika-500-gram/p1959531644?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>428797377</g:id>
       <g:title>Kurutulmuş Ananas 1 kg</g:title>
       <g:description>Kurutulmuş Ananas 1 kg. 1.5 kg.</g:description>
@@ -739,12 +745,6 @@
       <g:title>Papatya Çiçeği 1 kg</g:title>
       <g:description>Papatya Çiçeği 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tr/papatya-i-e-i-1-kg/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1732878396</g:id>
-      <g:title>Karışık Öğütülmüş Baharat 500 gr</g:title>
-      <g:description>Karışık Öğütülmüş Baharat 500 gr. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/kar-k-t-lm-baharat-500-gr/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>130562279</g:id>

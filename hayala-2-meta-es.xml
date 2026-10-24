@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:09:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1732878396</g:id>
+      <g:title>Especias variadas molidas 500 g</g:title>
+      <g:description>Especias variadas molidas 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-variadas-molidas-500-g/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1959531644</g:id>
+      <g:title>Pimentón dulce molido (paprika) 500 g</g:title>
+      <g:description>Pimentón dulce molido (paprika) 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/piment-n-dulce-molido-paprika-500-g/p1959531644?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>2082144846</g:id>
       <g:title>Za'atar molido 1 kg</g:title>
@@ -633,12 +645,6 @@
       <g:link>https://hayala.co/es/nuez-pecana-500-g/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1959531644</g:id>
-      <g:title>Pimentón dulce molido (paprika) 500 g</g:title>
-      <g:description>Pimentón dulce molido (paprika) 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/piment-n-dulce-molido-paprika-500-g/p1959531644?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>428797377</g:id>
       <g:title>Piña deshidratada 1 kg</g:title>
       <g:description>Piña deshidratada 1 kg. 1.5 kg.</g:description>
@@ -733,12 +739,6 @@
       <g:title>Flores de manzanilla 1 kilo</g:title>
       <g:description>Flores de manzanilla 1 kilo. 1.5 kg.</g:description>
       <g:link>https://hayala.co/es/flores-de-manzanilla-1-kilo/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1732878396</g:id>
-      <g:title>Especias variadas molidas 500 g</g:title>
-      <g:description>Especias variadas molidas 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/especias-variadas-molidas-500-g/p1732878396?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>130562279</g:id>

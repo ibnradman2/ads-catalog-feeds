@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 11:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:04:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>534917756</g:id>
+      <g:title>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir)</g:title>
+      <g:description>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-emas-madu-syauk-madu-talh-madu-hutan-gratis-ongkir/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1369228614</g:id>
+      <g:title>Madu Sarang Samra (Duri) 1 Kg</g:title>
+      <g:description>Madu Sarang Samra (Duri) 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-samra-duri-1-kg/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1792368707</g:id>
+      <g:title>Madu Syauk Samra Premium 1 Kg</g:title>
+      <g:description>Madu Syauk Samra Premium 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>612621130</g:id>
       <g:title>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir)</g:title>
@@ -265,12 +283,6 @@
       <g:title>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir)</g:title>
       <g:description>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir). 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/paket-perak-madu-hutan-hitam-madu-jintan-hitam-madu-bunga-clover-gratis-ongkir/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>534917756</g:id>
-      <g:title>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir)</g:title>
-      <g:description>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-emas-madu-syauk-madu-talh-madu-hutan-gratis-ongkir/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1017059861</g:id>
@@ -1017,12 +1029,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-akasia-500-gram/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1792368707</g:id>
-      <g:title>Madu Syauk Samra Premium 1 Kg</g:title>
-      <g:description>Madu Syauk Samra Premium 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1152618316</g:id>
       <g:title>Madu Syauk Samra Premium 500 g</g:title>
       <g:description>Madu Syauk Samra Premium 500 g. 1.0 kg.</g:description>
@@ -1147,12 +1153,6 @@
       <g:title>Tepung Barley Talbinah Nabawiyah 500 gram</g:title>
       <g:description>Tepung Barley Talbinah Nabawiyah 500 gram. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/tepung-barley-talbinah-nabawiyah-500-gram/p802419986?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1369228614</g:id>
-      <g:title>Madu Sarang Samra (Duri) 1 Kg</g:title>
-      <g:description>Madu Sarang Samra (Duri) 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-samra-duri-1-kg/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1407830458</g:id>

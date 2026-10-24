@@ -4,10 +4,56 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 11:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:04:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">534917756</guid>
+      <g:id>534917756</g:id>
+      <g:title>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir)</g:title>
+      <g:description>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-emas-madu-syauk-madu-talh-madu-hutan-gratis-ongkir/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/N0uMXXvG4S07bK1FRveXD3ypjQVqMY7wWiVOpH4P.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>483.00 SAR</g:price>
+      <g:sale_price>340.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101005</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1369228614</guid>
+      <g:id>1369228614</g:id>
+      <g:title>Madu Sarang Samra (Duri) 1 Kg</g:title>
+      <g:description>Madu Sarang Samra (Duri) 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-samra-duri-1-kg/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/na0d1a8fJdIIBbQ2zLqU26oa1PBT1orFiey6MDRi.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031009001</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1792368707</guid>
+      <g:id>1792368707</g:id>
+      <g:title>Madu Syauk Samra Premium 1 Kg</g:title>
+      <g:description>Madu Syauk Samra Premium 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/iT1UjEKqoDTHU4xO8GZ7KLt4qhZikgWxaj258aZM.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>344.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021091003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">612621130</guid>
       <g:id>612621130</g:id>
@@ -689,22 +735,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101006</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">534917756</guid>
-      <g:id>534917756</g:id>
-      <g:title>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir)</g:title>
-      <g:description>Paket Emas (Madu Syauk - Madu Talh - Madu Hutan) (Gratis Ongkir). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-emas-madu-syauk-madu-talh-madu-hutan-gratis-ongkir/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/N0uMXXvG4S07bK1FRveXD3ypjQVqMY7wWiVOpH4P.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>483.00 SAR</g:price>
-      <g:sale_price>340.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101005</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1017059861</guid>
@@ -2679,21 +2709,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1792368707</guid>
-      <g:id>1792368707</g:id>
-      <g:title>Madu Syauk Samra Premium 1 Kg</g:title>
-      <g:description>Madu Syauk Samra Premium 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-syauk-samra-premium-1-kg/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/iT1UjEKqoDTHU4xO8GZ7KLt4qhZikgWxaj258aZM.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021091003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1152618316</guid>
       <g:id>1152618316</g:id>
       <g:title>Madu Syauk Samra Premium 500 g</g:title>
@@ -3038,21 +3053,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>03030334</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1369228614</guid>
-      <g:id>1369228614</g:id>
-      <g:title>Madu Sarang Samra (Duri) 1 Kg</g:title>
-      <g:description>Madu Sarang Samra (Duri) 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-samra-duri-1-kg/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/na0d1a8fJdIIBbQ2zLqU26oa1PBT1orFiey6MDRi.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>344.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031009001</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1407830458</guid>

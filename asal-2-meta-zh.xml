@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 08:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:04:52 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>534917756</g:id>
+      <g:title>黄金套装（Shawka蜂蜜 - 塔勒蜂蜜 - 森林蜂蜜）（免运费）</g:title>
+      <g:description>黄金套装（Shawka蜂蜜 - 塔勒蜂蜜 - 森林蜂蜜）（免运费）. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/shawka/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1369228614</g:id>
+      <g:title>萨姆拉刺蜂蜜巢蜜 1公斤</g:title>
+      <g:description>萨姆拉刺蜂蜜巢蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1792368707</g:id>
+      <g:title>高级萨姆拉刺树蜂蜜 1公斤</g:title>
+      <g:description>高级萨姆拉刺树蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>612621130</g:id>
       <g:title>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）</g:title>
@@ -265,12 +283,6 @@
       <g:title>白银套装（黑森林蜂蜜 + 黑种草蜂蜜 + 三叶草蜂蜜）（免运费）</g:title>
       <g:description>白银套装（黑森林蜂蜜 + 黑种草蜂蜜 + 三叶草蜂蜜）（免运费）. 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/product/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>534917756</g:id>
-      <g:title>黄金套装（Shawka蜂蜜 - 塔勒蜂蜜 - 森林蜂蜜）（免运费）</g:title>
-      <g:description>黄金套装（Shawka蜂蜜 - 塔勒蜂蜜 - 森林蜂蜜）（免运费）. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/shawka/p534917756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1017059861</g:id>
@@ -1017,12 +1029,6 @@
       <g:link>https://asalaljebal.sa/zh/500/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1792368707</g:id>
-      <g:title>高级萨姆拉刺树蜂蜜 1公斤</g:title>
-      <g:description>高级萨姆拉刺树蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1792368707?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1152618316</g:id>
       <g:title>高级萨姆拉刺树蜂蜜 500克</g:title>
       <g:description>高级萨姆拉刺树蜂蜜 500克. 1.0 kg.</g:description>
@@ -1147,12 +1153,6 @@
       <g:title>大麦粉（先知式大麦粥 Talbina）500克</g:title>
       <g:description>大麦粉（先知式大麦粥 Talbina）500克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/talbina-500/p802419986?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1369228614</g:id>
-      <g:title>萨姆拉刺蜂蜜巢蜜 1公斤</g:title>
-      <g:description>萨姆拉刺蜂蜜巢蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1369228614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1407830458</g:id>
