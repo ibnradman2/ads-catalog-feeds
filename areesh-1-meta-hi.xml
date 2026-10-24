@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 02:09:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1281556169</g:id>
+      <g:title>पेशावरी सिदर (बेर) शहद 250 ग्राम</g:title>
+      <g:description>पेशावरी सिदर (बेर) शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/hi/250/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1456705998</g:id>
+      <g:title>पेशावरी सिदर (बेर) शहद 2 किलो</g:title>
+      <g:description>पेशावरी सिदर (बेर) शहद 2 किलो. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/2/p1456705998?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>401594117</g:id>
+      <g:title>प्रीमियम तलह शहद 500 ग्राम</g:title>
+      <g:description>प्रीमियम तलह शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/500/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1921376200</g:id>
+      <g:title>पेशावरी सिदर (बेर) शहद 500 ग्राम</g:title>
+      <g:description>पेशावरी सिदर (बेर) शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/500/p1921376200?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1307810461</g:id>
       <g:title>प्राकृतिक मोम वाला शहद 200 ग्राम</g:title>
@@ -445,30 +469,6 @@
       <g:title>सफ़ेद मजरा शहद 1 किलो</g:title>
       <g:description>सफ़ेद मजरा शहद 1 किलो. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/hi/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1921376200</g:id>
-      <g:title>पेशावरी सिदर (बेर) शहद 500 ग्राम</g:title>
-      <g:description>पेशावरी सिदर (बेर) शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/500/p1921376200?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1456705998</g:id>
-      <g:title>पेशावरी सिदर (बेर) शहद 2 किलो</g:title>
-      <g:description>पेशावरी सिदर (बेर) शहद 2 किलो. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/2/p1456705998?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1281556169</g:id>
-      <g:title>पेशावरी सिदर (बेर) शहद 250 ग्राम</g:title>
-      <g:description>पेशावरी सिदर (बेर) शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/hi/250/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>401594117</g:id>
-      <g:title>प्रीमियम तलह शहद 500 ग्राम</g:title>
-      <g:description>प्रीमियम तलह शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/500/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1774315670</g:id>

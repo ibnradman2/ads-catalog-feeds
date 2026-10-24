@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 02:09:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1281556169</g:id>
+      <g:title>白沙瓦西德尔蜂蜜250克</g:title>
+      <g:description>白沙瓦西德尔蜂蜜250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/250/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1456705998</g:id>
+      <g:title>白沙瓦西德尔蜂蜜2公斤</g:title>
+      <g:description>白沙瓦西德尔蜂蜜2公斤. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/2/p1456705998?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>401594117</g:id>
+      <g:title>优质塔勒赫蜂蜜 500克</g:title>
+      <g:description>优质塔勒赫蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/500/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1921376200</g:id>
+      <g:title>白沙瓦西德尔蜂蜜500克</g:title>
+      <g:description>白沙瓦西德尔蜂蜜500克. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/500/p1921376200?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1307810461</g:id>
       <g:title>天然蜂巢蜜 200克</g:title>
@@ -445,30 +469,6 @@
       <g:title>白色马吉拉蜂蜜 1公斤</g:title>
       <g:description>白色马吉拉蜂蜜 1公斤. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1921376200</g:id>
-      <g:title>白沙瓦西德尔蜂蜜500克</g:title>
-      <g:description>白沙瓦西德尔蜂蜜500克. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/500/p1921376200?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1456705998</g:id>
-      <g:title>白沙瓦西德尔蜂蜜2公斤</g:title>
-      <g:description>白沙瓦西德尔蜂蜜2公斤. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/2/p1456705998?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1281556169</g:id>
-      <g:title>白沙瓦西德尔蜂蜜250克</g:title>
-      <g:description>白沙瓦西德尔蜂蜜250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/250/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>401594117</g:id>
-      <g:title>优质塔勒赫蜂蜜 500克</g:title>
-      <g:description>优质塔勒赫蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/500/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1774315670</g:id>
