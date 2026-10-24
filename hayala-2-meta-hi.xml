@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 19:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:09:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>518818921</g:id>
+      <g:title>जंगली ज़ातर की पत्तियाँ 500 ग्राम</g:title>
+      <g:description>जंगली ज़ातर की पत्तियाँ 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>655013926</g:id>
       <g:title>पिसी धनिया 500 ग्राम</g:title>
@@ -715,12 +721,6 @@
       <g:title>जंगली ज़ातर की पत्तियाँ 250 ग्राम</g:title>
       <g:description>जंगली ज़ातर की पत्तियाँ 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://hayala.co/hi/250/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>518818921</g:id>
-      <g:title>जंगली ज़ातर की पत्तियाँ 500 ग्राम</g:title>
-      <g:description>जंगली ज़ातर की पत्तियाँ 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>441888257</g:id>

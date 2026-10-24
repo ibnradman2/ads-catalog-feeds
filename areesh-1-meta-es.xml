@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 18:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:15:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>682371662</g:id>
+      <g:title>Dátiles Ajwa Aliyah de Medina de lujo, 1 kilo</g:title>
+      <g:description>Dátiles Ajwa Aliyah de Medina de lujo, 1 kilo. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/d-tiles-ajwa-aliyah-de-medina-de-lujo-1-kilo/p682371662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>687552137</g:id>
+      <g:title>Dátiles Ajwa Aliyah de Medina de lujo, 5 kilos (envío gratis)</g:title>
+      <g:description>Dátiles Ajwa Aliyah de Medina de lujo, 5 kilos (envío gratis). 5.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/d-tiles-ajwa-aliyah-de-medina-de-lujo-5-kilos-env-o-gratis/p687552137?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>26663992</g:id>
+      <g:title>Polen de abeja</g:title>
+      <g:description>Polen de abeja. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/es/polen-de-abeja/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>732821654</g:id>
       <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 15+, MGO 550+, 250 g</g:title>
@@ -595,24 +613,6 @@
       <g:title>Miel blanca de Mardisia 1 kg</g:title>
       <g:description>Miel blanca de Mardisia 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-blanca-de-mardisia-1-kg/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>26663992</g:id>
-      <g:title>Polen de abeja</g:title>
-      <g:description>Polen de abeja. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/polen-de-abeja/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>682371662</g:id>
-      <g:title>Dátiles Ajwa Aliyah de Medina de lujo, 1 kilo</g:title>
-      <g:description>Dátiles Ajwa Aliyah de Medina de lujo, 1 kilo. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/d-tiles-ajwa-aliyah-de-medina-de-lujo-1-kilo/p682371662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>687552137</g:id>
-      <g:title>Dátiles Ajwa Aliyah de Medina de lujo, 5 kilos (envío gratis)</g:title>
-      <g:description>Dátiles Ajwa Aliyah de Medina de lujo, 5 kilos (envío gratis). 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/d-tiles-ajwa-aliyah-de-medina-de-lujo-5-kilos-env-o-gratis/p687552137?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>527688141</g:id>

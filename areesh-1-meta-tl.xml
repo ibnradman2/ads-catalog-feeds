@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 19:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:15:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>682371662</g:id>
+      <g:title>Premium na Ajwa Aliyah ng Madinah (1) Kilo</g:title>
+      <g:description>Premium na Ajwa Aliyah ng Madinah (1) Kilo. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/premium-na-ajwa-aliyah-ng-madinah-1-kilo/p682371662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>687552137</g:id>
+      <g:title>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala)</g:title>
+      <g:description>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala). 5.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/premium-na-ajwa-aliyah-ng-madinah-5-kilo-libreng-pagpapadala/p687552137?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>26663992</g:id>
+      <g:title>Pollen</g:title>
+      <g:description>Pollen. 0.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pollen/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>732821654</g:id>
       <g:title>Pulot ng Manuka mula New Zealand UMF 15+ MGO 550+ Homeland, 250 Gramo</g:title>
@@ -595,24 +613,6 @@
       <g:title>Puting Pulot ng Majra na 1 Kilo</g:title>
       <g:description>Puting Pulot ng Majra na 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/puting-pulot-ng-majra-na-1-kilo/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>26663992</g:id>
-      <g:title>Pollen</g:title>
-      <g:description>Pollen. 0.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pollen/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>682371662</g:id>
-      <g:title>Premium na Ajwa Aliyah ng Madinah (1) Kilo</g:title>
-      <g:description>Premium na Ajwa Aliyah ng Madinah (1) Kilo. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/premium-na-ajwa-aliyah-ng-madinah-1-kilo/p682371662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>687552137</g:id>
-      <g:title>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala)</g:title>
-      <g:description>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala). 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/premium-na-ajwa-aliyah-ng-madinah-5-kilo-libreng-pagpapadala/p687552137?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>527688141</g:id>
