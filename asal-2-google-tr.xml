@@ -4,10 +4,58 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 16:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:48:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">879350052</guid>
+      <g:id>879350052</g:id>
+      <g:title>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo)</g:title>
+      <g:description>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo). Sidr Balı. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/zel-teklif-4-paket-ke-mir-sidr-bal-3-paket-siyah-rek-otu-bal-ah-ap-bal-ka-cretsi/p879350052?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/gxkrxVXyf9V2BVxmESL0III9LAMpcFjLZB8DeCKE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>436.00 SAR</g:price>
+      <g:sale_price>295.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101007</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>879350052</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1407830458</guid>
+      <g:id>1407830458</g:id>
+      <g:title>3 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g</g:title>
+      <g:description>3 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g. Manuka. 1.25 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-adet-yeni-zelanda-manuka-bal-umf-5-mgo-100-250-g/p1407830458?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VCOXxn4HvDV5iO9sw9Tw9M4WszzMIcbU5RdCo9DF.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>450.00 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041051005</g:item_group_id>
+      <g:shipping_weight>1.25 kg</g:shipping_weight>
+    <g:mpn>1407830458</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">149216914</guid>
+      <g:id>149216914</g:id>
+      <g:title>Yeni Zelanda Manuka Balı UMF+20 + UMF+5 (2 Kavanoz)</g:title>
+      <g:description>Yeni Zelanda Manuka Balı UMF+20 + UMF+5 (2 Kavanoz). Manuka. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yeni-zelanda-manuka-bal-umf-20-umf-5-2-kavanoz/p149216914?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/7hK87umb0cEbdg6tvZYMWx5ID0MV6Q9mpQXlhaKw.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>650.00 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0502001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:mpn>149216914</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1914385815</guid>
       <g:id>1914385815</g:id>
@@ -2808,22 +2856,6 @@
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     <g:mpn>622236865</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>300 ila 599</g:custom_label_2><g:custom_label_3>Bal İçeceği</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">149216914</guid>
-      <g:id>149216914</g:id>
-      <g:title>Yeni Zelanda Manuka Balı UMF+20 + UMF+5 (2 Kavanoz)</g:title>
-      <g:description>Yeni Zelanda Manuka Balı UMF+20 + UMF+5 (2 Kavanoz). Manuka. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yeni-zelanda-manuka-bal-umf-20-umf-5-2-kavanoz/p149216914?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/7hK87umb0cEbdg6tvZYMWx5ID0MV6Q9mpQXlhaKw.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>650.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0502001</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>149216914</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">1349303537</guid>
       <g:id>1349303537</g:id>
       <g:title>6 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği</g:title>
@@ -3118,22 +3150,6 @@
       <g:item_group_id>03030334</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>802419986</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Un</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1407830458</guid>
-      <g:id>1407830458</g:id>
-      <g:title>3 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g</g:title>
-      <g:description>3 Adet Yeni Zelanda Manuka Balı UMF+5, MGO 100+, 250 g. Manuka. 1.25 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-adet-yeni-zelanda-manuka-bal-umf-5-mgo-100-250-g/p1407830458?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/VCOXxn4HvDV5iO9sw9Tw9M4WszzMIcbU5RdCo9DF.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>450.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041051005</g:item_group_id>
-      <g:shipping_weight>1.25 kg</g:shipping_weight>
-    <g:mpn>1407830458</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1795183563</guid>
       <g:id>1795183563</g:id>
@@ -4092,21 +4108,5 @@
       <g:item_group_id>0081002004</g:item_group_id>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     <g:mpn>863586339</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">879350052</guid>
-      <g:id>879350052</g:id>
-      <g:title>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo)</g:title>
-      <g:description>Özel Teklif: 4 Paket Keşmir Sidr Balı + 3 Paket Siyah Çörek Otu Balı + Ahşap Bal Kaşığı (Ücretsiz Kargo). Sidr Balı. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/zel-teklif-4-paket-ke-mir-sidr-bal-3-paket-siyah-rek-otu-bal-ah-ap-bal-ka-cretsi/p879350052?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/gxkrxVXyf9V2BVxmESL0III9LAMpcFjLZB8DeCKE.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>436.00 SAR</g:price>
-      <g:sale_price>295.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101007</g:item_group_id>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>879350052</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
     </channel>
 </rss>

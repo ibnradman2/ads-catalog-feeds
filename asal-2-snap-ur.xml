@@ -4,10 +4,42 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 16:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:48:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">879350052</guid>
+      <g:id>879350052</g:id>
+      <g:title>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری)</g:title>
+      <g:description>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/gxkrxVXyf9V2BVxmESL0III9LAMpcFjLZB8DeCKE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>436.00 SAR</g:price>
+      <g:sale_price>295.00 SAR</g:sale_price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101007</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">149216914</guid>
+      <g:id>149216914</g:id>
+      <g:title>نیوزی لینڈ مانوکا شہد UMF+20 کا ڈبہ + نیوزی لینڈ مانوکا شہد UMF+5 کا ڈبہ</g:title>
+      <g:description>نیوزی لینڈ مانوکا شہد UMF+20 کا ڈبہ + نیوزی لینڈ مانوکا شہد UMF+5 کا ڈبہ. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/umf-20-umf-5/p149216914?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/7hK87umb0cEbdg6tvZYMWx5ID0MV6Q9mpQXlhaKw.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>650.00 SAR</g:price>
+      <g:sale_price>296.00 SAR</g:sale_price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0502001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1914385815</guid>
       <g:id>1914385815</g:id>
@@ -2234,22 +2266,6 @@
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">149216914</guid>
-      <g:id>149216914</g:id>
-      <g:title>نیوزی لینڈ مانوکا شہد UMF+20 کا ڈبہ + نیوزی لینڈ مانوکا شہد UMF+5 کا ڈبہ</g:title>
-      <g:description>نیوزی لینڈ مانوکا شہد UMF+20 کا ڈبہ + نیوزی لینڈ مانوکا شہد UMF+5 کا ڈبہ. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/umf-20-umf-5/p149216914?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/7hK87umb0cEbdg6tvZYMWx5ID0MV6Q9mpQXlhaKw.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>650.00 SAR</g:price>
-      <g:sale_price>296.00 SAR</g:sale_price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0502001</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1349303537</guid>
       <g:id>1349303537</g:id>
       <g:title>ادرک، لیموں اور ہلدی والے شہد مشروب کی 6 بوتلیں</g:title>
@@ -3106,22 +3122,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>003-10008001</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">879350052</guid>
-      <g:id>879350052</g:id>
-      <g:title>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری)</g:title>
-      <g:description>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/4-3/p879350052?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/gxkrxVXyf9V2BVxmESL0III9LAMpcFjLZB8DeCKE.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>436.00 SAR</g:price>
-      <g:sale_price>295.00 SAR</g:sale_price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101007</g:item_group_id>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
     </item>
     </channel>
 </rss>
