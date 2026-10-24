@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:07:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1087629233</g:id>
+      <g:title>藏红花研钵</g:title>
+      <g:description>藏红花研钵. 0.04 kg.</g:description>
+      <g:link>https://hayala.co/zh/product/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>373779673</g:id>
+      <g:title>姜黄粉 500克</g:title>
+      <g:description>姜黄粉 500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1017600485</g:id>
+      <g:title>阿拉伯胶粉250克</g:title>
+      <g:description>阿拉伯胶粉250克. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/zh/250/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1474254823</g:id>
       <g:title>肉桂粉 500克</g:title>
@@ -585,12 +603,6 @@
       <g:link>https://hayala.co/zh/30/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1017600485</g:id>
-      <g:title>阿拉伯胶粉250克</g:title>
-      <g:description>阿拉伯胶粉250克. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/zh/250/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>190195544</g:id>
       <g:title>葫芦巴籽500克</g:title>
       <g:description>葫芦巴籽500克. 1.0 kg.</g:description>
@@ -819,12 +831,6 @@
       <g:link>https://hayala.co/zh/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>373779673</g:id>
-      <g:title>姜黄粉 500克</g:title>
-      <g:description>姜黄粉 500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1467466677</g:id>
       <g:title>鼠尾草250克</g:title>
       <g:description>鼠尾草250克. 0.75 kg.</g:description>
@@ -853,12 +859,6 @@
       <g:title>天然姜柠檬姜黄蜂蜜饮品 470克</g:title>
       <g:description>天然姜柠檬姜黄蜂蜜饮品 470克. 0.97 kg.</g:description>
       <g:link>https://hayala.co/zh/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1087629233</g:id>
-      <g:title>藏红花研钵</g:title>
-      <g:description>藏红花研钵. 0.04 kg.</g:description>
-      <g:link>https://hayala.co/zh/product/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>946188382</g:id>

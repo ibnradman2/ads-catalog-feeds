@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:07:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1087629233</g:id>
+      <g:title>دھاتی زعفران کھرل، درمیانہ سائز</g:title>
+      <g:description>دھاتی زعفران کھرل، درمیانہ سائز. 0.04 kg.</g:description>
+      <g:link>https://hayala.co/ur/product/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>373779673</g:id>
+      <g:title>پسی ہلدی 500 گرام</g:title>
+      <g:description>پسی ہلدی 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1017600485</g:id>
+      <g:title>پسا ہوا گوند عربی 250 گرام</g:title>
+      <g:description>پسا ہوا گوند عربی 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ur/250/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1474254823</g:id>
       <g:title>پسی دار چینی 500 گرام</g:title>
@@ -585,12 +603,6 @@
       <g:link>https://hayala.co/ur/30/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1017600485</g:id>
-      <g:title>پسا ہوا گوند عربی 250 گرام</g:title>
-      <g:description>پسا ہوا گوند عربی 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ur/250/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>190195544</g:id>
       <g:title>میتھی دانہ ثابت 500 گرام</g:title>
       <g:description>میتھی دانہ ثابت 500 گرام. 1.0 kg.</g:description>
@@ -801,12 +813,6 @@
       <g:link>https://hayala.co/ur/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>373779673</g:id>
-      <g:title>پسی ہلدی 500 گرام</g:title>
-      <g:description>پسی ہلدی 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1854428382</g:id>
       <g:title>قدرتی سدر شہد 2 کلو کا پیک</g:title>
       <g:description>قدرتی سدر شہد 2 کلو کا پیک. 2.5 kg.</g:description>
@@ -817,12 +823,6 @@
       <g:title>ادرک، لیموں اور ہلدی والا شہد کا مشروب 470 گرام</g:title>
       <g:description>ادرک، لیموں اور ہلدی والا شہد کا مشروب 470 گرام. 0.97 kg.</g:description>
       <g:link>https://hayala.co/ur/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1087629233</g:id>
-      <g:title>دھاتی زعفران کھرل، درمیانہ سائز</g:title>
-      <g:description>دھاتی زعفران کھرل، درمیانہ سائز. 0.04 kg.</g:description>
-      <g:link>https://hayala.co/ur/product/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>946188382</g:id>

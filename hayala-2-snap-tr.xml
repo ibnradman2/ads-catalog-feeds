@@ -4,10 +4,53 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:07:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1087629233</guid>
+      <g:id>1087629233</g:id>
+      <g:title>Safran Rendesi Metal Orta Boy</g:title>
+      <g:description>Safran Rendesi Metal Orta Boy. 0.04 kg.</g:description>
+      <g:link>https://hayala.co/tr/safran-rendesi-metal-orta-boy/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/QnlKUJLcGwIyLXlz8TAOoDh4dM061bjujXp3XIZ0.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/Tmrz3XSV2N4m0j010FeW4GppjQzAgD5v51ZK38jH.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.04 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">373779673</guid>
+      <g:id>373779673</g:id>
+      <g:title>Öğütülmüş Zerdeçal 500 gr</g:title>
+      <g:description>Öğütülmüş Zerdeçal 500 gr. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-zerde-al-500-gr/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/hTUOi6MwjZEYDjH2I2hKIfHAAERsqXLsEr7yvf0z.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.70 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1017600485</guid>
+      <g:id>1017600485</g:id>
+      <g:title>Öğütülmüş Arap Zamkı Sudan 250 Gram</g:title>
+      <g:description>Öğütülmüş Arap Zamkı Sudan 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tr/t-lm-arap-zamk-sudan-250-gram/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Wp7lBAt2ghXShFb7lcWVJBMh3U1SAJEsSnDxBo3j.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1474254823</guid>
       <g:id>1474254823</g:id>
@@ -305,9 +348,9 @@
     <item>
       <guid isPermaLink="false">1300632420</guid>
       <g:id>1300632420</g:id>
-      <g:title>Çin Arı Sütü (Ana Arı Gıdası) 15 g</g:title>
-      <g:description>Çin Arı Sütü (Ana Arı Gıdası) 15 g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/tr/in-ar-s-t-ana-ar-g-das-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Arı Sütü (Ana Arı Gıdası) 15 g</g:title>
+      <g:description>Arı Sütü (Ana Arı Gıdası) 15 g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/tr/ar-s-t-ana-ar-g-das-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/muP7fWDTRXRSzOWbM6qQ0pDn9UdjUezE2UALfu1G.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>35.00 SAR</g:price>
@@ -1422,20 +1465,6 @@
       <g:shipping_weight>0.53 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1017600485</guid>
-      <g:id>1017600485</g:id>
-      <g:title>Öğütülmüş Arap Zamkı Sudan 250 Gram</g:title>
-      <g:description>Öğütülmüş Arap Zamkı Sudan 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tr/t-lm-arap-zamk-sudan-250-gram/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Wp7lBAt2ghXShFb7lcWVJBMh3U1SAJEsSnDxBo3j.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">190195544</guid>
       <g:id>190195544</g:id>
       <g:title>Bütün Çemen Otu Tohumu 500 Gram</g:title>
@@ -1968,20 +1997,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">373779673</guid>
-      <g:id>373779673</g:id>
-      <g:title>Öğütülmüş Zerdeçal 500 gr</g:title>
-      <g:description>Öğütülmüş Zerdeçal 500 gr. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/t-lm-zerde-al-500-gr/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/hTUOi6MwjZEYDjH2I2hKIfHAAERsqXLsEr7yvf0z.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.70 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1467466677</guid>
       <g:id>1467466677</g:id>
       <g:title>Kurutulmuş Adaçayı 250 g</g:title>
@@ -2064,21 +2079,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1087629233</guid>
-      <g:id>1087629233</g:id>
-      <g:title>Safran Rendesi Metal Orta Boy</g:title>
-      <g:description>Safran Rendesi Metal Orta Boy. 0.04 kg.</g:description>
-      <g:link>https://hayala.co/tr/safran-rendesi-metal-orta-boy/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/QnlKUJLcGwIyLXlz8TAOoDh4dM061bjujXp3XIZ0.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/Tmrz3XSV2N4m0j010FeW4GppjQzAgD5v51ZK38jH.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.04 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">946188382</guid>

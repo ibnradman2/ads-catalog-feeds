@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 16:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:11:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>732821654</g:id>
+      <g:title>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+15, MGO 550+, 250 gm</g:title>
+      <g:description>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+15, MGO 550+, 250 gm. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-manuka-honey-umf-15-mgo-550-250-gm/p732821654?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1394374627</g:id>
+      <g:title>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm</g:title>
+      <g:description>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-manuka-honey-umf-10-mgo-300-250-gm/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>283801056</g:id>
+      <g:title>Propolis Lokal Alami - 65 Gram</g:title>
+      <g:description>Propolis Lokal Alami - 65 Gram. 0.565 kg.</g:description>
+      <g:link>https://areesh.sa/ind/propolis-lokal-alami-65-gram/p283801056?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1700113743</g:id>
       <g:title>Madu Sidr Royal Osaimi 500 g</g:title>
@@ -577,24 +595,6 @@
       <g:title>Madu Majra Putih 1 kg</g:title>
       <g:description>Madu Majra Putih 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-majra-putih-1-kg/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1394374627</g:id>
-      <g:title>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm</g:title>
-      <g:description>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-manuka-honey-umf-10-mgo-300-250-gm/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>732821654</g:id>
-      <g:title>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+15, MGO 550+, 250 gm</g:title>
-      <g:description>Madu Manuka Selandia Baru Homeland Premium Manuka Honey UMF+15, MGO 550+, 250 gm. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-manuka-selandia-baru-homeland-premium-manuka-honey-umf-15-mgo-550-250-gm/p732821654?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>283801056</g:id>
-      <g:title>Propolis Lokal Alami - 65 Gram</g:title>
-      <g:description>Propolis Lokal Alami - 65 Gram. 0.565 kg.</g:description>
-      <g:link>https://areesh.sa/ind/propolis-lokal-alami-65-gram/p283801056?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>26663992</g:id>

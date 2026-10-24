@@ -4,10 +4,53 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 17:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:07:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1087629233</guid>
+      <g:id>1087629233</g:id>
+      <g:title>Parutan Saffron</g:title>
+      <g:description>Parutan Saffron. 0.04 kg.</g:description>
+      <g:link>https://hayala.co/ind/parutan-saffron/p1087629233?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/QnlKUJLcGwIyLXlz8TAOoDh4dM061bjujXp3XIZ0.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/Tmrz3XSV2N4m0j010FeW4GppjQzAgD5v51ZK38jH.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.04 kg</g:shipping_weight>
+    <g:mpn>1087629233</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">373779673</guid>
+      <g:id>373779673</g:id>
+      <g:title>Kunyit Bubuk 500 Gram</g:title>
+      <g:description>Kunyit Bubuk 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/kunyit-bubuk-500-gram/p373779673?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/hTUOi6MwjZEYDjH2I2hKIfHAAERsqXLsEr7yvf0z.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.70 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>373779673</g:mpn><g:google_product_category>1529</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1017600485</guid>
+      <g:id>1017600485</g:id>
+      <g:title>Gum Arab Bubuk 250 Gram</g:title>
+      <g:description>Gum Arab Bubuk 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/gum-arab-bubuk-250-gram/p1017600485?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Wp7lBAt2ghXShFb7lcWVJBMh3U1SAJEsSnDxBo3j.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1017600485</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1474254823</guid>
       <g:id>1474254823</g:id>
@@ -1390,20 +1433,6 @@
       <g:shipping_weight>0.53 kg</g:shipping_weight>
     <g:mpn>704453922</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1017600485</guid>
-      <g:id>1017600485</g:id>
-      <g:title>Gum Arab Bubuk 250 Gram</g:title>
-      <g:description>Gum Arab Bubuk 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/gum-arab-bubuk-250-gram/p1017600485?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Wp7lBAt2ghXShFb7lcWVJBMh3U1SAJEsSnDxBo3j.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1017600485</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">190195544</guid>
       <g:id>190195544</g:id>
       <g:title>Biji Fenugreek (Hulbah) 500 Gram</g:title>
@@ -1936,20 +1965,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1511230577</g:mpn><g:google_product_category>1755</g:google_product_category></item>
     <item>
-      <guid isPermaLink="false">373779673</guid>
-      <g:id>373779673</g:id>
-      <g:title>Kunyit Bubuk 500 Gram</g:title>
-      <g:description>Kunyit Bubuk 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/kunyit-bubuk-500-gram/p373779673?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/hTUOi6MwjZEYDjH2I2hKIfHAAERsqXLsEr7yvf0z.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.70 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>373779673</g:mpn><g:google_product_category>1529</g:google_product_category></item>
-    <item>
       <guid isPermaLink="false">1467466677</guid>
       <g:id>1467466677</g:id>
       <g:title>Sage (Maramiyah) Kering 250 Gram</g:title>
@@ -2033,21 +2048,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1859497066</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1087629233</guid>
-      <g:id>1087629233</g:id>
-      <g:title>Parutan Saffron</g:title>
-      <g:description>Parutan Saffron. 0.04 kg.</g:description>
-      <g:link>https://hayala.co/ind/parutan-saffron/p1087629233?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/QnlKUJLcGwIyLXlz8TAOoDh4dM061bjujXp3XIZ0.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/Tmrz3XSV2N4m0j010FeW4GppjQzAgD5v51ZK38jH.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.04 kg</g:shipping_weight>
-    <g:mpn>1087629233</g:mpn><g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">946188382</guid>
       <g:id>946188382</g:id>

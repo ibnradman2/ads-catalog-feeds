@@ -4,10 +4,53 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 17:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:07:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1087629233</guid>
+      <g:id>1087629233</g:id>
+      <g:title>Panggiling ng Saffron</g:title>
+      <g:description>Panggiling ng Saffron. Safron. 0.04 kg.</g:description>
+      <g:link>https://hayala.co/tl/panggiling-ng-saffron/p1087629233?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/QnlKUJLcGwIyLXlz8TAOoDh4dM061bjujXp3XIZ0.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/Tmrz3XSV2N4m0j010FeW4GppjQzAgD5v51ZK38jH.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.04 kg</g:shipping_weight>
+    <g:mpn>1087629233</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Safron</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">373779673</guid>
+      <g:id>373779673</g:id>
+      <g:title>Giniling na Luyang Dilaw 500gm</g:title>
+      <g:description>Giniling na Luyang Dilaw 500gm. Pampalasa at Halamang-gamot. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/giniling-na-luyang-dilaw-500gm/p373779673?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/hTUOi6MwjZEYDjH2I2hKIfHAAERsqXLsEr7yvf0z.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.70 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>373779673</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pampalasa at Halamang-gamot</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1017600485</guid>
+      <g:id>1017600485</g:id>
+      <g:title>Giniling na Gum Arabic 250 Gramo</g:title>
+      <g:description>Giniling na Gum Arabic 250 Gramo. Pampalasa at Halamang-gamot. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/giniling-na-gum-arabic-250-gramo/p1017600485?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Wp7lBAt2ghXShFb7lcWVJBMh3U1SAJEsSnDxBo3j.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>20.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1017600485</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pampalasa at Halamang-gamot</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1474254823</guid>
       <g:id>1474254823</g:id>
@@ -1455,20 +1498,6 @@
       <g:shipping_weight>0.53 kg</g:shipping_weight>
     <g:mpn>704453922</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Produkto ng Bubuyog</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1017600485</guid>
-      <g:id>1017600485</g:id>
-      <g:title>Giniling na Gum Arabic 250 Gramo</g:title>
-      <g:description>Giniling na Gum Arabic 250 Gramo. Pampalasa at Halamang-gamot. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/giniling-na-gum-arabic-250-gramo/p1017600485?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Wp7lBAt2ghXShFb7lcWVJBMh3U1SAJEsSnDxBo3j.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1017600485</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pampalasa at Halamang-gamot</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">190195544</guid>
       <g:id>190195544</g:id>
       <g:title>Buto ng Fenugreek (Hulba) 500 Gramo</g:title>
@@ -2001,20 +2030,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1511230577</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pinatuyong Prutas</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">373779673</guid>
-      <g:id>373779673</g:id>
-      <g:title>Giniling na Luyang Dilaw 500gm</g:title>
-      <g:description>Giniling na Luyang Dilaw 500gm. Pampalasa at Halamang-gamot. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/giniling-na-luyang-dilaw-500gm/p373779673?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/hTUOi6MwjZEYDjH2I2hKIfHAAERsqXLsEr7yvf0z.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.70 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>373779673</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pampalasa at Halamang-gamot</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">1467466677</guid>
       <g:id>1467466677</g:id>
       <g:title>Sage (Maramiyah) 250 Gramo</g:title>
@@ -2098,21 +2113,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1859497066</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Mani at Buto</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1087629233</guid>
-      <g:id>1087629233</g:id>
-      <g:title>Panggiling ng Saffron</g:title>
-      <g:description>Panggiling ng Saffron. Safron. 0.04 kg.</g:description>
-      <g:link>https://hayala.co/tl/panggiling-ng-saffron/p1087629233?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/QnlKUJLcGwIyLXlz8TAOoDh4dM061bjujXp3XIZ0.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/Tmrz3XSV2N4m0j010FeW4GppjQzAgD5v51ZK38jH.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>20.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.04 kg</g:shipping_weight>
-    <g:mpn>1087629233</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Safron</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">946188382</guid>
       <g:id>946188382</g:id>
