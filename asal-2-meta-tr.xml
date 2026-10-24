@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:03:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1632997500</g:id>
+      <g:title>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo</g:title>
+      <g:description>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/5-kg-yonca-i-e-i-bal-36-i-ndirimli-cretsiz-kargo/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1698035471</g:id>
       <g:title>Yemen Bademi 1 kg</g:title>
@@ -1411,12 +1417,6 @@
       <g:title>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram)</g:title>
       <g:description>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram). 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/ball-kuruyemi-badem-kaju-ceviz-pekan-cevizi-f-nd-k-antep-f-st-500-gram/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1632997500</g:id>
-      <g:title>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo</g:title>
-      <g:description>5 kg Yonca Çiçeği Balı %36 İndirimli + Ücretsiz Kargo. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/5-kg-yonca-i-e-i-bal-36-i-ndirimli-cretsiz-kargo/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1741453097</g:id>

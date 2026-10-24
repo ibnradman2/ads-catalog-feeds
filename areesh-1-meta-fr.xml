@@ -4,10 +4,46 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 05:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>234492327</g:id>
+      <g:title>Miel de nigelle noire 500 g</g:title>
+      <g:description>Miel de nigelle noire 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-nigelle-noire-500-g/p234492327?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>940145162</g:id>
+      <g:title>Miel d’Athel (Sal) 250 g</g:title>
+      <g:description>Miel d’Athel (Sal) 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-d-athel-sal-250-g/p940145162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2144586991</g:id>
+      <g:title>Miel en rayon naturel 1250 grammes</g:title>
+      <g:description>Miel en rayon naturel 1250 grammes. 1.75 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-en-rayon-naturel-1250-grammes/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>482548143</g:id>
+      <g:title>Miel d'épines (Samar premium) 250 g</g:title>
+      <g:description>Miel d'épines (Samar premium) 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-d-pines-samar-premium-250-g/p482548143?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>115482841</g:id>
+      <g:title>Pollen d’abeille – 30 g</g:title>
+      <g:description>Pollen d’abeille – 30 g. 0.53 kg.</g:description>
+      <g:link>https://areesh.sa/fr/pollen-d-abeille-30-g/p115482841?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1714110187</g:id>
+      <g:title>Miel de sidr du Cachemire 250 g</g:title>
+      <g:description>Miel de sidr du Cachemire 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-du-cachemire-250-g/p1714110187?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1281556169</g:id>
       <g:title>Miel de Sidr de Peshawar 250 g</g:title>
@@ -231,12 +267,6 @@
       <g:link>https://areesh.sa/fr/miel-de-sidr-du-cachemire-2-kg/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1714110187</g:id>
-      <g:title>Miel de sidr du Cachemire 250 g</g:title>
-      <g:description>Miel de sidr du Cachemire 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-du-cachemire-250-g/p1714110187?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>83194573</g:id>
       <g:title>Miel de Sidr de Peshawar 5 kg</g:title>
       <g:description>Miel de Sidr de Peshawar 5 kg. 5.5 kg.</g:description>
@@ -253,12 +283,6 @@
       <g:title>Miel de sidr du Cachemire 1 kg</g:title>
       <g:description>Miel de sidr du Cachemire 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-de-sidr-du-cachemire-1-kg/p1753534952?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>482548143</g:id>
-      <g:title>Miel d'épines (Samar premium) 250 g</g:title>
-      <g:description>Miel d'épines (Samar premium) 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-d-pines-samar-premium-250-g/p482548143?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1559827680</g:id>
@@ -289,24 +313,6 @@
       <g:title>3 pots de pollen d’abeille 500 g</g:title>
       <g:description>3 pots de pollen d’abeille 500 g. 2.0 kg.</g:description>
       <g:link>https://areesh.sa/fr/3-pots-de-pollen-d-abeille-500-g/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2144586991</g:id>
-      <g:title>Miel en rayon naturel 1250 grammes</g:title>
-      <g:description>Miel en rayon naturel 1250 grammes. 1.75 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-en-rayon-naturel-1250-grammes/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>234492327</g:id>
-      <g:title>Miel de nigelle noire 500 g</g:title>
-      <g:description>Miel de nigelle noire 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-nigelle-noire-500-g/p234492327?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>940145162</g:id>
-      <g:title>Miel d’Athel (Sal) 250 g</g:title>
-      <g:description>Miel d’Athel (Sal) 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-d-athel-sal-250-g/p940145162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>893293328</g:id>
@@ -535,12 +541,6 @@
       <g:title>Poudre de gelée royale – 30 g</g:title>
       <g:description>Poudre de gelée royale – 30 g. 0.53 kg.</g:description>
       <g:link>https://areesh.sa/fr/poudre-de-gel-e-royale-30-g/p266726712?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>115482841</g:id>
-      <g:title>Pollen d’abeille – 30 g</g:title>
-      <g:description>Pollen d’abeille – 30 g. 0.53 kg.</g:description>
-      <g:link>https://areesh.sa/fr/pollen-d-abeille-30-g/p115482841?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1749454899</g:id>

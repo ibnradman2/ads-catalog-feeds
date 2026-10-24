@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:03:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1632997500</g:id>
+      <g:title>Miel de fleurs de trèfle 5 kg, remise de 36 pour cent + livraison gratuite</g:title>
+      <g:description>Miel de fleurs de trèfle 5 kg, remise de 36 pour cent + livraison gratuite. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-de-tr-fle-5-kg-remise-de-36-pour-cent-livraison-gratuite/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1698035471</g:id>
       <g:title>Amandes du Yémen de première qualité 1 kg</g:title>
@@ -1411,12 +1417,6 @@
       <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g)</g:title>
       <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g). 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1632997500</g:id>
-      <g:title>Miel de fleurs de trèfle 5 kg, remise de 36 pour cent + livraison gratuite</g:title>
-      <g:description>Miel de fleurs de trèfle 5 kg, remise de 36 pour cent + livraison gratuite. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-de-tr-fle-5-kg-remise-de-36-pour-cent-livraison-gratuite/p1632997500?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1741453097</g:id>

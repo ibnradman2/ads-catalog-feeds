@@ -4,10 +4,46 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 05:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>234492327</g:id>
+      <g:title>黑种草蜂蜜 500克</g:title>
+      <g:description>黑种草蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/500/p234492327?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>940145162</g:id>
+      <g:title>柽柳蜂蜜（萨勒蜂蜜）250克</g:title>
+      <g:description>柽柳蜂蜜（萨勒蜂蜜）250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/250/p940145162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>2144586991</g:id>
+      <g:title>天然蜂巢蜜 1250克</g:title>
+      <g:description>天然蜂巢蜜 1250克. 1.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/1250/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>482548143</g:id>
+      <g:title>萨马尔蜂蜜（Shawka优质款）250克</g:title>
+      <g:description>萨马尔蜂蜜（Shawka优质款）250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/shawka-250/p482548143?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>115482841</g:id>
+      <g:title>蜂花粉 30克</g:title>
+      <g:description>蜂花粉 30克. 0.53 kg.</g:description>
+      <g:link>https://areesh.sa/zh/30/p115482841?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1714110187</g:id>
+      <g:title>克什米尔西德尔蜂蜜 250克</g:title>
+      <g:description>克什米尔西德尔蜂蜜 250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/250/p1714110187?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1281556169</g:id>
       <g:title>白沙瓦西德尔蜂蜜250克</g:title>
@@ -231,12 +267,6 @@
       <g:link>https://areesh.sa/zh/2/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1714110187</g:id>
-      <g:title>克什米尔西德尔蜂蜜 250克</g:title>
-      <g:description>克什米尔西德尔蜂蜜 250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/250/p1714110187?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>83194573</g:id>
       <g:title>白沙瓦西德尔蜂蜜5公斤</g:title>
       <g:description>白沙瓦西德尔蜂蜜5公斤. 5.5 kg.</g:description>
@@ -253,12 +283,6 @@
       <g:title>克什米尔西德尔蜂蜜 1公斤</g:title>
       <g:description>克什米尔西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/1/p1753534952?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>482548143</g:id>
-      <g:title>萨马尔蜂蜜（Shawka优质款）250克</g:title>
-      <g:description>萨马尔蜂蜜（Shawka优质款）250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/shawka-250/p482548143?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1559827680</g:id>
@@ -289,24 +313,6 @@
       <g:title>蜂花粉 500克 3瓶装</g:title>
       <g:description>蜂花粉 500克 3瓶装. 2.0 kg.</g:description>
       <g:link>https://areesh.sa/zh/500-3/p1808589975?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>2144586991</g:id>
-      <g:title>天然蜂巢蜜 1250克</g:title>
-      <g:description>天然蜂巢蜜 1250克. 1.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/1250/p2144586991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>234492327</g:id>
-      <g:title>黑种草蜂蜜 500克</g:title>
-      <g:description>黑种草蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/500/p234492327?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>940145162</g:id>
-      <g:title>柽柳蜂蜜（萨勒蜂蜜）250克</g:title>
-      <g:description>柽柳蜂蜜（萨勒蜂蜜）250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/250/p940145162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>893293328</g:id>
@@ -535,12 +541,6 @@
       <g:title>蜂王浆粉 30克</g:title>
       <g:description>蜂王浆粉 30克. 0.53 kg.</g:description>
       <g:link>https://areesh.sa/zh/30/p266726712?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>115482841</g:id>
-      <g:title>蜂花粉 30克</g:title>
-      <g:description>蜂花粉 30克. 0.53 kg.</g:description>
-      <g:link>https://areesh.sa/zh/30/p115482841?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1749454899</g:id>
