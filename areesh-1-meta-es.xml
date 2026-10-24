@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:15:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>758688219</g:id>
+      <g:title>Bebida de miel natural con jengibre, limón y cúrcuma, 550 ml</g:title>
+      <g:description>Bebida de miel natural con jengibre, limón y cúrcuma, 550 ml. 0.55 kg.</g:description>
+      <g:link>https://areesh.sa/es/bebida-de-miel-natural-con-jengibre-lim-n-y-c-rcuma-550-ml/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1525447859</g:id>
+      <g:title>Miel en panal natural 400 g</g:title>
+      <g:description>Miel en panal natural 400 g. 0.9 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-en-panal-natural-400-g/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1606889632</g:id>
+      <g:title>Miel de nigella 250 g</g:title>
+      <g:description>Miel de nigella 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-nigella-250-g/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>769082882</g:id>
+      <g:title>Miel del Bosque Negro (miel de mielada) 250 g</g:title>
+      <g:description>Miel del Bosque Negro (miel de mielada) 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-del-bosque-negro-miel-de-mielada-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1386198566</g:id>
       <g:title>Alimento de reinas de las abejas 15 g</g:title>
@@ -123,18 +147,6 @@
       <g:link>https://areesh.sa/es/gal-n-de-7-kg-de-miel-de-talh-premium-env-o-gratis/p1457720894?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>769082882</g:id>
-      <g:title>Miel del Bosque Negro (miel de mielada) 250 g</g:title>
-      <g:description>Miel del Bosque Negro (miel de mielada) 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-del-bosque-negro-miel-de-mielada-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1606889632</g:id>
-      <g:title>Miel de nigella 250 g</g:title>
-      <g:description>Miel de nigella 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-nigella-250-g/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>2072608418</g:id>
       <g:title>Garrafa de 5 kg de miel de Shawka (Samra premium) + envío gratis</g:title>
       <g:description>Garrafa de 5 kg de miel de Shawka (Samra premium) + envío gratis. 5.5 kg.</g:description>
@@ -157,18 +169,6 @@
       <g:title>Galón de 5 kg de miel de talh premium</g:title>
       <g:description>Galón de 5 kg de miel de talh premium. 5.5 kg.</g:description>
       <g:link>https://areesh.sa/es/gal-n-de-5-kg-de-miel-de-talh-premium/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1525447859</g:id>
-      <g:title>Miel en panal natural 400 g</g:title>
-      <g:description>Miel en panal natural 400 g. 0.9 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-en-panal-natural-400-g/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>758688219</g:id>
-      <g:title>Bebida de miel natural con jengibre, limón y cúrcuma, 550 ml</g:title>
-      <g:description>Bebida de miel natural con jengibre, limón y cúrcuma, 550 ml. 0.55 kg.</g:description>
-      <g:link>https://areesh.sa/es/bebida-de-miel-natural-con-jengibre-lim-n-y-c-rcuma-550-ml/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>443912774</g:id>

@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:15:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>758688219</g:id>
+      <g:title>ادرک، لیموں اور ہلدی والا قدرتی شہد مشروب 550 ملی لیٹر</g:title>
+      <g:description>ادرک، لیموں اور ہلدی والا قدرتی شہد مشروب 550 ملی لیٹر. 0.55 kg.</g:description>
+      <g:link>https://areesh.sa/ur/550/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1525447859</g:id>
+      <g:title>ترکی کا قدرتی چھتے والا شہد 400 گرام</g:title>
+      <g:description>ترکی کا قدرتی چھتے والا شہد 400 گرام. 0.9 kg.</g:description>
+      <g:link>https://areesh.sa/ur/400/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1606889632</g:id>
+      <g:title>کلونجی کا شہد 250 گرام</g:title>
+      <g:description>کلونجی کا شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/ur/250/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>769082882</g:id>
+      <g:title>بلیک فاریسٹ شہد 250 گرام</g:title>
+      <g:description>بلیک فاریسٹ شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/ur/250/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1386198566</g:id>
       <g:title>رائل جیلی (شہد کی ملکہ مکھی کی غذا) 15 گرام</g:title>
@@ -105,18 +129,6 @@
       <g:link>https://areesh.sa/ur/7/p1457720894?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>769082882</g:id>
-      <g:title>بلیک فاریسٹ شہد 250 گرام</g:title>
-      <g:description>بلیک فاریسٹ شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/ur/250/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1606889632</g:id>
-      <g:title>کلونجی کا شہد 250 گرام</g:title>
-      <g:description>کلونجی کا شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/ur/250/p1606889632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>2072608418</g:id>
       <g:title>5 کلو گیلن شوکہ شہد (پریمیم سمرہ) + مفت ڈیلیوری</g:title>
       <g:description>5 کلو گیلن شوکہ شہد (پریمیم سمرہ) + مفت ڈیلیوری. 5.5 kg.</g:description>
@@ -139,18 +151,6 @@
       <g:title>5 کلو گیلن پریمیم سعودی طلح شہد</g:title>
       <g:description>5 کلو گیلن پریمیم سعودی طلح شہد. 5.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/5/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1525447859</g:id>
-      <g:title>ترکی کا قدرتی چھتے والا شہد 400 گرام</g:title>
-      <g:description>ترکی کا قدرتی چھتے والا شہد 400 گرام. 0.9 kg.</g:description>
-      <g:link>https://areesh.sa/ur/400/p1525447859?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>758688219</g:id>
-      <g:title>ادرک، لیموں اور ہلدی والا قدرتی شہد مشروب 550 ملی لیٹر</g:title>
-      <g:description>ادرک، لیموں اور ہلدی والا قدرتی شہد مشروب 550 ملی لیٹر. 0.55 kg.</g:description>
-      <g:link>https://areesh.sa/ur/550/p758688219?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>443912774</g:id>
