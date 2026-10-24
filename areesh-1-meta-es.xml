@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 04:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:16:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1281556169</g:id>
+      <g:title>Miel de Sidr de Peshawar 250 g</g:title>
+      <g:description>Miel de Sidr de Peshawar 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-sidr-de-peshawar-250-g/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>758688219</g:id>
       <g:title>Bebida de miel natural con jengibre, limón y cúrcuma, 550 ml</g:title>
@@ -43,12 +49,6 @@
       <g:title>Ginseng 15 g</g:title>
       <g:description>Ginseng 15 g. 0.515 kg.</g:description>
       <g:link>https://areesh.sa/es/ginseng-15-g/p1404273996?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1281556169</g:id>
-      <g:title>Miel de Sidr de Peshawar 250 g</g:title>
-      <g:description>Miel de Sidr de Peshawar 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-de-peshawar-250-g/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1456705998</g:id>

@@ -4,10 +4,25 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 04:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:16:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1281556169</guid>
+      <g:id>1281556169</g:id>
+      <g:title>Miel de Sidr de Peshawar 250 g</g:title>
+      <g:description>Miel de Sidr de Peshawar 250 g. Miel de Sidr. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-de-peshawar-250-g/p1281556169?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/C8JU80lCWqncEI0e4Dr25QW65ywp22x9dKQzfsyl.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>29.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>0041007001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">758688219</guid>
       <g:id>758688219</g:id>
@@ -97,21 +112,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
     <g:mpn>1404273996</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Épices et herbes</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1281556169</guid>
-      <g:id>1281556169</g:id>
-      <g:title>Miel de Sidr de Peshawar 250 g</g:title>
-      <g:description>Miel de Sidr de Peshawar 250 g. Miel de Sidr. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-de-peshawar-250-g/p1281556169?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/C8JU80lCWqncEI0e4Dr25QW65ywp22x9dKQzfsyl.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>29.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041007001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1456705998</guid>
       <g:id>1456705998</g:id>

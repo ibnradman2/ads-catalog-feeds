@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 04:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:16:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1281556169</g:id>
+      <g:title>白沙瓦西德尔蜂蜜250克</g:title>
+      <g:description>白沙瓦西德尔蜂蜜250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/250/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>758688219</g:id>
       <g:title>天然姜黄柠檬生姜蜂蜜饮品550毫升</g:title>
@@ -43,12 +49,6 @@
       <g:title>人参 15克</g:title>
       <g:description>人参 15克. 0.515 kg.</g:description>
       <g:link>https://areesh.sa/zh/15/p1404273996?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1281556169</g:id>
-      <g:title>白沙瓦西德尔蜂蜜250克</g:title>
-      <g:description>白沙瓦西德尔蜂蜜250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/250/p1281556169?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1456705998</g:id>
