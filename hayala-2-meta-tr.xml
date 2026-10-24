@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 20:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:09:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2045612049</g:id>
+      <g:title>Anason 500 Gram</g:title>
+      <g:description>Anason 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/anason-500-gram/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2139954028</g:id>
       <g:title>Psyllium (Katune) Tohumu - 250 g</g:title>
@@ -529,12 +535,6 @@
       <g:title>Anason 250 Gram</g:title>
       <g:description>Anason 250 Gram. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tr/anason-250-gram/p222295925?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>2045612049</g:id>
-      <g:title>Anason 500 Gram</g:title>
-      <g:description>Anason 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/anason-500-gram/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>74605069</g:id>

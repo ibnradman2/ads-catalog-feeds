@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 00:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:09:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1307810461</g:id>
+      <g:title>Madu Sarang Alami 200 Gram</g:title>
+      <g:description>Madu Sarang Alami 200 Gram. 0.7 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sarang-alami-200-gram/p1307810461?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>979497193</g:id>
+      <g:title>Madu Sidr Kashmiri 500 g</g:title>
+      <g:description>Madu Sidr Kashmiri 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-500-g/p979497193?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>548974799</g:id>
       <g:title>Madu Sidr Peshawari 1 Kg</g:title>
@@ -58,8 +70,8 @@
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>765679051</g:id>
-      <g:title>Madu Sidr Areesh dengan Royal Jelly dan Propolis, Kemasan 500 g</g:title>
-      <g:description>Madu Sidr Areesh dengan Royal Jelly dan Propolis, Kemasan 500 g. 1.0 kg.</g:description>
+      <g:title>Madu Sidr Areesh dengan Royal Jelly dan Propolis (Kemasan 500 g)</g:title>
+      <g:description>Madu Sidr Areesh dengan Royal Jelly dan Propolis (Kemasan 500 g). 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-sidr-areesh-dengan-royal-jelly-dan-propolis-kemasan-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
@@ -67,12 +79,6 @@
       <g:title>Madu Hutan Hitam 500 gram</g:title>
       <g:description>Madu Hutan Hitam 500 gram. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-hutan-hitam-500-gram/p1339577181?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1307810461</g:id>
-      <g:title>Madu Sarang Alami 200 Gram</g:title>
-      <g:description>Madu Sarang Alami 200 Gram. 0.7 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sarang-alami-200-gram/p1307810461?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1400408185</g:id>
@@ -193,12 +199,6 @@
       <g:title>Madu Sidr Kashmiri 2 Kilo</g:title>
       <g:description>Madu Sidr Kashmiri 2 Kilo. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-2-kilo/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>979497193</g:id>
-      <g:title>Madu Sidr Kashmiri 500 g</g:title>
-      <g:description>Madu Sidr Kashmiri 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-500-g/p979497193?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1714110187</g:id>

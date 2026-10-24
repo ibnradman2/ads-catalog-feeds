@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 20:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:09:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2045612049</g:id>
+      <g:title>Anis 500 Gramo</g:title>
+      <g:description>Anis 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/anis-500-gramo/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>2139954028</g:id>
       <g:title>Buto ng Qatuna - 250gm</g:title>
@@ -541,12 +547,6 @@
       <g:title>Anis 250 Gramo</g:title>
       <g:description>Anis 250 Gramo. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tl/anis-250-gramo/p222295925?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>2045612049</g:id>
-      <g:title>Anis 500 Gramo</g:title>
-      <g:description>Anis 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/anis-500-gramo/p2045612049?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>74605069</g:id>

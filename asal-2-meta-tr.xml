@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 23 Oct 2026 21:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:16:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1688919538</g:id>
+      <g:title>5 Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu</g:title>
+      <g:description>5 Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu. 6.44 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/5-kilo-rek-otlu-bal-2-paket-zencefilli-limonlu-ve-zerde-all-bal-i-ece-i-470-g-re/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1590017383</g:id>
+      <g:title>Dağ Sidr Petek Balı 1 kg</g:title>
+      <g:description>Dağ Sidr Petek Balı 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/da-sidr-petek-bal-1-kg/p1590017383?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>685341090</g:id>
+      <g:title>%32 indirimli 2 adet yerli yabani çiçek petek balı + Ücretsiz Kargo</g:title>
+      <g:description>%32 indirimli 2 adet yerli yabani çiçek petek balı + Ücretsiz Kargo. 1.4 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/32-indirimli-2-adet-yerli-yabani-i-ek-petek-bal-cretsiz-kargo/p685341090?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1372377871</g:id>
       <g:title>Hail Talh Balı Petekli 1 Kg</g:title>
@@ -163,12 +181,6 @@
       <g:title>Yarım Kilo Dağ Sidr + Yarım Kilo Diken + Yarım Kilo Macar + Yarım Kilo Kara Orman + Yarım Kilo Yabani Çiçek (Ücretsiz Kargo)</g:title>
       <g:description>Yarım Kilo Dağ Sidr + Yarım Kilo Diken + Yarım Kilo Macar + Yarım Kilo Kara Orman + Yarım Kilo Yabani Çiçek (Ücretsiz Kargo). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/yar-m-kilo-da-sidr-yar-m-kilo-diken-yar-m-kilo-macar-yar-m-kilo-kara-orman-yar-m/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>685341090</g:id>
-      <g:title>%32 indirimli 2 adet yerli yabani çiçek petek balı + Ücretsiz Kargo</g:title>
-      <g:description>%32 indirimli 2 adet yerli yabani çiçek petek balı + Ücretsiz Kargo. 1.4 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/32-indirimli-2-adet-yerli-yabani-i-ek-petek-bal-cretsiz-kargo/p685341090?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1165273283</g:id>
@@ -1101,12 +1113,6 @@
       <g:link>https://asalaljebal.sa/tr/moringa-bal-250-gram/p1695821747?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1590017383</g:id>
-      <g:title>Dağ Sidr Petek Balı 1 kg</g:title>
-      <g:description>Dağ Sidr Petek Balı 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/da-sidr-petek-bal-1-kg/p1590017383?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>402261162</g:id>
       <g:title>Moringa Balı 500 Gram</g:title>
       <g:description>Moringa Balı 500 Gram. 1.0 kg.</g:description>
@@ -1537,12 +1543,6 @@
       <g:title>Dağ Karışımı Balı: Doğal Sidr, Polen, Kraliçe Arı Sütü ve Ginseng, 2 Paket 500 gram</g:title>
       <g:description>Dağ Karışımı Balı: Doğal Sidr, Polen, Kraliçe Arı Sütü ve Ginseng, 2 Paket 500 gram. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/da-kar-m-bal-do-al-sidr-polen-krali-e-ar-s-t-ve-ginseng-2-paket-500-gram/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1688919538</g:id>
-      <g:title>5 Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu</g:title>
-      <g:description>5 Kilo Çörek Otlu Bal + 2 Paket Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği (470 g) + Çörek Otu Tohumu. 6.44 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/5-kilo-rek-otlu-bal-2-paket-zencefilli-limonlu-ve-zerde-all-bal-i-ece-i-470-g-re/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>863586339</g:id>
