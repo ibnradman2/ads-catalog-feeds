@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:13:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）</g:title>
+      <g:description>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>带蜂巢的皇家西德尔蜂蜜2公斤，阿西尔山区</g:title>
+      <g:description>带蜂巢的皇家西德尔蜂蜜2公斤，阿西尔山区. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1292771214</g:id>
       <g:title>天然西德尔蜂蜜便携小勺 100支</g:title>
@@ -115,12 +127,6 @@
       <g:title>特级塔勒蜂蜜 1公斤</g:title>
       <g:description>特级塔勒蜂蜜 1公斤. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/1/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>612621130</g:id>
-      <g:title>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）</g:title>
-      <g:description>蜂蜜套装：山地西德尔蜂蜜 + 野花蜂蜜 + 萨姆拉刺蜂蜜（免运费）. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -517,12 +523,6 @@
       <g:title>2公斤皇家阿西米西德尔蜂蜜带蜂巢，立减百分之十五 + 免运费 + 分期付款</g:title>
       <g:description>2公斤皇家阿西米西德尔蜂蜜带蜂巢，立减百分之十五 + 免运费 + 分期付款. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/2/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>带蜂巢的皇家西德尔蜂蜜2公斤，阿西尔山区</g:title>
-      <g:description>带蜂巢的皇家西德尔蜂蜜2公斤，阿西尔山区. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/2/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1497729139</g:id>

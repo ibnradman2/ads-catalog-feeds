@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:13:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala)</g:title>
+      <g:description>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-sa-pulot-wildflower-honey-mountain-sidr-honey-at-shawka-samar-honey-libreng/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo</g:title>
+      <g:description>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-sidr-na-pulot-sa-pagkit-mula-sa-kabundukan-ng-asir-2-kilo/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1292771214</g:id>
       <g:title>Mga Kutsarang Natural na Pulot na Sidr - 100 piraso</g:title>
@@ -115,12 +127,6 @@
       <g:title>Premium Talh Honey 1 Kilo</g:title>
       <g:description>Premium Talh Honey 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/premium-talh-honey-1-kilo/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>612621130</g:id>
-      <g:title>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala)</g:title>
-      <g:description>Alok sa Pulot: Wildflower Honey, Mountain Sidr Honey at Shawka Samar Honey (Libreng Padala). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/alok-sa-pulot-wildflower-honey-mountain-sidr-honey-at-shawka-samar-honey-libreng/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -517,12 +523,6 @@
       <g:title>2 Kilong Royal Asimi Sidr Honey na may Diskwentong 15 Porsyento + Libreng Pagpapadala + Hulugan</g:title>
       <g:description>2 Kilong Royal Asimi Sidr Honey na may Diskwentong 15 Porsyento + Libreng Pagpapadala + Hulugan. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/2-kilong-royal-asimi-sidr-honey-na-may-diskwentong-15-porsyento-libreng-pagpapad/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo</g:title>
-      <g:description>Royal Sidr na Pulot sa Pagkit mula sa Kabundukan ng Asir, 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-sidr-na-pulot-sa-pagkit-mula-sa-kabundukan-ng-asir-2-kilo/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1497729139</g:id>

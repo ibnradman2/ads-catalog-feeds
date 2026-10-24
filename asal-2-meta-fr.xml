@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:13:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Offre de miel : fleurs sauvages, Sidr de montagne et Samra (livraison gratuite)</g:title>
+      <g:description>Offre de miel : fleurs sauvages, Sidr de montagne et Samra (livraison gratuite). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-de-miel-fleurs-sauvages-sidr-de-montagne-et-samra-livraison-gratuite/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Miel de Sidr royal en rayon d'Assir 2 kg</g:title>
+      <g:description>Miel de Sidr royal en rayon d'Assir 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-d-assir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1292771214</g:id>
       <g:title>Cuillères de miel de sidr naturel - 100 pièces</g:title>
@@ -115,12 +127,6 @@
       <g:title>Miel de Talh premium 1 kg</g:title>
       <g:description>Miel de Talh premium 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>612621130</g:id>
-      <g:title>Offre de miel : fleurs sauvages, Sidr de montagne et Samra (livraison gratuite)</g:title>
-      <g:description>Offre de miel : fleurs sauvages, Sidr de montagne et Samra (livraison gratuite). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-de-miel-fleurs-sauvages-sidr-de-montagne-et-samra-livraison-gratuite/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -517,12 +523,6 @@
       <g:title>2 kg de miel de Sidr royal Asimi avec 15 pour cent de remise + livraison gratuite + paiement échelonné</g:title>
       <g:description>2 kg de miel de Sidr royal Asimi avec 15 pour cent de remise + livraison gratuite + paiement échelonné. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/2-kg-de-miel-de-sidr-royal-asimi-avec-15-pour-cent-de-remise-livraison-gratuite-/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>Miel de Sidr royal en rayon d'Assir 2 kg</g:title>
-      <g:description>Miel de Sidr royal en rayon d'Assir 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-d-assir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1497729139</g:id>

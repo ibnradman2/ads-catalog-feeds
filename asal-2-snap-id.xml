@@ -4,10 +4,43 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:13:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">612621130</guid>
+      <g:id>612621130</g:id>
+      <g:title>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir)</g:title>
+      <g:description>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-madu-bunga-liar-madu-sidr-pegunungan-madu-syauka-samar-gratis-ongkir/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/wPuTDmkKL9Ghd30UmKmKe6tMGFklKaRhhbUrbdSA.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>627.00 SAR</g:price>
+      <g:sale_price>417.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1232313534</guid>
+      <g:id>1232313534</g:id>
+      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/XeQILTGvZ9GoSWUfSH3419TXX4kYoVl51SsszT6H.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/p5yFFCn7DMrjGzUAyvAPZ3i6MG0G9Ni9LQ8SjCgG.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1377.00 SAR</g:price>
+      <g:sale_price>1100.09 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024010</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1292771214</guid>
       <g:id>1292771214</g:id>
@@ -298,22 +331,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">612621130</guid>
-      <g:id>612621130</g:id>
-      <g:title>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir)</g:title>
-      <g:description>Paket Madu Bunga Liar - Madu Sidr Pegunungan - Madu Syauka Samar (Gratis Ongkir). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-madu-bunga-liar-madu-sidr-pegunungan-madu-syauka-samar-gratis-ongkir/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/wPuTDmkKL9Ghd30UmKmKe6tMGFklKaRhhbUrbdSA.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>627.00 SAR</g:price>
-      <g:sale_price>417.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">988896669</guid>
       <g:id>988896669</g:id>
       <g:title>Madu Sidr Peshawari Pakistan 250 Gram</g:title>
@@ -377,9 +394,9 @@
     <item>
       <guid isPermaLink="false">1245825048</guid>
       <g:id>1245825048</g:id>
-      <g:title>Serbuk Sari Lebah dari Tiongkok - 3 Kemasan × 500 g</g:title>
-      <g:description>Serbuk Sari Lebah dari Tiongkok - 3 Kemasan × 500 g. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/serbuk-sari-lebah-dari-tiongkok-3-kemasan-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Serbuk Sari Lebah - 3 Kemasan × 500 g</g:title>
+      <g:description>Serbuk Sari Lebah - 3 Kemasan × 500 g. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/serbuk-sari-lebah-3-kemasan-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/r80WMIIkwepsCF0EhTMhB4zA7Qdj4CdIlGAYBpGi.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>262.00 SAR</g:price>
@@ -1370,23 +1387,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1232313534</guid>
-      <g:id>1232313534</g:id>
-      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
-      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/XeQILTGvZ9GoSWUfSH3419TXX4kYoVl51SsszT6H.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/p5yFFCn7DMrjGzUAyvAPZ3i6MG0G9Ni9LQ8SjCgG.jpeg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1377.00 SAR</g:price>
-      <g:sale_price>1100.09 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031024010</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>

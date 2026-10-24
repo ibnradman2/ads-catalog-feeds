@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:13:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>612621130</g:id>
+      <g:title>Oferta de miel de flores silvestres, miel de Sidr de montaña y miel de Samar (Envío gratis)</g:title>
+      <g:description>Oferta de miel de flores silvestres, miel de Sidr de montaña y miel de Samar (Envío gratis). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-de-miel-de-flores-silvestres-miel-de-sidr-de-monta-a-y-miel-de-samar-env-/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Miel de Sidr real en panal de las montañas de Asir 2 kg</g:title>
+      <g:description>Miel de Sidr real en panal de las montañas de Asir 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-en-panal-de-las-monta-as-de-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1292771214</g:id>
       <g:title>Cucharas de miel de sidr natural de Cachemira, 100 unidades</g:title>
@@ -115,12 +127,6 @@
       <g:title>Miel de talh premium 1 kg</g:title>
       <g:description>Miel de talh premium 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>612621130</g:id>
-      <g:title>Oferta de miel de flores silvestres, miel de Sidr de montaña y miel de Samar (Envío gratis)</g:title>
-      <g:description>Oferta de miel de flores silvestres, miel de Sidr de montaña y miel de Samar (Envío gratis). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-de-miel-de-flores-silvestres-miel-de-sidr-de-monta-a-y-miel-de-samar-env-/p612621130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -517,12 +523,6 @@
       <g:title>Miel de Sidr real Usaimi en panal 2 kg con descuento de quince por ciento, envío gratis y pago a plazos</g:title>
       <g:description>Miel de Sidr real Usaimi en panal 2 kg con descuento de quince por ciento, envío gratis y pago a plazos. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-usaimi-en-panal-2-kg-con-descuento-de-quince-por-ciento-env-o-/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>Miel de Sidr real en panal de las montañas de Asir 2 kg</g:title>
-      <g:description>Miel de Sidr real en panal de las montañas de Asir 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-en-panal-de-las-monta-as-de-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1497729139</g:id>
