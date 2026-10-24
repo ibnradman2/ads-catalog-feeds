@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 17:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2037297617</g:id>
+      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g</g:title>
+      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-manuka-honey-umf-15-mgo-550-250-/p2037297617?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>830068410</g:id>
+      <g:title>2 kg de miel de la Forêt-Noire + 1 kg offert</g:title>
+      <g:description>2 kg de miel de la Forêt-Noire + 1 kg offert. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/2-kg-de-miel-de-la-for-t-noire-1-kg-offert/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1819634026</g:id>
+      <g:title>Miel de Talh de Haïl 500 g</g:title>
+      <g:description>Miel de Talh de Haïl 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-500-g/p1819634026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite)</g:title>
+      <g:description>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-argent-miel-de-la-for-t-noire-miel-de-nigelle-miel-de-tr-fle-livraison-gra/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>879350052</g:id>
       <g:title>L’offre spéciale : 4 pots de miel de sidr du Cachemire + 3 pots de miel de nigelle + cuillère à miel en bois (livraison gratuite)</g:title>
@@ -331,12 +355,6 @@
       <g:title>Miel de Talh de Haïl 1 kg</g:title>
       <g:description>Miel de Talh de Haïl 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-1-kg/p313018985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>987199113</g:id>
-      <g:title>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite)</g:title>
-      <g:description>Offre Argent (miel de la Forêt noire + miel de nigelle + miel de trèfle) (livraison gratuite). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-argent-miel-de-la-for-t-noire-miel-de-nigelle-miel-de-tr-fle-livraison-gra/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1017059861</g:id>
@@ -945,12 +963,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-de-tr-fle-250-g-clair-et-l-ger/p177144225?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>2037297617</g:id>
-      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g</g:title>
-      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+15, MGO 550+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-manuka-honey-umf-15-mgo-550-250-/p2037297617?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>284318205</g:id>
       <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g</g:title>
       <g:description>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g. 0.75 kg.</g:description>
@@ -1299,12 +1311,6 @@
       <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-500-g/p838476640?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1819634026</g:id>
-      <g:title>Miel de Talh de Haïl 500 g</g:title>
-      <g:description>Miel de Talh de Haïl 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-500-g/p1819634026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>250040053</g:id>
       <g:title>Graines de nigelle 1 kg</g:title>
       <g:description>Graines de nigelle 1 kg. 1.5 kg.</g:description>
@@ -1519,12 +1525,6 @@
       <g:title>Miel en rayon d'épine de samar 500 g</g:title>
       <g:description>Miel en rayon d'épine de samar 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-en-rayon-d-pine-de-samar-500-g/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>830068410</g:id>
-      <g:title>2 kg de miel de la Forêt-Noire + 1 kg offert</g:title>
-      <g:description>2 kg de miel de la Forêt-Noire + 1 kg offert. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/2-kg-de-miel-de-la-for-t-noire-1-kg-offert/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1774089564</g:id>

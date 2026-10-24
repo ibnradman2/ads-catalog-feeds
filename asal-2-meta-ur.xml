@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 17:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>830068410</g:id>
+      <g:title>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ</g:title>
+      <g:description>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-1/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری)</g:title>
+      <g:description>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>879350052</g:id>
       <g:title>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری)</g:title>
@@ -247,12 +259,6 @@
       <g:title>10 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + 250 گرام بی پولن + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار)</g:title>
       <g:description>10 کلو کشمیری سدر شہد 37% رعایت کے ساتھ + 250 گرام بی پولن + مفت ڈیلیوری + اقساط میں ادائیگی (نایاب معیار کی کھیپ، بہت محدود مقدار). 10.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/10-37-250/p821410085?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>987199113</g:id>
-      <g:title>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری)</g:title>
-      <g:description>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1017059861</g:id>
@@ -1159,12 +1165,6 @@
       <g:title>چھتے والا شہد سمرہ کانٹے دار درخت 500 گرام</g:title>
       <g:description>چھتے والا شہد سمرہ کانٹے دار درخت 500 گرام. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>830068410</g:id>
-      <g:title>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ</g:title>
-      <g:description>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-1/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1592997301</g:id>
