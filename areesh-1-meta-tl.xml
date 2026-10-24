@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:09:14 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1700113743</g:id>
+      <g:title>Royal na Pulot ng Sidr na Aseemi, 500 gm</g:title>
+      <g:description>Royal na Pulot ng Sidr na Aseemi, 500 gm. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/royal-na-pulot-ng-sidr-na-aseemi-500-gm/p1700113743?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>311732055</g:id>
+      <g:title>Propolis na Pulbos (Propolis o Bee Glue) 15 g</g:title>
+      <g:description>Propolis na Pulbos (Propolis o Bee Glue) 15 g. 0.515 kg.</g:description>
+      <g:link>https://areesh.sa/tl/propolis-na-pulbos-propolis-o-bee-glue-15-g/p311732055?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>1386198566</g:id>
+      <g:title>Royal Jelly 15 g</g:title>
+      <g:description>Royal Jelly 15 g. 0.515 kg.</g:description>
+      <g:link>https://areesh.sa/tl/royal-jelly-15-g/p1386198566?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
+    <item>
+      <g:id>547643097</g:id>
+      <g:title>Pulot ng Black Forest na 1 Kilo</g:title>
+      <g:description>Pulot ng Black Forest na 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-black-forest-na-1-kilo/p547643097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_PH</g:override></item>
     <item>
       <g:id>115482841</g:id>
       <g:title>Bee Pollen - 30 g</g:title>
@@ -169,12 +193,6 @@
       <g:title>Pulot ng Itim na Kagubatan 250 g</g:title>
       <g:description>Pulot ng Itim na Kagubatan 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/tl/pulot-ng-itim-na-kagubatan-250-g/p769082882?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1386198566</g:id>
-      <g:title>Royal Jelly 15 g</g:title>
-      <g:description>Royal Jelly 15 g. 0.515 kg.</g:description>
-      <g:link>https://areesh.sa/tl/royal-jelly-15-g/p1386198566?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1404273996</g:id>
@@ -559,24 +577,6 @@
       <g:title>Puting Pulot ng Majra na 1 Kilo</g:title>
       <g:description>Puting Pulot ng Majra na 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/puting-pulot-ng-majra-na-1-kilo/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>1700113743</g:id>
-      <g:title>Royal na Pulot ng Sidr na Aseemi, 500 gm</g:title>
-      <g:description>Royal na Pulot ng Sidr na Aseemi, 500 gm. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/royal-na-pulot-ng-sidr-na-aseemi-500-gm/p1700113743?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>547643097</g:id>
-      <g:title>Pulot ng Black Forest na 1 Kilo</g:title>
-      <g:description>Pulot ng Black Forest na 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-black-forest-na-1-kilo/p547643097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_PH</g:override></item>
-    <item>
-      <g:id>311732055</g:id>
-      <g:title>Propolis na Pulbos (Propolis o Bee Glue) 15 g</g:title>
-      <g:description>Propolis na Pulbos (Propolis o Bee Glue) 15 g. 0.515 kg.</g:description>
-      <g:link>https://areesh.sa/tl/propolis-na-pulbos-propolis-o-bee-glue-15-g/p311732055?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1394374627</g:id>
