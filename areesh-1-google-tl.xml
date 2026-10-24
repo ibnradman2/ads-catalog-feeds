@@ -4,10 +4,72 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 13:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:00:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">115482841</guid>
+      <g:id>115482841</g:id>
+      <g:title>Bee Pollen - 30 g</g:title>
+      <g:description>Bee Pollen - 30 g. Produkto ng Bubuyog. 0.53 kg.</g:description>
+      <g:link>https://areesh.sa/tl/bee-pollen-30-g/p115482841?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/putIg7IsnmqnW0uYErZEMMJqaRAe53ABOOoTffip.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/jS4d0Yi0RlJ9iFwPsqqZRBGTnF2NyDqK4ML45VUt.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061007030</g:item_group_id>
+      <g:shipping_weight>0.53 kg</g:shipping_weight>
+    <g:mpn>0061007030</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Produkto ng Bubuyog</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1126573678</guid>
+      <g:id>1126573678</g:id>
+      <g:title>Hadrami Sidr Honey 500 Gramo</g:title>
+      <g:description>Hadrami Sidr Honey 500 Gramo. Pulot ng Sidr. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/hadrami-sidr-honey-500-gramo/p1126573678?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/BxyoSUIZ4KH0IwUBnpFZ1WHIKnQuSnlXPxZunbaa.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/KPEvG/iCSY5yovBOzxsmqVPaMqtUgo0VeB7wvqKrVmyFsz.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>0011207002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">427525089</guid>
+      <g:id>427525089</g:id>
+      <g:title>Royal na Pulot ng Sidr na Aseemi, 250 gm</g:title>
+      <g:description>Royal na Pulot ng Sidr na Aseemi, 250 gm. Pulot ng Sidr. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tl/royal-na-pulot-ng-sidr-na-aseemi-250-gm/p427525089?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/Kywlg8BoSYhjO7VnjtnY0ACbQ48bUrPbJqKIodoH.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>169.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>001002001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1749454899</guid>
+      <g:id>1749454899</g:id>
+      <g:title>Hadhrami Sidr na Pulot 250 g</g:title>
+      <g:description>Hadhrami Sidr na Pulot 250 g. Pulot ng Sidr. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tl/hadhrami-sidr-na-pulot-250-g/p1749454899?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/PVuidvrDbMOaudZZrz4wOpNfBn9I9SWXRLOwTSNr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>124.99 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011207001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>0011207001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1714475941</guid>
       <g:id>1714475941</g:id>
@@ -269,22 +331,6 @@
       <g:item_group_id>0021092001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>0021092001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Samra</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">115482841</guid>
-      <g:id>115482841</g:id>
-      <g:title>Bee Pollen - 30 g</g:title>
-      <g:description>Bee Pollen - 30 g. Produkto ng Bubuyog. 0.53 kg.</g:description>
-      <g:link>https://areesh.sa/tl/bee-pollen-30-g/p115482841?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/putIg7IsnmqnW0uYErZEMMJqaRAe53ABOOoTffip.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/jS4d0Yi0RlJ9iFwPsqqZRBGTnF2NyDqK4ML45VUt.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>17.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061007030</g:item_group_id>
-      <g:shipping_weight>0.53 kg</g:shipping_weight>
-    <g:mpn>0061007030</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Produkto ng Bubuyog</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1714110187</guid>
       <g:id>1714110187</g:id>
@@ -1382,52 +1428,6 @@
       <g:item_group_id>0041012002</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>0041012002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>300 hanggang 599</g:custom_label_2><g:custom_label_3>Puting Majra na Pulot</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1749454899</guid>
-      <g:id>1749454899</g:id>
-      <g:title>Hadhrami Sidr na Pulot 250 g</g:title>
-      <g:description>Hadhrami Sidr na Pulot 250 g. Pulot ng Sidr. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tl/hadhrami-sidr-na-pulot-250-g/p1749454899?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/PVuidvrDbMOaudZZrz4wOpNfBn9I9SWXRLOwTSNr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>124.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011207001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0011207001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1126573678</guid>
-      <g:id>1126573678</g:id>
-      <g:title>Hadrami Sidr Honey 500 Gramo</g:title>
-      <g:description>Hadrami Sidr Honey 500 Gramo. Pulot ng Sidr. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/hadrami-sidr-honey-500-gramo/p1126573678?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/BxyoSUIZ4KH0IwUBnpFZ1WHIKnQuSnlXPxZunbaa.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/KPEvG/iCSY5yovBOzxsmqVPaMqtUgo0VeB7wvqKrVmyFsz.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011207002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>0011207002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">427525089</guid>
-      <g:id>427525089</g:id>
-      <g:title>Royal na Pulot ng Sidr na Aseemi, 250 gm</g:title>
-      <g:description>Royal na Pulot ng Sidr na Aseemi, 250 gm. Pulot ng Sidr. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tl/royal-na-pulot-ng-sidr-na-aseemi-250-gm/p427525089?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/Kywlg8BoSYhjO7VnjtnY0ACbQ48bUrPbJqKIodoH.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>169.99 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>001002001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>100 hanggang 299</g:custom_label_2><g:custom_label_3>Pulot ng Sidr</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1700113743</guid>
       <g:id>1700113743</g:id>
