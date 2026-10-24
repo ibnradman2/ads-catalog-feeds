@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:14:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2082144846</g:id>
+      <g:title>Thyme Bubuk 1 Kilo</g:title>
+      <g:description>Thyme Bubuk 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/thyme-bubuk-1-kilo/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>861941121</g:id>
+      <g:title>Biji Fenugreek (Hulbah) 1 Kg</g:title>
+      <g:description>Biji Fenugreek (Hulbah) 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/biji-fenugreek-hulbah-1-kg/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1378639718</g:id>
+      <g:title>Biji Chia - 250 g</g:title>
+      <g:description>Biji Chia - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/biji-chia-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1730613591</g:id>
       <g:title>Nanas Kering 250 Gram</g:title>
@@ -519,12 +537,6 @@
       <g:link>https://hayala.co/ind/serbuk-sari-lebah-bee-pollen-30-gram/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>861941121</g:id>
-      <g:title>Biji Fenugreek (Hulbah) 1 Kg</g:title>
-      <g:description>Biji Fenugreek (Hulbah) 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/biji-fenugreek-hulbah-1-kg/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1017600485</g:id>
       <g:title>Gum Arab Bubuk 250 Gram</g:title>
       <g:description>Gum Arab Bubuk 250 Gram. 0.75 kg.</g:description>
@@ -699,22 +711,10 @@
       <g:link>https://hayala.co/ind/biji-chia-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1378639718</g:id>
-      <g:title>Biji Chia - 250 g</g:title>
-      <g:description>Biji Chia - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/biji-chia-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1466026704</g:id>
       <g:title>Thyme Bubuk 250 Gram</g:title>
       <g:description>Thyme Bubuk 250 Gram. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ind/thyme-bubuk-250-gram/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2082144846</g:id>
-      <g:title>Thyme Bubuk 1 Kilo</g:title>
-      <g:description>Thyme Bubuk 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/thyme-bubuk-1-kilo/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>351659116</g:id>

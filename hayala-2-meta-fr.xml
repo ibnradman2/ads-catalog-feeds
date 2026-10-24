@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:14:40 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2082144846</g:id>
+      <g:title>Thym moulu 1 kg</g:title>
+      <g:description>Thym moulu 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/thym-moulu-1-kg/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>861941121</g:id>
+      <g:title>Fenugrec en grains 1 kg</g:title>
+      <g:description>Fenugrec en grains 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/fenugrec-en-grains-1-kg/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1378639718</g:id>
+      <g:title>Graines de chia - 250 g</g:title>
+      <g:description>Graines de chia - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/fr/graines-de-chia-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1730613591</g:id>
       <g:title>Ananas séché 250 g</g:title>
@@ -519,12 +537,6 @@
       <g:link>https://hayala.co/fr/pollen-d-abeille-grains-de-pollen-30-g/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>861941121</g:id>
-      <g:title>Fenugrec en grains 1 kg</g:title>
-      <g:description>Fenugrec en grains 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/fenugrec-en-grains-1-kg/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1017600485</g:id>
       <g:title>Gomme arabique moulue 250 g</g:title>
       <g:description>Gomme arabique moulue 250 g. 0.75 kg.</g:description>
@@ -699,22 +711,10 @@
       <g:link>https://hayala.co/fr/graines-de-chia-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1378639718</g:id>
-      <g:title>Graines de chia - 250 g</g:title>
-      <g:description>Graines de chia - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/fr/graines-de-chia-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1466026704</g:id>
       <g:title>Thym moulu 250 g</g:title>
       <g:description>Thym moulu 250 g. 0.75 kg.</g:description>
       <g:link>https://hayala.co/fr/thym-moulu-250-g/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2082144846</g:id>
-      <g:title>Thym moulu 1 kg</g:title>
-      <g:description>Thym moulu 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/thym-moulu-1-kg/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>351659116</g:id>
