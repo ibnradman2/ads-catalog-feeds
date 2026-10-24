@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -179,9 +179,9 @@
     <item>
       <guid isPermaLink="false">1071630418</guid>
       <g:id>1071630418</g:id>
-      <g:title>Pink Himalayan Salt (450 g)</g:title>
-      <g:description>Pink Himalayan Salt (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/tl/pink-himalayan-salt-450-g/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Pink Rock Salt (450 g)</g:title>
+      <g:description>Pink Rock Salt (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/tl/pink-rock-salt-450-g/p1071630418?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/ID9cRahSjdtbcjMTO8nQII1J0FwuM8mPhXuZj4py.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>9.00 SAR</g:price>
@@ -193,9 +193,9 @@
     <item>
       <guid isPermaLink="false">1300632420</guid>
       <g:id>1300632420</g:id>
-      <g:title>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g</g:title>
-      <g:description>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g. Produkto ng Bubuyog. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/tl/chinese-royal-jelly-pagkain-ng-mga-reyna-ng-bubuyog-15g/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g</g:title>
+      <g:description>Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g. Produkto ng Bubuyog. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/tl/royal-jelly-pagkain-ng-mga-reyna-ng-bubuyog-15g/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/muP7fWDTRXRSzOWbM6qQ0pDn9UdjUezE2UALfu1G.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>35.00 SAR</g:price>

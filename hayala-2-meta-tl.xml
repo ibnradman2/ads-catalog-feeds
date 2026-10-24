@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -82,15 +82,15 @@
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1071630418</g:id>
-      <g:title>Pink Himalayan Salt (450 g)</g:title>
-      <g:description>Pink Himalayan Salt (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/tl/pink-himalayan-salt-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Pink Rock Salt (450 g)</g:title>
+      <g:description>Pink Rock Salt (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/tl/pink-rock-salt-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>1300632420</g:id>
-      <g:title>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g</g:title>
-      <g:description>Chinese Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/tl/chinese-royal-jelly-pagkain-ng-mga-reyna-ng-bubuyog-15g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g</g:title>
+      <g:description>Royal Jelly (Pagkain ng mga Reyna ng Bubuyog) 15g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/tl/royal-jelly-pagkain-ng-mga-reyna-ng-bubuyog-15g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_PH</g:override></item>
     <item>
       <g:id>140660040</g:id>
