@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:20:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1698035471</g:id>
+      <g:title>यमनी बादाम 1 किलो</g:title>
+      <g:description>यमनी बादाम 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p1698035471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>516049282</g:id>
+      <g:title>अबू फ़रवा (चेस्टनट) शहद 2 किलो (मुफ़्त डिलीवरी)</g:title>
+      <g:description>अबू फ़रवा (चेस्टनट) शहद 2 किलो (मुफ़्त डिलीवरी). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1688919538</g:id>
       <g:title>5 किलो कलौंजी शहद + अदरक, नींबू और हल्दी वाले शहद ड्रिंक के 2 पैक (470 ग्राम) + कलौंजी के दाने</g:title>
@@ -345,12 +357,6 @@
       <g:link>https://asalaljebal.sa/hi/product/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>516049282</g:id>
-      <g:title>अबू फ़रवा (चेस्टनट) शहद 2 किलो (मुफ़्त डिलीवरी)</g:title>
-      <g:description>अबू फ़रवा (चेस्टनट) शहद 2 किलो (मुफ़्त डिलीवरी). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1715451278</g:id>
       <g:title>अबू फ़रवा (चेस्टनट) शहद 10 किलो गैलन, थोक मूल्य पर (मुफ़्त डिलीवरी)</g:title>
       <g:description>अबू फ़रवा (चेस्टनट) शहद 10 किलो गैलन, थोक मूल्य पर (मुफ़्त डिलीवरी). 10.5 kg.</g:description>
@@ -655,12 +661,6 @@
       <g:title>यमनी बादाम 500 ग्राम</g:title>
       <g:description>यमनी बादाम 500 ग्राम. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/500/p406422116?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1698035471</g:id>
-      <g:title>यमनी बादाम 1 किलो</g:title>
-      <g:description>यमनी बादाम 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p1698035471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2107453315</g:id>

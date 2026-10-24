@@ -4,10 +4,42 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:20:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1698035471</guid>
+      <g:id>1698035471</g:id>
+      <g:title>也门杏仁 1公斤</g:title>
+      <g:description>也门杏仁 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1698035471?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/IcJR7aO61hIpXaEmyWeKfD32VjNBtbIkTna1XKB5.jpg</g:image_link>
+      <g:additional_image_link>https://ibnradman2.github.io/ads-catalog-feeds/img/asal/1698035471/almond-ad-design-sq.png</g:additional_image_link><g:availability>in stock</g:availability>
+      <g:price>350.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081003002</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">516049282</guid>
+      <g:id>516049282</g:id>
+      <g:title>Abu Farwa栗子蜂蜜 2公斤（免运费）</g:title>
+      <g:description>Abu Farwa栗子蜂蜜 2公斤（免运费）. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/abu-farwa-2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/vcAFnftustbNlHOnsXgDZanDg9uc3m2bjJjhMy7r.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/PwqKpG2a7mGF6iKZQlDlCXRkS6jBUrQEcuL90tXY.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>420.00 SAR</g:price>
+      <g:sale_price>380.01 SAR</g:sale_price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041027004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1688919538</guid>
       <g:id>1688919538</g:id>
@@ -903,23 +935,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">516049282</guid>
-      <g:id>516049282</g:id>
-      <g:title>Abu Farwa栗子蜂蜜 2公斤（免运费）</g:title>
-      <g:description>Abu Farwa栗子蜂蜜 2公斤（免运费）. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/abu-farwa-2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/vcAFnftustbNlHOnsXgDZanDg9uc3m2bjJjhMy7r.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/PwqKpG2a7mGF6iKZQlDlCXRkS6jBUrQEcuL90tXY.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>420.00 SAR</g:price>
-      <g:sale_price>380.01 SAR</g:sale_price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041027004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1715451278</guid>
       <g:id>1715451278</g:id>
       <g:title>Abu Farwa栗子蜂蜜 10公斤桶装 批发价（免运费）</g:title>
@@ -1717,21 +1732,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0081003001</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1698035471</guid>
-      <g:id>1698035471</g:id>
-      <g:title>也门杏仁 1公斤</g:title>
-      <g:description>也门杏仁 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1698035471?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/IcJR7aO61hIpXaEmyWeKfD32VjNBtbIkTna1XKB5.jpg</g:image_link>
-      <g:additional_image_link>https://ibnradman2.github.io/ads-catalog-feeds/img/asal/1698035471/almond-ad-design-sq.png</g:additional_image_link><g:availability>in stock</g:availability>
-      <g:price>350.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0081003002</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">2107453315</guid>

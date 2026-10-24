@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:40:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>522208565</g:id>
+      <g:title>迷迭香1公斤</g:title>
+      <g:description>迷迭香1公斤. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1701109911</g:id>
+      <g:title>鼠尾草1公斤</g:title>
+      <g:description>鼠尾草1公斤. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>2045612049</g:id>
       <g:title>茴芹籽500克</g:title>
@@ -645,12 +657,6 @@
       <g:link>https://hayala.co/zh/250/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>522208565</g:id>
-      <g:title>迷迭香1公斤</g:title>
-      <g:description>迷迭香1公斤. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>441888257</g:id>
       <g:title>干牛油果 500克</g:title>
       <g:description>干牛油果 500克. 1.0 kg.</g:description>
@@ -811,12 +817,6 @@
       <g:title>姜黄粉 500克</g:title>
       <g:description>姜黄粉 500克. 1.0 kg.</g:description>
       <g:link>https://hayala.co/zh/500/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1701109911</g:id>
-      <g:title>鼠尾草1公斤</g:title>
-      <g:description>鼠尾草1公斤. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1956516321</g:id>

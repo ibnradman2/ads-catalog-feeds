@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:40:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>522208565</g:id>
+      <g:title>Biberiye (Rozmarin) 1 kg</g:title>
+      <g:description>Biberiye (Rozmarin) 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/biberiye-rozmarin-1-kg/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1701109911</g:id>
+      <g:title>Kurutulmuş Adaçayı 1 kg</g:title>
+      <g:description>Kurutulmuş Adaçayı 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-ada-ay-1-kg/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2045612049</g:id>
       <g:title>Anason 500 Gram</g:title>
@@ -657,12 +669,6 @@
       <g:link>https://hayala.co/tr/kurutulmu-avokado-250-g/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>522208565</g:id>
-      <g:title>Biberiye (Rozmarin) 1 kg</g:title>
-      <g:description>Biberiye (Rozmarin) 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/biberiye-rozmarin-1-kg/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>441888257</g:id>
       <g:title>Kurutulmuş Avokado 500 g</g:title>
       <g:description>Kurutulmuş Avokado 500 g. 1.0 kg.</g:description>
@@ -823,12 +829,6 @@
       <g:title>Öğütülmüş Zerdeçal 500 gr</g:title>
       <g:description>Öğütülmüş Zerdeçal 500 gr. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/t-lm-zerde-al-500-gr/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1701109911</g:id>
-      <g:title>Kurutulmuş Adaçayı 1 kg</g:title>
-      <g:description>Kurutulmuş Adaçayı 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-ada-ay-1-kg/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1956516321</g:id>

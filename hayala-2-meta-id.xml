@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:40:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>522208565</g:id>
+      <g:title>Rosemary Kering 1 Kilo</g:title>
+      <g:description>Rosemary Kering 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/rosemary-kering-1-kilo/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1701109911</g:id>
+      <g:title>Sage (Maramiyah) Kering 1 Kilo</g:title>
+      <g:description>Sage (Maramiyah) Kering 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/sage-maramiyah-kering-1-kilo/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>2045612049</g:id>
       <g:title>Adas Manis (Anise) 500 Gram</g:title>
@@ -645,12 +657,6 @@
       <g:link>https://hayala.co/ind/alpukat-kering-250-gram/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>522208565</g:id>
-      <g:title>Rosemary Kering 1 Kilo</g:title>
-      <g:description>Rosemary Kering 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/rosemary-kering-1-kilo/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>441888257</g:id>
       <g:title>Alpukat Kering 500 gram</g:title>
       <g:description>Alpukat Kering 500 gram. 1.0 kg.</g:description>
@@ -811,12 +817,6 @@
       <g:title>Kunyit Bubuk 500 Gram</g:title>
       <g:description>Kunyit Bubuk 500 Gram. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ind/kunyit-bubuk-500-gram/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1701109911</g:id>
-      <g:title>Sage (Maramiyah) Kering 1 Kilo</g:title>
-      <g:description>Sage (Maramiyah) Kering 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/sage-maramiyah-kering-1-kilo/p1701109911?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1956516321</g:id>

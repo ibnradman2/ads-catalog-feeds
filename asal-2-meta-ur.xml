@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 01:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:20:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>516049282</g:id>
+      <g:title>ابو فروہ شہد (شاہ بلوط) 2 کلو (مفت ڈیلیوری)</g:title>
+      <g:description>ابو فروہ شہد (شاہ بلوط) 2 کلو (مفت ڈیلیوری). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1688919538</g:id>
       <g:title>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے</g:title>
@@ -283,12 +289,6 @@
       <g:title>ادرک اور ہلدی کا شہد مشروب + کلونجی کا شہد + کشمیری سدر شہد + پھولوں کا چھتہ + کلونجی کے دانے</g:title>
       <g:description>ادرک اور ہلدی کا شہد مشروب + کلونجی کا شہد + کشمیری سدر شہد + پھولوں کا چھتہ + کلونجی کے دانے. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/product/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>516049282</g:id>
-      <g:title>ابو فروہ شہد (شاہ بلوط) 2 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>ابو فروہ شہد (شاہ بلوط) 2 کلو (مفت ڈیلیوری). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1715451278</g:id>
