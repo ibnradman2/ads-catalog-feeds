@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 18:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:39:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>115531510</g:id>
+      <g:title>本地野花蜂巢蜜 1公斤</g:title>
+      <g:description>本地野花蜂巢蜜 1公斤. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1666723060</g:id>
+      <g:title>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品</g:title>
+      <g:description>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>323557872</g:id>
+      <g:title>刺蜜蜂巢蜜500克</g:title>
+      <g:description>刺蜜蜂巢蜜500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>521440913</g:id>
+      <g:title>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器</g:title>
+      <g:description>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器. 0.01 kg.</g:description>
+      <g:link>https://hayala.co/zh/negin/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>578517759</g:id>
       <g:title>Luqmati Bashanfer 咖啡豆 5公斤 - Al Khair 埃塞俄比亚一级，适合阿拉伯咖啡</g:title>
@@ -475,30 +499,6 @@
       <g:title>基础香料12包加炸洋葱</g:title>
       <g:description>基础香料12包加炸洋葱. 1.6 kg.</g:description>
       <g:link>https://hayala.co/zh/12/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1666723060</g:id>
-      <g:title>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品</g:title>
-      <g:description>优惠：两罐坚果蜂蜜（500克）+ 一罐（500克）赠品. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500-500/p1666723060?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>521440913</g:id>
-      <g:title>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器</g:title>
-      <g:description>礼盒 - 两罐优质超级Negin藏红花 + 赠送研磨器. 0.01 kg.</g:description>
-      <g:link>https://hayala.co/zh/negin/p521440913?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>115531510</g:id>
-      <g:title>本地野花蜂巢蜜 1公斤</g:title>
-      <g:description>本地野花蜂巢蜜 1公斤. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p115531510?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>323557872</g:id>
-      <g:title>刺蜜蜂巢蜜500克</g:title>
-      <g:description>刺蜜蜂巢蜜500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p323557872?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>999818845</g:id>
