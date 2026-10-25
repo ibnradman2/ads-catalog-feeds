@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:12:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>两罐沙特本地羊酥油 680克</g:title>
+      <g:description>两罐沙特本地羊酥油 680克. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1774089564</g:id>
+      <g:title>两罐新西兰麦卢卡蜂蜜 UMF+15 | UMF+10</g:title>
+      <g:description>两罐新西兰麦卢卡蜂蜜 UMF+15 | UMF+10. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>2062622663</g:id>
+      <g:title>3罐西班牙栗子蜂蜜 500克</g:title>
+      <g:description>3罐西班牙栗子蜂蜜 500克. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/3-500/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1720926903</g:id>
       <g:title>蜂王浆 250克</g:title>
@@ -727,12 +745,6 @@
       <g:title>天然巢蜜 400克</g:title>
       <g:description>天然巢蜜 400克. 0.9 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/400/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1758124226</g:id>
-      <g:title>两罐沙特本地羊酥油 680克</g:title>
-      <g:description>两罐沙特本地羊酥油 680克. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1327702593</g:id>
@@ -1491,12 +1503,6 @@
       <g:link>https://asalaljebal.sa/zh/500/p1994787951?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>2062622663</g:id>
-      <g:title>3罐西班牙栗子蜂蜜 500克</g:title>
-      <g:description>3罐西班牙栗子蜂蜜 500克. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/3-500/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1219301755</g:id>
       <g:title>卡塔德蜂蜜（250克）</g:title>
       <g:description>卡塔德蜂蜜（250克）. 0.75 kg.</g:description>
@@ -1537,12 +1543,6 @@
       <g:title>萨姆拉刺蜂蜜巢蜜 500克</g:title>
       <g:description>萨姆拉刺蜂蜜巢蜜 500克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1774089564</g:id>
-      <g:title>两罐新西兰麦卢卡蜂蜜 UMF+15 | UMF+10</g:title>
-      <g:description>两罐新西兰麦卢卡蜂蜜 UMF+15 | UMF+10. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1766152166</g:id>
