@@ -4,10 +4,46 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 11:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:06:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>200955964</g:id>
+      <g:title>Keşmir Sidr Balı Bidon 3 kg + Telbine 500 gram</g:title>
+      <g:description>Keşmir Sidr Balı Bidon 3 kg + Telbine 500 gram. 4.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-bidon-3-kg-telbine-500-gram/p200955964?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1766152166</g:id>
+      <g:title>Sidr Balı Dağ Karışımı 500 g</g:title>
+      <g:description>Sidr Balı Dağ Karışımı 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/sidr-bal-da-kar-m-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1592997301</g:id>
+      <g:title>3 kg Keşmir Sidr Balı Galon + 3 Telbine (Hediye)</g:title>
+      <g:description>3 kg Keşmir Sidr Balı Galon + 3 Telbine (Hediye). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kg-ke-mir-sidr-bal-galon-3-telbine-hediye/p1592997301?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1376557630</g:id>
+      <g:title>Bomba Fırsatı 3 Kutu Kuruyemişli Bal</g:title>
+      <g:description>Bomba Fırsatı 3 Kutu Kuruyemişli Bal. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/bomba-f-rsat-3-kutu-kuruyemi-li-bal/p1376557630?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>991857534</g:id>
+      <g:title>3 Kavanoz İspanyol Kara Orman Balı 500 g</g:title>
+      <g:description>3 Kavanoz İspanyol Kara Orman Balı 500 g. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kavanoz-i-spanyol-kara-orman-bal-500-g/p991857534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>2138516999</g:id>
+      <g:title>3 kg Çörek Otulu Bal Galonu + Hediye Çörek Otu Tohumu</g:title>
+      <g:description>3 kg Çörek Otulu Bal Galonu + Hediye Çörek Otu Tohumu. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kg-rek-otulu-bal-galonu-hediye-rek-otu-tohumu/p2138516999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1941051716</g:id>
       <g:title>Yerel Yaban Çiçeği Bal Peteği 1 kg</g:title>
@@ -777,12 +813,6 @@
       <g:link>https://asalaljebal.sa/tr/rd-n-s-v-propolis-50-ml/p1704938777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1376557630</g:id>
-      <g:title>Bomba Fırsatı 3 Kutu Kuruyemişli Bal</g:title>
-      <g:description>Bomba Fırsatı 3 Kutu Kuruyemişli Bal. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/bomba-f-rsat-3-kutu-kuruyemi-li-bal/p1376557630?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1853234062</g:id>
       <g:title>Anason Balı 10 Kilo Galon Toptan Fiyat</g:title>
       <g:description>Anason Balı 10 Kilo Galon Toptan Fiyat. 10.5 kg.</g:description>
@@ -793,12 +823,6 @@
       <g:title>Moringa Balı 10 kg Bidon - Toptan Fiyatı</g:title>
       <g:description>Moringa Balı 10 kg Bidon - Toptan Fiyatı. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/moringa-bal-10-kg-bidon-toptan-fiyat/p24757641?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>200955964</g:id>
-      <g:title>Keşmir Sidr Balı Bidon 3 kg + Telbine 500 gram</g:title>
-      <g:description>Keşmir Sidr Balı Bidon 3 kg + Telbine 500 gram. 4.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-bidon-3-kg-telbine-500-gram/p200955964?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>804454963</g:id>
@@ -1479,12 +1503,6 @@
       <g:link>https://asalaljebal.sa/tr/zencefilli-limonlu-ve-zerde-all-bal-i-ece-i-470-g-eyrek-kilo-ke-mir-sidr-bal-eyr/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>991857534</g:id>
-      <g:title>3 Kavanoz İspanyol Kara Orman Balı 500 g</g:title>
-      <g:description>3 Kavanoz İspanyol Kara Orman Balı 500 g. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kavanoz-i-spanyol-kara-orman-bal-500-g/p991857534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1688053025</g:id>
       <g:title>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram)</g:title>
       <g:description>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram). 1.0 kg.</g:description>
@@ -1515,12 +1533,6 @@
       <g:link>https://asalaljebal.sa/tr/geven-bal-250-g/p1219301755?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>2138516999</g:id>
-      <g:title>3 kg Çörek Otulu Bal Galonu + Hediye Çörek Otu Tohumu</g:title>
-      <g:description>3 kg Çörek Otulu Bal Galonu + Hediye Çörek Otu Tohumu. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kg-rek-otulu-bal-galonu-hediye-rek-otu-tohumu/p2138516999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>472529251</g:id>
       <g:title>Geven Balı 1 kg</g:title>
       <g:description>Geven Balı 1 kg. 1.5 kg.</g:description>
@@ -1537,18 +1549,6 @@
       <g:title>Semra Dikeni Petek Balı 500 g</g:title>
       <g:description>Semra Dikeni Petek Balı 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/semra-dikeni-petek-bal-500-g/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1766152166</g:id>
-      <g:title>Sidr Balı Dağ Karışımı 500 g</g:title>
-      <g:description>Sidr Balı Dağ Karışımı 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/sidr-bal-da-kar-m-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1592997301</g:id>
-      <g:title>3 kg Keşmir Sidr Balı Galon + 3 Telbine (Hediye)</g:title>
-      <g:description>3 kg Keşmir Sidr Balı Galon + 3 Telbine (Hediye). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kg-ke-mir-sidr-bal-galon-3-telbine-hediye/p1592997301?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>431101948</g:id>
