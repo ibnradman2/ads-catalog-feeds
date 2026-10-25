@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:47:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2080319034</g:id>
+      <g:title>Clavo de olor premium de Sri Lanka 1 kg</g:title>
+      <g:description>Clavo de olor premium de Sri Lanka 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/clavo-de-olor-premium-de-sri-lanka-1-kg/p2080319034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1218370784</g:id>
+      <g:title>1 kg de miel de sidr natural</g:title>
+      <g:description>1 kg de miel de sidr natural. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/1-kg-de-miel-de-sidr-natural/p1218370784?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1635363747</g:id>
+      <g:title>Piñones de Pakistán - 250 g</g:title>
+      <g:description>Piñones de Pakistán - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-ones-de-pakist-n-250-g/p1635363747?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>988412748</g:id>
+      <g:title>Semillas de katuna (psilio) - 1 kg</g:title>
+      <g:description>Semillas de katuna (psilio) - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-1-kg/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>190195544</g:id>
       <g:title>Fenogreco en grano 500 g</g:title>
@@ -325,30 +349,6 @@
       <g:title>12 envases de azafrán súper negin 12 gramos + envío gratis</g:title>
       <g:description>12 envases de azafrán súper negin 12 gramos + envío gratis. 0.512 kg.</g:description>
       <g:link>https://hayala.co/es/12-envases-de-azafr-n-s-per-negin-12-gramos-env-o-gratis/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>988412748</g:id>
-      <g:title>Semillas de katuna (psilio) - 1 kg</g:title>
-      <g:description>Semillas de katuna (psilio) - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-1-kg/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1635363747</g:id>
-      <g:title>Piñones de Pakistán - 250 g</g:title>
-      <g:description>Piñones de Pakistán - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/pi-ones-de-pakist-n-250-g/p1635363747?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1218370784</g:id>
-      <g:title>1 kg de miel de sidr natural</g:title>
-      <g:description>1 kg de miel de sidr natural. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/1-kg-de-miel-de-sidr-natural/p1218370784?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2080319034</g:id>
-      <g:title>Clavo de olor premium de Sri Lanka 1 kg</g:title>
-      <g:description>Clavo de olor premium de Sri Lanka 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/clavo-de-olor-premium-de-sri-lanka-1-kg/p2080319034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>757548514</g:id>
