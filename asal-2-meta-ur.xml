@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:12:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام</g:title>
+      <g:description>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2062622663</g:id>
+      <g:title>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد، 500 گرام کے 3 ڈبے</g:title>
+      <g:description>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد، 500 گرام کے 3 ڈبے. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500-3/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1720926903</g:id>
       <g:title>رائل جیلی (شہد کی ملکہ کی غذا) 250 گرام</g:title>
@@ -591,12 +603,6 @@
       <g:link>https://asalaljebal.sa/ur/400/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1758124226</g:id>
-      <g:title>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام</g:title>
-      <g:description>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1327702593</g:id>
       <g:title>فاخر سمرہ کانٹے کا شہد 5 کلو گیلن، تھوک قیمت پر</g:title>
       <g:description>فاخر سمرہ کانٹے کا شہد 5 کلو گیلن، تھوک قیمت پر. 5.5 kg.</g:description>
@@ -1135,12 +1141,6 @@
       <g:title>شہد کے ساتھ میوہ جات (بادام - کاجو - اخروٹ - پیکن - فندق - پستہ) (1 کلوگرام)</g:title>
       <g:description>شہد کے ساتھ میوہ جات (بادام - کاجو - اخروٹ - پیکن - فندق - پستہ) (1 کلوگرام). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/1/p1113268922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2062622663</g:id>
-      <g:title>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد، 500 گرام کے 3 ڈبے</g:title>
-      <g:description>ہسپانوی شاہ بلوط (چیسٹ نٹ) شہد، 500 گرام کے 3 ڈبے. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500-3/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2138516999</g:id>

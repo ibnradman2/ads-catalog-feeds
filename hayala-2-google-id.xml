@@ -4,10 +4,52 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 00:47:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:47:42 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">999780142</guid>
+      <g:id>999780142</g:id>
+      <g:title>Biji Ajwain (Nakhwa) 500 Gram</g:title>
+      <g:description>Biji Ajwain (Nakhwa) 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/biji-ajwain-nakhwa-500-gram/p999780142?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/PbbwBakbVzybr54rE6Ue20K8ARomjsU5m1X1u3Kw.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>999780142</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">351659116</guid>
+      <g:id>351659116</g:id>
+      <g:title>Thyme Bubuk 500 Gram</g:title>
+      <g:description>Thyme Bubuk 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/thyme-bubuk-500-gram/p351659116?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/kZH9Ns6EsVSMxGGMGf4mts6yl6Dpyeq7AQqJXYt6.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>351659116</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">222295925</guid>
+      <g:id>222295925</g:id>
+      <g:title>Adas Manis (Anise) 250 Gram</g:title>
+      <g:description>Adas Manis (Anise) 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/adas-manis-anise-250-gram/p222295925?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/kzifTnhjOXUKYYiCMh62n7R9jbHvIENBeAQhY96D.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>222295925</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2080319034</guid>
       <g:id>2080319034</g:id>
@@ -1545,20 +1587,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1759502471</g:mpn><g:google_product_category>433</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">222295925</guid>
-      <g:id>222295925</g:id>
-      <g:title>Adas Manis (Anise) 250 Gram</g:title>
-      <g:description>Adas Manis (Anise) 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/adas-manis-anise-250-gram/p222295925?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/kzifTnhjOXUKYYiCMh62n7R9jbHvIENBeAQhY96D.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>222295925</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">348925444</guid>
       <g:id>348925444</g:id>
       <g:title>Kenari Amerika - 1 Kg</g:title>
@@ -1825,20 +1853,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1466026704</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">351659116</guid>
-      <g:id>351659116</g:id>
-      <g:title>Thyme Bubuk 500 Gram</g:title>
-      <g:description>Thyme Bubuk 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/thyme-bubuk-500-gram/p351659116?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/kZH9Ns6EsVSMxGGMGf4mts6yl6Dpyeq7AQqJXYt6.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>351659116</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1632683015</guid>
       <g:id>1632683015</g:id>
       <g:title>Bunga Chamomile Kering 1 Kilo</g:title>
@@ -1992,20 +2006,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>403725985</g:mpn><g:google_product_category>2073</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">999780142</guid>
-      <g:id>999780142</g:id>
-      <g:title>Biji Ajwain (Nakhwa) 500 Gram</g:title>
-      <g:description>Biji Ajwain (Nakhwa) 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/biji-ajwain-nakhwa-500-gram/p999780142?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/PbbwBakbVzybr54rE6Ue20K8ARomjsU5m1X1u3Kw.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>999780142</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1854428382</guid>
       <g:id>1854428382</g:id>

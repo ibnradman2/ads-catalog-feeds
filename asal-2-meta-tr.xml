@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:12:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>Yerli Koyun Semni 2 Paket 680 gram</g:title>
+      <g:description>Yerli Koyun Semni 2 Paket 680 gram. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yerli-koyun-semni-2-paket-680-gram/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1774089564</g:id>
+      <g:title>2 Kutu Yeni Zelanda Manuka Balı UMF+15 | UMF+10</g:title>
+      <g:description>2 Kutu Yeni Zelanda Manuka Balı UMF+15 | UMF+10. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/2-kutu-yeni-zelanda-manuka-bal-umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>2062622663</g:id>
+      <g:title>3 Kavanoz İspanyol Kestane Balı 500 g</g:title>
+      <g:description>3 Kavanoz İspanyol Kestane Balı 500 g. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/3-kavanoz-i-spanyol-kestane-bal-500-g/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1720926903</g:id>
       <g:title>Arı Sütü 250 Gram</g:title>
@@ -727,12 +745,6 @@
       <g:title>Doğal Petek Bal 400 Gram</g:title>
       <g:description>Doğal Petek Bal 400 Gram. 0.9 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/do-al-petek-bal-400-gram/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1758124226</g:id>
-      <g:title>Yerli Koyun Semni 2 Paket 680 gram</g:title>
-      <g:description>Yerli Koyun Semni 2 Paket 680 gram. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yerli-koyun-semni-2-paket-680-gram/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1327702593</g:id>
@@ -1491,12 +1503,6 @@
       <g:link>https://asalaljebal.sa/tr/birinci-s-n-f-talh-bal-500-gram/p1994787951?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>2062622663</g:id>
-      <g:title>3 Kavanoz İspanyol Kestane Balı 500 g</g:title>
-      <g:description>3 Kavanoz İspanyol Kestane Balı 500 g. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/3-kavanoz-i-spanyol-kestane-bal-500-g/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1219301755</g:id>
       <g:title>Geven Balı (250 g)</g:title>
       <g:description>Geven Balı (250 g). 0.75 kg.</g:description>
@@ -1531,12 +1537,6 @@
       <g:title>Semra Dikeni Petek Balı 500 g</g:title>
       <g:description>Semra Dikeni Petek Balı 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/semra-dikeni-petek-bal-500-g/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1774089564</g:id>
-      <g:title>2 Kutu Yeni Zelanda Manuka Balı UMF+15 | UMF+10</g:title>
-      <g:description>2 Kutu Yeni Zelanda Manuka Balı UMF+15 | UMF+10. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/2-kutu-yeni-zelanda-manuka-bal-umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1766152166</g:id>

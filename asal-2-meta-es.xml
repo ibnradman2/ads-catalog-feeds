@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:12:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>Dos envases de ghee de oveja tradicional 680 gramos</g:title>
+      <g:description>Dos envases de ghee de oveja tradicional 680 gramos. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/dos-envases-de-ghee-de-oveja-tradicional-680-gramos/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1774089564</g:id>
+      <g:title>2 frascos de miel de Manuka de Nueva Zelanda UMF+15 | UMF+10</g:title>
+      <g:description>2 frascos de miel de Manuka de Nueva Zelanda UMF+15 | UMF+10. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/2-frascos-de-miel-de-manuka-de-nueva-zelanda-umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2062622663</g:id>
+      <g:title>3 envases de miel de castaño española de 500 g</g:title>
+      <g:description>3 envases de miel de castaño española de 500 g. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/3-envases-de-miel-de-casta-o-espa-ola-de-500-g/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1720926903</g:id>
       <g:title>Jalea Real 250 g</g:title>
@@ -727,12 +745,6 @@
       <g:title>Miel en panal natural 400 gramos</g:title>
       <g:description>Miel en panal natural 400 gramos. 0.9 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-en-panal-natural-400-gramos/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1758124226</g:id>
-      <g:title>Dos envases de ghee de oveja tradicional 680 gramos</g:title>
-      <g:description>Dos envases de ghee de oveja tradicional 680 gramos. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/dos-envases-de-ghee-de-oveja-tradicional-680-gramos/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1327702593</g:id>
@@ -1497,12 +1509,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-500-g/p1994787951?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>2062622663</g:id>
-      <g:title>3 envases de miel de castaño española de 500 g</g:title>
-      <g:description>3 envases de miel de castaño española de 500 g. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/3-envases-de-miel-de-casta-o-espa-ola-de-500-g/p2062622663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1219301755</g:id>
       <g:title>Miel de qatad, 250 g</g:title>
       <g:description>Miel de qatad, 250 g. 0.75 kg.</g:description>
@@ -1537,12 +1543,6 @@
       <g:title>Miel de espinos de samra en panal, 500 g</g:title>
       <g:description>Miel de espinos de samra en panal, 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-espinos-de-samra-en-panal-500-g/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1774089564</g:id>
-      <g:title>2 frascos de miel de Manuka de Nueva Zelanda UMF+15 | UMF+10</g:title>
-      <g:description>2 frascos de miel de Manuka de Nueva Zelanda UMF+15 | UMF+10. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/2-frascos-de-miel-de-manuka-de-nueva-zelanda-umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1766152166</g:id>
