@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 04:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 05:09:29 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>583414674</g:id>
+      <g:title>Dahon ng Ligaw na Thyme 250 Gramo</g:title>
+      <g:description>Dahon ng Ligaw na Thyme 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/dahon-ng-ligaw-na-thyme-250-gramo/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>190195544</g:id>
+      <g:title>Buto ng Fenugreek (Hulba) 500 Gramo</g:title>
+      <g:description>Buto ng Fenugreek (Hulba) 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-fenugreek-hulba-500-gramo/p190195544?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>351659116</g:id>
+      <g:title>Giniling na Thyme 500 Gramo</g:title>
+      <g:description>Giniling na Thyme 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/giniling-na-thyme-500-gramo/p351659116?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>999780142</g:id>
+      <g:title>Nakhwa (Nankhah) 500 Gramo</g:title>
+      <g:description>Nakhwa (Nankhah) 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/nakhwa-nankhah-500-gramo/p999780142?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1171722381</g:id>
       <g:title>Harina ng Barley 500 Gramo</g:title>
@@ -45,18 +69,6 @@
       <g:link>https://hayala.co/tl/harari-bashanfar-na-kape-2-kilo-al-khair-na-ethiopian-na-kape-unang-grado-para-s/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>999780142</g:id>
-      <g:title>Nakhwa (Nankhah) 500 Gramo</g:title>
-      <g:description>Nakhwa (Nankhah) 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/nakhwa-nankhah-500-gramo/p999780142?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>351659116</g:id>
-      <g:title>Giniling na Thyme 500 Gramo</g:title>
-      <g:description>Giniling na Thyme 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/giniling-na-thyme-500-gramo/p351659116?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>222295925</g:id>
       <g:title>Anis 250 Gramo</g:title>
       <g:description>Anis 250 Gramo. 0.75 kg.</g:description>
@@ -85,12 +97,6 @@
       <g:title>Buto ng Qatuna - 1 Kilo</g:title>
       <g:description>Buto ng Qatuna - 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tl/buto-ng-qatuna-1-kilo/p988412748?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>190195544</g:id>
-      <g:title>Buto ng Fenugreek (Hulba) 500 Gramo</g:title>
-      <g:description>Buto ng Fenugreek (Hulba) 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-fenugreek-hulba-500-gramo/p190195544?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>130562279</g:id>
@@ -769,12 +775,6 @@
       <g:title>Tuyong Avocado 1kg</g:title>
       <g:description>Tuyong Avocado 1kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tl/tuyong-avocado-1kg/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>583414674</g:id>
-      <g:title>Dahon ng Ligaw na Thyme 250 Gramo</g:title>
-      <g:description>Dahon ng Ligaw na Thyme 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/dahon-ng-ligaw-na-thyme-250-gramo/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>441888257</g:id>
