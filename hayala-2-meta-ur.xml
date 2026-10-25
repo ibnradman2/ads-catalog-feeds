@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 17:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:16:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>578517759</g:id>
+      <g:title>لقمتی باشنفر ایتھوپین کافی 5 کلو اعلیٰ درجہ</g:title>
+      <g:description>لقمتی باشنفر ایتھوپین کافی 5 کلو اعلیٰ درجہ. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/5/p578517759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1718132750</g:id>
+      <g:title>کفایتی مجموعہ (الائچی + زعفران + شہد + مصالحے + سوپ کے مصالحے)</g:title>
+      <g:description>کفایتی مجموعہ (الائچی + زعفران + شہد + مصالحے + سوپ کے مصالحے). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1147148756</g:id>
+      <g:title>قدرتی سدر شہد 2 کلو + 2 کلو مفت</g:title>
+      <g:description>قدرتی سدر شہد 2 کلو + 2 کلو مفت. 4.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/2-2/p1147148756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1567920614</g:id>
+      <g:title>شاذلیہ قہوہ 4 پیکٹ</g:title>
+      <g:description>شاذلیہ قہوہ 4 پیکٹ. 2.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/4/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>758738089</g:id>
       <g:title>سپر نقیل زعفران 1.75 گرام</g:title>
@@ -409,30 +433,6 @@
       <g:title>بنیادی مصالحے - 12 پیکٹ + آدھا کلو تلی ہوئی پیاز</g:title>
       <g:description>بنیادی مصالحے - 12 پیکٹ + آدھا کلو تلی ہوئی پیاز. 1.6 kg.</g:description>
       <g:link>https://hayala.co/ur/12/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1567920614</g:id>
-      <g:title>شاذلیہ قہوہ 4 پیکٹ</g:title>
-      <g:description>شاذلیہ قہوہ 4 پیکٹ. 2.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/4/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1147148756</g:id>
-      <g:title>قدرتی سدر شہد 2 کلو + 2 کلو مفت</g:title>
-      <g:description>قدرتی سدر شہد 2 کلو + 2 کلو مفت. 4.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/2-2/p1147148756?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>578517759</g:id>
-      <g:title>لقمتی باشنفر ایتھوپین کافی 5 کلو اعلیٰ درجہ</g:title>
-      <g:description>لقمتی باشنفر ایتھوپین کافی 5 کلو اعلیٰ درجہ. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/5/p578517759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1718132750</g:id>
-      <g:title>کفایتی مجموعہ (الائچی + زعفران + شہد + مصالحے + سوپ کے مصالحے)</g:title>
-      <g:description>کفایتی مجموعہ (الائچی + زعفران + شہد + مصالحے + سوپ کے مصالحے). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1666723060</g:id>
