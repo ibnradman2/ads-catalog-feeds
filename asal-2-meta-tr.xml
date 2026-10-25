@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 22:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:11:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1720926903</g:id>
+      <g:title>Arı Sütü 250 Gram</g:title>
+      <g:description>Arı Sütü 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ar-s-t-250-gram/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>304404767</g:id>
+      <g:title>Hail Talh Balı Petekli 500 Gram</g:title>
+      <g:description>Hail Talh Balı Petekli 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/hail-talh-bal-petekli-500-gram/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1196894843</g:id>
+      <g:title>Petekli Yerli Sidr Balı 500 gram</g:title>
+      <g:description>Petekli Yerli Sidr Balı 500 gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/petekli-yerli-sidr-bal-500-gram/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>138985906</g:id>
+      <g:title>Yerli Sidr Balı 500 gr</g:title>
+      <g:description>Yerli Sidr Balı 500 gr. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yerli-sidr-bal-500-gr/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1798147214</g:id>
       <g:title>Dağ Sidr Balı 500 Gr</g:title>
@@ -232,9 +256,9 @@
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>480352283</g:id>
-      <g:title>Çin Arı Ana Sütü 15 gr</g:title>
-      <g:description>Çin Arı Ana Sütü 15 gr. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/in-ar-ana-s-t-15-gr/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Arı Ana Sütü 15 gr</g:title>
+      <g:description>Arı Ana Sütü 15 gr. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ar-ana-s-t-15-gr/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>622456174</g:id>
@@ -259,12 +283,6 @@
       <g:title>Arı Poleni 1 Kg</g:title>
       <g:description>Arı Poleni 1 Kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/ar-poleni-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1720926903</g:id>
-      <g:title>Arı Sütü 250 Gram</g:title>
-      <g:description>Arı Sütü 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ar-s-t-250-gram/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1245825048</g:id>
@@ -741,12 +759,6 @@
       <g:link>https://asalaljebal.sa/tr/yeni-zelanda-manuka-bal-honey-bros-premium-manuka-honey-umf-5-mgo-100-250-g/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>304404767</g:id>
-      <g:title>Hail Talh Balı Petekli 500 Gram</g:title>
-      <g:description>Hail Talh Balı Petekli 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/hail-talh-bal-petekli-500-gram/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>797605987</g:id>
       <g:title>Premium Talh Balı 5 Kilo Toptan Bidon</g:title>
       <g:description>Premium Talh Balı 5 Kilo Toptan Bidon. 5.5 kg.</g:description>
@@ -955,12 +967,6 @@
       <g:title>Kurutulmuş İncir 1 kg</g:title>
       <g:description>Kurutulmuş İncir 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/kurutulmu-i-ncir-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>138985906</g:id>
-      <g:title>Yerli Sidr Balı 500 gr</g:title>
-      <g:description>Yerli Sidr Balı 500 gr. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yerli-sidr-bal-500-gr/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1059074726</g:id>
@@ -1549,12 +1555,6 @@
       <g:title>Akasya Balı 250 Gram</g:title>
       <g:description>Akasya Balı 250 Gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/akasya-bal-250-gram/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1196894843</g:id>
-      <g:title>Petekli Yerli Sidr Balı 500 gram</g:title>
-      <g:description>Petekli Yerli Sidr Balı 500 gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/petekli-yerli-sidr-bal-500-gram/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>863586339</g:id>

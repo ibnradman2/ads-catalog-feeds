@@ -4,10 +4,263 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 22:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:47:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">190195544</guid>
+      <g:id>190195544</g:id>
+      <g:title>Fenogreco en grano 500 g</g:title>
+      <g:description>Fenogreco en grano 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/fenogreco-en-grano-500-g/p190195544?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/XNtLqzKoddm8rJHqLuMhGywg5XuzmTZQCytOhVfr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">130562279</guid>
+      <g:id>130562279</g:id>
+      <g:title>Flores de manzanilla 250 gramos</g:title>
+      <g:description>Flores de manzanilla 250 gramos. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/flores-de-manzanilla-250-gramos/p130562279?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/IPnV5xupDWV0fRxqvpzv85qHjQpkZ1ruPTlEkM1O.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>16.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">398016781</guid>
+      <g:id>398016781</g:id>
+      <g:title>Azafrán súper negin 5 gramos</g:title>
+      <g:description>Azafrán súper negin 5 gramos. 0.505 kg.</g:description>
+      <g:link>https://hayala.co/es/azafr-n-s-per-negin-5-gramos/p398016781?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Z9iu6HON8RbUVuJN2yiTjbCKeiVGQZoQ6tY468Un.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>67.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.505 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1833333665</guid>
+      <g:id>1833333665</g:id>
+      <g:title>Higos secos 1 kg</g:title>
+      <g:description>Higos secos 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/higos-secos-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/czUrRY9UgHnQdsnZPxXqHecUue7ukfbcNSFbVBeM.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>73.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1293815972</guid>
+      <g:id>1293815972</g:id>
+      <g:title>Hibisco 1 kg</g:title>
+      <g:description>Hibisco 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/hibisco-1-kg/p1293815972?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/NHoMCyd2cbbR7SV7iQNQhwSsVU8HRwpU9QE5YnZv.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>59.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1381474212</guid>
+      <g:id>1381474212</g:id>
+      <g:title>Pasas negras yemeníes - 1 kg</g:title>
+      <g:description>Pasas negras yemeníes - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pasas-negras-yemen-es-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/M7eifqEQAtCA93csULm7sAm7AOJM5PhveXibqdId.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">357854595</guid>
+      <g:id>357854595</g:id>
+      <g:title>Anís 1 kg</g:title>
+      <g:description>Anís 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/an-s-1-kg/p357854595?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/FFoEi1O62XoMZyzig5EV4a3j7UihVMdmgihzn1bd.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">2069148014</guid>
+      <g:id>2069148014</g:id>
+      <g:title>Comino molido 500 g</g:title>
+      <g:description>Comino molido 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/comino-molido-500-g/p2069148014?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/XJdaF5kCpXoMjlMim3h3AmbNFPD94nBia4UrlDer.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>46.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">572967102</guid>
+      <g:id>572967102</g:id>
+      <g:title>Café Shadhiliyya</g:title>
+      <g:description>Café Shadhiliyya. 0.5 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-shadhiliyya/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/HSOgdJEPvRvojLcFtBS6toVW6tRxK8tgxvmEgDRU.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>54.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1297784385</guid>
+      <g:id>1297784385</g:id>
+      <g:title>Semillas de katuna (psilio) - 500 g</g:title>
+      <g:description>Semillas de katuna (psilio) - 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-500-g/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/bt9EJ5AU1WVsrRFngS2E5KV5bBKOKsm6qJUX0a9N.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>45.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">5849117</guid>
+      <g:id>5849117</g:id>
+      <g:title>Higos secos 500 g</g:title>
+      <g:description>Higos secos 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/higos-secos-500-g/p5849117?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Vt7XzuIv3U3t80gfxixLoymhJ3jmOZzkwABgyWz5.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1932133262</guid>
+      <g:id>1932133262</g:id>
+      <g:title>Pimienta negra molida 500 g</g:title>
+      <g:description>Pimienta negra molida 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/pimienta-negra-molida-500-g/p1932133262?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/XJFH8PUwnCELG2btPEVXtt2l79fy8OHhoufMPjtw.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.25 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1003247052</guid>
+      <g:id>1003247052</g:id>
+      <g:title>Nuez pecana - 250 g</g:title>
+      <g:description>Nuez pecana - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/nuez-pecana-250-g/p1003247052?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Yn1npazYGThiPAJ9VjxygZHzymK9gIWDLMa2riJQ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>45.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">540081798</guid>
+      <g:id>540081798</g:id>
+      <g:title>Semillas de chía - 500 g</g:title>
+      <g:description>Semillas de chía - 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-500-g/p540081798?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/nvdIh9oLjkm6R4UqQon3fXPGwUlRXPLHCCgsgNVf.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1091901970</guid>
+      <g:id>1091901970</g:id>
+      <g:title>Especias para sopa, envase de 12 bolsitas</g:title>
+      <g:description>Especias para sopa, envase de 12 bolsitas. 0.2 kg.</g:description>
+      <g:link>https://hayala.co/es/especias-para-sopa-envase-de-12-bolsitas/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/1oQsyaF0XonZJaUovmeyMIDbqzplngPa6JUwzjv5.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1OGO31voMKQqtk43NBbVIz8ZZ4vMUpDrzQSXW2fw.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.2 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">339666110</guid>
+      <g:id>339666110</g:id>
+      <g:title>Nueces (americanas) - 250 g</g:title>
+      <g:description>Nueces (americanas) - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/nueces-americanas-250-g/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Zv5YQUG1KsctYwKGoe61KO04aYv1WyALDpEIbz59.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">770458728</guid>
+      <g:id>770458728</g:id>
+      <g:title>Pasas negras yemeníes - 500 g</g:title>
+      <g:description>Pasas negras yemeníes - 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/pasas-negras-yemen-es-500-g/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/c2IGPaXgwOEKakRXMcpid4RwAtnZg0SgaeSbEq9L.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1313413261</guid>
+      <g:id>1313413261</g:id>
+      <g:title>Hibisco 500 g</g:title>
+      <g:description>Hibisco 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/hibisco-500-g/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/hYEQgBW9lkTerJ4JlcCFXJEBxXeOKmfztpqMTt6p.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>32.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">863172740</guid>
       <g:id>863172740</g:id>
@@ -430,217 +683,6 @@
       <g:shipping_weight>0.515 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1313413261</guid>
-      <g:id>1313413261</g:id>
-      <g:title>Hibisco 500 g</g:title>
-      <g:description>Hibisco 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/hibisco-500-g/p1313413261?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/hYEQgBW9lkTerJ4JlcCFXJEBxXeOKmfztpqMTt6p.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>32.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1091901970</guid>
-      <g:id>1091901970</g:id>
-      <g:title>Especias para sopa, envase de 12 bolsitas</g:title>
-      <g:description>Especias para sopa, envase de 12 bolsitas. 0.2 kg.</g:description>
-      <g:link>https://hayala.co/es/especias-para-sopa-envase-de-12-bolsitas/p1091901970?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/1oQsyaF0XonZJaUovmeyMIDbqzplngPa6JUwzjv5.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/1OGO31voMKQqtk43NBbVIz8ZZ4vMUpDrzQSXW2fw.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.2 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">339666110</guid>
-      <g:id>339666110</g:id>
-      <g:title>Nueces (americanas) - 250 g</g:title>
-      <g:description>Nueces (americanas) - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/nueces-americanas-250-g/p339666110?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Zv5YQUG1KsctYwKGoe61KO04aYv1WyALDpEIbz59.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">770458728</guid>
-      <g:id>770458728</g:id>
-      <g:title>Pasas negras yemeníes - 500 g</g:title>
-      <g:description>Pasas negras yemeníes - 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/pasas-negras-yemen-es-500-g/p770458728?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/c2IGPaXgwOEKakRXMcpid4RwAtnZg0SgaeSbEq9L.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">540081798</guid>
-      <g:id>540081798</g:id>
-      <g:title>Semillas de chía - 500 g</g:title>
-      <g:description>Semillas de chía - 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-ch-a-500-g/p540081798?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/nvdIh9oLjkm6R4UqQon3fXPGwUlRXPLHCCgsgNVf.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">5849117</guid>
-      <g:id>5849117</g:id>
-      <g:title>Higos secos 500 g</g:title>
-      <g:description>Higos secos 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/higos-secos-500-g/p5849117?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Vt7XzuIv3U3t80gfxixLoymhJ3jmOZzkwABgyWz5.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1932133262</guid>
-      <g:id>1932133262</g:id>
-      <g:title>Pimienta negra molida 500 g</g:title>
-      <g:description>Pimienta negra molida 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/pimienta-negra-molida-500-g/p1932133262?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/XJFH8PUwnCELG2btPEVXtt2l79fy8OHhoufMPjtw.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.25 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1003247052</guid>
-      <g:id>1003247052</g:id>
-      <g:title>Nuez pecana - 250 g</g:title>
-      <g:description>Nuez pecana - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/nuez-pecana-250-g/p1003247052?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Yn1npazYGThiPAJ9VjxygZHzymK9gIWDLMa2riJQ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>45.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1297784385</guid>
-      <g:id>1297784385</g:id>
-      <g:title>Semillas de katuna (psilio) - 500 g</g:title>
-      <g:description>Semillas de katuna (psilio) - 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-katuna-psilio-500-g/p1297784385?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/bt9EJ5AU1WVsrRFngS2E5KV5bBKOKsm6qJUX0a9N.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>45.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">2069148014</guid>
-      <g:id>2069148014</g:id>
-      <g:title>Comino molido 500 g</g:title>
-      <g:description>Comino molido 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/comino-molido-500-g/p2069148014?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/XJdaF5kCpXoMjlMim3h3AmbNFPD94nBia4UrlDer.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>46.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">357854595</guid>
-      <g:id>357854595</g:id>
-      <g:title>Anís 1 kg</g:title>
-      <g:description>Anís 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/an-s-1-kg/p357854595?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/FFoEi1O62XoMZyzig5EV4a3j7UihVMdmgihzn1bd.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>49.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">572967102</guid>
-      <g:id>572967102</g:id>
-      <g:title>Café Shadhiliyya</g:title>
-      <g:description>Café Shadhiliyya. 0.5 kg.</g:description>
-      <g:link>https://hayala.co/es/caf-shadhiliyya/p572967102?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/HSOgdJEPvRvojLcFtBS6toVW6tRxK8tgxvmEgDRU.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>54.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1381474212</guid>
-      <g:id>1381474212</g:id>
-      <g:title>Pasas negras yemeníes - 1 kg</g:title>
-      <g:description>Pasas negras yemeníes - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/pasas-negras-yemen-es-1-kg/p1381474212?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/M7eifqEQAtCA93csULm7sAm7AOJM5PhveXibqdId.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1293815972</guid>
-      <g:id>1293815972</g:id>
-      <g:title>Hibisco 1 kg</g:title>
-      <g:description>Hibisco 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/hibisco-1-kg/p1293815972?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/NHoMCyd2cbbR7SV7iQNQhwSsVU8HRwpU9QE5YnZv.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>59.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">398016781</guid>
-      <g:id>398016781</g:id>
-      <g:title>Azafrán súper negin 5 gramos</g:title>
-      <g:description>Azafrán súper negin 5 gramos. 0.505 kg.</g:description>
-      <g:link>https://hayala.co/es/azafr-n-s-per-negin-5-gramos/p398016781?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Z9iu6HON8RbUVuJN2yiTjbCKeiVGQZoQ6tY468Un.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>67.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.505 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1939267679</guid>
       <g:id>1939267679</g:id>
       <g:title>24 sobres de azafrán Super Negin de 24 g + envío gratis</g:title>
@@ -716,20 +758,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.512 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1833333665</guid>
-      <g:id>1833333665</g:id>
-      <g:title>Higos secos 1 kg</g:title>
-      <g:description>Higos secos 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/higos-secos-1-kg/p1833333665?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/czUrRY9UgHnQdsnZPxXqHecUue7ukfbcNSFbVBeM.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>73.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">988412748</guid>
@@ -1521,20 +1549,6 @@
       <g:shipping_weight>0.53 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">190195544</guid>
-      <g:id>190195544</g:id>
-      <g:title>Fenogreco en grano 500 g</g:title>
-      <g:description>Fenogreco en grano 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/fenogreco-en-grano-500-g/p190195544?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/XNtLqzKoddm8rJHqLuMhGywg5XuzmTZQCytOhVfr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1759502471</guid>
       <g:id>1759502471</g:id>
       <g:title>Fenogreco en grano 250 g</g:title>
@@ -1855,20 +1869,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">130562279</guid>
-      <g:id>130562279</g:id>
-      <g:title>Flores de manzanilla 250 gramos</g:title>
-      <g:description>Flores de manzanilla 250 gramos. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/flores-de-manzanilla-250-gramos/p130562279?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/IPnV5xupDWV0fRxqvpzv85qHjQpkZ1ruPTlEkM1O.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>16.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1171722381</guid>

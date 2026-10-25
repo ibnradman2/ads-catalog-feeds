@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 22:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:11:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1720926903</g:id>
+      <g:title>Gelée royale 250 g</g:title>
+      <g:description>Gelée royale 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gel-e-royale-250-g/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>304404767</g:id>
+      <g:title>Miel de talh de Haïl en rayon 500 g</g:title>
+      <g:description>Miel de talh de Haïl en rayon 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-en-rayon-500-g/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1196894843</g:id>
+      <g:title>Miel de Salam en rayon 500 g</g:title>
+      <g:description>Miel de Salam en rayon 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-salam-en-rayon-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>138985906</g:id>
+      <g:title>Miel de Salam du terroir 500 g</g:title>
+      <g:description>Miel de Salam du terroir 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-salam-du-terroir-500-g/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1798147214</g:id>
       <g:title>Miel de sidr de montagne 500 g</g:title>
@@ -259,12 +283,6 @@
       <g:title>Pollen d'abeille 1 kg</g:title>
       <g:description>Pollen d'abeille 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-1-kg/p501836455?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1720926903</g:id>
-      <g:title>Gelée royale 250 g</g:title>
-      <g:description>Gelée royale 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gel-e-royale-250-g/p1720926903?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1245825048</g:id>
@@ -741,12 +759,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-umf-5-mgo-100-250-g/p1531426089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>304404767</g:id>
-      <g:title>Miel de talh de Haïl en rayon 500 g</g:title>
-      <g:description>Miel de talh de Haïl en rayon 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-en-rayon-500-g/p304404767?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>797605987</g:id>
       <g:title>Miel de Talh premium 5 kg en bidon, prix de gros</g:title>
       <g:description>Miel de Talh premium 5 kg en bidon, prix de gros. 5.5 kg.</g:description>
@@ -955,12 +967,6 @@
       <g:title>Figues séchées 1 kg</g:title>
       <g:description>Figues séchées 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>138985906</g:id>
-      <g:title>Miel de Salam du terroir 500 g</g:title>
-      <g:description>Miel de Salam du terroir 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-salam-du-terroir-500-g/p138985906?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1059074726</g:id>
@@ -1549,12 +1555,6 @@
       <g:title>Miel d'acacia 250 g</g:title>
       <g:description>Miel d'acacia 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-d-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1196894843</g:id>
-      <g:title>Miel de Salam en rayon 500 g</g:title>
-      <g:description>Miel de Salam en rayon 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-salam-en-rayon-500-g/p1196894843?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>863586339</g:id>

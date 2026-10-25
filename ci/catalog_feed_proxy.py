@@ -752,7 +752,7 @@ def main():
     # ملفات ميتا وسناب الإنجليزية: النص من كاش /en نفسه (بلا جلب جديد) والرابط /en مع وسم المنصة. فشلها لا يوقف العربي.
     if ar_platform:
         budget = feed_english.Budget(0)
-        META_LOC = {"en": "en_XX", "hi": "hi_IN", "tl": "tl_PH", "id": "id_ID", "fr": "fr_XX", "tr": "tr_TR",
+        META_LOC = {"en": "en_XX", "hi": "hi_IN", "tl": "tl_XX", "id": "id_ID", "fr": "fr_XX", "tr": "tr_TR",
                     "zh": "zh_CN", "es": "es_XX", "it": "it_IT", "pt": "pt_BR", "ur": "ur_PK"}
         for (store, platform), (idx, xml_in) in ar_platform.items():
           for lang, mlang, script in feed_english.LANGS:     # كل اللغات لكتالوجي ميتا وسناب (أمر المالك 2026-10-11)
