@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 08:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1506173115</g:id>
+      <g:title>Pulot ng Abu Farwa (Chestnut) 1 Kilo (Libreng Shipping)</g:title>
+      <g:description>Pulot ng Abu Farwa (Chestnut) 1 Kilo (Libreng Shipping). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-1-kilo-libreng-shipping/p1506173115?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>405294933</g:id>
+      <g:title>Pulot-pukyutan na may Suklay ng Sidr mula sa Bundok, 500 Gramo</g:title>
+      <g:description>Pulot-pukyutan na may Suklay ng Sidr mula sa Bundok, 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-pukyutan-na-may-suklay-ng-sidr-mula-sa-bundok-500-gramo/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>162134594</g:id>
+      <g:title>Qatad Honey (500 gramo)</g:title>
+      <g:description>Qatad Honey (500 gramo). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/qatad-honey-500-gramo/p162134594?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>605570884</g:id>
       <g:title>Dalawang Pakete ng Pulot ng Sidr mula sa Bundok na 500 Gramo + Kalahating Kilong Talbina ng Propeta (Regalo)</g:title>
@@ -639,12 +657,6 @@
       <g:link>https://asalaljebal.sa/tl/black-seed-honey-pulot-ng-habbat-al-barakah-2-kg-libreng-paghahatid/p801221806?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1506173115</g:id>
-      <g:title>Pulot ng Abu Farwa (Chestnut) 1 Kilo (Libreng Shipping)</g:title>
-      <g:description>Pulot ng Abu Farwa (Chestnut) 1 Kilo (Libreng Shipping). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-1-kilo-libreng-shipping/p1506173115?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>344412243</g:id>
       <g:title>Tunay na Black Forest Honey 10 Kilo Galon sa Pakyawan</g:title>
       <g:description>Tunay na Black Forest Honey 10 Kilo Galon sa Pakyawan. 10.5 kg.</g:description>
@@ -793,12 +805,6 @@
       <g:title>Pulot na Sidr ng Hadhramaut na Doani 5 Kilo</g:title>
       <g:description>Pulot na Sidr ng Hadhramaut na Doani 5 Kilo. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-na-sidr-ng-hadhramaut-na-doani-5-kilo/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>405294933</g:id>
-      <g:title>Pulot-pukyutan na may Suklay ng Sidr mula sa Bundok, 500 Gramo</g:title>
-      <g:description>Pulot-pukyutan na may Suklay ng Sidr mula sa Bundok, 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-pukyutan-na-may-suklay-ng-sidr-mula-sa-bundok-500-gramo/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1531426089</g:id>
@@ -1531,12 +1537,6 @@
       <g:title>Giniling na Indian Qust (150 gramo)</g:title>
       <g:description>Giniling na Indian Qust (150 gramo). 0.65 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/giniling-na-indian-qust-150-gramo/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>162134594</g:id>
-      <g:title>Qatad Honey (500 gramo)</g:title>
-      <g:description>Qatad Honey (500 gramo). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/qatad-honey-500-gramo/p162134594?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1517848832</g:id>

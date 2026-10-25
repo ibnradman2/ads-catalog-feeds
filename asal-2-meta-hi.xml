@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 08:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1506173115</g:id>
+      <g:title>अबू फ़रवा (चेस्टनट) शहद 1 किलो (मुफ़्त डिलीवरी)</g:title>
+      <g:description>अबू फ़रवा (चेस्टनट) शहद 1 किलो (मुफ़्त डिलीवरी). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p1506173115?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>405294933</g:id>
+      <g:title>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम</g:title>
+      <g:description>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>162134594</g:id>
+      <g:title>क़ताद शहद (500 ग्राम)</g:title>
+      <g:description>क़ताद शहद (500 ग्राम). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p162134594?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>605570884</g:id>
       <g:title>पहाड़ी सिद्र शहद के 2 जार, वज़न 500 ग्राम + आधा किलो नबवी तल्बीना (उपहार)</g:title>
@@ -639,12 +657,6 @@
       <g:link>https://asalaljebal.sa/hi/2/p801221806?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1506173115</g:id>
-      <g:title>अबू फ़रवा (चेस्टनट) शहद 1 किलो (मुफ़्त डिलीवरी)</g:title>
-      <g:description>अबू फ़रवा (चेस्टनट) शहद 1 किलो (मुफ़्त डिलीवरी). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p1506173115?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>344412243</g:id>
       <g:title>ब्लैक फ़ॉरेस्ट शहद 10 किलो गैलन, थोक (असली)</g:title>
       <g:description>ब्लैक फ़ॉरेस्ट शहद 10 किलो गैलन, थोक (असली). 10.5 kg.</g:description>
@@ -793,12 +805,6 @@
       <g:title>हज़रमी दोअनी सिद्र शहद 5 किलो</g:title>
       <g:description>हज़रमी दोअनी सिद्र शहद 5 किलो. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/5/p1445425444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>405294933</g:id>
-      <g:title>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम</g:title>
-      <g:description>छत्ते वाला पहाड़ी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p405294933?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1531426089</g:id>
@@ -1531,12 +1537,6 @@
       <g:title>पिसा हुआ भारतीय कुस्त (कूठ) (150 ग्राम)</g:title>
       <g:description>पिसा हुआ भारतीय कुस्त (कूठ) (150 ग्राम). 0.65 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/150/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>162134594</g:id>
-      <g:title>क़ताद शहद (500 ग्राम)</g:title>
-      <g:description>क़ताद शहद (500 ग्राम). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p162134594?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1517848832</g:id>

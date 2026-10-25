@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 08:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:10:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>655013926</g:id>
+      <g:title>Giniling na Kulantro (Coriander) 500 Gramo</g:title>
+      <g:description>Giniling na Kulantro (Coriander) 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/giniling-na-kulantro-coriander-500-gramo/p655013926?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>373779673</g:id>
+      <g:title>Giniling na Luyang Dilaw 500gm</g:title>
+      <g:description>Giniling na Luyang Dilaw 500gm. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/giniling-na-luyang-dilaw-500gm/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>518818921</g:id>
+      <g:title>Dahon ng Ligaw na Thyme 500 Gramo</g:title>
+      <g:description>Dahon ng Ligaw na Thyme 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/dahon-ng-ligaw-na-thyme-500-gramo/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1087629233</g:id>
+      <g:title>Panggiling ng Saffron</g:title>
+      <g:description>Panggiling ng Saffron. 0.04 kg.</g:description>
+      <g:link>https://hayala.co/tl/panggiling-ng-saffron/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1467466677</g:id>
       <g:title>Sage (Maramiyah) 250 Gramo</g:title>
@@ -271,30 +295,6 @@
       <g:title>Hibiscus 250 Gramo</g:title>
       <g:description>Hibiscus 250 Gramo. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tl/hibiscus-250-gramo/p811285941?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>518818921</g:id>
-      <g:title>Dahon ng Ligaw na Thyme 500 Gramo</g:title>
-      <g:description>Dahon ng Ligaw na Thyme 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/dahon-ng-ligaw-na-thyme-500-gramo/p518818921?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>655013926</g:id>
-      <g:title>Giniling na Kulantro (Coriander) 500 Gramo</g:title>
-      <g:description>Giniling na Kulantro (Coriander) 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/giniling-na-kulantro-coriander-500-gramo/p655013926?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1087629233</g:id>
-      <g:title>Panggiling ng Saffron</g:title>
-      <g:description>Panggiling ng Saffron. 0.04 kg.</g:description>
-      <g:link>https://hayala.co/tl/panggiling-ng-saffron/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>373779673</g:id>
-      <g:title>Giniling na Luyang Dilaw 500gm</g:title>
-      <g:description>Giniling na Luyang Dilaw 500gm. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/giniling-na-luyang-dilaw-500gm/p373779673?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1017600485</g:id>

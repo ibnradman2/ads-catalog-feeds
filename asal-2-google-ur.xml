@@ -4,10 +4,41 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 08:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1506173115</guid>
+      <g:id>1506173115</g:id>
+      <g:title>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری)</g:title>
+      <g:description>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری). دیگر شہد. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1506173115?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LzLnxi0oexT1VPDm7pvzBEaoU5OW5OA3cBv3VqbS.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/K9WvVs8JyIA6YHdv6RQ452JVMbiMxFrB5E2Zgagu.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>210.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041027003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1506173115</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">405294933</guid>
+      <g:id>405294933</g:id>
+      <g:title>موم والا پہاڑی سدر شہد 500 گرام</g:title>
+      <g:description>موم والا پہاڑی سدر شہد 500 گرام. سدر شہد. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p405294933?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/gGYF1rijy0IYCXaiArZBnegSA5nD1oooI2WjMLYt.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>003-10015001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>405294933</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">605570884</guid>
       <g:id>605570884</g:id>
@@ -1319,22 +1350,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>801221806</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">1506173115</guid>
-      <g:id>1506173115</g:id>
-      <g:title>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>شاہ بلوط کا شہد (ابو فروہ) 1 کلو (مفت ڈیلیوری). دیگر شہد. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1506173115?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/LzLnxi0oexT1VPDm7pvzBEaoU5OW5OA3cBv3VqbS.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/K9WvVs8JyIA6YHdv6RQ452JVMbiMxFrB5E2Zgagu.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>210.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041027003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1506173115</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>دیگر شہد</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">344412243</guid>
       <g:id>344412243</g:id>
       <g:title>اصلی بلیک فاریسٹ شہد 10 کلو گیلن تھوک میں</g:title>
@@ -1668,21 +1683,6 @@
       <g:item_group_id>0011222004</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1445425444</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>600 اور اس سے زیادہ</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">405294933</guid>
-      <g:id>405294933</g:id>
-      <g:title>موم والا پہاڑی سدر شہد 500 گرام</g:title>
-      <g:description>موم والا پہاڑی سدر شہد 500 گرام. سدر شہد. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p405294933?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/gGYF1rijy0IYCXaiArZBnegSA5nD1oooI2WjMLYt.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>220.00 SAR</g:price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>003-10015001</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>405294933</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>کارکردگی ج</g:custom_label_0><g:custom_label_1>سال بھر</g:custom_label_1><g:custom_label_2>100 سے 299</g:custom_label_2><g:custom_label_3>سدر شہد</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">645419491</guid>
       <g:id>645419491</g:id>
