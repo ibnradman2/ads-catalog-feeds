@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 19:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:06:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1267460776</g:id>
+      <g:title>کلونجی کا شہد، 1 کلو کا جار</g:title>
+      <g:description>کلونجی کا شہد، 1 کلو کا جار. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1267460776?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>375800244</g:id>
+      <g:title>ادرک اور ہلدی کا شہد مشروب + کلونجی کا شہد + کشمیری سدر شہد + پھولوں کا چھتہ + کلونجی کے دانے</g:title>
+      <g:description>ادرک اور ہلدی کا شہد مشروب + کلونجی کا شہد + کشمیری سدر شہد + پھولوں کا چھتہ + کلونجی کے دانے. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1051366582</g:id>
       <g:title>کشمیری سدر شہد 2 کلو</g:title>
@@ -513,12 +525,6 @@
       <g:link>https://asalaljebal.sa/ur/10/p909201315?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>375800244</g:id>
-      <g:title>ادرک اور ہلدی کا شہد مشروب + کلونجی کا شہد + کشمیری سدر شہد + پھولوں کا چھتہ + کلونجی کے دانے</g:title>
-      <g:description>ادرک اور ہلدی کا شہد مشروب + کلونجی کا شہد + کشمیری سدر شہد + پھولوں کا چھتہ + کلونجی کے دانے. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p375800244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1715451278</g:id>
       <g:title>ابو فروہ شہد (شاہ بلوط) 10 کلو گیلن، تھوک قیمت پر (مفت ڈیلیوری)</g:title>
       <g:description>ابو فروہ شہد (شاہ بلوط) 10 کلو گیلن، تھوک قیمت پر (مفت ڈیلیوری). 10.5 kg.</g:description>
@@ -739,12 +745,6 @@
       <g:title>قدرتی شہد کا چھتہ (موم کے ساتھ) 200 گرام</g:title>
       <g:description>قدرتی شہد کا چھتہ (موم کے ساتھ) 200 گرام. 0.7 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/200/p1947615263?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1267460776</g:id>
-      <g:title>کلونجی کا شہد، 1 کلو کا جار</g:title>
-      <g:description>کلونجی کا شہد، 1 کلو کا جار. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1267460776?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>560043605</g:id>
