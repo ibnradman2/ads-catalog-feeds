@@ -4,10 +4,38 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 05:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:09:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1666335790</guid>
+      <g:id>1666335790</g:id>
+      <g:title>Fenouil 500 g</g:title>
+      <g:description>Fenouil 500 g. Noix et graines. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/fenouil-500-g/p1666335790?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/wneeC4pOR9istASoVycMQum3gwm1EioJBQlYAeZq.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>18.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1666335790</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Noix et graines</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">130562279</guid>
+      <g:id>130562279</g:id>
+      <g:title>Fleurs de camomille séchées 250 g</g:title>
+      <g:description>Fleurs de camomille séchées 250 g. Infusions. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/fr/fleurs-de-camomille-s-ch-es-250-g/p130562279?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/IPnV5xupDWV0fRxqvpzv85qHjQpkZ1ruPTlEkM1O.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>16.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>130562279</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">583414674</guid>
       <g:id>583414674</g:id>
@@ -218,20 +246,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>988412748</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Noix et graines</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">130562279</guid>
-      <g:id>130562279</g:id>
-      <g:title>Fleurs de camomille séchées 250 g</g:title>
-      <g:description>Fleurs de camomille séchées 250 g. Infusions. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/fr/fleurs-de-camomille-s-ch-es-250-g/p130562279?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/IPnV5xupDWV0fRxqvpzv85qHjQpkZ1ruPTlEkM1O.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>16.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>130562279</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Infusions</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">398016781</guid>
       <g:id>398016781</g:id>
@@ -569,20 +583,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>811285941</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Noix et graines</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1666335790</guid>
-      <g:id>1666335790</g:id>
-      <g:title>Fenouil 500 g</g:title>
-      <g:description>Fenouil 500 g. Noix et graines. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/fenouil-500-g/p1666335790?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/wneeC4pOR9istASoVycMQum3gwm1EioJBQlYAeZq.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>18.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1666335790</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Noix et graines</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">518818921</guid>
       <g:id>518818921</g:id>
