@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 19:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:47:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>999818845</g:id>
+      <g:title>Miel en panal de sidr de montaña 500 g</g:title>
+      <g:description>Miel en panal de sidr de montaña 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/miel-en-panal-de-sidr-de-monta-a-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
+      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1533464823</g:id>
+      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
+      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2133906442</g:id>
+      <g:title>Piñones de Pakistán - 1 kg</g:title>
+      <g:description>Piñones de Pakistán - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-ones-de-pakist-n-1-kg/p2133906442?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>115531510</g:id>
       <g:title>Kilo de miel en panal de flores silvestres baladi</g:title>
@@ -507,18 +531,6 @@
       <g:link>https://hayala.co/es/especias-b-sicas-12-envases-medio-kilo-de-cebolla-frita/p528140923?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>999818845</g:id>
-      <g:title>Miel en panal de sidr de montaña 500 g</g:title>
-      <g:description>Miel en panal de sidr de montaña 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/miel-en-panal-de-sidr-de-monta-a-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2133906442</g:id>
-      <g:title>Piñones de Pakistán - 1 kg</g:title>
-      <g:description>Piñones de Pakistán - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/pi-ones-de-pakist-n-1-kg/p2133906442?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>282374221</g:id>
       <g:title>4 kg de miel de sidr natural + 2 kg gratis</g:title>
       <g:description>4 kg de miel de sidr natural + 2 kg gratis. 6.5 kg.</g:description>
@@ -541,18 +553,6 @@
       <g:title>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg</g:title>
       <g:description>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-jumbo-n-mero-2-7-mm-1-kg/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>497613295</g:id>
-      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
-      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1533464823</g:id>
-      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
-      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). 5.0 kg.</g:description>
-      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1992072436</g:id>

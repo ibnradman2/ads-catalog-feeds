@@ -4,10 +4,68 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 19:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:47:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">999818845</guid>
+      <g:id>999818845</g:id>
+      <g:title>Miel en panal de sidr de montaña 500 g</g:title>
+      <g:description>Miel en panal de sidr de montaña 500 g. Miel de Sidr. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/miel-en-panal-de-sidr-de-monta-a-500-g/p999818845?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/aFhiNY01xH4epYUqKsrbpv5deoBQ5k3qmdyHQ7cM.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>220.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>999818845</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">497613295</guid>
+      <g:id>497613295</g:id>
+      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
+      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). Otras mieles. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/c2808e6d-38f5-4576-b07d-c1f1a8a554f2-500x500-8PiesXBPqZEiMYDd6m9Ba0SIyb7nfoltnSBBpO0N.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>725.00 SAR</g:price>
+      <g:sale_price>290.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    <g:mpn>497613295</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">1533464823</guid>
+      <g:id>1533464823</g:id>
+      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
+      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). Dátiles. 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/85DdDgNFq7Zx9B8XYxO0FRVxND98swP8jJBEowEL.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>455.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.0 kg</g:shipping_weight>
+    <g:mpn>1533464823</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Dátiles</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <item>
+      <guid isPermaLink="false">2133906442</guid>
+      <g:id>2133906442</g:id>
+      <g:title>Piñones de Pakistán - 1 kg</g:title>
+      <g:description>Piñones de Pakistán - 1 kg. Frutos secos y semillas. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/pi-ones-de-pakist-n-1-kg/p2133906442?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/76e8TNEYLE44mMMjaAnidW0VjyQPFZd2mRHwkMlj.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>230.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>2133906442</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Frutos secos y semillas</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">115531510</guid>
       <g:id>115531510</g:id>
@@ -1188,34 +1246,6 @@
       <g:shipping_weight>1.6 kg</g:shipping_weight>
     <g:mpn>528140923</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Especias y hierbas</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">999818845</guid>
-      <g:id>999818845</g:id>
-      <g:title>Miel en panal de sidr de montaña 500 g</g:title>
-      <g:description>Miel en panal de sidr de montaña 500 g. Miel de Sidr. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/miel-en-panal-de-sidr-de-monta-a-500-g/p999818845?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/aFhiNY01xH4epYUqKsrbpv5deoBQ5k3qmdyHQ7cM.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>220.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>999818845</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2133906442</guid>
-      <g:id>2133906442</g:id>
-      <g:title>Piñones de Pakistán - 1 kg</g:title>
-      <g:description>Piñones de Pakistán - 1 kg. Frutos secos y semillas. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/pi-ones-de-pakist-n-1-kg/p2133906442?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/76e8TNEYLE44mMMjaAnidW0VjyQPFZd2mRHwkMlj.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>230.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>2133906442</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Frutos secos y semillas</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">282374221</guid>
       <g:id>282374221</g:id>
       <g:title>4 kg de miel de sidr natural + 2 kg gratis</g:title>
@@ -1272,36 +1302,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>1643632887</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Cardamomo</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">497613295</guid>
-      <g:id>497613295</g:id>
-      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
-      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). Otras mieles. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/c2808e6d-38f5-4576-b07d-c1f1a8a554f2-500x500-8PiesXBPqZEiMYDd6m9Ba0SIyb7nfoltnSBBpO0N.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>725.00 SAR</g:price>
-      <g:sale_price>290.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>497613295</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Rendimiento C</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Otras mieles</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">1533464823</guid>
-      <g:id>1533464823</g:id>
-      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
-      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). Dátiles. 5.0 kg.</g:description>
-      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/85DdDgNFq7Zx9B8XYxO0FRVxND98swP8jJBEowEL.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>455.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:mpn>1533464823</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Rendimiento B</g:custom_label_0><g:custom_label_1>Todo el año</g:custom_label_1><g:custom_label_2>100 a 299</g:custom_label_2><g:custom_label_3>Dátiles</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1992072436</guid>
       <g:id>1992072436</g:id>
