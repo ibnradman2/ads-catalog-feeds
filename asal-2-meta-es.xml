@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 01:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1314226407</g:id>
+      <g:title>Polen de abeja jordano, 250 g</g:title>
+      <g:description>Polen de abeja jordano, 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-abeja-jordano-250-g/p1314226407?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1741453097</g:id>
+      <g:title>6 envases de miel de Sidr de Cachemira (600 g)</g:title>
+      <g:description>6 envases de miel de Sidr de Cachemira (600 g). 4.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/6-envases-de-miel-de-sidr-de-cachemira-600-g/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>520040245</g:id>
+      <g:title>Miel de Sidr de Hadramaut, Do'an, 500 g</g:title>
+      <g:description>Miel de Sidr de Hadramaut, Do'an, 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-hadramaut-do-an-500-g/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1758124226</g:id>
       <g:title>Dos envases de ghee de oveja tradicional 680 gramos</g:title>
@@ -1275,12 +1293,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-moringa-5-kg-en-garrafa-a-precio-de-mayorista/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1314226407</g:id>
-      <g:title>Polen de abeja jordano, 250 g</g:title>
-      <g:description>Polen de abeja jordano, 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-de-abeja-jordano-250-g/p1314226407?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1854842724</g:id>
       <g:title>Jalea real egipcia 10 g</g:title>
       <g:description>Jalea real egipcia 10 g. 0.51 kg.</g:description>
@@ -1383,12 +1395,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-an-s-1-kg/p1212649180?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>520040245</g:id>
-      <g:title>Miel de Sidr de Hadramaut, Do'an, 500 g</g:title>
-      <g:description>Miel de Sidr de Hadramaut, Do'an, 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-hadramaut-do-an-500-g/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1158327183</g:id>
       <g:title>Miel de Sidr de montaña, 250 gramos</g:title>
       <g:description>Miel de Sidr de montaña, 250 gramos. 0.75 kg.</g:description>
@@ -1477,12 +1483,6 @@
       <g:title>Frutos secos con miel (almendra, anacardo, nuez, pecana, avellana, pistacho) (500 g)</g:title>
       <g:description>Frutos secos con miel (almendra, anacardo, nuez, pecana, avellana, pistacho) (500 g). 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/frutos-secos-con-miel-almendra-anacardo-nuez-pecana-avellana-pistacho-500-g/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1741453097</g:id>
-      <g:title>6 envases de miel de Sidr de Cachemira (600 g)</g:title>
-      <g:description>6 envases de miel de Sidr de Cachemira (600 g). 4.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/6-envases-de-miel-de-sidr-de-cachemira-600-g/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1129449226</g:id>

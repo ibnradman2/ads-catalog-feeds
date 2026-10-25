@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 01:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1314226407</g:id>
+      <g:title>约旦蜜蜂花粉 250克</g:title>
+      <g:description>约旦蜜蜂花粉 250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1314226407?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1741453097</g:id>
+      <g:title>6罐克什米尔西德尔蜂蜜（600克）</g:title>
+      <g:description>6罐克什米尔西德尔蜂蜜（600克）. 4.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>520040245</g:id>
+      <g:title>哈德拉毛多安西德尔蜂蜜 500 克</g:title>
+      <g:description>哈德拉毛多安西德尔蜂蜜 500 克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1758124226</g:id>
       <g:title>两罐沙特本地羊酥油 680克</g:title>
@@ -1269,12 +1287,6 @@
       <g:link>https://asalaljebal.sa/zh/5/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1314226407</g:id>
-      <g:title>约旦蜜蜂花粉 250克</g:title>
-      <g:description>约旦蜜蜂花粉 250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p1314226407?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1854842724</g:id>
       <g:title>埃及蜂王浆 10克</g:title>
       <g:description>埃及蜂王浆 10克. 0.51 kg.</g:description>
@@ -1377,12 +1389,6 @@
       <g:link>https://asalaljebal.sa/zh/1/p1212649180?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>520040245</g:id>
-      <g:title>哈德拉毛多安西德尔蜂蜜 500 克</g:title>
-      <g:description>哈德拉毛多安西德尔蜂蜜 500 克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1158327183</g:id>
       <g:title>山区西德尔蜂蜜 250克</g:title>
       <g:description>山区西德尔蜂蜜 250克. 0.75 kg.</g:description>
@@ -1471,12 +1477,6 @@
       <g:title>坚果蜂蜜（杏仁、腰果、核桃、碧根果、榛子、开心果）500克</g:title>
       <g:description>坚果蜂蜜（杏仁、腰果、核桃、碧根果、榛子、开心果）500克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1741453097</g:id>
-      <g:title>6罐克什米尔西德尔蜂蜜（600克）</g:title>
-      <g:description>6罐克什米尔西德尔蜂蜜（600克）. 4.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1129449226</g:id>

@@ -4,10 +4,52 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 02:47:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:00:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1171722381</guid>
+      <g:id>1171722381</g:id>
+      <g:title>Arpa Unu 500 g</g:title>
+      <g:description>Arpa Unu 500 g. Un. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/arpa-unu-500-g/p1171722381?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/YAUMjTtqDxMHnvuUkU4tnkzR4Boh4JoFUmpgPHyH.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>13.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1171722381</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Un</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1559719230</guid>
+      <g:id>1559719230</g:id>
+      <g:title>Biberiye (Rozmarin) 500 g</g:title>
+      <g:description>Biberiye (Rozmarin) 500 g. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/biberiye-rozmarin-500-g/p1559719230?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/rA9QSjgpOY3mtwmAFpiRSmldqSo4DnZPuvYfSLnB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1559719230</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">403725985</guid>
+      <g:id>403725985</g:id>
+      <g:title>Kurutulmuş Adaçayı 500 g</g:title>
+      <g:description>Kurutulmuş Adaçayı 500 g. Bitki Çayları. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-ada-ay-500-g/p403725985?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/hajVBswhDqPPrXmrQWI7pd2z7tSwUWabMsCxL9LS.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>15.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>403725985</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Bitki Çayları</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">757548514</guid>
       <g:id>757548514</g:id>
@@ -1801,20 +1843,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>897901817</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">1559719230</guid>
-      <g:id>1559719230</g:id>
-      <g:title>Biberiye (Rozmarin) 500 g</g:title>
-      <g:description>Biberiye (Rozmarin) 500 g. Kuruyemiş ve Tohumlar. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/biberiye-rozmarin-500-g/p1559719230?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/rA9QSjgpOY3mtwmAFpiRSmldqSo4DnZPuvYfSLnB.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1559719230</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">94425611</guid>
       <g:id>94425611</g:id>
       <g:title>Kurutulmuş Papaya 1 kg</g:title>
@@ -1898,20 +1926,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>1632683015</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Kuruyemiş ve Tohumlar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1171722381</guid>
-      <g:id>1171722381</g:id>
-      <g:title>Arpa Unu 500 g</g:title>
-      <g:description>Arpa Unu 500 g. Un. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/arpa-unu-500-g/p1171722381?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/YAUMjTtqDxMHnvuUkU4tnkzR4Boh4JoFUmpgPHyH.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>13.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1171722381</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Un</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2065623105</guid>
       <g:id>2065623105</g:id>
@@ -2024,20 +2038,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1467466677</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Bitki Çayları</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">403725985</guid>
-      <g:id>403725985</g:id>
-      <g:title>Kurutulmuş Adaçayı 500 g</g:title>
-      <g:description>Kurutulmuş Adaçayı 500 g. Bitki Çayları. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-ada-ay-500-g/p403725985?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/hajVBswhDqPPrXmrQWI7pd2z7tSwUWabMsCxL9LS.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>15.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>403725985</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Bitki Çayları</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1854428382</guid>
       <g:id>1854428382</g:id>

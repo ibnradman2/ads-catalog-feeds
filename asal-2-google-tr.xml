@@ -4,10 +4,56 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 01:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1314226407</guid>
+      <g:id>1314226407</g:id>
+      <g:title>Ürdün Arı Poleni 250 g</g:title>
+      <g:description>Ürdün Arı Poleni 250 g. Arı Ürünleri. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-250-g/p1314226407?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001007003</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1314226407</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1741453097</guid>
+      <g:id>1741453097</g:id>
+      <g:title>6 Paket Keşmir Sidr Balı (600 Gram)</g:title>
+      <g:description>6 Paket Keşmir Sidr Balı (600 Gram). Sidr Balı. 4.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/6-paket-ke-mir-sidr-bal-600-gram/p1741453097?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/G3JKdsTnVI7fTvdVaFQaRgfRkg2JEOlX6ixj1kXa.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>420.00 SAR</g:price>
+      <g:sale_price>240.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101017</g:item_group_id>
+      <g:shipping_weight>4.1 kg</g:shipping_weight>
+    <g:mpn>1741453097</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">520040245</guid>
+      <g:id>520040245</g:id>
+      <g:title>Hadramut Dû'an Sidr Balı 500 gram</g:title>
+      <g:description>Hadramut Dû'an Sidr Balı 500 gram. Sidr Balı. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/hadramut-d-an-sidr-bal-500-gram/p520040245?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VB5UXEsnHY52zKji0EjCMZaoAeAI5Kv67q8q8QcU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>235.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0011222002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>520040245</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1758124226</guid>
       <g:id>1758124226</g:id>
@@ -791,9 +837,9 @@
     <item>
       <guid isPermaLink="false">1245825048</guid>
       <g:id>1245825048</g:id>
-      <g:title>Bal Poleni (Arı Poleni) Çin - 3 Paket x 500 g</g:title>
-      <g:description>Bal Poleni (Arı Poleni) Çin - 3 Paket x 500 g. Arı Ürünleri. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/bal-poleni-ar-poleni-in-3-paket-x-500-g/p1245825048?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Bal Poleni (Arı Poleni) - 3 Paket x 500 g</g:title>
+      <g:description>Bal Poleni (Arı Poleni) - 3 Paket x 500 g. Arı Ürünleri. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/bal-poleni-ar-poleni-3-paket-x-500-g/p1245825048?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/r80WMIIkwepsCF0EhTMhB4zA7Qdj4CdIlGAYBpGi.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>262.00 SAR</g:price>
@@ -3350,21 +3396,6 @@
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1257152391</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1314226407</guid>
-      <g:id>1314226407</g:id>
-      <g:title>Ürdün Arı Poleni 250 g</g:title>
-      <g:description>Ürdün Arı Poleni 250 g. Arı Ürünleri. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-250-g/p1314226407?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>249.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001007003</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1314226407</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Arı Ürünleri</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1854842724</guid>
       <g:id>1854842724</g:id>
       <g:title>Mısır Arı Sütü 10 Gram Küçük Paket</g:title>
@@ -3622,21 +3653,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>1212649180</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">520040245</guid>
-      <g:id>520040245</g:id>
-      <g:title>Hadramut Dû'an Sidr Balı 500 gram</g:title>
-      <g:description>Hadramut Dû'an Sidr Balı 500 gram. Sidr Balı. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/hadramut-d-an-sidr-bal-500-gram/p520040245?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/VB5UXEsnHY52zKji0EjCMZaoAeAI5Kv67q8q8QcU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>235.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0011222002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>520040245</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1158327183</guid>
       <g:id>1158327183</g:id>
       <g:title>Dağ Sidr Balı 250 Gr</g:title>
@@ -3874,22 +3890,6 @@
       <g:item_group_id>0041053001</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1688053025</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1741453097</guid>
-      <g:id>1741453097</g:id>
-      <g:title>6 Paket Keşmir Sidr Balı (600 Gram)</g:title>
-      <g:description>6 Paket Keşmir Sidr Balı (600 Gram). Sidr Balı. 4.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/6-paket-ke-mir-sidr-bal-600-gram/p1741453097?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/G3JKdsTnVI7fTvdVaFQaRgfRkg2JEOlX6ixj1kXa.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>420.00 SAR</g:price>
-      <g:sale_price>240.01 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101017</g:item_group_id>
-      <g:shipping_weight>4.1 kg</g:shipping_weight>
-    <g:mpn>1741453097</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1129449226</guid>
       <g:id>1129449226</g:id>
