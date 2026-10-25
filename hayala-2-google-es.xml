@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 05:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:09:32 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -867,9 +867,9 @@
     <item>
       <guid isPermaLink="false">1300632420</guid>
       <g:id>1300632420</g:id>
-      <g:title>Jalea real china 15 g</g:title>
-      <g:description>Jalea real china 15 g. Productos de la colmena. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/es/jalea-real-china-15-g/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:title>Jalea real 15 g</g:title>
+      <g:description>Jalea real 15 g. Productos de la colmena. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/es/jalea-real-15-g/p1300632420?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/muP7fWDTRXRSzOWbM6qQ0pDn9UdjUezE2UALfu1G.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:price>35.00 SAR</g:price>
