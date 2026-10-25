@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 11:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:10:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -68,7 +68,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>تمور</g:product_type>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
-    <g:mpn>687552137</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <g:mpn>687552137</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">26663992</guid>
       <g:id>26663992</g:id>
@@ -149,7 +149,7 @@
       <g:product_type>سكري ضميد</g:product_type>
       <g:item_group_id>005001006</g:item_group_id>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>005001006</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3><g:unit_pricing_measure>6kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>005001006</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>تمور</g:custom_label_3><g:unit_pricing_measure>6kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">283801056</guid>
       <g:id>283801056</g:id>
@@ -439,7 +439,7 @@
       <g:product_type>عسل الزهور البرية</g:product_type>
       <g:item_group_id>0021002001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0021002001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>0021002001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">226374656</guid>
       <g:id>226374656</g:id>
@@ -670,7 +670,7 @@
       <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0041004001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041004001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>0041004001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>أقل من 100</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">769082882</guid>
       <g:id>769082882</g:id>
@@ -733,7 +733,7 @@
       <g:product_type>أعسال محلية</g:product_type>
       <g:item_group_id>0041029002</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>0041029002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>0041029002</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1921376200</guid>
       <g:id>1921376200</g:id>
@@ -1003,7 +1003,7 @@
       <g:product_type>عسل شوكة سمرة</g:product_type>
       <g:item_group_id>0021092005</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>0021092005</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <g:mpn>0021092005</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>سمرة</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">2132981371</guid>
       <g:id>2132981371</g:id>
@@ -1051,7 +1051,7 @@
       <g:product_type>أعسال محلية</g:product_type>
       <g:item_group_id>0041029005</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>0041029005</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>0041029005</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">443912774</guid>
       <g:id>443912774</g:id>
@@ -1119,7 +1119,7 @@
       <g:product_type>أعسال محلية</g:product_type>
       <g:item_group_id>0041029004</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>0041029004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>0041029004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>600 فأكثر</g:custom_label_2><g:custom_label_3>طلح</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1001322391</guid>
       <g:id>1001322391</g:id>
@@ -1365,7 +1365,7 @@
       <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0151004004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>0151004004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3></item>
+    <g:mpn>0151004004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>عسل آخر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1957761862</guid>
       <g:id>1957761862</g:id>
@@ -1515,7 +1515,7 @@
     <item>
       <guid isPermaLink="false">311501392</guid>
       <g:id>311501392</g:id>
-      <g:title>8 كيلو عسل زهور طبيعي</g:title>
+      <g:title>8 كيلو عسل زهور طبيعي - عريش</g:title>
       <g:description>🏆 طلبه أكثر من 400 مرة عبوة كبيرة وزنها 8 كيلو عسل زهور طبيعي من رحيق أزهار برية متنوعة، أُجيزت عند الاستيراد من هيئة الغذاء والدواء والجمارك وفُحصت في مختبر معتمد بالرياض. الصنف: عسل زهور برية طبيعي. الوزن: 8 كيلو في طلب واحد. الطعم: زهري حلو برائحة لطيفة. مجاز عند الاستيراد ومفحوص في مختبر معتمد بالرياض. 🌸 طعمه ولونه حلاوته زهرية هادئة، ورائحته خفيفة تذكّر بالأزهار البرية. ولأنه من أزهار متعددة، يتفاوت لونه قليلًا بين دفعة وأخرى، وهذا معتاد في عسل الأزهار المتنوعة. 🍯 كيف يدخل في يومك مع الخبز الطازج والقشطة على الفطور. بجانب التمر والقهوة عند الضيافة. في الكيك والمعجنات والحلويات المنزلية. لتحلية الشاي والحليب الدافئ. تقسّمه في عبوات صغيرة هدايا للأهل والجيران. 📋 بطاقة المنتج البند التفصيل الصنف عسل زهور برية طبيعي الوزن 8 كيلو الطعم زهري حلو الإجازة هيئة الغذاء والدواء والجمارك الفحص مختبر معتمد بالرياض 🫙 طريقة الحفظ أبقِ العبوة مغلقة في حرارة الغرفة، بعيدًا عن الشمس المباشرة، واستعمل ملعقة نظيفة جافة في كل مرة. 🏪 لماذا تطلبه من عريش عسل يعود إليه الزبائن، وقد طُلب أكثر من 400 مرة. إجازة عند الاستيراد وفحص في مختبر معتمد. تقسيط على 4 دفعات بلا فوائد. ❓ أسئلة شائعة ما نوع هذا العسل؟ عسل زهور برية طبيعي بوزن 8 كيلو. هل هو مفحوص؟ نعم، فُحص في مختبر معتمد بالرياض، وأُجيز عند الاستيراد من هيئة الغذاء والدواء والجمارك. هل يصلح للهدايا؟ نعم، تكفي 8 كيلو لتعبئة عبوات صغيرة كثيرة للأهل والأصدقاء. سريع في الرياض، ومن 1 إلى 3 أيام عمل ل هل يُعطى للرضّع؟ العسل لا يناسب من هم دون سنة من العمر. 🔥 الأكثر طلبًا في متجر عريش العرض الخصم 8 كيلو عسل زهور طبيعي 📍 أنت هنا 🔻 39% عسل سدر طبيعي 6 كيلو (3 عبوات × 2 كيلو والثالثة مجانًا) اطلبه ← 🔻 57% 5 كيلو عسل سدر كشميري + نسبة الخصم من سعر المنتج قبل العرض. 💬 عندك سؤال قبل الطلب؟</g:description>
       <g:link>https://areesh.sa/ar/عسل-زهور-برية-8-كيلو-متجر-عريش/p311501392?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/KPEvG/CyMKkI0nwlnnYaMJSWErwlZnEUhGvZJfYmfV4tlh.png</g:image_link>
@@ -1528,7 +1528,7 @@
       <g:product_type>عروضنا</g:product_type>
       <g:item_group_id>0041003008</g:item_group_id>
       <g:shipping_weight>8.5 kg</g:shipping_weight>
-    <g:mpn>0041003008</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء أ</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>8kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>0041003008</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3><g:unit_pricing_measure>8kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1487430420</guid>
       <g:id>1487430420</g:id>
@@ -1599,7 +1599,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:product_type>عسل الزهور البرية</g:product_type>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1927503162</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3></item>
+    <g:mpn>1927503162</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء د</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>300 إلى 599</g:custom_label_2><g:custom_label_3>زهور</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">916755779</guid>
       <g:id>916755779</g:id>
@@ -1616,7 +1616,7 @@
       <g:product_type>عروضنا</g:product_type>
       <g:item_group_id>1515012</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>1515012</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <g:mpn>1515012</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2097645574</guid>
       <g:id>2097645574</g:id>
@@ -1667,7 +1667,7 @@
       <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0151007006</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>0151007006</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ب</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:mpn>0151007006</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">190273304</guid>
       <g:id>190273304</g:id>

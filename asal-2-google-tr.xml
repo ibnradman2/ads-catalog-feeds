@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 11:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:00:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -179,7 +179,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041029002</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1994787951</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>1994787951</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">519107408</guid>
       <g:id>519107408</g:id>
@@ -462,7 +462,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0021010001</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1819634026</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>1819634026</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">987199113</guid>
       <g:id>987199113</g:id>
@@ -684,7 +684,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024010</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1232313534</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1232313534</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1292771214</guid>
       <g:id>1292771214</g:id>
@@ -1369,7 +1369,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0081010001</g:item_group_id>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>345536874</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Safran</g:custom_label_3></item>
+    <g:mpn>345536874</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100'ün altı</g:custom_label_2><g:custom_label_3>Safran</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1060367261</guid>
       <g:id>1060367261</g:id>
@@ -1406,7 +1406,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0051020002</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>327789971</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hurma</g:custom_label_3></item>
+    <g:mpn>327789971</g:mpn><g:google_product_category>6812</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Hurma</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">419971394</guid>
       <g:id>419971394</g:id>
@@ -1744,7 +1744,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041051003</g:item_group_id>
       <g:shipping_weight>1.25 kg</g:shipping_weight>
-    <g:mpn>464019410</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <g:mpn>464019410</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">340956813</guid>
       <g:id>340956813</g:id>
@@ -1792,7 +1792,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041010007</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>344412243</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>344412243</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">326726179</guid>
       <g:id>326726179</g:id>
@@ -2802,7 +2802,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0031024013</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>1407401907</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
+    <g:mpn>1407401907</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1829509087</guid>
       <g:id>1829509087</g:id>
@@ -3139,7 +3139,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101036</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>216808863</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3></item>
+    <g:mpn>216808863</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Diğer Ballar</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1965415096</guid>
       <g:id>1965415096</g:id>
@@ -3203,7 +3203,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0140101011</g:item_group_id>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>1303334119</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
+    <g:mpn>1303334119</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Sidr Balı</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">112154521</guid>
       <g:id>112154521</g:id>
@@ -3348,7 +3348,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1795183563</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1795183563</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1121679642</guid>
       <g:id>1121679642</g:id>
@@ -3454,7 +3454,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>008100101</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1679623271</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans B</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>1679623271</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Kuru Meyveler</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">272226114</guid>
       <g:id>272226114</g:id>
@@ -3666,7 +3666,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0021002006</g:item_group_id>
       <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:mpn>204409672</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Çiçek Balı</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>204409672</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans D</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>600 ve üzeri</g:custom_label_2><g:custom_label_3>Çiçek Balı</g:custom_label_3><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1212649180</guid>
       <g:id>1212649180</g:id>
