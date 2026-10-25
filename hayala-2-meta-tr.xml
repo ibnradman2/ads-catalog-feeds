@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 09:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:14:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>482971108</g:id>
+      <g:title>Biberiye (Rozmarin) 250 g</g:title>
+      <g:description>Biberiye (Rozmarin) 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tr/biberiye-rozmarin-250-g/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>655013926</g:id>
       <g:title>Öğütülmüş Kişniş 500 Gram</g:title>
@@ -799,12 +805,6 @@
       <g:title>Kurutulmuş Papaya 1 kg</g:title>
       <g:description>Kurutulmuş Papaya 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-papaya-1-kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>482971108</g:id>
-      <g:title>Biberiye (Rozmarin) 250 g</g:title>
-      <g:description>Biberiye (Rozmarin) 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tr/biberiye-rozmarin-250-g/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>533576722</g:id>

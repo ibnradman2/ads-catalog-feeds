@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 09:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:14:16 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>482971108</g:id>
+      <g:title>Romero 250 gramos</g:title>
+      <g:description>Romero 250 gramos. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/romero-250-gramos/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>655013926</g:id>
       <g:title>Cilantro molido 500 g</g:title>
@@ -388,9 +394,9 @@
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1071630418</g:id>
-      <g:title>Sal rosada del Himalaya (450 g)</g:title>
-      <g:description>Sal rosada del Himalaya (450 g). 0.95 kg.</g:description>
-      <g:link>https://hayala.co/es/sal-rosada-del-himalaya-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:title>Sal gema rosada (450 g)</g:title>
+      <g:description>Sal gema rosada (450 g). 0.95 kg.</g:description>
+      <g:link>https://hayala.co/es/sal-gema-rosada-450-g/p1071630418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1300632420</g:id>
@@ -793,12 +799,6 @@
       <g:title>Papaya deshidratada 1 kg</g:title>
       <g:description>Papaya deshidratada 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/es/papaya-deshidratada-1-kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>482971108</g:id>
-      <g:title>Romero 250 gramos</g:title>
-      <g:description>Romero 250 gramos. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/romero-250-gramos/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>533576722</g:id>
