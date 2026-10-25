@@ -4,10 +4,46 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 18:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:39:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1051366582</g:id>
+      <g:title>Miel de Sidr du Cachemire 2 kg</g:title>
+      <g:description>Miel de Sidr du Cachemire 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-cachemire-2-kg/p1051366582?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1113268922</g:id>
+      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg)</g:title>
+      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1113268922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1059074726</g:id>
+      <g:title>Miel d'athel (Saal) 500 grammes</g:title>
+      <g:description>Miel d'athel (Saal) 500 grammes. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-d-athel-saal-500-grammes/p1059074726?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1679623271</g:id>
+      <g:title>Raisins secs rouges du Yémen 1 kg</g:title>
+      <g:description>Raisins secs rouges du Yémen 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-1-kg/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>453091196</g:id>
+      <g:title>Miel de Majra blanc (Mardisia) 500 g</g:title>
+      <g:description>Miel de Majra blanc (Mardisia) 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-majra-blanc-mardisia-500-g/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1152618316</g:id>
+      <g:title>Miel de samar épineux premium 500 g</g:title>
+      <g:description>Miel de samar épineux premium 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-samar-pineux-premium-500-g/p1152618316?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1030292422</g:id>
       <g:title>Un demi-kilo de miel de sidr du Cachemire + un demi-kilo de miel de nigelle + 2 pots de miel au gingembre, citron et curcuma (470 g) + graines de nige</g:title>
@@ -957,12 +993,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-sauvages-du-sud-ou-du-hadramaout-5-kg-bidon-prix-de-gros/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1051366582</g:id>
-      <g:title>Miel de Sidr du Cachemire 2 kg</g:title>
-      <g:description>Miel de Sidr du Cachemire 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-cachemire-2-kg/p1051366582?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>2074483289</g:id>
       <g:title>Miel de la Forêt-Noire authentique 250 g</g:title>
       <g:description>Miel de la Forêt-Noire authentique 250 g. 0.75 kg.</g:description>
@@ -1069,12 +1099,6 @@
       <g:title>Figues séchées 1 kg</g:title>
       <g:description>Figues séchées 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1059074726</g:id>
-      <g:title>Miel d'athel (Saal) 500 grammes</g:title>
-      <g:description>Miel d'athel (Saal) 500 grammes. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-d-athel-saal-500-grammes/p1059074726?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>177144225</g:id>
@@ -1189,12 +1213,6 @@
       <g:title>Miel d'acacia 500 g</g:title>
       <g:description>Miel d'acacia 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-d-acacia-500-g/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1152618316</g:id>
-      <g:title>Miel de samar épineux premium 500 g</g:title>
-      <g:description>Miel de samar épineux premium 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-samar-pineux-premium-500-g/p1152618316?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>622236865</g:id>
@@ -1329,12 +1347,6 @@
       <g:link>https://asalaljebal.sa/fr/farine-d-orge-talbina-proph-tique-250-g/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>453091196</g:id>
-      <g:title>Miel de Majra blanc (Mardisia) 500 g</g:title>
-      <g:description>Miel de Majra blanc (Mardisia) 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-majra-blanc-mardisia-500-g/p453091196?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1123362063</g:id>
       <g:title>Graines de nigelle 500 g</g:title>
       <g:description>Graines de nigelle 500 g. 1.0 kg.</g:description>
@@ -1351,12 +1363,6 @@
       <g:title>Gelée royale égyptienne 10 g</g:title>
       <g:description>Gelée royale égyptienne 10 g. 0.51 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/gel-e-royale-gyptienne-10-g/p1854842724?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1679623271</g:id>
-      <g:title>Raisins secs rouges du Yémen 1 kg</g:title>
-      <g:description>Raisins secs rouges du Yémen 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-1-kg/p1679623271?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>272226114</g:id>
@@ -1525,12 +1531,6 @@
       <g:title>Miel d'athel (Saal) 250 grammes</g:title>
       <g:description>Miel d'athel (Saal) 250 grammes. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-d-athel-saal-250-grammes/p1129449226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1113268922</g:id>
-      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg)</g:title>
-      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1113268922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1219301755</g:id>
