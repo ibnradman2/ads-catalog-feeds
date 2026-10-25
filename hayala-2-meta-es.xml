@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 10:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:34:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1466026704</g:id>
+      <g:title>Za'atar molido 250 g</g:title>
+      <g:description>Za'atar molido 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/za-atar-molido-250-g/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>74605069</g:id>
+      <g:title>Jengibre molido 500 g</g:title>
+      <g:description>Jengibre molido 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/jengibre-molido-500-g/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1474254823</g:id>
+      <g:title>Canela molida 500 g</g:title>
+      <g:description>Canela molida 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/canela-molida-500-g/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1017600485</g:id>
+      <g:title>Goma arábiga molida 250 g</g:title>
+      <g:description>Goma arábiga molida 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/goma-ar-biga-molida-250-g/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>482971108</g:id>
       <g:title>Romero 250 gramos</g:title>
@@ -301,24 +325,6 @@
       <g:title>Hibisco 250 g</g:title>
       <g:description>Hibisco 250 g. 0.75 kg.</g:description>
       <g:link>https://hayala.co/es/hibisco-250-g/p811285941?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1017600485</g:id>
-      <g:title>Goma arábiga molida 250 g</g:title>
-      <g:description>Goma arábiga molida 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/goma-ar-biga-molida-250-g/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1474254823</g:id>
-      <g:title>Canela molida 500 g</g:title>
-      <g:description>Canela molida 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/canela-molida-500-g/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>74605069</g:id>
-      <g:title>Jengibre molido 500 g</g:title>
-      <g:description>Jengibre molido 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/jengibre-molido-500-g/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>816858337</g:id>
@@ -811,12 +817,6 @@
       <g:title>Semillas de chía - 1 kg</g:title>
       <g:description>Semillas de chía - 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/es/semillas-de-ch-a-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1466026704</g:id>
-      <g:title>Za'atar molido 250 g</g:title>
-      <g:description>Za'atar molido 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/za-atar-molido-250-g/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1632683015</g:id>

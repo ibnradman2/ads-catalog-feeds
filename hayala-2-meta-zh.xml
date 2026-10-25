@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 10:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:34:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1466026704</g:id>
+      <g:title>百里香粉250克</g:title>
+      <g:description>百里香粉250克. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/zh/250/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>74605069</g:id>
+      <g:title>姜粉 500克</g:title>
+      <g:description>姜粉 500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1474254823</g:id>
+      <g:title>肉桂粉 500克</g:title>
+      <g:description>肉桂粉 500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1017600485</g:id>
+      <g:title>阿拉伯胶粉250克</g:title>
+      <g:description>阿拉伯胶粉250克. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/zh/250/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>482971108</g:id>
       <g:title>迷迭香250克</g:title>
@@ -295,24 +319,6 @@
       <g:title>洛神花干 250克</g:title>
       <g:description>洛神花干 250克. 0.75 kg.</g:description>
       <g:link>https://hayala.co/zh/250/p811285941?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1017600485</g:id>
-      <g:title>阿拉伯胶粉250克</g:title>
-      <g:description>阿拉伯胶粉250克. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/zh/250/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1474254823</g:id>
-      <g:title>肉桂粉 500克</g:title>
-      <g:description>肉桂粉 500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p1474254823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>74605069</g:id>
-      <g:title>姜粉 500克</g:title>
-      <g:description>姜粉 500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p74605069?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>816858337</g:id>
@@ -799,12 +805,6 @@
       <g:title>奇亚籽 - 1公斤</g:title>
       <g:description>奇亚籽 - 1公斤. 1.5 kg.</g:description>
       <g:link>https://hayala.co/zh/1/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1466026704</g:id>
-      <g:title>百里香粉250克</g:title>
-      <g:description>百里香粉250克. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/zh/250/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1632683015</g:id>
