@@ -4,7 +4,7 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 24 Oct 2026 22:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:10:38 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -22,7 +22,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>1403683377</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">423215357</guid>
       <g:id>423215357</g:id>
@@ -37,7 +37,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>423215357</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">907457808</guid>
       <g:id>907457808</g:id>
@@ -51,7 +51,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>907457808</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">879693415</guid>
       <g:id>879693415</g:id>
@@ -65,7 +65,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>879693415</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">850933620</guid>
       <g:id>850933620</g:id>
@@ -80,7 +80,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.7 kg</g:shipping_weight>
-    <g:mpn>850933620</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>200g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">795150874</guid>
       <g:id>795150874</g:id>
@@ -95,7 +95,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>795150874</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">777320175</guid>
       <g:id>777320175</g:id>
@@ -110,7 +110,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>777320175</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>塔勒蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">673263980</guid>
       <g:id>673263980</g:id>
@@ -125,7 +125,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>673263980</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">592690627</guid>
       <g:id>592690627</g:id>
@@ -140,7 +140,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>592690627</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">504364220</guid>
       <g:id>504364220</g:id>
@@ -155,7 +155,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.9 kg</g:shipping_weight>
-    <g:mpn>504364220</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>400g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">476216439</guid>
       <g:id>476216439</g:id>
@@ -170,7 +170,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>476216439</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">293213385</guid>
       <g:id>293213385</g:id>
@@ -185,7 +185,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>293213385</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">284822488</guid>
       <g:id>284822488</g:id>
@@ -200,7 +200,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>284822488</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2048957687</guid>
       <g:id>2048957687</g:id>
@@ -215,7 +215,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>2048957687</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2044103725</guid>
       <g:id>2044103725</g:id>
@@ -230,7 +230,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>2044103725</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">2016323095</guid>
       <g:id>2016323095</g:id>
@@ -245,7 +245,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:mpn>2016323095</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1949696355</guid>
       <g:id>1949696355</g:id>
@@ -260,7 +260,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>1949696355</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1863085925</guid>
       <g:id>1863085925</g:id>
@@ -275,7 +275,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1863085925</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1745075758</guid>
       <g:id>1745075758</g:id>
@@ -290,7 +290,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1745075758</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1701257250</guid>
       <g:id>1701257250</g:id>
@@ -305,7 +305,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>4.9 kg</g:shipping_weight>
-    <g:mpn>1701257250</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1659176580</guid>
       <g:id>1659176580</g:id>
@@ -320,7 +320,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>1659176580</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1632724705</guid>
       <g:id>1632724705</g:id>
@@ -335,7 +335,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1632724705</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1610749424</guid>
       <g:id>1610749424</g:id>
@@ -349,7 +349,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1610749424</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1518558086</guid>
       <g:id>1518558086</g:id>
@@ -364,7 +364,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1518558086</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>白色马吉拉蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1463543429</guid>
       <g:id>1463543429</g:id>
@@ -379,7 +379,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
-    <g:mpn>1463543429</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1458505546</guid>
       <g:id>1458505546</g:id>
@@ -394,7 +394,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1458505546</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1419760550</guid>
       <g:id>1419760550</g:id>
@@ -409,7 +409,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>1419760550</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1395738330</guid>
       <g:id>1395738330</g:id>
@@ -424,7 +424,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.75 kg</g:shipping_weight>
-    <g:mpn>1395738330</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1392084004</guid>
       <g:id>1392084004</g:id>
@@ -439,7 +439,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1392084004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1382517036</guid>
       <g:id>1382517036</g:id>
@@ -454,7 +454,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1382517036</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1103620581</guid>
       <g:id>1103620581</g:id>
@@ -469,7 +469,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:mpn>1103620581</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1086517048</guid>
       <g:id>1086517048</g:id>
@@ -484,7 +484,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1086517048</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1041174705</guid>
       <g:id>1041174705</g:id>
@@ -499,7 +499,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>8.5 kg</g:shipping_weight>
-    <g:mpn>1041174705</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
+    <g:google_product_category>136</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>礼品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1004145752</guid>
       <g:id>1004145752</g:id>
@@ -514,6 +514,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1004145752</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
+    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>冬季</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
   </channel>
 </rss>
