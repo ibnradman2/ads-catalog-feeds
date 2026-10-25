@@ -4,10 +4,46 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 14:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:10:14 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1060367261</g:id>
+      <g:title>Dattes Ajwa d'Aliyah Médine premium 3 kg (livraison gratuite)</g:title>
+      <g:description>Dattes Ajwa d'Aliyah Médine premium 3 kg (livraison gratuite). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/dattes-ajwa-d-aliyah-m-dine-premium-3-kg-livraison-gratuite/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>284318205</g:id>
+      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g</g:title>
+      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-manuka-honey-umf-10-mgo-300-250-/p284318205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1017059861</g:id>
+      <g:title>Offre : un kilo de miel de nigelle + un kilo de miel de trèfle (livraison gratuite)</g:title>
+      <g:description>Offre : un kilo de miel de nigelle + un kilo de miel de trèfle (livraison gratuite). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/offre-un-kilo-de-miel-de-nigelle-un-kilo-de-miel-de-tr-fle-livraison-gratuite/p1017059861?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1813391541</g:id>
+      <g:title>3 kg de miel de sidr cachemiri avec 22 % de remise et livraison gratuite (récolte de qualité rare, quantité très limitée)</g:title>
+      <g:description>3 kg de miel de sidr cachemiri avec 22 % de remise et livraison gratuite (récolte de qualité rare, quantité très limitée). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/3-kg-de-miel-de-sidr-cachemiri-avec-22-de-remise-et-livraison-gratuite-r-colte-d/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1245825048</g:id>
+      <g:title>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g</g:title>
+      <g:description>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-3-sachets-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>863586339</g:id>
+      <g:title>Raisins secs noirs du Yémen 4 kg</g:title>
+      <g:description>Raisins secs noirs du Yémen 4 kg. 4.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-4-kg/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>200955964</g:id>
       <g:title>Gallon de miel de sidr du Cachemire 3 kg + talbina 500 g</g:title>
@@ -423,12 +459,6 @@
       <g:link>https://asalaljebal.sa/fr/un-demi-kilo-de-miel-de-sidr-du-cachemire-un-demi-kilo-de-miel-de-nigelle-2-pots/p1030292422?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1245825048</g:id>
-      <g:title>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g</g:title>
-      <g:description>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-3-sachets-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1849198782</g:id>
       <g:title>Miel de moringa 2 kg</g:title>
       <g:description>Miel de moringa 2 kg. 2.5 kg.</g:description>
@@ -531,12 +561,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-de-ha-l-1-kg/p313018985?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1017059861</g:id>
-      <g:title>Offre : un kilo de miel de nigelle + un kilo de miel de trèfle (livraison gratuite)</g:title>
-      <g:description>Offre : un kilo de miel de nigelle + un kilo de miel de trèfle (livraison gratuite). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/offre-un-kilo-de-miel-de-nigelle-un-kilo-de-miel-de-tr-fle-livraison-gratuite/p1017059861?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>565752464</g:id>
       <g:title>Miel de sidr de Peshawar du Pakistan, bidon de 7 kg au prix de gros</g:title>
       <g:description>Miel de sidr de Peshawar du Pakistan, bidon de 7 kg au prix de gros. 7.5 kg.</g:description>
@@ -559,12 +583,6 @@
       <g:title>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran</g:title>
       <g:description>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran. 0.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/caf-al-shadhiliya-caf-arabe-moulu-haut-de-gamme-au-caf-la-cardamome-et-au-safran/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1060367261</g:id>
-      <g:title>Dattes Ajwa d'Aliyah Médine premium 3 kg (livraison gratuite)</g:title>
-      <g:description>Dattes Ajwa d'Aliyah Médine premium 3 kg (livraison gratuite). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/dattes-ajwa-d-aliyah-m-dine-premium-3-kg-livraison-gratuite/p1060367261?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>327789971</g:id>
@@ -1053,12 +1071,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-de-tr-fle-250-g-clair-et-l-ger/p177144225?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>284318205</g:id>
-      <g:title>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g</g:title>
-      <g:description>Miel de Manuka néo-zélandais Honey Bros Premium Manuka Honey UMF+10, MGO 300+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-manuka-honey-umf-10-mgo-300-250-/p284318205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>2006758939</g:id>
       <g:title>Propolis naturelle brute (propolis ou colle d'abeille) 15 g</g:title>
       <g:description>Propolis naturelle brute (propolis ou colle d'abeille) 15 g. 0.515 kg.</g:description>
@@ -1515,12 +1527,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-d-athel-saal-250-grammes/p1129449226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1813391541</g:id>
-      <g:title>3 kg de miel de sidr cachemiri avec 22 % de remise et livraison gratuite (récolte de qualité rare, quantité très limitée)</g:title>
-      <g:description>3 kg de miel de sidr cachemiri avec 22 % de remise et livraison gratuite (récolte de qualité rare, quantité très limitée). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/3-kg-de-miel-de-sidr-cachemiri-avec-22-de-remise-et-livraison-gratuite-r-colte-d/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1113268922</g:id>
       <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg)</g:title>
       <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg). 1.5 kg.</g:description>
@@ -1555,12 +1561,6 @@
       <g:title>Miel d'acacia 250 g</g:title>
       <g:description>Miel d'acacia 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-d-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>863586339</g:id>
-      <g:title>Raisins secs noirs du Yémen 4 kg</g:title>
-      <g:description>Raisins secs noirs du Yémen 4 kg. 4.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-4-kg/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     </channel>
 </rss>

@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 13:48:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:08:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2082144846</g:id>
+      <g:title>Thym moulu 1 kg</g:title>
+      <g:description>Thym moulu 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/thym-moulu-1-kg/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1378639718</g:id>
+      <g:title>Graines de chia - 250 g</g:title>
+      <g:description>Graines de chia - 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/fr/graines-de-chia-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>861941121</g:id>
+      <g:title>Fenugrec en grains 1 kg</g:title>
+      <g:description>Fenugrec en grains 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/fenugrec-en-grains-1-kg/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1732878396</g:id>
       <g:title>Mélange d'épices moulues 500 g</g:title>
@@ -361,24 +379,6 @@
       <g:title>Poivron Doux Moulu (Paprika) 500 g</g:title>
       <g:description>Poivron Doux Moulu (Paprika) 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/poivron-doux-moulu-paprika-500-g/p1959531644?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2082144846</g:id>
-      <g:title>Thym moulu 1 kg</g:title>
-      <g:description>Thym moulu 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/thym-moulu-1-kg/p2082144846?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>861941121</g:id>
-      <g:title>Fenugrec en grains 1 kg</g:title>
-      <g:description>Fenugrec en grains 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/fenugrec-en-grains-1-kg/p861941121?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1378639718</g:id>
-      <g:title>Graines de chia - 250 g</g:title>
-      <g:description>Graines de chia - 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/fr/graines-de-chia-250-g/p1378639718?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1730613591</g:id>
