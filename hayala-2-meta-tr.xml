@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 07:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:10:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1467466677</g:id>
+      <g:title>Kurutulmuş Adaçayı 250 g</g:title>
+      <g:description>Kurutulmuş Adaçayı 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-ada-ay-250-g/p1467466677?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1859497066</g:id>
+      <g:title>Ajwain (Nanehah) 250 g</g:title>
+      <g:description>Ajwain (Nanehah) 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tr/ajwain-nanehah-250-g/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>196436999</g:id>
+      <g:title>Rezene Tohumu 250 gram</g:title>
+      <g:description>Rezene Tohumu 250 gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tr/rezene-tohumu-250-gram/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1666335790</g:id>
       <g:title>Rezene Tohumu 500 gram</g:title>
@@ -819,12 +837,6 @@
       <g:link>https://hayala.co/tr/arpa-unu-250-g/p2065623105?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>196436999</g:id>
-      <g:title>Rezene Tohumu 250 gram</g:title>
-      <g:description>Rezene Tohumu 250 gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tr/rezene-tohumu-250-gram/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>801044632</g:id>
       <g:title>Kurutulmuş Kivi 1 kilo</g:title>
       <g:description>Kurutulmuş Kivi 1 kilo. 1.5 kg.</g:description>
@@ -855,12 +867,6 @@
       <g:link>https://hayala.co/tr/kurutulmu-mango-500-gram/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1467466677</g:id>
-      <g:title>Kurutulmuş Adaçayı 250 g</g:title>
-      <g:description>Kurutulmuş Adaçayı 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-ada-ay-250-g/p1467466677?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1854428382</g:id>
       <g:title>2 kg Doğal Sidr Balı</g:title>
       <g:description>2 kg Doğal Sidr Balı. 2.5 kg.</g:description>
@@ -871,12 +877,6 @@
       <g:title>Zencefilli, Limonlu ve Zerdeçallı Doğal Bal İçeceği 470 g</g:title>
       <g:description>Zencefilli, Limonlu ve Zerdeçallı Doğal Bal İçeceği 470 g. 0.97 kg.</g:description>
       <g:link>https://hayala.co/tr/zencefilli-limonlu-ve-zerde-all-do-al-bal-i-ece-i-470-g/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1859497066</g:id>
-      <g:title>Ajwain (Nanehah) 250 g</g:title>
-      <g:description>Ajwain (Nanehah) 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tr/ajwain-nanehah-250-g/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>946188382</g:id>
