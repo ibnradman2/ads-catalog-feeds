@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 03:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:15:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1466026704</g:id>
+      <g:title>Thyme Bubuk 250 Gram</g:title>
+      <g:description>Thyme Bubuk 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/thyme-bubuk-250-gram/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>482971108</g:id>
+      <g:title>Rosemary Kering 250 Gram</g:title>
+      <g:description>Rosemary Kering 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/rosemary-kering-250-gram/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1467466677</g:id>
+      <g:title>Sage (Maramiyah) Kering 250 Gram</g:title>
+      <g:description>Sage (Maramiyah) Kering 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/sage-maramiyah-kering-250-gram/p1467466677?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1859497066</g:id>
+      <g:title>Nakhwa (Nanakhah) 250 Gram</g:title>
+      <g:description>Nakhwa (Nanakhah) 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/nakhwa-nanakhah-250-gram/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>522208565</g:id>
       <g:title>Rosemary Kering 1 Kilo</g:title>
@@ -129,12 +153,6 @@
       <g:link>https://hayala.co/ind/alpukat-kering-250-gram/p2059144227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1466026704</g:id>
-      <g:title>Thyme Bubuk 250 Gram</g:title>
-      <g:description>Thyme Bubuk 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/thyme-bubuk-250-gram/p1466026704?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>74605069</g:id>
       <g:title>Jahe Bubuk 500 g</g:title>
       <g:description>Jahe Bubuk 500 g. 1.0 kg.</g:description>
@@ -151,12 +169,6 @@
       <g:title>Gum Arab Bubuk 250 Gram</g:title>
       <g:description>Gum Arab Bubuk 250 Gram. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ind/gum-arab-bubuk-250-gram/p1017600485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>482971108</g:id>
-      <g:title>Rosemary Kering 250 Gram</g:title>
-      <g:description>Rosemary Kering 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/rosemary-kering-250-gram/p482971108?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>655013926</g:id>
@@ -181,18 +193,6 @@
       <g:title>Parutan Saffron</g:title>
       <g:description>Parutan Saffron. 0.04 kg.</g:description>
       <g:link>https://hayala.co/ind/parutan-saffron/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1467466677</g:id>
-      <g:title>Sage (Maramiyah) Kering 250 Gram</g:title>
-      <g:description>Sage (Maramiyah) Kering 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/sage-maramiyah-kering-250-gram/p1467466677?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1859497066</g:id>
-      <g:title>Nakhwa (Nanakhah) 250 Gram</g:title>
-      <g:description>Nakhwa (Nanakhah) 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/nakhwa-nanakhah-250-gram/p1859497066?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>196436999</g:id>
