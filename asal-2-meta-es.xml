@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 02:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>577031151</g:id>
+      <g:title>Polen de Abeja Jordano 100 g</g:title>
+      <g:description>Polen de Abeja Jordano 100 g. 0.6 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-abeja-jordano-100-g/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>244975038</g:id>
       <g:title>Ghee baladí de vaca 680 g</g:title>
@@ -1507,12 +1513,6 @@
       <g:title>Polen de Abeja 250 g</g:title>
       <g:description>Polen de Abeja 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/polen-de-abeja-250-g/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>577031151</g:id>
-      <g:title>Polen de Abeja Jordano 100 g</g:title>
-      <g:description>Polen de Abeja Jordano 100 g. 0.6 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-de-abeja-jordano-100-g/p577031151?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>371437637</g:id>
