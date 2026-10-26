@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 21:47:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:10:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>758738089</g:id>
+      <g:title>Süper Nakil Safran 1.75 g</g:title>
+      <g:description>Süper Nakil Safran 1.75 g. 0.502 kg.</g:description>
+      <g:link>https://hayala.co/tr/s-per-nakil-safran-1-75-g/p758738089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>522208565</g:id>
+      <g:title>Biberiye (Rozmarin) 1 kg</g:title>
+      <g:description>Biberiye (Rozmarin) 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/biberiye-rozmarin-1-kg/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>999818845</g:id>
       <g:title>Dağ Sidr Petek Balı 500 g</g:title>
@@ -73,12 +85,6 @@
       <g:title>4 Ambalaj Şazliye Kahvesi</g:title>
       <g:description>4 Ambalaj Şazliye Kahvesi. 2.0 kg.</g:description>
       <g:link>https://hayala.co/tr/4-ambalaj-azliye-kahvesi/p1567920614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>758738089</g:id>
-      <g:title>Süper Nakil Safran 1.75 g</g:title>
-      <g:description>Süper Nakil Safran 1.75 g. 0.502 kg.</g:description>
-      <g:link>https://hayala.co/tr/s-per-nakil-safran-1-75-g/p758738089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2082144846</g:id>
@@ -457,12 +463,6 @@
       <g:title>Kurutulmuş Ananas 250 gram</g:title>
       <g:description>Kurutulmuş Ananas 250 gram. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-ananas-250-gram/p1730613591?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>522208565</g:id>
-      <g:title>Biberiye (Rozmarin) 1 kg</g:title>
-      <g:description>Biberiye (Rozmarin) 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/biberiye-rozmarin-1-kg/p522208565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1701109911</g:id>
