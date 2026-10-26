@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 22:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:45:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>244975038</g:id>
+      <g:title>Lokal na Ghee mula sa Baka 680 Gramo</g:title>
+      <g:description>Lokal na Ghee mula sa Baka 680 Gramo. 1.18 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/lokal-na-ghee-mula-sa-baka-680-gramo/p244975038?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1759318609</g:id>
+      <g:title>Wild Flower Honey mula sa Timog o Hadhrami 500 Gramo</g:title>
+      <g:description>Wild Flower Honey mula sa Timog o Hadhrami 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/wild-flower-honey-mula-sa-timog-o-hadhrami-500-gramo/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1610407007</g:id>
+      <g:title>Tunay na Black Forest Honey 1 Kilo</g:title>
+      <g:description>Tunay na Black Forest Honey 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-1-kilo/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1158327183</g:id>
+      <g:title>Pulot ng Sidr na Bundok, 250 Gramo</g:title>
+      <g:description>Pulot ng Sidr na Bundok, 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-250-gramo/p1158327183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>54884563</g:id>
+      <g:title>Bee Pollen (Pollen ng Bubuyog) 500 g</g:title>
+      <g:description>Bee Pollen (Pollen ng Bubuyog) 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/bee-pollen-pollen-ng-bubuyog-500-g/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1267460776</g:id>
       <g:title>Black Seed Honey (Pulot ng Habbat al-Barakah) 1 kg</g:title>
@@ -867,12 +897,6 @@
       <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-galon-na-10-kilo-presyong-pakyawan/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>244975038</g:id>
-      <g:title>Lokal na Ghee mula sa Baka 680 Gramo</g:title>
-      <g:description>Lokal na Ghee mula sa Baka 680 Gramo. 1.18 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/lokal-na-ghee-mula-sa-baka-680-gramo/p244975038?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1007628890</g:id>
       <g:title>Giniling na Gum Arabic 250 Gramo</g:title>
       <g:description>Giniling na Gum Arabic 250 Gramo. 0.75 kg.</g:description>
@@ -981,12 +1005,6 @@
       <g:link>https://asalaljebal.sa/tl/mountain-sidr-honey-galon-na-10-kilo-presyong-pakyawan/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1610407007</g:id>
-      <g:title>Tunay na Black Forest Honey 1 Kilo</g:title>
-      <g:description>Tunay na Black Forest Honey 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-1-kilo/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>275719624</g:id>
       <g:title>Pulot ng Abu Farwa (Chestnut) 500 gramo</g:title>
       <g:description>Pulot ng Abu Farwa (Chestnut) 500 gramo. 1.0 kg.</g:description>
@@ -1093,12 +1111,6 @@
       <g:title>Premium Samra Thorn Honey, 250 Gramo</g:title>
       <g:description>Premium Samra Thorn Honey, 250 Gramo. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/premium-samra-thorn-honey-250-gramo/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1759318609</g:id>
-      <g:title>Wild Flower Honey mula sa Timog o Hadhrami 500 Gramo</g:title>
-      <g:description>Wild Flower Honey mula sa Timog o Hadhrami 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/wild-flower-honey-mula-sa-timog-o-hadhrami-500-gramo/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1762934428</g:id>
@@ -1455,12 +1467,6 @@
       <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-galon-na-7-kilo-presyong-pakyawan/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1158327183</g:id>
-      <g:title>Pulot ng Sidr na Bundok, 250 Gramo</g:title>
-      <g:description>Pulot ng Sidr na Bundok, 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-sidr-na-bundok-250-gramo/p1158327183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>660293034</g:id>
       <g:title>Pulot na Sidr ng Hadhramaut na Doani 250 gramo</g:title>
       <g:description>Pulot na Sidr ng Hadhramaut na Doani 250 gramo. 0.75 kg.</g:description>
@@ -1489,12 +1495,6 @@
       <g:title>Pollen ng Bubuyog mula Jordan 50g</g:title>
       <g:description>Pollen ng Bubuyog mula Jordan 50g. 0.55 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-mula-jordan-50g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>54884563</g:id>
-      <g:title>Bee Pollen (Pollen ng Bubuyog) 500 g</g:title>
-      <g:description>Bee Pollen (Pollen ng Bubuyog) 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/bee-pollen-pollen-ng-bubuyog-500-g/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1766572873</g:id>

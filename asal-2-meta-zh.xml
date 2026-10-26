@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 22:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:45:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>244975038</g:id>
+      <g:title>本地牛酥油（Samn）680克</g:title>
+      <g:description>本地牛酥油（Samn）680克. 1.18 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/samn-680/p244975038?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1759318609</g:id>
+      <g:title>野花蜂蜜 南部或哈德拉毛 500克</g:title>
+      <g:description>野花蜂蜜 南部或哈德拉毛 500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1610407007</g:id>
+      <g:title>正宗黑森林蜂蜜 1公斤</g:title>
+      <g:description>正宗黑森林蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1158327183</g:id>
+      <g:title>山区西德尔蜂蜜 250克</g:title>
+      <g:description>山区西德尔蜂蜜 250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1158327183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>54884563</g:id>
+      <g:title>蜜蜂花粉 500克</g:title>
+      <g:description>蜜蜂花粉 500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1267460776</g:id>
       <g:title>黑种草籽蜂蜜 1公斤</g:title>
@@ -861,12 +891,6 @@
       <g:link>https://asalaljebal.sa/zh/10/p843246671?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>244975038</g:id>
-      <g:title>本地牛酥油（Samn）680克</g:title>
-      <g:description>本地牛酥油（Samn）680克. 1.18 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/samn-680/p244975038?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1007628890</g:id>
       <g:title>阿拉伯胶粉 250克</g:title>
       <g:description>阿拉伯胶粉 250克. 0.75 kg.</g:description>
@@ -975,12 +999,6 @@
       <g:link>https://asalaljebal.sa/zh/10/p1374413185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1610407007</g:id>
-      <g:title>正宗黑森林蜂蜜 1公斤</g:title>
-      <g:description>正宗黑森林蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1610407007?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>275719624</g:id>
       <g:title>Abu Farwa栗子蜂蜜 500克</g:title>
       <g:description>Abu Farwa栗子蜂蜜 500克. 1.0 kg.</g:description>
@@ -1087,12 +1105,6 @@
       <g:title>高级萨姆拉刺树蜂蜜 250克</g:title>
       <g:description>高级萨姆拉刺树蜂蜜 250克. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/250/p379104845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1759318609</g:id>
-      <g:title>野花蜂蜜 南部或哈德拉毛 500克</g:title>
-      <g:description>野花蜂蜜 南部或哈德拉毛 500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p1759318609?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1762934428</g:id>
@@ -1449,12 +1461,6 @@
       <g:link>https://asalaljebal.sa/zh/7/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1158327183</g:id>
-      <g:title>山区西德尔蜂蜜 250克</g:title>
-      <g:description>山区西德尔蜂蜜 250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p1158327183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>660293034</g:id>
       <g:title>哈德拉毛多安西德尔蜂蜜 250 克</g:title>
       <g:description>哈德拉毛多安西德尔蜂蜜 250 克. 0.75 kg.</g:description>
@@ -1483,12 +1489,6 @@
       <g:title>约旦蜜蜂花粉 50克</g:title>
       <g:description>约旦蜜蜂花粉 50克. 0.55 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/50/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>54884563</g:id>
-      <g:title>蜜蜂花粉 500克</g:title>
-      <g:description>蜜蜂花粉 500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p54884563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1766572873</g:id>
