@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 03:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:46:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1171722381</g:id>
+      <g:title>جو کا آٹا 500 گرام برائے روٹی اور تلبینہ</g:title>
+      <g:description>جو کا آٹا 500 گرام برائے روٹی اور تلبینہ. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p1171722381?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>196436999</g:id>
+      <g:title>سونف 250 گرام، سالم بیج، چائے اور بیکنگ کے لیے</g:title>
+      <g:description>سونف 250 گرام، سالم بیج، چائے اور بیکنگ کے لیے. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ur/250/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>583414674</g:id>
+      <g:title>جنگلی زعتر کے پتے 250 گرام</g:title>
+      <g:description>جنگلی زعتر کے پتے 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ur/250/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>758738089</g:id>
       <g:title>سپر نقیل زعفران 1.75 گرام</g:title>
@@ -165,12 +183,6 @@
       <g:link>https://hayala.co/ur/product/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>196436999</g:id>
-      <g:title>سونف 250 گرام، سالم بیج، چائے اور بیکنگ کے لیے</g:title>
-      <g:description>سونف 250 گرام، سالم بیج، چائے اور بیکنگ کے لیے. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ur/250/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1666335790</g:id>
       <g:title>سونف 500 گرام، مچھلی اور گوشت کے مسالے کے لیے</g:title>
       <g:description>سونف 500 گرام، مچھلی اور گوشت کے مسالے کے لیے. 1.0 kg.</g:description>
@@ -183,12 +195,6 @@
       <g:link>https://hayala.co/ur/250/p130562279?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>583414674</g:id>
-      <g:title>جنگلی زعتر کے پتے 250 گرام</g:title>
-      <g:description>جنگلی زعتر کے پتے 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ur/250/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>190195544</g:id>
       <g:title>میتھی دانہ ثابت 500 گرام</g:title>
       <g:description>میتھی دانہ ثابت 500 گرام. 1.0 kg.</g:description>
@@ -199,12 +205,6 @@
       <g:title>پسا ہوا زعتر 500 گرام انڈے اور لبنہ کے لیے</g:title>
       <g:description>پسا ہوا زعتر 500 گرام انڈے اور لبنہ کے لیے. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p351659116?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1171722381</g:id>
-      <g:title>جو کا آٹا 500 گرام برائے روٹی اور تلبینہ</g:title>
-      <g:description>جو کا آٹا 500 گرام برائے روٹی اور تلبینہ. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p1171722381?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>757548514</g:id>

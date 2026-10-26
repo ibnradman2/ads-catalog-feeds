@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 05:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:46:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1171722381</g:id>
+      <g:title>Farine d'orge 500 g</g:title>
+      <g:description>Farine d'orge 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/farine-d-orge-500-g/p1171722381?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1559719230</g:id>
+      <g:title>Romarin séché 500 g</g:title>
+      <g:description>Romarin séché 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/romarin-s-ch-500-g/p1559719230?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>196436999</g:id>
+      <g:title>Fenouil 250 g</g:title>
+      <g:description>Fenouil 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/fr/fenouil-250-g/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>583414674</g:id>
+      <g:title>Feuilles de thym sauvage 250 g</g:title>
+      <g:description>Feuilles de thym sauvage 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-250-g/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1466026704</g:id>
       <g:title>Thym moulu 250 g</g:title>
@@ -195,12 +219,6 @@
       <g:link>https://hayala.co/fr/r-pe-safran/p1087629233?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>196436999</g:id>
-      <g:title>Fenouil 250 g</g:title>
-      <g:description>Fenouil 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/fr/fenouil-250-g/p196436999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1666335790</g:id>
       <g:title>Fenouil 500 g</g:title>
       <g:description>Fenouil 500 g. 1.0 kg.</g:description>
@@ -211,12 +229,6 @@
       <g:title>Fleurs de camomille séchées 250 g</g:title>
       <g:description>Fleurs de camomille séchées 250 g. 0.75 kg.</g:description>
       <g:link>https://hayala.co/fr/fleurs-de-camomille-s-ch-es-250-g/p130562279?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>583414674</g:id>
-      <g:title>Feuilles de thym sauvage 250 g</g:title>
-      <g:description>Feuilles de thym sauvage 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/fr/feuilles-de-thym-sauvage-250-g/p583414674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>190195544</g:id>
@@ -235,18 +247,6 @@
       <g:title>Ajwain (nanakha) 500 g</g:title>
       <g:description>Ajwain (nanakha) 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/ajwain-nanakha-500-g/p999780142?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1171722381</g:id>
-      <g:title>Farine d'orge 500 g</g:title>
-      <g:description>Farine d'orge 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/farine-d-orge-500-g/p1171722381?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1559719230</g:id>
-      <g:title>Romarin séché 500 g</g:title>
-      <g:description>Romarin séché 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/romarin-s-ch-500-g/p1559719230?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>403725985</g:id>
