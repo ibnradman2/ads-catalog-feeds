@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 15:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 20:17:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -322,8 +322,8 @@
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>765679051</g:id>
-      <g:title>Madu Sidr Areesh dengan Royal Jelly dan Propolis, Kemasan 500 g</g:title>
-      <g:description>Madu Sidr Areesh dengan Royal Jelly dan Propolis, Kemasan 500 g. 1.0 kg.</g:description>
+      <g:title>Madu Sidr Areesh dengan Royal Jelly dan Propolis (Kemasan 500 g)</g:title>
+      <g:description>Madu Sidr Areesh dengan Royal Jelly dan Propolis (Kemasan 500 g). 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-sidr-areesh-dengan-royal-jelly-dan-propolis-kemasan-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
