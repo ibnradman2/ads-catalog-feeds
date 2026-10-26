@@ -4,10 +4,40 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 21 Oct 2026 17:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:00:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>850933620</g:id>
+      <g:title>山地巢蜜 200克</g:title>
+      <g:description>山地巢蜜 200克. 0.7 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/200/p850933620?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>504364220</g:id>
+      <g:title>山地巢蜜 400克</g:title>
+      <g:description>山地巢蜜 400克. 0.9 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/400/p504364220?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>476216439</g:id>
+      <g:title>巢蜜 500克</g:title>
+      <g:description>巢蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/500/p476216439?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1395738330</g:id>
+      <g:title>山地巢蜜 1250克</g:title>
+      <g:description>山地巢蜜 1250克. 1.75 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/1250/p1395738330?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1004145752</g:id>
+      <g:title>冬季特惠：2罐巢蜜，大包装</g:title>
+      <g:description>冬季特惠：2罐巢蜜，大包装. 2.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/zh/2/p1004145752?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1403683377</g:id>
       <g:title>冬季特惠：6罐白沙瓦西德尔蜂蜜 500克 + 赠品蜂花粉</g:title>
@@ -33,12 +63,6 @@
       <g:link>https://insafcompany.sa/zh/500/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>850933620</g:id>
-      <g:title>山地巢蜜 200克</g:title>
-      <g:description>山地巢蜜 200克. 0.7 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/200/p850933620?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>795150874</g:id>
       <g:title>年终特惠：2公斤天然西德尔 + 4公斤天然百花蜂蜜</g:title>
       <g:description>年终特惠：2公斤天然西德尔 + 4公斤天然百花蜂蜜. 6.5 kg.</g:description>
@@ -61,18 +85,6 @@
       <g:title>天然百花蜂蜜 1公斤</g:title>
       <g:description>天然百花蜂蜜 1公斤. 1.5 kg.</g:description>
       <g:link>https://insafcompany.sa/zh/1/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>504364220</g:id>
-      <g:title>山地巢蜜 400克</g:title>
-      <g:description>山地巢蜜 400克. 0.9 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/400/p504364220?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>476216439</g:id>
-      <g:title>巢蜜 500克</g:title>
-      <g:description>巢蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/500/p476216439?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>293213385</g:id>
@@ -171,12 +183,6 @@
       <g:link>https://insafcompany.sa/zh/6-4/p1419760550?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1395738330</g:id>
-      <g:title>山地巢蜜 1250克</g:title>
-      <g:description>山地巢蜜 1250克. 1.75 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/1250/p1395738330?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1392084004</g:id>
       <g:title>松树蜂蜜 500克</g:title>
       <g:description>松树蜂蜜 500克. 1.0 kg.</g:description>
@@ -205,12 +211,6 @@
       <g:title>冬季特惠：8公斤高级天然西德尔蜂蜜 + 赠品蜂巢</g:title>
       <g:description>冬季特惠：8公斤高级天然西德尔蜂蜜 + 赠品蜂巢. 8.5 kg.</g:description>
       <g:link>https://insafcompany.sa/zh/8/p1041174705?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1004145752</g:id>
-      <g:title>冬季特惠：2罐巢蜜，大包装</g:title>
-      <g:description>冬季特惠：2罐巢蜜，大包装. 2.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/zh/2/p1004145752?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
   </channel>
 </rss>
