@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 19:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>704453922</g:id>
+      <g:title>Arı Poleni (Çiçek Poleni Taneleri) 30 gram</g:title>
+      <g:description>Arı Poleni (Çiçek Poleni Taneleri) 30 gram. 0.53 kg.</g:description>
+      <g:link>https://hayala.co/tr/ar-poleni-i-ek-poleni-taneleri-30-gram/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>291133519</g:id>
+      <g:title>Doğal Yerli Sıvı Propolis - 65 gram</g:title>
+      <g:description>Doğal Yerli Sıvı Propolis - 65 gram. 0.565 kg.</g:description>
+      <g:link>https://hayala.co/tr/do-al-yerli-s-v-propolis-65-gram/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1387194813</g:id>
+      <g:title>Propolis Taneleri (Propolis veya Arı Zamkı) 15 g</g:title>
+      <g:description>Propolis Taneleri (Propolis veya Arı Zamkı) 15 g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/tr/propolis-taneleri-propolis-veya-ar-zamk-15-g/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1837829247</g:id>
+      <g:title>Premium Samar Balı (Diken Balı) 500 g</g:title>
+      <g:description>Premium Samar Balı (Diken Balı) 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/premium-samar-bal-diken-bal-500-g/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>331895065</g:id>
       <g:title>Kuruyemişli Bal (Badem - Kaju - Ceviz - Pekan - Fındık - Antep Fıstığı) (500 gram)</g:title>
@@ -703,30 +727,6 @@
       <g:title>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
       <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
       <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-1-8-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1837829247</g:id>
-      <g:title>Premium Samar Balı (Diken Balı) 500 g</g:title>
-      <g:description>Premium Samar Balı (Diken Balı) 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/premium-samar-bal-diken-bal-500-g/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1387194813</g:id>
-      <g:title>Propolis Taneleri (Propolis veya Arı Zamkı) 15 g</g:title>
-      <g:description>Propolis Taneleri (Propolis veya Arı Zamkı) 15 g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/tr/propolis-taneleri-propolis-veya-ar-zamk-15-g/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>291133519</g:id>
-      <g:title>Doğal Yerli Sıvı Propolis - 65 gram</g:title>
-      <g:description>Doğal Yerli Sıvı Propolis - 65 gram. 0.565 kg.</g:description>
-      <g:link>https://hayala.co/tr/do-al-yerli-s-v-propolis-65-gram/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>704453922</g:id>
-      <g:title>Arı Poleni (Çiçek Poleni Taneleri) 30 gram</g:title>
-      <g:description>Arı Poleni (Çiçek Poleni Taneleri) 30 gram. 0.53 kg.</g:description>
-      <g:link>https://hayala.co/tr/ar-poleni-i-ek-poleni-taneleri-30-gram/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1759502471</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 18:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:02:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
+      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>52483795</g:id>
+      <g:title>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g</g:title>
+      <g:description>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/dos-envases-de-mezcla-de-miel-al-jabal-con-sidr-natural-polen-jalea-real-y-ginse/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1170804255</g:id>
       <g:title>Mezcla de miel real Al Jabal 1 kg</g:title>
@@ -477,12 +489,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-talh-de-hail-500-g/p1819634026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>987199113</g:id>
-      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
-      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>879350052</g:id>
       <g:title>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis)</g:title>
       <g:description>Oferta especial: 4 envases de miel de Sidr de Cachemira + 3 envases de miel de comino negro + cuchara de miel de madera (envío gratis). 3.5 kg.</g:description>
@@ -505,12 +511,6 @@
       <g:title>Miel de flor de trébol, garrafa de 5 kg a precio mayorista (envío gratis)</g:title>
       <g:description>Miel de flor de trébol, garrafa de 5 kg a precio mayorista (envío gratis). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-garrafa-de-5-kg-a-precio-mayorista-env-o-gratis/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>52483795</g:id>
-      <g:title>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g</g:title>
-      <g:description>Dos envases de mezcla de miel Al Jabal con Sidr natural, polen, jalea real y ginseng, 500 g. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/dos-envases-de-mezcla-de-miel-al-jabal-con-sidr-natural-polen-jalea-real-y-ginse/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1281597213</g:id>

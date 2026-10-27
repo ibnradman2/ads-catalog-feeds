@@ -4,10 +4,67 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 19:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">704453922</guid>
+      <g:id>704453922</g:id>
+      <g:title>मधुमक्खी पराग (बी पोलन) 30 ग्राम</g:title>
+      <g:description>मधुमक्खी पराग (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
+      <g:link>https://hayala.co/hi/30/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/luAz8haYuH801JS4SHB0lADbNunFzdWhPIxMYoYm.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>17.00 SAR</g:price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.53 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">291133519</guid>
+      <g:id>291133519</g:id>
+      <g:title>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम</g:title>
+      <g:description>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम. 0.565 kg.</g:description>
+      <g:link>https://hayala.co/hi/65/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/HFtsNeDglwZQCec51pBByITJLcJqcjg7zfLyXi33.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>87.00 SAR</g:price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.565 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1387194813</guid>
+      <g:id>1387194813</g:id>
+      <g:title>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम</g:title>
+      <g:description>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/hi/15/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/cRqrfUvxFIH1uGKaQz4KD3VV0GM3ABMsZcST9l3f.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>35.00 SAR</g:price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.515 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1837829247</guid>
+      <g:id>1837829247</g:id>
+      <g:title>प्रीमियम समर (कांटेदार) शहद 500 ग्राम</g:title>
+      <g:description>प्रीमियम समर (कांटेदार) शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/4f9b0244-d983-45ea-a49a-4d05dcc98364-500x500-M1vx7iywDsojFRKYLqCyxmjRdDeySFP4uqF9yY3L.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>173.00 SAR</g:price>
+      <g:sale_price>95.00 SAR</g:sale_price>
+      <g:brand>हयाला</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">331895065</guid>
       <g:id>331895065</g:id>
@@ -1705,63 +1762,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1837829247</guid>
-      <g:id>1837829247</g:id>
-      <g:title>प्रीमियम समर (कांटेदार) शहद 500 ग्राम</g:title>
-      <g:description>प्रीमियम समर (कांटेदार) शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/4f9b0244-d983-45ea-a49a-4d05dcc98364-500x500-M1vx7iywDsojFRKYLqCyxmjRdDeySFP4uqF9yY3L.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>173.00 SAR</g:price>
-      <g:sale_price>95.00 SAR</g:sale_price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1387194813</guid>
-      <g:id>1387194813</g:id>
-      <g:title>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम</g:title>
-      <g:description>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/hi/15/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/cRqrfUvxFIH1uGKaQz4KD3VV0GM3ABMsZcST9l3f.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>35.00 SAR</g:price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.515 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">291133519</guid>
-      <g:id>291133519</g:id>
-      <g:title>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम</g:title>
-      <g:description>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम. 0.565 kg.</g:description>
-      <g:link>https://hayala.co/hi/65/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/HFtsNeDglwZQCec51pBByITJLcJqcjg7zfLyXi33.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>87.00 SAR</g:price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.565 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">704453922</guid>
-      <g:id>704453922</g:id>
-      <g:title>मधुमक्खी पराग (बी पोलन) 30 ग्राम</g:title>
-      <g:description>मधुमक्खी पराग (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
-      <g:link>https://hayala.co/hi/30/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/luAz8haYuH801JS4SHB0lADbNunFzdWhPIxMYoYm.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>17.00 SAR</g:price>
-      <g:brand>हयाला</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.53 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1759502471</guid>

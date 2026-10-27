@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 19:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>704453922</g:id>
+      <g:title>Pollen d'abeille (grains de pollen) 30 g</g:title>
+      <g:description>Pollen d'abeille (grains de pollen) 30 g. 0.53 kg.</g:description>
+      <g:link>https://hayala.co/fr/pollen-d-abeille-grains-de-pollen-30-g/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>291133519</g:id>
+      <g:title>Propolis liquide naturelle du terroir - 65 g</g:title>
+      <g:description>Propolis liquide naturelle du terroir - 65 g. 0.565 kg.</g:description>
+      <g:link>https://hayala.co/fr/propolis-liquide-naturelle-du-terroir-65-g/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1387194813</g:id>
+      <g:title>Propolis en grains (Propolis ou colle d'abeille Bee Glue) 15 g</g:title>
+      <g:description>Propolis en grains (Propolis ou colle d'abeille Bee Glue) 15 g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/fr/propolis-en-grains-propolis-ou-colle-d-abeille-bee-glue-15-g/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1837829247</g:id>
+      <g:title>Miel de Samar premium 500 g</g:title>
+      <g:description>Miel de Samar premium 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/miel-de-samar-premium-500-g/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>331895065</g:id>
       <g:title>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g)</g:title>
@@ -691,30 +715,6 @@
       <g:title>Cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, 1 kg</g:title>
       <g:description>Cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/fr/cardamome-am-ricaine-de-premier-choix-extra-jumbo-n-1-calibre-8-mm-1-kg/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1837829247</g:id>
-      <g:title>Miel de Samar premium 500 g</g:title>
-      <g:description>Miel de Samar premium 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/miel-de-samar-premium-500-g/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1387194813</g:id>
-      <g:title>Propolis en grains (Propolis ou colle d'abeille Bee Glue) 15 g</g:title>
-      <g:description>Propolis en grains (Propolis ou colle d'abeille Bee Glue) 15 g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/fr/propolis-en-grains-propolis-ou-colle-d-abeille-bee-glue-15-g/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>291133519</g:id>
-      <g:title>Propolis liquide naturelle du terroir - 65 g</g:title>
-      <g:description>Propolis liquide naturelle du terroir - 65 g. 0.565 kg.</g:description>
-      <g:link>https://hayala.co/fr/propolis-liquide-naturelle-du-terroir-65-g/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>704453922</g:id>
-      <g:title>Pollen d'abeille (grains de pollen) 30 g</g:title>
-      <g:description>Pollen d'abeille (grains de pollen) 30 g. 0.53 kg.</g:description>
-      <g:link>https://hayala.co/fr/pollen-d-abeille-grains-de-pollen-30-g/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1759502471</g:id>

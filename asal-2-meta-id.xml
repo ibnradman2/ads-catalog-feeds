@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 18:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:02:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir)</g:title>
+      <g:description>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-perak-madu-hutan-hitam-madu-jintan-hitam-madu-bunga-clover-gratis-ongkir/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>52483795</g:id>
+      <g:title>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram</g:title>
+      <g:description>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/dua-kemasan-madu-campuran-pegunungan-dengan-sidr-serbuk-sari-royal-jelly-dan-gin/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1170804255</g:id>
       <g:title>Campuran Al Jabal Royal 1 kilo</g:title>
@@ -477,12 +489,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-talh-hail-500-g/p1819634026?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>987199113</g:id>
-      <g:title>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir)</g:title>
-      <g:description>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-perak-madu-hutan-hitam-madu-jintan-hitam-madu-bunga-clover-gratis-ongkir/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>879350052</g:id>
       <g:title>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir)</g:title>
       <g:description>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir). 3.5 kg.</g:description>
@@ -505,12 +511,6 @@
       <g:title>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir)</g:title>
       <g:description>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-bunga-semanggi-barsim-galon-5-kg-harga-grosir-gratis-ongkir/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>52483795</g:id>
-      <g:title>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram</g:title>
-      <g:description>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/dua-kemasan-madu-campuran-pegunungan-dengan-sidr-serbuk-sari-royal-jelly-dan-gin/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1281597213</g:id>

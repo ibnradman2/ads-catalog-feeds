@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 19:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:00:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>704453922</g:id>
+      <g:title>मधुमक्खी पराग (बी पोलन) 30 ग्राम</g:title>
+      <g:description>मधुमक्खी पराग (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
+      <g:link>https://hayala.co/hi/30/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>291133519</g:id>
+      <g:title>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम</g:title>
+      <g:description>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम. 0.565 kg.</g:description>
+      <g:link>https://hayala.co/hi/65/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1387194813</g:id>
+      <g:title>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम</g:title>
+      <g:description>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/hi/15/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1837829247</g:id>
+      <g:title>प्रीमियम समर (कांटेदार) शहद 500 ग्राम</g:title>
+      <g:description>प्रीमियम समर (कांटेदार) शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>331895065</g:id>
       <g:title>मेवों वाला शहद (बादाम – काजू – अखरोट – पेकान – हेज़लनट – पिस्ता) 500 ग्राम</g:title>
@@ -715,30 +739,6 @@
       <g:title>अमेरिकी इलायची प्रथम श्रेणी नंबर 1, मोटाई 8 मिमी, कार्टन 2.5 किलो</g:title>
       <g:description>अमेरिकी इलायची प्रथम श्रेणी नंबर 1, मोटाई 8 मिमी, कार्टन 2.5 किलो. 3.0 kg.</g:description>
       <g:link>https://hayala.co/hi/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1837829247</g:id>
-      <g:title>प्रीमियम समर (कांटेदार) शहद 500 ग्राम</g:title>
-      <g:description>प्रीमियम समर (कांटेदार) शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p1837829247?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1387194813</g:id>
-      <g:title>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम</g:title>
-      <g:description>प्रोपोलिस दाने (बी ग्लू) 15 ग्राम. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/hi/15/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>291133519</g:id>
-      <g:title>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम</g:title>
-      <g:description>देसी प्राकृतिक तरल प्रोपोलिस (बी ग्लू) 65 ग्राम. 0.565 kg.</g:description>
-      <g:link>https://hayala.co/hi/65/p291133519?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>704453922</g:id>
-      <g:title>मधुमक्खी पराग (बी पोलन) 30 ग्राम</g:title>
-      <g:description>मधुमक्खी पराग (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
-      <g:link>https://hayala.co/hi/30/p704453922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1759502471</g:id>

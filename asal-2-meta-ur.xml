@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 18:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:02:41 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری)</g:title>
+      <g:description>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>52483795</g:id>
+      <g:title>دو ڈبے خلطۃ الجبال شہد، قدرتی سدر، پولن، رائل جیلی اور جنسینگ کے ساتھ، 500 گرام</g:title>
+      <g:description>دو ڈبے خلطۃ الجبال شہد، قدرتی سدر، پولن، رائل جیلی اور جنسینگ کے ساتھ، 500 گرام. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>425796384</g:id>
       <g:title>شاہی خلطہ الجبال کے دو ڈبے 500 گرام + آدھا کلو میوہ جات والا شہد</g:title>
@@ -351,12 +363,6 @@
       <g:link>https://asalaljebal.sa/ur/2-1/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>987199113</g:id>
-      <g:title>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری)</g:title>
-      <g:description>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>879350052</g:id>
       <g:title>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری)</g:title>
       <g:description>خاص آفر: 4 ڈبے کشمیری سدر + 3 ڈبے کالا دانہ شہد + لکڑی کا شہد کا چمچ (مفت ڈیلیوری). 3.5 kg.</g:description>
@@ -373,12 +379,6 @@
       <g:title>برسیم کا شہد، 5 کلو کا گیلن، تھوک قیمت پر (مفت ڈیلیوری)</g:title>
       <g:description>برسیم کا شہد، 5 کلو کا گیلن، تھوک قیمت پر (مفت ڈیلیوری). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/5/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>52483795</g:id>
-      <g:title>دو ڈبے خلطۃ الجبال شہد، قدرتی سدر، پولن، رائل جیلی اور جنسینگ کے ساتھ، 500 گرام</g:title>
-      <g:description>دو ڈبے خلطۃ الجبال شہد، قدرتی سدر، پولن، رائل جیلی اور جنسینگ کے ساتھ، 500 گرام. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p52483795?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1281597213</g:id>
