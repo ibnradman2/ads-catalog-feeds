@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 18:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:48:49 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>331895065</g:id>
+      <g:title>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g)</g:title>
+      <g:description>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g). 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/miel-aux-noix-amande-noix-de-cajou-noix-noix-de-p-can-noisette-pistache-500-g/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1809311902</g:id>
+      <g:title>Propolis en poudre (Propolis ou colle d'abeille Bee Glue) 15 g</g:title>
+      <g:description>Propolis en poudre (Propolis ou colle d'abeille Bee Glue) 15 g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/fr/propolis-en-poudre-propolis-ou-colle-d-abeille-bee-glue-15-g/p1809311902?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1285757989</g:id>
+      <g:title>Ginseng 15 g</g:title>
+      <g:description>Ginseng 15 g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/fr/ginseng-15-g/p1285757989?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>65975421</g:id>
+      <g:title>Pollen de palmier dattier 15 g</g:title>
+      <g:description>Pollen de palmier dattier 15 g. 0.515 kg.</g:description>
+      <g:link>https://hayala.co/fr/pollen-de-palmier-dattier-15-g/p65975421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>351659116</g:id>
       <g:title>Thym moulu 500 g</g:title>
@@ -667,30 +691,6 @@
       <g:title>Cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, 1 kg</g:title>
       <g:description>Cardamome américaine de premier choix extra jumbo n° 1, calibre 8 mm, 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/fr/cardamome-am-ricaine-de-premier-choix-extra-jumbo-n-1-calibre-8-mm-1-kg/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>65975421</g:id>
-      <g:title>Pollen de palmier dattier 15 g</g:title>
-      <g:description>Pollen de palmier dattier 15 g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/fr/pollen-de-palmier-dattier-15-g/p65975421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1285757989</g:id>
-      <g:title>Ginseng 15 g</g:title>
-      <g:description>Ginseng 15 g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/fr/ginseng-15-g/p1285757989?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>331895065</g:id>
-      <g:title>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g)</g:title>
-      <g:description>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g). 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/miel-aux-noix-amande-noix-de-cajou-noix-noix-de-p-can-noisette-pistache-500-g/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1809311902</g:id>
-      <g:title>Propolis en poudre (Propolis ou colle d'abeille Bee Glue) 15 g</g:title>
-      <g:description>Propolis en poudre (Propolis ou colle d'abeille Bee Glue) 15 g. 0.515 kg.</g:description>
-      <g:link>https://hayala.co/fr/propolis-en-poudre-propolis-ou-colle-d-abeille-bee-glue-15-g/p1809311902?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1837829247</g:id>
