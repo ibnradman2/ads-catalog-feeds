@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 11:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:17:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1170804255</g:id>
+      <g:title>Kraliyet Dağ Karışımı 1 kg</g:title>
+      <g:description>Kraliyet Dağ Karışımı 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/kraliyet-da-kar-m-1-kg/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>425796384</g:id>
+      <g:title>2 Kutu Kraliyet Dağ Karışımı 500 g + Yarım Kilo Kuruyemişli Bal</g:title>
+      <g:description>2 Kutu Kraliyet Dağ Karışımı 500 g + Yarım Kilo Kuruyemişli Bal. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/2-kutu-kraliyet-da-kar-m-500-g-yar-m-kilo-kuruyemi-li-bal/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>2 Adet 1 kg Karışım Balı + Hediye Karışım Kaşığı Paketi</g:title>
@@ -547,18 +559,6 @@
       <g:title>Doğal Sidr Balı Kaşıkları - 100 Adet</g:title>
       <g:description>Doğal Sidr Balı Kaşıkları - 100 Adet. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/do-al-sidr-bal-ka-klar-100-adet/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1170804255</g:id>
-      <g:title>Kraliyet Dağ Karışımı 1 kg</g:title>
-      <g:description>Kraliyet Dağ Karışımı 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/kraliyet-da-kar-m-1-kg/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>425796384</g:id>
-      <g:title>2 Kutu Kraliyet Dağ Karışımı 500 g + Yarım Kilo Kuruyemişli Bal</g:title>
-      <g:description>2 Kutu Kraliyet Dağ Karışımı 500 g + Yarım Kilo Kuruyemişli Bal. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/2-kutu-kraliyet-da-kar-m-500-g-yar-m-kilo-kuruyemi-li-bal/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1632997500</g:id>

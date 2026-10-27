@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 11:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:17:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1170804255</g:id>
+      <g:title>Royal Mountain Blend 1 Kilo</g:title>
+      <g:description>Royal Mountain Blend 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-mountain-blend-1-kilo/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>425796384</g:id>
+      <g:title>Dalawang Pakete ng Timplang Pulot ng Royal Mountain na 500 Gramo + Isang Pakete ng Pulot na may mga Mani na Kalahating Kilo</g:title>
+      <g:description>Dalawang Pakete ng Timplang Pulot ng Royal Mountain na 500 Gramo + Isang Pakete ng Pulot na may mga Mani na Kalahating Kilo. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-timplang-pulot-ng-royal-mountain-na-500-gramo-isang-pakete-ng/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>Dalawang Bote ng Maharlikang Khalta 1 Kilo + Pakete ng mga Kutsara ng Khalta bilang Regalo</g:title>
@@ -547,18 +559,6 @@
       <g:title>Mga Kutsarang Natural na Pulot na Sidr - 100 piraso</g:title>
       <g:description>Mga Kutsarang Natural na Pulot na Sidr - 100 piraso. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/mga-kutsarang-natural-na-pulot-na-sidr-100-piraso/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1170804255</g:id>
-      <g:title>Royal Mountain Blend 1 Kilo</g:title>
-      <g:description>Royal Mountain Blend 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-mountain-blend-1-kilo/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>425796384</g:id>
-      <g:title>Dalawang Pakete ng Timplang Pulot ng Royal Mountain na 500 Gramo + Isang Pakete ng Pulot na may mga Mani na Kalahating Kilo</g:title>
-      <g:description>Dalawang Pakete ng Timplang Pulot ng Royal Mountain na 500 Gramo + Isang Pakete ng Pulot na may mga Mani na Kalahating Kilo. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/dalawang-pakete-ng-timplang-pulot-ng-royal-mountain-na-500-gramo-isang-pakete-ng/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1632997500</g:id>

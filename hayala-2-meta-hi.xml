@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 17:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:17:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>351659116</g:id>
+      <g:title>पिसा ज़ातर 500 ग्राम</g:title>
+      <g:description>पिसा ज़ातर 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p351659116?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>863440747</g:id>
       <g:title>पिसी हुई मुलेठी (500 ग्राम)</g:title>
@@ -325,12 +331,6 @@
       <g:title>मेथी दाना 500 ग्राम</g:title>
       <g:description>मेथी दाना 500 ग्राम. 1.0 kg.</g:description>
       <g:link>https://hayala.co/hi/500/p190195544?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>351659116</g:id>
-      <g:title>पिसा ज़ातर 500 ग्राम</g:title>
-      <g:description>पिसा ज़ातर 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p351659116?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>999780142</g:id>

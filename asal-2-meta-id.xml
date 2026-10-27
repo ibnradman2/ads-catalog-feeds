@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 11:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:17:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1170804255</g:id>
+      <g:title>Campuran Al Jabal Royal 1 kilo</g:title>
+      <g:description>Campuran Al Jabal Royal 1 kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/campuran-al-jabal-royal-1-kilo/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>425796384</g:id>
+      <g:title>2 Kemasan Campuran Al Jabal Royal 500 gram + 1 Kemasan Madu Kacang Setengah Kilo</g:title>
+      <g:description>2 Kemasan Campuran Al Jabal Royal 500 gram + 1 Kemasan Madu Kacang Setengah Kilo. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/2-kemasan-campuran-al-jabal-royal-500-gram-1-kemasan-madu-kacang-setengah-kilo/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>Dua Kemasan Khulthah 1 Kg + Kemasan Sendok Khulthah Hadiah</g:title>
@@ -547,18 +559,6 @@
       <g:title>Sendok Madu Sidr Alami - 100 Buah</g:title>
       <g:description>Sendok Madu Sidr Alami - 100 Buah. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/sendok-madu-sidr-alami-100-buah/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1170804255</g:id>
-      <g:title>Campuran Al Jabal Royal 1 kilo</g:title>
-      <g:description>Campuran Al Jabal Royal 1 kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/campuran-al-jabal-royal-1-kilo/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>425796384</g:id>
-      <g:title>2 Kemasan Campuran Al Jabal Royal 500 gram + 1 Kemasan Madu Kacang Setengah Kilo</g:title>
-      <g:description>2 Kemasan Campuran Al Jabal Royal 500 gram + 1 Kemasan Madu Kacang Setengah Kilo. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/2-kemasan-campuran-al-jabal-royal-500-gram-1-kemasan-madu-kacang-setengah-kilo/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1632997500</g:id>
