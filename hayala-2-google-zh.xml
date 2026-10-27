@@ -4,10 +4,66 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 11:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:09:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1832849003</guid>
+      <g:id>1832849003</g:id>
+      <g:title>整粒香料 500克</g:title>
+      <g:description>整粒香料 500克. 香料与草本. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p1832849003?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/FBKUae5HoTXVYh2hpHYu74noaQn8J4vHRcKzYeJ5.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>19.55 SAR</g:price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1832849003</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">257201169</guid>
+      <g:id>257201169</g:id>
+      <g:title>阿育旺籽1公斤</g:title>
+      <g:description>阿育旺籽1公斤. 坚果与种子. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p257201169?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/RlMS1sYmokfiBjZXKJEHHSkBnsbzoYStZ9O3J8sX.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>28.00 SAR</g:price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>257201169</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">656732927</guid>
+      <g:id>656732927</g:id>
+      <g:title>霍吉里公乳香（50克）阿曼佐法尔</g:title>
+      <g:description>霍吉里公乳香（50克）阿曼佐法尔. 坚果与种子. 0.55 kg.</g:description>
+      <g:link>https://hayala.co/zh/50/p656732927?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Ef5u57IlxyTfwhblGX9FrfHu5Wb61mkw64VfdMuK.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 SAR</g:price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.55 kg</g:shipping_weight>
+    <g:mpn>656732927</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1665411110</guid>
+      <g:id>1665411110</g:id>
+      <g:title>阿拉伯胶粉500克</g:title>
+      <g:description>阿拉伯胶粉500克. 香料与草本. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p1665411110?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/RD8e9zwKRciFsGRcWCYndEdPBDUY8KVawpUiFr5f.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>29.00 SAR</g:price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1665411110</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">172198759</guid>
       <g:id>172198759</g:id>
@@ -1398,20 +1454,6 @@
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1621826523</g:mpn><g:google_product_category>1868</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>咖啡</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1832849003</guid>
-      <g:id>1832849003</g:id>
-      <g:title>整粒香料 500克</g:title>
-      <g:description>整粒香料 500克. 香料与草本. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p1832849003?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/FBKUae5HoTXVYh2hpHYu74noaQn8J4vHRcKzYeJ5.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>19.55 SAR</g:price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1832849003</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3></item>
-    <item>
       <guid isPermaLink="false">1270839426</guid>
       <g:id>1270839426</g:id>
       <g:title>优惠 美国小豆蔻特大号1号8毫米5公斤整箱（免运费）</g:title>
@@ -1440,20 +1482,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>10846494</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>小豆蔻</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">1665411110</guid>
-      <g:id>1665411110</g:id>
-      <g:title>阿拉伯胶粉500克</g:title>
-      <g:description>阿拉伯胶粉500克. 香料与草本. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p1665411110?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/RD8e9zwKRciFsGRcWCYndEdPBDUY8KVawpUiFr5f.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>29.00 SAR</g:price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1665411110</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1111478955</guid>
       <g:id>1111478955</g:id>
@@ -1491,34 +1519,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>2071592201</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>小豆蔻</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">656732927</guid>
-      <g:id>656732927</g:id>
-      <g:title>霍吉里公乳香（50克）阿曼佐法尔</g:title>
-      <g:description>霍吉里公乳香（50克）阿曼佐法尔. 坚果与种子. 0.55 kg.</g:description>
-      <g:link>https://hayala.co/zh/50/p656732927?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Ef5u57IlxyTfwhblGX9FrfHu5Wb61mkw64VfdMuK.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>25.00 SAR</g:price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.55 kg</g:shipping_weight>
-    <g:mpn>656732927</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>50g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">257201169</guid>
-      <g:id>257201169</g:id>
-      <g:title>阿育旺籽1公斤</g:title>
-      <g:description>阿育旺籽1公斤. 坚果与种子. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p257201169?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/RlMS1sYmokfiBjZXKJEHHSkBnsbzoYStZ9O3J8sX.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>28.00 SAR</g:price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>257201169</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1126381181</guid>
       <g:id>1126381181</g:id>
