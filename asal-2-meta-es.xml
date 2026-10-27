@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 11:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:17:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1170804255</g:id>
+      <g:title>Mezcla de miel real Al Jabal 1 kg</g:title>
+      <g:description>Mezcla de miel real Al Jabal 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/mezcla-de-miel-real-al-jabal-1-kg/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>425796384</g:id>
+      <g:title>2 frascos de Mezcla Real de Al Jabal de 500 g + 1 frasco de miel con frutos secos de medio kilo</g:title>
+      <g:description>2 frascos de Mezcla Real de Al Jabal de 500 g + 1 frasco de miel con frutos secos de medio kilo. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/2-frascos-de-mezcla-real-de-al-jabal-de-500-g-1-frasco-de-miel-con-frutos-secos-/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1162802741</g:id>
       <g:title>Dos botes de mezcla de 1 kg y de regalo un bote de cucharas</g:title>
@@ -547,18 +559,6 @@
       <g:title>Cucharas de miel de sidr natural de Cachemira, 100 unidades</g:title>
       <g:description>Cucharas de miel de sidr natural de Cachemira, 100 unidades. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/cucharas-de-miel-de-sidr-natural-de-cachemira-100-unidades/p1292771214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1170804255</g:id>
-      <g:title>Mezcla de miel real Al Jabal 1 kg</g:title>
-      <g:description>Mezcla de miel real Al Jabal 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/mezcla-de-miel-real-al-jabal-1-kg/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>425796384</g:id>
-      <g:title>2 frascos de Mezcla Real de Al Jabal de 500 g + 1 frasco de miel con frutos secos de medio kilo</g:title>
-      <g:description>2 frascos de Mezcla Real de Al Jabal de 500 g + 1 frasco de miel con frutos secos de medio kilo. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/2-frascos-de-mezcla-real-de-al-jabal-de-500-g-1-frasco-de-miel-con-frutos-secos-/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1632997500</g:id>
