@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 25 Oct 2026 17:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:48:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -541,12 +541,6 @@
       <g:title>Miel de flores natural 8 kg</g:title>
       <g:description>Miel de flores natural 8 kg. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-de-flores-natural-8-kg/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>Miel de Sidr natural 6 kg (3 envases de 2 kg, el tercero gratis)</g:title>
-      <g:description>Miel de Sidr natural 6 kg (3 envases de 2 kg, el tercero gratis). 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-sidr-natural-6-kg-3-envases-de-2-kg-el-tercero-gratis/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1789520129</g:id>

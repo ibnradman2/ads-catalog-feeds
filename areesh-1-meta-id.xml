@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 20:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:48:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -541,12 +541,6 @@
       <g:title>8 Kilo Madu Bunga Alami</g:title>
       <g:description>8 Kilo Madu Bunga Alami. 8.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/8-kilo-madu-bunga-alami/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1487430420</g:id>
-      <g:title>Madu Sidr Alami 6 Kilo (3 Kemasan × 2 Kilo, Kemasan Ketiga Gratis)</g:title>
-      <g:description>Madu Sidr Alami 6 Kilo (3 Kemasan × 2 Kilo, Kemasan Ketiga Gratis). 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-alami-6-kilo-3-kemasan-2-kilo-kemasan-ketiga-gratis/p1487430420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1789520129</g:id>
