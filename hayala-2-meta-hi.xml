@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 07:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:14:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>834579494</g:id>
+      <g:title>पहाड़ी सिद्र शहद छत्ते सहित 1 किलो</g:title>
+      <g:description>पहाड़ी सिद्र शहद छत्ते सहित 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p834579494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1992072436</g:id>
+      <g:title>समरा (शौका) शहद छत्ते सहित 1 किलो</g:title>
+      <g:description>समरा (शौका) शहद छत्ते सहित 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p1992072436?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1730613591</g:id>
+      <g:title>सूखा अनानास 250 ग्राम</g:title>
+      <g:description>सूखा अनानास 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/hi/250/p1730613591?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1718132750</g:id>
+      <g:title>किफ़ायती कलेक्शन (इलायची + केसर + शहद + मसाले + सूप मसाले)</g:title>
+      <g:description>किफ़ायती कलेक्शन (इलायची + केसर + शहद + मसाले + सूप मसाले). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1171722381</g:id>
       <g:title>जौ का आटा 500 ग्राम</g:title>
@@ -121,12 +145,6 @@
       <g:title>लुक़मती बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
       <g:description>लुक़मती बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए. 5.5 kg.</g:description>
       <g:link>https://hayala.co/hi/5/p578517759?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1718132750</g:id>
-      <g:title>किफ़ायती कलेक्शन (इलायची + केसर + शहद + मसाले + सूप मसाले)</g:title>
-      <g:description>किफ़ायती कलेक्शन (इलायची + केसर + शहद + मसाले + सूप मसाले). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/product/p1718132750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1147148756</g:id>
@@ -465,12 +483,6 @@
       <g:link>https://hayala.co/hi/500/p1959531644?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1730613591</g:id>
-      <g:title>सूखा अनानास 250 ग्राम</g:title>
-      <g:description>सूखा अनानास 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/hi/250/p1730613591?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1701109911</g:id>
       <g:title>मरमिया (सेज) 1 किलो</g:title>
       <g:description>मरमिया (सेज) 1 किलो. 1.5 kg.</g:description>
@@ -559,18 +571,6 @@
       <g:title>प्रथम श्रेणी की जंबो अमेरिकन इलायची नंबर 2, 7 मिमी मोटाई, 1 किलो</g:title>
       <g:description>प्रथम श्रेणी की जंबो अमेरिकन इलायची नंबर 2, 7 मिमी मोटाई, 1 किलो. 1.5 kg.</g:description>
       <g:link>https://hayala.co/hi/2-7-1/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1992072436</g:id>
-      <g:title>समरा (शौका) शहद छत्ते सहित 1 किलो</g:title>
-      <g:description>समरा (शौका) शहद छत्ते सहित 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p1992072436?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>834579494</g:id>
-      <g:title>पहाड़ी सिद्र शहद छत्ते सहित 1 किलो</g:title>
-      <g:description>पहाड़ी सिद्र शहद छत्ते सहित 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p834579494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1843875892</g:id>
