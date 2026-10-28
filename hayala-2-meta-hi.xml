@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 09:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:12:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1854428382</g:id>
+      <g:title>2 किलो प्राकृतिक सिद्र शहद</g:title>
+      <g:description>2 किलो प्राकृतिक सिद्र शहद. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>868577170</g:id>
+      <g:title>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम</g:title>
+      <g:description>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम. 0.97 kg.</g:description>
+      <g:link>https://hayala.co/hi/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>176539565</g:id>
+      <g:title>सूखा आम 1 किलो</g:title>
+      <g:description>सूखा आम 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1511230577</g:id>
+      <g:title>सूखा आम 500 ग्राम</g:title>
+      <g:description>सूखा आम 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1073244520</g:id>
       <g:title>सूखा कीवी 500 ग्राम</g:title>
@@ -91,12 +115,6 @@
       <g:title>अलसी के बीज - 250 ग्राम</g:title>
       <g:description>अलसी के बीज - 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://hayala.co/hi/250/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1854428382</g:id>
-      <g:title>2 किलो प्राकृतिक सिद्र शहद</g:title>
-      <g:description>2 किलो प्राकृतिक सिद्र शहद. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1924754372</g:id>
@@ -871,24 +889,6 @@
       <g:title>अमेरिकी इलायची प्रथम श्रेणी नंबर 1, मोटाई 8 मिमी, कार्टन 2.5 किलो</g:title>
       <g:description>अमेरिकी इलायची प्रथम श्रेणी नंबर 1, मोटाई 8 मिमी, कार्टन 2.5 किलो. 3.0 kg.</g:description>
       <g:link>https://hayala.co/hi/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>176539565</g:id>
-      <g:title>सूखा आम 1 किलो</g:title>
-      <g:description>सूखा आम 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1511230577</g:id>
-      <g:title>सूखा आम 500 ग्राम</g:title>
-      <g:description>सूखा आम 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>868577170</g:id>
-      <g:title>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम</g:title>
-      <g:description>अदरक, नींबू और हल्दी वाला प्राकृतिक शहद पेय 470 ग्राम. 0.97 kg.</g:description>
-      <g:link>https://hayala.co/hi/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>946188382</g:id>

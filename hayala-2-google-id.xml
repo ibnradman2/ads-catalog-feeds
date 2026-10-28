@@ -4,10 +4,66 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 09:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:12:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1854428382</guid>
+      <g:id>1854428382</g:id>
+      <g:title>2 Kilo Madu Sidr Alami</g:title>
+      <g:description>2 Kilo Madu Sidr Alami. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/2-kilo-madu-sidr-alami/p1854428382?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/ucpKTh3Awq09ZS5a1bSnLVRbH6vjJLavgd7WYFNu.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>190.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1854428382</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">868577170</guid>
+      <g:id>868577170</g:id>
+      <g:title>Minuman Madu Alami Jahe, Lemon, dan Kunyit 470 gram</g:title>
+      <g:description>Minuman Madu Alami Jahe, Lemon, dan Kunyit 470 gram. 0.97 kg.</g:description>
+      <g:link>https://hayala.co/ind/minuman-madu-alami-jahe-lemon-dan-kunyit-470-gram/p868577170?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/924df781-5b4f-44cf-963d-0993b36b3873-500x500-MPul1L03QfidfutCjIWZol8lAbcsRoA7smyXfArO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>55.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.97 kg</g:shipping_weight>
+    <g:mpn>868577170</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">176539565</guid>
+      <g:id>176539565</g:id>
+      <g:title>Mangga Kering 1 Kilo</g:title>
+      <g:description>Mangga Kering 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/mangga-kering-1-kilo/p176539565?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/f26bdWuoBDSjn4gqEaAxiizIxGW68HswNIw2wapS.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>176539565</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1511230577</guid>
+      <g:id>1511230577</g:id>
+      <g:title>Mangga Kering 500 Gram</g:title>
+      <g:description>Mangga Kering 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/mangga-kering-500-gram/p1511230577?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/cZ6BzG8DOc8Ab9i0J5HiO25suiJFtr1Kdie4XuiA.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>40.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1511230577</g:mpn><g:google_product_category>1755</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1073244520</guid>
       <g:id>1073244520</g:id>
@@ -204,20 +260,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1841971411</g:mpn><g:google_product_category>433</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">1854428382</guid>
-      <g:id>1854428382</g:id>
-      <g:title>2 Kilo Madu Sidr Alami</g:title>
-      <g:description>2 Kilo Madu Sidr Alami. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/2-kilo-madu-sidr-alami/p1854428382?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/ucpKTh3Awq09ZS5a1bSnLVRbH6vjJLavgd7WYFNu.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>190.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1854428382</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1924754372</guid>
       <g:id>1924754372</g:id>
@@ -2006,48 +2048,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>432604828</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">176539565</guid>
-      <g:id>176539565</g:id>
-      <g:title>Mangga Kering 1 Kilo</g:title>
-      <g:description>Mangga Kering 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/mangga-kering-1-kilo/p176539565?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/f26bdWuoBDSjn4gqEaAxiizIxGW68HswNIw2wapS.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>176539565</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1511230577</guid>
-      <g:id>1511230577</g:id>
-      <g:title>Mangga Kering 500 Gram</g:title>
-      <g:description>Mangga Kering 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/mangga-kering-500-gram/p1511230577?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/cZ6BzG8DOc8Ab9i0J5HiO25suiJFtr1Kdie4XuiA.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>40.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1511230577</g:mpn><g:google_product_category>1755</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">868577170</guid>
-      <g:id>868577170</g:id>
-      <g:title>Minuman Madu Alami Jahe, Lemon, dan Kunyit 470 gram</g:title>
-      <g:description>Minuman Madu Alami Jahe, Lemon, dan Kunyit 470 gram. 0.97 kg.</g:description>
-      <g:link>https://hayala.co/ind/minuman-madu-alami-jahe-lemon-dan-kunyit-470-gram/p868577170?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/924df781-5b4f-44cf-963d-0993b36b3873-500x500-MPul1L03QfidfutCjIWZol8lAbcsRoA7smyXfArO.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>55.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.97 kg</g:shipping_weight>
-    <g:mpn>868577170</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">946188382</guid>
       <g:id>946188382</g:id>

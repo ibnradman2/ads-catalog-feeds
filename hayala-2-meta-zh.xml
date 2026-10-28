@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 09:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:12:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1854428382</g:id>
+      <g:title>2公斤天然西德尔蜂蜜</g:title>
+      <g:description>2公斤天然西德尔蜂蜜. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>868577170</g:id>
+      <g:title>天然姜柠檬姜黄蜂蜜饮品 470克</g:title>
+      <g:description>天然姜柠檬姜黄蜂蜜饮品 470克. 0.97 kg.</g:description>
+      <g:link>https://hayala.co/zh/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>176539565</g:id>
+      <g:title>1公斤芒果干</g:title>
+      <g:description>1公斤芒果干. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1511230577</g:id>
+      <g:title>500克芒果干</g:title>
+      <g:description>500克芒果干. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1073244520</g:id>
       <g:title>500克猕猴桃干</g:title>
@@ -91,12 +115,6 @@
       <g:title>亚麻籽 250克</g:title>
       <g:description>亚麻籽 250克. 0.75 kg.</g:description>
       <g:link>https://hayala.co/zh/250/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1854428382</g:id>
-      <g:title>2公斤天然西德尔蜂蜜</g:title>
-      <g:description>2公斤天然西德尔蜂蜜. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1924754372</g:id>
@@ -841,24 +859,6 @@
       <g:title>美国一级绿小豆蔻 1号 8毫米 2.5公斤整箱（免费配送）</g:title>
       <g:description>美国一级绿小豆蔻 1号 8毫米 2.5公斤整箱（免费配送）. 3.0 kg.</g:description>
       <g:link>https://hayala.co/zh/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>176539565</g:id>
-      <g:title>1公斤芒果干</g:title>
-      <g:description>1公斤芒果干. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1511230577</g:id>
-      <g:title>500克芒果干</g:title>
-      <g:description>500克芒果干. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>868577170</g:id>
-      <g:title>天然姜柠檬姜黄蜂蜜饮品 470克</g:title>
-      <g:description>天然姜柠檬姜黄蜂蜜饮品 470克. 0.97 kg.</g:description>
-      <g:link>https://hayala.co/zh/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>946188382</g:id>

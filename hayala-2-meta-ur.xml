@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 09:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:12:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1854428382</g:id>
+      <g:title>قدرتی سدر شہد 2 کلو کا پیک</g:title>
+      <g:description>قدرتی سدر شہد 2 کلو کا پیک. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>868577170</g:id>
+      <g:title>ادرک، لیموں اور ہلدی والا شہد کا مشروب 470 گرام</g:title>
+      <g:description>ادرک، لیموں اور ہلدی والا شہد کا مشروب 470 گرام. 0.97 kg.</g:description>
+      <g:link>https://hayala.co/ur/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>176539565</g:id>
+      <g:title>خشک آم 1 کلو، نرم قتلے مہمان نوازی اور بیکنگ کے لیے</g:title>
+      <g:description>خشک آم 1 کلو، نرم قتلے مہمان نوازی اور بیکنگ کے لیے. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1511230577</g:id>
+      <g:title>خشک آم 500 گرام، ہلکے ناشتے اور میٹھوں کے لیے</g:title>
+      <g:description>خشک آم 500 گرام، ہلکے ناشتے اور میٹھوں کے لیے. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1073244520</g:id>
       <g:title>خشک کیوی 500 گرام – نرم سبز قتلے</g:title>
@@ -91,12 +115,6 @@
       <g:title>السی کے بیج - 250 گرام</g:title>
       <g:description>السی کے بیج - 250 گرام. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ur/250/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1854428382</g:id>
-      <g:title>قدرتی سدر شہد 2 کلو کا پیک</g:title>
-      <g:description>قدرتی سدر شہد 2 کلو کا پیک. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1924754372</g:id>
@@ -805,24 +823,6 @@
       <g:title>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری)</g:title>
       <g:description>امریکی الائچی درجہ اول نمبر 1، موٹائی 8 ملی میٹر، کارٹن 2.5 کلو (مفت ڈیلیوری). 3.0 kg.</g:description>
       <g:link>https://hayala.co/ur/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>176539565</g:id>
-      <g:title>خشک آم 1 کلو، نرم قتلے مہمان نوازی اور بیکنگ کے لیے</g:title>
-      <g:description>خشک آم 1 کلو، نرم قتلے مہمان نوازی اور بیکنگ کے لیے. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/1/p176539565?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1511230577</g:id>
-      <g:title>خشک آم 500 گرام، ہلکے ناشتے اور میٹھوں کے لیے</g:title>
-      <g:description>خشک آم 500 گرام، ہلکے ناشتے اور میٹھوں کے لیے. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>868577170</g:id>
-      <g:title>ادرک، لیموں اور ہلدی والا شہد کا مشروب 470 گرام</g:title>
-      <g:description>ادرک، لیموں اور ہلدی والا شہد کا مشروب 470 گرام. 0.97 kg.</g:description>
-      <g:link>https://hayala.co/ur/470/p868577170?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>946188382</g:id>
