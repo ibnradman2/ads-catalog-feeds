@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 23:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:08:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1314226407</guid>
+      <g:id>1314226407</g:id>
+      <g:title>जॉर्डनी मधुमक्खी पराग 250 ग्राम</g:title>
+      <g:description>जॉर्डनी मधुमक्खी पराग 250 ग्राम. मधुमक्खी उत्पाद. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p1314226407?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.00 SAR</g:price>
+      <g:brand>असल अल-जबल</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001007003</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>1314226407</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>मधुमक्खी उत्पाद</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1758124226</guid>
       <g:id>1758124226</g:id>
@@ -1039,21 +1054,6 @@
       <g:item_group_id>0041034003</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>650316978</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>अन्य शहद</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1314226407</guid>
-      <g:id>1314226407</g:id>
-      <g:title>जॉर्डनी मधुमक्खी पराग 250 ग्राम</g:title>
-      <g:description>जॉर्डनी मधुमक्खी पराग 250 ग्राम. मधुमक्खी उत्पाद. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p1314226407?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/FotzifXRyaUph9H8TVG2ZR2ryzkmL09SdLhTH1JB.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>249.00 SAR</g:price>
-      <g:brand>असल अल-जबल</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001007003</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>1314226407</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>प्रदर्शन सी</g:custom_label_0><g:custom_label_1>पूरे साल</g:custom_label_1><g:custom_label_2>100 से 299</g:custom_label_2><g:custom_label_3>मधुमक्खी उत्पाद</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1741453097</guid>
       <g:id>1741453097</g:id>
