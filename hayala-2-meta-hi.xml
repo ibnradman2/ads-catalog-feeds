@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 17:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:18:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1051236094</g:id>
+      <g:title>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो</g:title>
+      <g:description>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/3-6-1/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1038697929</g:id>
       <g:title>गिफ़्ट बॉक्स - प्रीमियम अमेरिकी इलायची + सुपर नक़ील केसर + उपहार में घिसनी</g:title>
@@ -871,12 +877,6 @@
       <g:title>हरारी बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
       <g:description>हरारी बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए. 5.5 kg.</g:description>
       <g:link>https://hayala.co/hi/5/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1051236094</g:id>
-      <g:title>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो</g:title>
-      <g:description>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/3-6-1/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1270839426</g:id>
