@@ -4,10 +4,52 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 05:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:00:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1632683015</guid>
+      <g:id>1632683015</g:id>
+      <g:title>洋甘菊花1公斤</g:title>
+      <g:description>洋甘菊花1公斤. 坚果与种子. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p1632683015?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/TKjfUXES3TvUoVbKFJIrWjoTSWYVK497nZpCRbPE.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1632683015</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1669542650</guid>
+      <g:id>1669542650</g:id>
+      <g:title>奇亚籽 - 1公斤</g:title>
+      <g:description>奇亚籽 - 1公斤. 坚果与种子. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p1669542650?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/An13FEjcEaCvxxJZpaOkQKFmU2bD0lG4iPNh8tXT.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1669542650</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2065623105</guid>
+      <g:id>2065623105</g:id>
+      <g:title>大麦粉 250克</g:title>
+      <g:description>大麦粉 250克. 面粉. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/zh/250/p2065623105?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/1uhTcx3fxgxRP1nmmINi3Pvh9JHF7Cq80Du3mpPr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>9.00 SAR</g:price>
+      <g:brand>哈亚拉</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>2065623105</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>面粉</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">441888257</guid>
       <g:id>441888257</g:id>
@@ -1913,48 +1955,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>2071592201</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 甲</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>小豆蔻</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
-    <item>
-      <guid isPermaLink="false">1669542650</guid>
-      <g:id>1669542650</g:id>
-      <g:title>奇亚籽 - 1公斤</g:title>
-      <g:description>奇亚籽 - 1公斤. 坚果与种子. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p1669542650?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/An13FEjcEaCvxxJZpaOkQKFmU2bD0lG4iPNh8tXT.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1669542650</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1632683015</guid>
-      <g:id>1632683015</g:id>
-      <g:title>洋甘菊花1公斤</g:title>
-      <g:description>洋甘菊花1公斤. 坚果与种子. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p1632683015?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/TKjfUXES3TvUoVbKFJIrWjoTSWYVK497nZpCRbPE.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1632683015</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2065623105</guid>
-      <g:id>2065623105</g:id>
-      <g:title>大麦粉 250克</g:title>
-      <g:description>大麦粉 250克. 面粉. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/zh/250/p2065623105?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/1uhTcx3fxgxRP1nmmINi3Pvh9JHF7Cq80Du3mpPr.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>9.00 SAR</g:price>
-      <g:brand>哈亚拉</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>2065623105</g:mpn><g:google_product_category>2775</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>面粉</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">801044632</guid>
       <g:id>801044632</g:id>

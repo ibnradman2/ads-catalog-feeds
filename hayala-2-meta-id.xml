@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 05:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:00:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1632683015</g:id>
+      <g:title>Bunga Chamomile Kering 1 Kilo</g:title>
+      <g:description>Bunga Chamomile Kering 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/bunga-chamomile-kering-1-kilo/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1669542650</g:id>
+      <g:title>Biji Chia - 1 Kg</g:title>
+      <g:description>Biji Chia - 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/biji-chia-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>2065623105</g:id>
+      <g:title>Tepung Jelai 250 Gram</g:title>
+      <g:description>Tepung Jelai 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/ind/tepung-jelai-250-gram/p2065623105?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>441888257</g:id>
       <g:title>Alpukat Kering 500 gram</g:title>
@@ -811,24 +829,6 @@
       <g:title>Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm 1 Kilo</g:title>
       <g:description>Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://hayala.co/ind/kapulaga-amerika-grade-satu-extra-jumbo-no-1-ketebalan-8-mm-1-kilo/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1669542650</g:id>
-      <g:title>Biji Chia - 1 Kg</g:title>
-      <g:description>Biji Chia - 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/biji-chia-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1632683015</g:id>
-      <g:title>Bunga Chamomile Kering 1 Kilo</g:title>
-      <g:description>Bunga Chamomile Kering 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/bunga-chamomile-kering-1-kilo/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2065623105</g:id>
-      <g:title>Tepung Jelai 250 Gram</g:title>
-      <g:description>Tepung Jelai 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/ind/tepung-jelai-250-gram/p2065623105?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>801044632</g:id>
