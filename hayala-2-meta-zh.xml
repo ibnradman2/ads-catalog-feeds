@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 23:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:13:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1924754372</g:id>
+      <g:title>碧根果 500克</g:title>
+      <g:description>碧根果 500克. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1408049071</g:id>
+      <g:title>碧根果 1公斤</g:title>
+      <g:description>碧根果 1公斤. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1468610802</g:id>
+      <g:title>核桃（美国）- 500gm</g:title>
+      <g:description>核桃（美国）- 500gm. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/500gm/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>348925444</g:id>
       <g:title>核桃（美国产）1公斤</g:title>
@@ -735,28 +753,10 @@
       <g:link>https://hayala.co/zh/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1468610802</g:id>
-      <g:title>核桃（美国）- 500gm</g:title>
-      <g:description>核桃（美国）- 500gm. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500gm/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1408049071</g:id>
-      <g:title>碧根果 1公斤</g:title>
-      <g:description>碧根果 1公斤. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1841971411</g:id>
       <g:title>亚麻籽 250克</g:title>
       <g:description>亚麻籽 250克. 0.75 kg.</g:description>
       <g:link>https://hayala.co/zh/250/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1924754372</g:id>
-      <g:title>碧根果 500克</g:title>
-      <g:description>碧根果 500克. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/500/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>428797377</g:id>

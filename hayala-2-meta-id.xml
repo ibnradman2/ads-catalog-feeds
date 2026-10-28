@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 23:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:13:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1924754372</g:id>
+      <g:title>Kacang Pecan - 500 gram</g:title>
+      <g:description>Kacang Pecan - 500 gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/kacang-pecan-500-gram/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1408049071</g:id>
+      <g:title>Kacang Pecan - 1 Kg</g:title>
+      <g:description>Kacang Pecan - 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/kacang-pecan-1-kg/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1468610802</g:id>
+      <g:title>Walnut Amerika 500 gram</g:title>
+      <g:description>Walnut Amerika 500 gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/walnut-amerika-500-gram/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>348925444</g:id>
       <g:title>Kenari Amerika - 1 Kg</g:title>
@@ -741,28 +759,10 @@
       <g:link>https://hayala.co/ind/kapulaga-amerika-grade-satu-extra-jumbo-no-1-ketebalan-8-mm-1-kilo/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1468610802</g:id>
-      <g:title>Walnut Amerika 500 gram</g:title>
-      <g:description>Walnut Amerika 500 gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/walnut-amerika-500-gram/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1408049071</g:id>
-      <g:title>Kacang Pecan - 1 Kg</g:title>
-      <g:description>Kacang Pecan - 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/kacang-pecan-1-kg/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1841971411</g:id>
       <g:title>Biji Rami - 250 gram</g:title>
       <g:description>Biji Rami - 250 gram. 0.75 kg.</g:description>
       <g:link>https://hayala.co/ind/biji-rami-250-gram/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1924754372</g:id>
-      <g:title>Kacang Pecan - 500 gram</g:title>
-      <g:description>Kacang Pecan - 500 gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/kacang-pecan-500-gram/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>428797377</g:id>
