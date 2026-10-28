@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 08:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>486057126</g:id>
+      <g:title>Miel de flor de trébol 1 kg</g:title>
+      <g:description>Miel de flor de trébol 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-1-kg/p486057126?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>525279123</g:id>
       <g:title>Miel de Sidr Peshawari de Pakistán 1 kg</g:title>
@@ -1237,12 +1243,6 @@
       <g:title>Miel de anís, garrafón de 5 kg a precio de mayorista</g:title>
       <g:description>Miel de anís, garrafón de 5 kg a precio de mayorista. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-an-s-garraf-n-de-5-kg-a-precio-de-mayorista/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>486057126</g:id>
-      <g:title>Miel de flor de trébol 1 kg</g:title>
-      <g:description>Miel de flor de trébol 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-1-kg/p486057126?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>625331805</g:id>
