@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 02:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:12:29 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>525279123</g:id>
+      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 1公斤</g:title>
+      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p525279123?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1219301755</g:id>
+      <g:title>卡塔德蜂蜜（250克）</g:title>
+      <g:description>卡塔德蜂蜜（250克）. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1219301755?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>371437637</g:id>
+      <g:title>西班牙栗子蜂蜜 500克</g:title>
+      <g:description>西班牙栗子蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>801221806</g:id>
       <g:title>黑种草籽蜂蜜 2公斤（包邮）</g:title>
@@ -1443,12 +1461,6 @@
       <g:link>https://asalaljebal.sa/zh/2/p640611244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>525279123</g:id>
-      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 1公斤</g:title>
-      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p525279123?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>2144594011</g:id>
       <g:title>洋茴香蜂蜜 250克</g:title>
       <g:description>洋茴香蜂蜜 250克. 0.75 kg.</g:description>
@@ -1509,12 +1521,6 @@
       <g:link>https://asalaljebal.sa/zh/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>371437637</g:id>
-      <g:title>西班牙栗子蜂蜜 500克</g:title>
-      <g:description>西班牙栗子蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>275181506</g:id>
       <g:title>姜柠檬姜黄蜂蜜饮品（470克）+ 四分之一公斤克什米尔西德尔蜂蜜 + 四分之一公斤黑种草蜂蜜 + 黑种草籽</g:title>
       <g:description>姜柠檬姜黄蜂蜜饮品（470克）+ 四分之一公斤克什米尔西德尔蜂蜜 + 四分之一公斤黑种草蜂蜜 + 黑种草籽. 1.47 kg.</g:description>
@@ -1531,12 +1537,6 @@
       <g:title>柽柳蜂蜜（Al Sal）250克</g:title>
       <g:description>柽柳蜂蜜（Al Sal）250克. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/al-sal-250/p1129449226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1219301755</g:id>
-      <g:title>卡塔德蜂蜜（250克）</g:title>
-      <g:description>卡塔德蜂蜜（250克）. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p1219301755?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>472529251</g:id>

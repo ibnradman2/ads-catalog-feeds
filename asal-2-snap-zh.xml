@@ -4,10 +4,59 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 02:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:12:29 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">525279123</guid>
+      <g:id>525279123</g:id>
+      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 1公斤</g:title>
+      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p525279123?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/mOCCjNJDcBJOdVegRp8uJzH5ZprK0vAMekIzWbOv.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1219301755</guid>
+      <g:id>1219301755</g:id>
+      <g:title>卡塔德蜂蜜（250克）</g:title>
+      <g:description>卡塔德蜂蜜（250克）. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1219301755?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/da7d0adb-2a06-4174-b2f3-667dbe56580b-500x500-Ckd0HAkdeGx8b9f5iFGoHvPKDMcGj2qozXldTrtQ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>115.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>01088501</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">371437637</guid>
+      <g:id>371437637</g:id>
+      <g:title>西班牙栗子蜂蜜 500克</g:title>
+      <g:description>西班牙栗子蜂蜜 500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/1UBllFknx171DqiFyomTF5eT4AwxXsmTCYgBjjjs.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/t5fah1SIdGU0iYwriljsVEjnGrtdhbKpDKdpNDHR.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/nmp7fTOTb8RJ6SwjEL9ZYGfH7t1p23WOXn3lP0cX.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/ElNx5DIyhEwHi8WP6ANwsq6cBLqoLQ3bg8zPMj3J.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149.00 SAR</g:price>
+      <g:sale_price>119.00 SAR</g:sale_price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>202020201</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">801221806</guid>
       <g:id>801221806</g:id>
@@ -3796,21 +3845,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">525279123</guid>
-      <g:id>525279123</g:id>
-      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 1公斤</g:title>
-      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p525279123?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/mOCCjNJDcBJOdVegRp8uJzH5ZprK0vAMekIzWbOv.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>115.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">2144594011</guid>
       <g:id>2144594011</g:id>
       <g:title>洋茴香蜂蜜 250克</g:title>
@@ -3966,25 +4000,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">371437637</guid>
-      <g:id>371437637</g:id>
-      <g:title>西班牙栗子蜂蜜 500克</g:title>
-      <g:description>西班牙栗子蜂蜜 500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p371437637?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/1UBllFknx171DqiFyomTF5eT4AwxXsmTCYgBjjjs.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/t5fah1SIdGU0iYwriljsVEjnGrtdhbKpDKdpNDHR.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/nmp7fTOTb8RJ6SwjEL9ZYGfH7t1p23WOXn3lP0cX.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/ElNx5DIyhEwHi8WP6ANwsq6cBLqoLQ3bg8zPMj3J.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>149.00 SAR</g:price>
-      <g:sale_price>119.00 SAR</g:sale_price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>202020201</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">275181506</guid>
       <g:id>275181506</g:id>
       <g:title>姜柠檬姜黄蜂蜜饮品（470克）+ 四分之一公斤克什米尔西德尔蜂蜜 + 四分之一公斤黑种草蜂蜜 + 黑种草籽</g:title>
@@ -4030,21 +4045,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0021003001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1219301755</guid>
-      <g:id>1219301755</g:id>
-      <g:title>卡塔德蜂蜜（250克）</g:title>
-      <g:description>卡塔德蜂蜜（250克）. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p1219301755?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/da7d0adb-2a06-4174-b2f3-667dbe56580b-500x500-Ckd0HAkdeGx8b9f5iFGoHvPKDMcGj2qozXldTrtQ.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>115.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>01088501</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     </item>
     <item>
