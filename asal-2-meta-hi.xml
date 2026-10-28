@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 15:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:07:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>275181506</g:id>
+      <g:title>अदरक, नींबू और हल्दी वाला शहद ड्रिंक (470 ग्राम) + पाव किलो कश्मीरी सिद्र शहद + पाव किलो कलौंजी शहद + कलौंजी के दाने</g:title>
+      <g:description>अदरक, नींबू और हल्दी वाला शहद ड्रिंक (470 ग्राम) + पाव किलो कश्मीरी सिद्र शहद + पाव किलो कलौंजी शहद + कलौंजी के दाने. 1.47 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/470/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1870910750</g:id>
+      <g:title>1 किलो काली किशमिश + 600 ग्राम प्राकृतिक सिद्र शहद</g:title>
+      <g:description>1 किलो काली किशमिश + 600 ग्राम प्राकृतिक सिद्र शहद. 2.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1-600/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>633389672</g:id>
+      <g:title>मधुमक्खी पराग 250 ग्राम</g:title>
+      <g:description>मधुमक्खी पराग 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1079393632</g:id>
       <g:title>स्पेनिश ब्लैक फ़ॉरेस्ट शहद 500 ग्राम</g:title>
@@ -1317,12 +1335,6 @@
       <g:link>https://asalaljebal.sa/hi/5/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1870910750</g:id>
-      <g:title>1 किलो काली किशमिश + 600 ग्राम प्राकृतिक सिद्र शहद</g:title>
-      <g:description>1 किलो काली किशमिश + 600 ग्राम प्राकृतिक सिद्र शहद. 2.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1-600/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1965415096</g:id>
       <g:title>रॉयल सिद्र मोम-छत्ता शहद 500 ग्राम</g:title>
       <g:description>रॉयल सिद्र मोम-छत्ता शहद 500 ग्राम. 1.0 kg.</g:description>
@@ -1519,18 +1531,6 @@
       <g:title>रॉयल जेली पाउडर - 10 ग्राम</g:title>
       <g:description>रॉयल जेली पाउडर - 10 ग्राम. 0.51 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/10/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>633389672</g:id>
-      <g:title>मधुमक्खी पराग 250 ग्राम</g:title>
-      <g:description>मधुमक्खी पराग 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>275181506</g:id>
-      <g:title>अदरक, नींबू और हल्दी वाला शहद ड्रिंक (470 ग्राम) + पाव किलो कश्मीरी सिद्र शहद + पाव किलो कलौंजी शहद + कलौंजी के दाने</g:title>
-      <g:description>अदरक, नींबू और हल्दी वाला शहद ड्रिंक (470 ग्राम) + पाव किलो कश्मीरी सिद्र शहद + पाव किलो कलौंजी शहद + कलौंजी के दाने. 1.47 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/470/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1688053025</g:id>

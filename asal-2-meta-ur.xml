@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 15:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:07:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>275181506</g:id>
+      <g:title>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے</g:title>
+      <g:description>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے. 1.47 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/470/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1870910750</g:id>
+      <g:title>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد</g:title>
+      <g:description>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد. 2.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1-600/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>633389672</g:id>
+      <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام</g:title>
+      <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1079393632</g:id>
       <g:title>ہسپانوی بلیک فاریسٹ شہد 500 گرام</g:title>
@@ -993,12 +1011,6 @@
       <g:link>https://asalaljebal.sa/ur/5/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1870910750</g:id>
-      <g:title>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد</g:title>
-      <g:description>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد. 2.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1-600/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1965415096</g:id>
       <g:title>شاہی سدر شہد چھتے کے ساتھ 500 گرام</g:title>
       <g:description>شاہی سدر شہد چھتے کے ساتھ 500 گرام. 1.0 kg.</g:description>
@@ -1135,18 +1147,6 @@
       <g:title>رائل جیلی (ملکہ کی غذا) پاؤڈر - 10 گرام</g:title>
       <g:description>رائل جیلی (ملکہ کی غذا) پاؤڈر - 10 گرام. 0.51 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/10/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>633389672</g:id>
-      <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام</g:title>
-      <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>275181506</g:id>
-      <g:title>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے</g:title>
-      <g:description>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے. 1.47 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/470/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1688053025</g:id>
