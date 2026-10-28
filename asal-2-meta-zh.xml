@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:04:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>两罐沙特本地羊酥油 680克</g:title>
+      <g:description>两罐沙特本地羊酥油 680克. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>987199113</g:id>
       <g:title>白银套装（黑森林蜂蜜 + 黑种草蜂蜜 + 三叶草蜂蜜）（免运费）</g:title>
@@ -403,12 +409,6 @@
       <g:title>哈德拉毛多安西德尔蜂蜜 500 克</g:title>
       <g:description>哈德拉毛多安西德尔蜂蜜 500 克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1758124226</g:id>
-      <g:title>两罐沙特本地羊酥油 680克</g:title>
-      <g:description>两罐沙特本地羊酥油 680克. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1774089564</g:id>

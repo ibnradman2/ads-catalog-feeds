@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:04:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام</g:title>
+      <g:description>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>987199113</g:id>
       <g:title>چاندی کی پیشکش (بلیک فارسٹ شہد + کلونجی کا شہد + برسیم کے پھول کا شہد) (مفت ڈیلیوری)</g:title>
@@ -301,12 +307,6 @@
       <g:title>کشمیری سدر شہد کے 6 ڈبے (600 گرام)</g:title>
       <g:description>کشمیری سدر شہد کے 6 ڈبے (600 گرام). 4.1 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1758124226</g:id>
-      <g:title>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام</g:title>
-      <g:description>دیسی بھیڑ کا گھی، 2 ڈبے، 680 گرام. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-680/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2062622663</g:id>

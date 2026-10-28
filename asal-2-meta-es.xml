@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:04:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1758124226</g:id>
+      <g:title>Dos envases de ghee de oveja tradicional 680 gramos</g:title>
+      <g:description>Dos envases de ghee de oveja tradicional 680 gramos. 1.86 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/dos-envases-de-ghee-de-oveja-tradicional-680-gramos/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>987199113</g:id>
       <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
@@ -409,12 +415,6 @@
       <g:title>Miel de Sidr de Hadramaut, Do'an, 500 g</g:title>
       <g:description>Miel de Sidr de Hadramaut, Do'an, 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-hadramaut-do-an-500-g/p520040245?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1758124226</g:id>
-      <g:title>Dos envases de ghee de oveja tradicional 680 gramos</g:title>
-      <g:description>Dos envases de ghee de oveja tradicional 680 gramos. 1.86 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/dos-envases-de-ghee-de-oveja-tradicional-680-gramos/p1758124226?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1774089564</g:id>

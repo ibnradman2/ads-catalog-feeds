@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 22:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:09:35 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>348925444</g:id>
+      <g:title>Walnut (Amerikano) - 1 Kilo</g:title>
+      <g:description>Walnut (Amerikano) - 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/walnut-amerikano-1-kilo/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1079475470</g:id>
+      <g:title>Buto ng Flaxseed - 500gm</g:title>
+      <g:description>Buto ng Flaxseed - 500gm. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-flaxseed-500gm/p1079475470?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1759502471</g:id>
+      <g:title>Buto ng Fenugreek (Hulba) 250 Gramo</g:title>
+      <g:description>Buto ng Fenugreek (Hulba) 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-fenugreek-hulba-250-gramo/p1759502471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1002050183</g:id>
+      <g:title>Buto ng Flaxseed - 1 Kilo</g:title>
+      <g:description>Buto ng Flaxseed - 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-flaxseed-1-kilo/p1002050183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>704453922</g:id>
       <g:title>Bee Pollen (Pollen Grains) 30 gramo</g:title>
@@ -739,30 +763,6 @@
       <g:title>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery)</g:title>
       <g:description>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery). 3.0 kg.</g:description>
       <g:link>https://hayala.co/tl/grade-1-american-cardamom-blg-1-8mm-ang-kapal-karton-na-2-5-kilo-libreng-deliver/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1759502471</g:id>
-      <g:title>Buto ng Fenugreek (Hulba) 250 Gramo</g:title>
-      <g:description>Buto ng Fenugreek (Hulba) 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-fenugreek-hulba-250-gramo/p1759502471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>348925444</g:id>
-      <g:title>Walnut (Amerikano) - 1 Kilo</g:title>
-      <g:description>Walnut (Amerikano) - 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/walnut-amerikano-1-kilo/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1079475470</g:id>
-      <g:title>Buto ng Flaxseed - 500gm</g:title>
-      <g:description>Buto ng Flaxseed - 500gm. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-flaxseed-500gm/p1079475470?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1002050183</g:id>
-      <g:title>Buto ng Flaxseed - 1 Kilo</g:title>
-      <g:description>Buto ng Flaxseed - 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-flaxseed-1-kilo/p1002050183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1468610802</g:id>

@@ -4,10 +4,34 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 27 Oct 2026 22:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:09:35 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>348925444</g:id>
+      <g:title>Nuez (americana) - 1 kg</g:title>
+      <g:description>Nuez (americana) - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/nuez-americana-1-kg/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1079475470</g:id>
+      <g:title>Semillas de lino - 500 g</g:title>
+      <g:description>Semillas de lino - 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-lino-500-g/p1079475470?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1759502471</g:id>
+      <g:title>Fenogreco en grano 250 g</g:title>
+      <g:description>Fenogreco en grano 250 g. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/es/fenogreco-en-grano-250-g/p1759502471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1002050183</g:id>
+      <g:title>Semillas de lino - 1 kg</g:title>
+      <g:description>Semillas de lino - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-lino-1-kg/p1002050183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>704453922</g:id>
       <g:title>Polen de abeja (granos de polen) 30 g</g:title>
@@ -721,30 +745,6 @@
       <g:title>Cardamomo americano de primera calidad extra jumbo número 1, 8 mm, 1 kg</g:title>
       <g:description>Cardamomo americano de primera calidad extra jumbo número 1, 8 mm, 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-extra-jumbo-n-mero-1-8-mm-1-kg/p432604828?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1759502471</g:id>
-      <g:title>Fenogreco en grano 250 g</g:title>
-      <g:description>Fenogreco en grano 250 g. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/es/fenogreco-en-grano-250-g/p1759502471?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>348925444</g:id>
-      <g:title>Nuez (americana) - 1 kg</g:title>
-      <g:description>Nuez (americana) - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/nuez-americana-1-kg/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1079475470</g:id>
-      <g:title>Semillas de lino - 500 g</g:title>
-      <g:description>Semillas de lino - 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-lino-500-g/p1079475470?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1002050183</g:id>
-      <g:title>Semillas de lino - 1 kg</g:title>
-      <g:description>Semillas de lino - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-lino-1-kg/p1002050183?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1468610802</g:id>
