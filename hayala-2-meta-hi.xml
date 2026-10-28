@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 16:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:08:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1038697929</g:id>
+      <g:title>गिफ़्ट बॉक्स - प्रीमियम अमेरिकी इलायची + सुपर नक़ील केसर + उपहार में घिसनी</g:title>
+      <g:description>गिफ़्ट बॉक्स - प्रीमियम अमेरिकी इलायची + सुपर नक़ील केसर + उपहार में घिसनी. 0.031 kg.</g:description>
+      <g:link>https://hayala.co/hi/product/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1588483287</g:id>
       <g:title>अदरक, नींबू और हल्दी वाला शहद पेय – 3 जार</g:title>
@@ -902,11 +908,5 @@
       <g:description>अमेरिकी इलायची प्रथम श्रेणी नंबर 1, मोटाई 8 मिमी, कार्टन 2.5 किलो. 3.0 kg.</g:description>
       <g:link>https://hayala.co/hi/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1038697929</g:id>
-      <g:title>गिफ़्ट बॉक्स - प्रीमियम अमेरिकी इलायची + सुपर नक़ील केसर + उपहार में घिसनी</g:title>
-      <g:description>गिफ़्ट बॉक्स - प्रीमियम अमेरिकी इलायची + सुपर नक़ील केसर + उपहार में घिसनी. 0.031 kg.</g:description>
-      <g:link>https://hayala.co/hi/product/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-  </channel>
+    </channel>
 </rss>

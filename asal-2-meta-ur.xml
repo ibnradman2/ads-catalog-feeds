@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 16:07:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:08:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1281597213</g:id>
+      <g:title>دیسی طلح شہد، دو ڈبے 500 گرام، باحہ کے پہاڑوں سے | عسل الجبال</g:title>
+      <g:description>دیسی طلح شہد، دو ڈبے 500 گرام، باحہ کے پہاڑوں سے | عسل الجبال. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>275181506</g:id>
       <g:title>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے</g:title>
@@ -421,12 +427,6 @@
       <g:title>برسیم کا شہد، 5 کلو کا گیلن، تھوک قیمت پر (مفت ڈیلیوری)</g:title>
       <g:description>برسیم کا شہد، 5 کلو کا گیلن، تھوک قیمت پر (مفت ڈیلیوری). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/5/p1914385815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1281597213</g:id>
-      <g:title>دیسی طلح شہد، دو ڈبے 500 گرام، باحہ کے پہاڑوں سے | عسل الجبال</g:title>
-      <g:description>دیسی طلح شہد، دو ڈبے 500 گرام، باحہ کے پہاڑوں سے | عسل الجبال. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1080100078</g:id>

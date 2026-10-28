@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 16:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:08:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1038697929</g:id>
+      <g:title>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器</g:title>
+      <g:description>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器. 0.031 kg.</g:description>
+      <g:link>https://hayala.co/zh/negin/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1588483287</g:id>
       <g:title>3罐姜柠檬姜黄蜂蜜饮品</g:title>
@@ -872,11 +878,5 @@
       <g:description>美国一级绿小豆蔻 1号 8毫米 2.5公斤整箱（免费配送）. 3.0 kg.</g:description>
       <g:link>https://hayala.co/zh/1-8-2-5/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1038697929</g:id>
-      <g:title>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器</g:title>
-      <g:description>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器. 0.031 kg.</g:description>
-      <g:link>https://hayala.co/zh/negin/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-  </channel>
+    </channel>
 </rss>

@@ -4,10 +4,26 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 16:07:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:08:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1281597213</guid>
+      <g:id>1281597213</g:id>
+      <g:title>Premium Yerel Talh Balı, 2 Kavanoz</g:title>
+      <g:description>Premium Yerel Talh Balı, 2 Kavanoz. Talh Balı. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/premium-yerel-talh-bal-2-kavanoz/p1281597213?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/IrAYtZTmO9NWeHBW82P8OTHot9K9TIfPb4nitVCF.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>402.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>00410290002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1281597213</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">275181506</guid>
       <g:id>275181506</g:id>
@@ -1485,22 +1501,6 @@
       <g:item_group_id>0140101035</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1914385815</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans C</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Çiçek Balı</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1281597213</guid>
-      <g:id>1281597213</g:id>
-      <g:title>Premium Yerel Talh Balı, 2 Kavanoz</g:title>
-      <g:description>Premium Yerel Talh Balı, 2 Kavanoz. Talh Balı. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/premium-yerel-talh-bal-2-kavanoz/p1281597213?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/IrAYtZTmO9NWeHBW82P8OTHot9K9TIfPb4nitVCF.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>402.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>00410290002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1281597213</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performans A</g:custom_label_0><g:custom_label_1>Tüm yıl</g:custom_label_1><g:custom_label_2>100 ila 299</g:custom_label_2><g:custom_label_3>Talh Balı</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1880326017</guid>
       <g:id>1880326017</g:id>
