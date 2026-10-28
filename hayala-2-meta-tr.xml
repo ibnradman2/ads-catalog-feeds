@@ -4,10 +4,28 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 08:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:09:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1073244520</g:id>
+      <g:title>Kurutulmuş Kivi 500 gram</g:title>
+      <g:description>Kurutulmuş Kivi 500 gram. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-kivi-500-gram/p1073244520?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>150479264</g:id>
+      <g:title>Kurutulmuş Kivi 250 gram</g:title>
+      <g:description>Kurutulmuş Kivi 250 gram. 0.75 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-kivi-250-gram/p150479264?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>801044632</g:id>
+      <g:title>Kurutulmuş Kivi 1 kilo</g:title>
+      <g:description>Kurutulmuş Kivi 1 kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-kivi-1-kilo/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1632683015</g:id>
       <g:title>Papatya Çiçeği 1 kg</g:title>
@@ -841,24 +859,6 @@
       <g:title>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
       <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
       <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-1-8-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>801044632</g:id>
-      <g:title>Kurutulmuş Kivi 1 kilo</g:title>
-      <g:description>Kurutulmuş Kivi 1 kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-kivi-1-kilo/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1073244520</g:id>
-      <g:title>Kurutulmuş Kivi 500 gram</g:title>
-      <g:description>Kurutulmuş Kivi 500 gram. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-kivi-500-gram/p1073244520?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>150479264</g:id>
-      <g:title>Kurutulmuş Kivi 250 gram</g:title>
-      <g:description>Kurutulmuş Kivi 250 gram. 0.75 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-kivi-250-gram/p150479264?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>176539565</g:id>
