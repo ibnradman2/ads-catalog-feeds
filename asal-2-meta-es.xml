@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 15:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:07:55 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>275181506</g:id>
+      <g:title>Bebida de miel con jengibre, limón y cúrcuma (470 g) + 250 g de miel de Sidr de Cachemira + 250 g de miel de comino negro + granos de comino negro</g:title>
+      <g:description>Bebida de miel con jengibre, limón y cúrcuma (470 g) + 250 g de miel de Sidr de Cachemira + 250 g de miel de comino negro + granos de comino negro. 1.47 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/bebida-de-miel-con-jengibre-lim-n-y-c-rcuma-470-g-250-g-de-miel-de-sidr-de-cache/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1870910750</g:id>
+      <g:title>1 kg de pasas negras y 600 g de miel de sidr natural</g:title>
+      <g:description>1 kg de pasas negras y 600 g de miel de sidr natural. 2.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/1-kg-de-pasas-negras-y-600-g-de-miel-de-sidr-natural/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>633389672</g:id>
+      <g:title>Polen de Abeja 250 g</g:title>
+      <g:description>Polen de Abeja 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-abeja-250-g/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1079393632</g:id>
       <g:title>Miel de bosque negro española de 500 g</g:title>
@@ -1317,12 +1335,6 @@
       <g:link>https://asalaljebal.sa/es/garrafa-de-miel-de-acacia-5-kg-a-precio-de-mayorista/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1870910750</g:id>
-      <g:title>1 kg de pasas negras y 600 g de miel de sidr natural</g:title>
-      <g:description>1 kg de pasas negras y 600 g de miel de sidr natural. 2.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/1-kg-de-pasas-negras-y-600-g-de-miel-de-sidr-natural/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1965415096</g:id>
       <g:title>Miel de Sidr real en panal 500 g de las montañas de Asir</g:title>
       <g:description>Miel de Sidr real en panal 500 g de las montañas de Asir. 1.0 kg.</g:description>
@@ -1519,18 +1531,6 @@
       <g:title>Jalea Real en Polvo - 10 g</g:title>
       <g:description>Jalea Real en Polvo - 10 g. 0.51 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/jalea-real-en-polvo-10-g/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>633389672</g:id>
-      <g:title>Polen de Abeja 250 g</g:title>
-      <g:description>Polen de Abeja 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-de-abeja-250-g/p633389672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>275181506</g:id>
-      <g:title>Bebida de miel con jengibre, limón y cúrcuma (470 g) + 250 g de miel de Sidr de Cachemira + 250 g de miel de comino negro + granos de comino negro</g:title>
-      <g:description>Bebida de miel con jengibre, limón y cúrcuma (470 g) + 250 g de miel de Sidr de Cachemira + 250 g de miel de comino negro + granos de comino negro. 1.47 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/bebida-de-miel-con-jengibre-lim-n-y-c-rcuma-470-g-250-g-de-miel-de-sidr-de-cache/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1688053025</g:id>

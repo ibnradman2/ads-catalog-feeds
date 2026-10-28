@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 11:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:07:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1588483287</g:id>
+      <g:title>3 Lalagyan ng Honey Drink na may Luya, Lemon at Turmeric</g:title>
+      <g:description>3 Lalagyan ng Honey Drink na may Luya, Lemon at Turmeric. 0.47 kg.</g:description>
+      <g:link>https://hayala.co/tl/3-lalagyan-ng-honey-drink-na-may-luya-lemon-at-turmeric/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>946188382</g:id>
+      <g:title>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo</g:title>
+      <g:description>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/premium-ajwa-dates-ng-aliyah-madinah-1-kilo/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1854428382</g:id>
       <g:title>2 Kilo ng Natural na Pulot ng Sidr</g:title>
@@ -889,18 +901,6 @@
       <g:title>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery)</g:title>
       <g:description>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery). 3.0 kg.</g:description>
       <g:link>https://hayala.co/tl/grade-1-american-cardamom-blg-1-8mm-ang-kapal-karton-na-2-5-kilo-libreng-deliver/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>946188382</g:id>
-      <g:title>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo</g:title>
-      <g:description>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/premium-ajwa-dates-ng-aliyah-madinah-1-kilo/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1588483287</g:id>
-      <g:title>3 Lalagyan ng Honey Drink na may Luya, Lemon at Turmeric</g:title>
-      <g:description>3 Lalagyan ng Honey Drink na may Luya, Lemon at Turmeric. 0.47 kg.</g:description>
-      <g:link>https://hayala.co/tl/3-lalagyan-ng-honey-drink-na-may-luya-lemon-at-turmeric/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1038697929</g:id>
