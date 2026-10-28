@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 01:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:18:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1854428382</g:id>
+      <g:title>2 किलो प्राकृतिक सिद्र शहद</g:title>
+      <g:description>2 किलो प्राकृतिक सिद्र शहद. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1924754372</g:id>
       <g:title>पेकान अखरोट - 500 ग्राम</g:title>
@@ -877,12 +883,6 @@
       <g:title>सूखा आम 500 ग्राम</g:title>
       <g:description>सूखा आम 500 ग्राम. 1.0 kg.</g:description>
       <g:link>https://hayala.co/hi/500/p1511230577?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1854428382</g:id>
-      <g:title>2 किलो प्राकृतिक सिद्र शहद</g:title>
-      <g:description>2 किलो प्राकृतिक सिद्र शहद. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/2/p1854428382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>868577170</g:id>

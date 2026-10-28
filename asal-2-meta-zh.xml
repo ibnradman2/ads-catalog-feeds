@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 00:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:18:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>801221806</g:id>
+      <g:title>黑种草籽蜂蜜 2公斤（包邮）</g:title>
+      <g:description>黑种草籽蜂蜜 2公斤（包邮）. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/2/p801221806?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1314226407</g:id>
       <g:title>约旦蜜蜂花粉 250克</g:title>
@@ -349,12 +355,6 @@
       <g:title>白沙瓦西德尔蜂蜜 2公斤</g:title>
       <g:description>白沙瓦西德尔蜂蜜 2公斤. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/2/p1298329746?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>801221806</g:id>
-      <g:title>黑种草籽蜂蜜 2公斤（包邮）</g:title>
-      <g:description>黑种草籽蜂蜜 2公斤（包邮）. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/2/p801221806?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1506173115</g:id>
