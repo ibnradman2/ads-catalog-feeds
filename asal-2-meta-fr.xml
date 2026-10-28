@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 11:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:04:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1079393632</g:id>
+      <g:title>Miel de forêt noire espagnol 500 g</g:title>
+      <g:description>Miel de forêt noire espagnol 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-for-t-noire-espagnol-500-g/p1079393632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1086532456</g:id>
+      <g:title>Miel de Talh premium 250 g</g:title>
+      <g:description>Miel de Talh premium 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-250-g/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>486057126</g:id>
       <g:title>Miel de trèfle 1 kg</g:title>
@@ -1413,12 +1425,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-250-g/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1086532456</g:id>
-      <g:title>Miel de Talh premium 250 g</g:title>
-      <g:description>Miel de Talh premium 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-250-g/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>946587237</g:id>
       <g:title>Raisins secs noirs du Yémen 1 kg</g:title>
       <g:description>Raisins secs noirs du Yémen 1 kg. 1.5 kg.</g:description>
@@ -1483,12 +1489,6 @@
       <g:title>Miel de sidr du Hadramaout Daoani 250 g</g:title>
       <g:description>Miel de sidr du Hadramaout Daoani 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-hadramaout-daoani-250-g/p660293034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1079393632</g:id>
-      <g:title>Miel de forêt noire espagnol 500 g</g:title>
-      <g:description>Miel de forêt noire espagnol 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-for-t-noire-espagnol-500-g/p1079393632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1519634473</g:id>

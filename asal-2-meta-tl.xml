@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 11:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:04:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1079393632</g:id>
+      <g:title>Pulot ng Black Forest mula sa Espanya, 500 Gramo</g:title>
+      <g:description>Pulot ng Black Forest mula sa Espanya, 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-black-forest-mula-sa-espanya-500-gramo/p1079393632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1086532456</g:id>
+      <g:title>Premium na Pulot ng Talh 250 Gramo</g:title>
+      <g:description>Premium na Pulot ng Talh 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/premium-na-pulot-ng-talh-250-gramo/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>486057126</g:id>
       <g:title>Clover Honey 1 kg</g:title>
@@ -1419,12 +1431,6 @@
       <g:link>https://asalaljebal.sa/tl/pulot-ng-marjoram-250-gramo/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1086532456</g:id>
-      <g:title>Premium na Pulot ng Talh 250 Gramo</g:title>
-      <g:description>Premium na Pulot ng Talh 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/premium-na-pulot-ng-talh-250-gramo/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>946587237</g:id>
       <g:title>Itim na Pasas na Yemeni 1 Kilo</g:title>
       <g:description>Itim na Pasas na Yemeni 1 Kilo. 1.5 kg.</g:description>
@@ -1489,12 +1495,6 @@
       <g:title>Pulot na Sidr ng Hadhramaut na Doani 250 gramo</g:title>
       <g:description>Pulot na Sidr ng Hadhramaut na Doani 250 gramo. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-na-sidr-ng-hadhramaut-na-doani-250-gramo/p660293034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1079393632</g:id>
-      <g:title>Pulot ng Black Forest mula sa Espanya, 500 Gramo</g:title>
-      <g:description>Pulot ng Black Forest mula sa Espanya, 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-black-forest-mula-sa-espanya-500-gramo/p1079393632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1519634473</g:id>

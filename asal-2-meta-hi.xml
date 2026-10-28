@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 11:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:04:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1079393632</g:id>
+      <g:title>स्पेनिश ब्लैक फ़ॉरेस्ट शहद 500 ग्राम</g:title>
+      <g:description>स्पेनिश ब्लैक फ़ॉरेस्ट शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1079393632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1086532456</g:id>
+      <g:title>प्रीमियम तलह शहद 250 ग्राम</g:title>
+      <g:description>प्रीमियम तलह शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>486057126</g:id>
       <g:title>बरसीम शहद (क्लोवर) 1 किलो</g:title>
@@ -1419,12 +1431,6 @@
       <g:link>https://asalaljebal.sa/hi/250/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1086532456</g:id>
-      <g:title>प्रीमियम तलह शहद 250 ग्राम</g:title>
-      <g:description>प्रीमियम तलह शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p1086532456?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>946587237</g:id>
       <g:title>यमनी काली किशमिश 1 किलो</g:title>
       <g:description>यमनी काली किशमिश 1 किलो. 1.5 kg.</g:description>
@@ -1489,12 +1495,6 @@
       <g:title>हद्रामी दोअनी सिद्र शहद 250 ग्राम</g:title>
       <g:description>हद्रामी दोअनी सिद्र शहद 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/250/p660293034?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1079393632</g:id>
-      <g:title>स्पेनिश ब्लैक फ़ॉरेस्ट शहद 500 ग्राम</g:title>
-      <g:description>स्पेनिश ब्लैक फ़ॉरेस्ट शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1079393632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1519634473</g:id>
