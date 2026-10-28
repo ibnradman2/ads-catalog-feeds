@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 20:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>381563450</g:id>
+      <g:title>Jalea Real en Polvo - 30 g</g:title>
+      <g:description>Jalea Real en Polvo - 30 g. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/jalea-real-en-polvo-30-g/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>838476640</g:id>
+      <g:title>Pasas rojas de Yemen 500 g</g:title>
+      <g:description>Pasas rojas de Yemen 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/pasas-rojas-de-yemen-500-g/p838476640?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>645419491</g:id>
+      <g:title>Miel en panal natural 1250 gramos</g:title>
+      <g:description>Miel en panal natural 1250 gramos. 1.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-en-panal-natural-1250-gramos/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>863586339</g:id>
+      <g:title>4 kilos de pasas negras de Yemen</g:title>
+      <g:description>4 kilos de pasas negras de Yemen. 4.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/4-kilos-de-pasas-negras-de-yemen/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1190839815</g:id>
+      <g:title>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis)</g:title>
+      <g:description>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/1-kg-de-miel-de-sidr-de-monta-a-1-kg-de-miel-de-flores-silvestres-1-kg-de-miel-d/p1190839815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>Miel de Manuka de Nueva Zelanda Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm</g:title>
@@ -379,12 +409,6 @@
       <g:title>Polen de abeja – 3 envases × 500 g</g:title>
       <g:description>Polen de abeja – 3 envases × 500 g. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/polen-de-abeja-3-envases-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>863586339</g:id>
-      <g:title>4 kilos de pasas negras de Yemen</g:title>
-      <g:description>4 kilos de pasas negras de Yemen. 4.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/4-kilos-de-pasas-negras-de-yemen/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>200955964</g:id>
@@ -855,12 +879,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-usaimi-yemen-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1190839815</g:id>
-      <g:title>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis)</g:title>
-      <g:description>1 kg de miel de Sidr de montaña + 1 kg de miel de flores silvestres + 1 kg de miel de Talh selecta (envío gratis). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/1-kg-de-miel-de-sidr-de-monta-a-1-kg-de-miel-de-flores-silvestres-1-kg-de-miel-d/p1190839815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>909201315</g:id>
       <g:title>Oferta de miel de comino negro: garrafa de 10 kg de tamaño familiar (envío gratis)</g:title>
       <g:description>Oferta de miel de comino negro: garrafa de 10 kg de tamaño familiar (envío gratis). 10.5 kg.</g:description>
@@ -1075,12 +1093,6 @@
       <g:title>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista</g:title>
       <g:description>Miel de samar espinosa premium en galón de 7 kg a precio de mayorista. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-samar-espinosa-premium-en-gal-n-de-7-kg-a-precio-de-mayorista/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>645419491</g:id>
-      <g:title>Miel en panal natural 1250 gramos</g:title>
-      <g:description>Miel en panal natural 1250 gramos. 1.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-en-panal-natural-1250-gramos/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2107453315</g:id>
@@ -1473,12 +1485,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-mejorana-en-garrafa-de-5-kg-a-precio-de-mayorista/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>838476640</g:id>
-      <g:title>Pasas rojas de Yemen 500 g</g:title>
-      <g:description>Pasas rojas de Yemen 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/pasas-rojas-de-yemen-500-g/p838476640?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>250040053</g:id>
       <g:title>Comino negro (habbat al-baraka) en semillas 1 kilo</g:title>
       <g:description>Comino negro (habbat al-baraka) en semillas 1 kilo. 1.5 kg.</g:description>
@@ -1513,12 +1519,6 @@
       <g:title>Panal de miel de acacia Salam local, 1 kg</g:title>
       <g:description>Panal de miel de acacia Salam local, 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/panal-de-miel-de-acacia-salam-local-1-kg/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>381563450</g:id>
-      <g:title>Jalea Real en Polvo - 30 g</g:title>
-      <g:description>Jalea Real en Polvo - 30 g. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/jalea-real-en-polvo-30-g/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>283420378</g:id>

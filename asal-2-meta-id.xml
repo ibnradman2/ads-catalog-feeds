@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 20:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>381563450</g:id>
+      <g:title>Bubuk Royal Jelly - 30 Gram</g:title>
+      <g:description>Bubuk Royal Jelly - 30 Gram. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/bubuk-royal-jelly-30-gram/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>838476640</g:id>
+      <g:title>Kismis Merah Yaman 500 g</g:title>
+      <g:description>Kismis Merah Yaman 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/kismis-merah-yaman-500-g/p838476640?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>645419491</g:id>
+      <g:title>Madu Sarang Alami 1250 Gram</g:title>
+      <g:description>Madu Sarang Alami 1250 Gram. 1.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-alami-1250-gram/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>863586339</g:id>
+      <g:title>Kismis Hitam Yaman 4 Kilo</g:title>
+      <g:description>Kismis Hitam Yaman 4 Kilo. 4.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/kismis-hitam-yaman-4-kilo/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1190839815</g:id>
+      <g:title>1 Kg Sidr Pegunungan + 1 Kg Bunga Liar + 1 Kg Talh Premium (Gratis Ongkir)</g:title>
+      <g:description>1 Kg Sidr Pegunungan + 1 Kg Bunga Liar + 1 Kg Talh Premium (Gratis Ongkir). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/1-kg-sidr-pegunungan-1-kg-bunga-liar-1-kg-talh-premium-gratis-ongkir/p1190839815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>Madu Manuka New Zealand Honey Bros Premium UMF 20+ MGO 850+ 250 Gram</g:title>
@@ -379,12 +409,6 @@
       <g:title>Serbuk Sari Lebah - 3 Kemasan × 500 g</g:title>
       <g:description>Serbuk Sari Lebah - 3 Kemasan × 500 g. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/serbuk-sari-lebah-3-kemasan-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>863586339</g:id>
-      <g:title>Kismis Hitam Yaman 4 Kilo</g:title>
-      <g:description>Kismis Hitam Yaman 4 Kilo. 4.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/kismis-hitam-yaman-4-kilo/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>200955964</g:id>
@@ -855,12 +879,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-sidr-royal-asimi-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1190839815</g:id>
-      <g:title>1 Kg Sidr Pegunungan + 1 Kg Bunga Liar + 1 Kg Talh Premium (Gratis Ongkir)</g:title>
-      <g:description>1 Kg Sidr Pegunungan + 1 Kg Bunga Liar + 1 Kg Talh Premium (Gratis Ongkir). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/1-kg-sidr-pegunungan-1-kg-bunga-liar-1-kg-talh-premium-gratis-ongkir/p1190839815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>909201315</g:id>
       <g:title>Penawaran Madu Jintan Hitam 10 Kg Galon Ukuran Keluarga (Gratis Ongkir)</g:title>
       <g:description>Penawaran Madu Jintan Hitam 10 Kg Galon Ukuran Keluarga (Gratis Ongkir). 10.5 kg.</g:description>
@@ -1075,12 +1093,6 @@
       <g:title>Madu Duri Samra Premium Galon 7 Kg Harga Grosir</g:title>
       <g:description>Madu Duri Samra Premium Galon 7 Kg Harga Grosir. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-duri-samra-premium-galon-7-kg-harga-grosir/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>645419491</g:id>
-      <g:title>Madu Sarang Alami 1250 Gram</g:title>
-      <g:description>Madu Sarang Alami 1250 Gram. 1.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-alami-1250-gram/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2107453315</g:id>
@@ -1467,12 +1479,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-marjoram-galon-5-kilo-harga-grosir/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>838476640</g:id>
-      <g:title>Kismis Merah Yaman 500 g</g:title>
-      <g:description>Kismis Merah Yaman 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/kismis-merah-yaman-500-g/p838476640?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>250040053</g:id>
       <g:title>Habbatussauda 1 Kilo</g:title>
       <g:description>Habbatussauda 1 Kilo. 1.5 kg.</g:description>
@@ -1507,12 +1513,6 @@
       <g:title>Sarang Madu Salam Lokal 1 Kilo</g:title>
       <g:description>Sarang Madu Salam Lokal 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/sarang-madu-salam-lokal-1-kilo/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>381563450</g:id>
-      <g:title>Bubuk Royal Jelly - 30 Gram</g:title>
-      <g:description>Bubuk Royal Jelly - 30 Gram. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/bubuk-royal-jelly-30-gram/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>283420378</g:id>

@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 20:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>381563450</g:id>
+      <g:title>Poudre de gelée royale – 30 g</g:title>
+      <g:description>Poudre de gelée royale – 30 g. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/poudre-de-gel-e-royale-30-g/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>838476640</g:id>
+      <g:title>Raisins secs rouges du Yémen 500 g</g:title>
+      <g:description>Raisins secs rouges du Yémen 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-500-g/p838476640?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>645419491</g:id>
+      <g:title>Miel en rayon naturel 1250 g</g:title>
+      <g:description>Miel en rayon naturel 1250 g. 1.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-naturel-1250-g/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>863586339</g:id>
+      <g:title>Raisins secs noirs du Yémen 4 kg</g:title>
+      <g:description>Raisins secs noirs du Yémen 4 kg. 4.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-4-kg/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1190839815</g:id>
+      <g:title>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh premium (livraison gratuite)</g:title>
+      <g:description>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh premium (livraison gratuite). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-de-sidr-de-montagne-1-kg-de-miel-de-fleurs-sauvages-1-kg-de-miel-de/p1190839815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>36619997</g:id>
       <g:title>Miel de Manuka néo-zélandais Honey Bros Premium UMF+20, MGO 850+, 250 g</g:title>
@@ -379,12 +409,6 @@
       <g:title>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g</g:title>
       <g:description>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-3-sachets-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>863586339</g:id>
-      <g:title>Raisins secs noirs du Yémen 4 kg</g:title>
-      <g:description>Raisins secs noirs du Yémen 4 kg. 4.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-4-kg/p863586339?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>200955964</g:id>
@@ -855,12 +879,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-asimi-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1190839815</g:id>
-      <g:title>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh premium (livraison gratuite)</g:title>
-      <g:description>1 kg de miel de sidr de montagne + 1 kg de miel de fleurs sauvages + 1 kg de miel de talh premium (livraison gratuite). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-de-sidr-de-montagne-1-kg-de-miel-de-fleurs-sauvages-1-kg-de-miel-de/p1190839815?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>909201315</g:id>
       <g:title>Offre miel de nigelle 10 kg en bidon, format familial (livraison gratuite)</g:title>
       <g:description>Offre miel de nigelle 10 kg en bidon, format familial (livraison gratuite). 10.5 kg.</g:description>
@@ -1075,12 +1093,6 @@
       <g:title>Miel de Samra (Shawka) premium, bidon de 7 kg, prix de gros</g:title>
       <g:description>Miel de Samra (Shawka) premium, bidon de 7 kg, prix de gros. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-samra-shawka-premium-bidon-de-7-kg-prix-de-gros/p2101740352?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>645419491</g:id>
-      <g:title>Miel en rayon naturel 1250 g</g:title>
-      <g:description>Miel en rayon naturel 1250 g. 1.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-naturel-1250-g/p645419491?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2107453315</g:id>
@@ -1467,12 +1479,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-5-kg-bidon-prix-de-gros/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>838476640</g:id>
-      <g:title>Raisins secs rouges du Yémen 500 g</g:title>
-      <g:description>Raisins secs rouges du Yémen 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-rouges-du-y-men-500-g/p838476640?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>250040053</g:id>
       <g:title>Graines de nigelle 1 kg</g:title>
       <g:description>Graines de nigelle 1 kg. 1.5 kg.</g:description>
@@ -1507,12 +1513,6 @@
       <g:title>Rayon de miel de sidr du pays – 1 kg</g:title>
       <g:description>Rayon de miel de sidr du pays – 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/rayon-de-miel-de-sidr-du-pays-1-kg/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>381563450</g:id>
-      <g:title>Poudre de gelée royale – 30 g</g:title>
-      <g:description>Poudre de gelée royale – 30 g. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/poudre-de-gel-e-royale-30-g/p381563450?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>283420378</g:id>

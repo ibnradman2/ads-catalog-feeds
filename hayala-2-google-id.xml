@@ -4,10 +4,25 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 20:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:46:53 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">528140923</guid>
+      <g:id>528140923</g:id>
+      <g:title>Rempah Dasar - 12 Kemasan + Setengah Kilo Bawang Goreng</g:title>
+      <g:description>Rempah Dasar - 12 Kemasan + Setengah Kilo Bawang Goreng. 1.6 kg.</g:description>
+      <g:link>https://hayala.co/ind/rempah-dasar-12-kemasan-setengah-kilo-bawang-goreng/p528140923?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/uGkHQpTjguSoGQEgxudT5RaW3gKPvY7xWq9jblMd.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>216.00 SAR</g:price>
+      <g:sale_price>149.01 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>1.6 kg</g:shipping_weight>
+    <g:mpn>528140923</g:mpn><g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1051236094</guid>
       <g:id>1051236094</g:id>
@@ -1940,21 +1955,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.18 kg</g:shipping_weight>
     <g:mpn>638751991</g:mpn><g:google_product_category>5827</g:google_product_category><g:unit_pricing_measure>680g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">528140923</guid>
-      <g:id>528140923</g:id>
-      <g:title>Rempah Dasar - 12 Kemasan + Setengah Kilo Bawang Goreng</g:title>
-      <g:description>Rempah Dasar - 12 Kemasan + Setengah Kilo Bawang Goreng. 1.6 kg.</g:description>
-      <g:link>https://hayala.co/ind/rempah-dasar-12-kemasan-setengah-kilo-bawang-goreng/p528140923?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/uGkHQpTjguSoGQEgxudT5RaW3gKPvY7xWq9jblMd.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>216.00 SAR</g:price>
-      <g:sale_price>149.01 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>1.6 kg</g:shipping_weight>
-    <g:mpn>528140923</g:mpn><g:google_product_category>1529</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">282374221</guid>
       <g:id>282374221</g:id>
