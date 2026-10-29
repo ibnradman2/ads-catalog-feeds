@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 19:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:11:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Ginseng Kökleri</g:title>
+      <g:description>Ginseng Kökleri. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ginseng-k-kleri/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Abu Farwa Kestane Balı 250 Gram</g:title>
+      <g:description>Abu Farwa Kestane Balı 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/abu-farwa-kestane-bal-250-gram/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Şazliyye Kahvesi: Kahve Çekirdeği, Kakule ve Safrandan Oluşan Birinci Sınıf Öğütülmüş Arap Kahvesi</g:title>
+      <g:description>Şazliyye Kahvesi: Kahve Çekirdeği, Kakule ve Safrandan Oluşan Birinci Sınıf Öğütülmüş Arap Kahvesi. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/azliyye-kahvesi-kahve-ekirde-i-kakule-ve-safrandan-olu-an-birinci-s-n-f-t-lm-ara/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1590568579</g:id>
       <g:title>3 Kavanoz Zencefilli, Limonlu ve Zerdeçallı Bal İçeceği</g:title>
@@ -963,12 +981,6 @@
       <g:link>https://asalaljebal.sa/tr/yar-m-kilo-da-sidr-yar-m-kilo-diken-yar-m-kilo-macar-yar-m-kilo-kara-orman-yar-m/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>1165273283</g:id>
-      <g:title>Ginseng Kökleri</g:title>
-      <g:description>Ginseng Kökleri. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ginseng-k-kleri/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>658342130</g:id>
       <g:title>Organik Elma Sirkesi 500 ml</g:title>
       <g:description>Organik Elma Sirkesi 500 ml. 0.5 kg.</g:description>
@@ -1003,12 +1015,6 @@
       <g:title>Orijinal Kara Orman Balı 5 Kilo Bidon, Toptan</g:title>
       <g:description>Orijinal Kara Orman Balı 5 Kilo Bidon, Toptan. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/orijinal-kara-orman-bal-5-kilo-bidon-toptan/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Şazliyye Kahvesi: Kahve Çekirdeği, Kakule ve Safrandan Oluşan Birinci Sınıf Öğütülmüş Arap Kahvesi</g:title>
-      <g:description>Şazliyye Kahvesi: Kahve Çekirdeği, Kakule ve Safrandan Oluşan Birinci Sınıf Öğütülmüş Arap Kahvesi. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/azliyye-kahvesi-kahve-ekirde-i-kakule-ve-safrandan-olu-an-birinci-s-n-f-t-lm-ara/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>419971394</g:id>
@@ -1099,12 +1105,6 @@
       <g:title>Orijinal Kara Orman Balı 10 Kilo Bidon, Toptan</g:title>
       <g:description>Orijinal Kara Orman Balı 10 Kilo Bidon, Toptan. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/orijinal-kara-orman-bal-10-kilo-bidon-toptan/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Abu Farwa Kestane Balı 250 Gram</g:title>
-      <g:description>Abu Farwa Kestane Balı 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/abu-farwa-kestane-bal-250-gram/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2000496810</g:id>

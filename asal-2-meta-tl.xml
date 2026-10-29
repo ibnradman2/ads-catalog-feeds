@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 19:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:11:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Mga Ugat ng Ginseng</g:title>
+      <g:description>Mga Ugat ng Ginseng. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/mga-ugat-ng-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
+      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron</g:title>
+      <g:description>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/al-shadhiliyah-premium-na-giniling-na-arabic-coffee-na-gawa-sa-kape-cardamom-at-/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1590568579</g:id>
       <g:title>3 Bote ng Inuming Pulot na may Luya, Lemon at Turmeric</g:title>
@@ -969,12 +987,6 @@
       <g:link>https://asalaljebal.sa/tl/kalahating-kilo-ng-sidr-ng-bundok-kalahating-kilo-ng-shawka-kalahating-kilo-ng-p/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1165273283</g:id>
-      <g:title>Mga Ugat ng Ginseng</g:title>
-      <g:description>Mga Ugat ng Ginseng. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/mga-ugat-ng-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>658342130</g:id>
       <g:title>Organikong Suka ng Mansanas 500 ml</g:title>
       <g:description>Organikong Suka ng Mansanas 500 ml. 0.5 kg.</g:description>
@@ -1009,12 +1021,6 @@
       <g:title>Tunay na Black Forest Honey 5 Kilo Galon sa Pakyawan</g:title>
       <g:description>Tunay na Black Forest Honey 5 Kilo Galon sa Pakyawan. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-5-kilo-galon-sa-pakyawan/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron</g:title>
-      <g:description>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/al-shadhiliyah-premium-na-giniling-na-arabic-coffee-na-gawa-sa-kape-cardamom-at-/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>419971394</g:id>
@@ -1105,12 +1111,6 @@
       <g:title>Tunay na Black Forest Honey 10 Kilo Galon sa Pakyawan</g:title>
       <g:description>Tunay na Black Forest Honey 10 Kilo Galon sa Pakyawan. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-10-kilo-galon-sa-pakyawan/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
-      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>2000496810</g:id>

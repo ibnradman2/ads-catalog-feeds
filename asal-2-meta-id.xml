@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 19:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:11:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Akar Ginseng</g:title>
+      <g:description>Akar Ginseng. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/akar-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Madu Abu Farwah (Kastanye) 250 gram</g:title>
+      <g:description>Madu Abu Farwah (Kastanye) 250 gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-abu-farwah-kastanye-250-gram/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron</g:title>
+      <g:description>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/kopi-asy-syadziliyah-kopi-arab-giling-premium-dari-kopi-kapulaga-dan-saffron/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1590568579</g:id>
       <g:title>Minuman Madu Jahe, Lemon, dan Kunyit, 3 Botol</g:title>
@@ -963,12 +981,6 @@
       <g:link>https://asalaljebal.sa/ind/setengah-kilo-sidr-pegunungan-setengah-kilo-syauka-setengah-kilo-putih-hungaria-/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1165273283</g:id>
-      <g:title>Akar Ginseng</g:title>
-      <g:description>Akar Ginseng. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/akar-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>658342130</g:id>
       <g:title>Cuka Apel Organik 500 ml</g:title>
       <g:description>Cuka Apel Organik 500 ml. 0.5 kg.</g:description>
@@ -1003,12 +1015,6 @@
       <g:title>Madu Hutan Hitam Asli 5 Kilo Galon Grosir</g:title>
       <g:description>Madu Hutan Hitam Asli 5 Kilo Galon Grosir. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-5-kilo-galon-grosir/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron</g:title>
-      <g:description>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/kopi-asy-syadziliyah-kopi-arab-giling-premium-dari-kopi-kapulaga-dan-saffron/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>419971394</g:id>
@@ -1099,12 +1105,6 @@
       <g:title>Madu Hutan Hitam Asli 10 Kilo Galon Grosir</g:title>
       <g:description>Madu Hutan Hitam Asli 10 Kilo Galon Grosir. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-10-kilo-galon-grosir/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Madu Abu Farwah (Kastanye) 250 gram</g:title>
-      <g:description>Madu Abu Farwah (Kastanye) 250 gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-abu-farwah-kastanye-250-gram/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2000496810</g:id>

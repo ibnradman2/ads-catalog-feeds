@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 19:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:11:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Raíces de Ginseng</g:title>
+      <g:description>Raíces de Ginseng. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/ra-ces-de-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Miel de castaño Abu Farwa (castaño) 250 g</g:title>
+      <g:description>Miel de castaño Abu Farwa (castaño) 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Café Al Shazliya: café árabe molido de lujo con café, cardamomo y azafrán</g:title>
+      <g:description>Café Al Shazliya: café árabe molido de lujo con café, cardamomo y azafrán. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/caf-al-shazliya-caf-rabe-molido-de-lujo-con-caf-cardamomo-y-azafr-n/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1590568579</g:id>
       <g:title>3 envases de miel con jengibre, limón y cúrcuma</g:title>
@@ -969,12 +987,6 @@
       <g:link>https://asalaljebal.sa/es/medio-kilo-de-sidr-de-monta-a-medio-kilo-de-shawka-medio-kilo-de-majra-medio-kil/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1165273283</g:id>
-      <g:title>Raíces de Ginseng</g:title>
-      <g:description>Raíces de Ginseng. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/ra-ces-de-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>658342130</g:id>
       <g:title>Vinagre de manzana ecológico, 500 ml</g:title>
       <g:description>Vinagre de manzana ecológico, 500 ml. 0.5 kg.</g:description>
@@ -1009,12 +1021,6 @@
       <g:title>Miel de la Selva Negra auténtica garrafa 5 kg precio mayorista</g:title>
       <g:description>Miel de la Selva Negra auténtica garrafa 5 kg precio mayorista. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-garrafa-5-kg-precio-mayorista/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Café Al Shazliya: café árabe molido de lujo con café, cardamomo y azafrán</g:title>
-      <g:description>Café Al Shazliya: café árabe molido de lujo con café, cardamomo y azafrán. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/caf-al-shazliya-caf-rabe-molido-de-lujo-con-caf-cardamomo-y-azafr-n/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>419971394</g:id>
@@ -1105,12 +1111,6 @@
       <g:title>Miel de la Selva Negra auténtica garrafa 10 kg precio mayorista</g:title>
       <g:description>Miel de la Selva Negra auténtica garrafa 10 kg precio mayorista. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-garrafa-10-kg-precio-mayorista/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Miel de castaño Abu Farwa (castaño) 250 g</g:title>
-      <g:description>Miel de castaño Abu Farwa (castaño) 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2000496810</g:id>

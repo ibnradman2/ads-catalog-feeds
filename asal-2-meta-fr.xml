@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 19:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:11:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Racines de ginseng entières</g:title>
+      <g:description>Racines de ginseng entières. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/racines-de-ginseng-enti-res/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Miel de châtaignier Abu Farwa 250 g</g:title>
+      <g:description>Miel de châtaignier Abu Farwa 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-ch-taignier-abu-farwa-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran</g:title>
+      <g:description>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/caf-al-shadhiliya-caf-arabe-moulu-haut-de-gamme-au-caf-la-cardamome-et-au-safran/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1590568579</g:id>
       <g:title>3 pots de boisson au miel, gingembre, citron et curcuma</g:title>
@@ -963,12 +981,6 @@
       <g:link>https://asalaljebal.sa/fr/un-demi-kilo-de-sidr-de-montagne-un-demi-kilo-de-chawka-un-demi-kilo-de-tilleul-/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1165273283</g:id>
-      <g:title>Racines de ginseng entières</g:title>
-      <g:description>Racines de ginseng entières. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/racines-de-ginseng-enti-res/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>658342130</g:id>
       <g:title>Vinaigre de cidre biologique 500 ml</g:title>
       <g:description>Vinaigre de cidre biologique 500 ml. 0.5 kg.</g:description>
@@ -1003,12 +1015,6 @@
       <g:title>Miel de la Forêt-Noire authentique, bidon de 5 kg en gros</g:title>
       <g:description>Miel de la Forêt-Noire authentique, bidon de 5 kg en gros. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-5-kg-en-gros/p810196573?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran</g:title>
-      <g:description>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/caf-al-shadhiliya-caf-arabe-moulu-haut-de-gamme-au-caf-la-cardamome-et-au-safran/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>419971394</g:id>
@@ -1099,12 +1105,6 @@
       <g:title>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros</g:title>
       <g:description>Miel de la Forêt-Noire authentique, bidon de 10 kg en gros. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-bidon-de-10-kg-en-gros/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Miel de châtaignier Abu Farwa 250 g</g:title>
-      <g:description>Miel de châtaignier Abu Farwa 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-ch-taignier-abu-farwa-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2000496810</g:id>
