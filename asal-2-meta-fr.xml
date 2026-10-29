@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:17:35 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>858223421</g:id>
+      <g:title>Figues séchées 1 kg</g:title>
+      <g:description>Figues séchées 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1688053025</g:id>
+      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g)</g:title>
+      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>702151512</g:id>
+      <g:title>Miel de la Forêt-Noire authentique 500 g</g:title>
+      <g:description>Miel de la Forêt-Noire authentique 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-500-g/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>957082464</g:id>
       <g:title>Offre miel de Sidr royal Oussaïmi - miel de Sidr royal en rayon avec livraison gratuite</g:title>
@@ -1149,12 +1167,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-250-g/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>702151512</g:id>
-      <g:title>Miel de la Forêt-Noire authentique 500 g</g:title>
-      <g:description>Miel de la Forêt-Noire authentique 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-500-g/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1934538070</g:id>
       <g:title>Miel de fleurs sauvages du Sud ou du Hadramaout 2 kg</g:title>
       <g:description>Miel de fleurs sauvages du Sud ou du Hadramaout 2 kg. 2.5 kg.</g:description>
@@ -1231,12 +1243,6 @@
       <g:title>Miel de trèfle 500 g</g:title>
       <g:description>Miel de trèfle 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-tr-fle-500-g/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>858223421</g:id>
-      <g:title>Figues séchées 1 kg</g:title>
-      <g:description>Figues séchées 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>177144225</g:id>
@@ -1531,12 +1537,6 @@
       <g:title>Poudre de gelée royale – 10 g</g:title>
       <g:description>Poudre de gelée royale – 10 g. 0.51 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/poudre-de-gel-e-royale-10-g/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1688053025</g:id>
-      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g)</g:title>
-      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>472529251</g:id>

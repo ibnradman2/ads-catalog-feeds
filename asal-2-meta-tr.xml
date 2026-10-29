@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:17:35 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>858223421</g:id>
+      <g:title>Kurutulmuş İncir 1 kg</g:title>
+      <g:description>Kurutulmuş İncir 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/kurutulmu-i-ncir-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1688053025</g:id>
+      <g:title>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram)</g:title>
+      <g:description>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ball-kuruyemi-badem-kaju-ceviz-pekan-cevizi-f-nd-k-antep-f-st-500-gram/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>702151512</g:id>
+      <g:title>Orijinal Kara Orman Balı 500 g</g:title>
+      <g:description>Orijinal Kara Orman Balı 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/orijinal-kara-orman-bal-500-g/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>957082464</g:id>
       <g:title>Teklif Asimi Kraliyet Sidr Balı - Ücretsiz Teslimatlı Petekli Kraliyet Sidr Balı</g:title>
@@ -1149,12 +1167,6 @@
       <g:link>https://asalaljebal.sa/tr/orijinal-kara-orman-bal-250-g/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>702151512</g:id>
-      <g:title>Orijinal Kara Orman Balı 500 g</g:title>
-      <g:description>Orijinal Kara Orman Balı 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/orijinal-kara-orman-bal-500-g/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1934538070</g:id>
       <g:title>Güney veya Hadramut Yabani Çiçek Balı 2 kg</g:title>
       <g:description>Güney veya Hadramut Yabani Çiçek Balı 2 kg. 2.5 kg.</g:description>
@@ -1231,12 +1243,6 @@
       <g:title>Yonca Çiçeği Balı 500 Gram</g:title>
       <g:description>Yonca Çiçeği Balı 500 Gram. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/yonca-i-e-i-bal-500-gram/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>858223421</g:id>
-      <g:title>Kurutulmuş İncir 1 kg</g:title>
-      <g:description>Kurutulmuş İncir 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/kurutulmu-i-ncir-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>177144225</g:id>
@@ -1531,12 +1537,6 @@
       <g:title>Arı Sütü Tozu - 10 Gram</g:title>
       <g:description>Arı Sütü Tozu - 10 Gram. 0.51 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/ar-s-t-tozu-10-gram/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1688053025</g:id>
-      <g:title>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram)</g:title>
-      <g:description>Ballı Kuruyemiş (Badem - Kaju - Ceviz - Pekan Cevizi - Fındık - Antep Fıstığı) (500 Gram). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ball-kuruyemi-badem-kaju-ceviz-pekan-cevizi-f-nd-k-antep-f-st-500-gram/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>472529251</g:id>

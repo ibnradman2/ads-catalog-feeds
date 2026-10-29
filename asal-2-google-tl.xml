@@ -4,10 +4,57 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:17:35 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">858223421</guid>
+      <g:id>858223421</g:id>
+      <g:title>Pinatuyong Igos mula sa Syria, 1 Kilo</g:title>
+      <g:description>Pinatuyong Igos mula sa Syria, 1 Kilo. Pinatuyong Prutas. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pinatuyong-igos-mula-sa-syria-1-kilo/p858223421?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Dm8mjuGBS16UL50WBtz2BJoifTKov3Urt0HcqjdQ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>73.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>02020203</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>858223421</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pinatuyong Prutas</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1688053025</guid>
+      <g:id>1688053025</g:id>
+      <g:title>Mga Mani na may Pulot (Almond - Cashew - Walnut - Pecan - Hazelnut - Pistachio) (500 Gramo)</g:title>
+      <g:description>Mga Mani na may Pulot (Almond - Cashew - Walnut - Pecan - Hazelnut - Pistachio) (500 Gramo). Ibang Pulot-pukyutan. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/mga-mani-na-may-pulot-almond-cashew-walnut-pecan-hazelnut-pistachio-500-gramo/p1688053025?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LKu6Pz3TUzjMPlSbl6AyGne9g3LYiRr2ylC6ob0Y.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/a48MgweLMOrxTp9dha3VK8JwbQLhO4ujCDJ1HWvB.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>99.00 SAR</g:price>
+      <g:sale_price>79.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041053001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>1688053025</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">702151512</guid>
+      <g:id>702151512</g:id>
+      <g:title>Tunay na Black Forest Honey 500 Gramo</g:title>
+      <g:description>Tunay na Black Forest Honey 500 Gramo. Ibang Pulot-pukyutan. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-500-gramo/p702151512?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Su53WlCUjbcmYEIRA06XZKW41ALMXrSILblY5x0I.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>80.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>702151512</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">957082464</guid>
       <g:id>957082464</g:id>
@@ -3020,21 +3067,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>2074483289</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">702151512</guid>
-      <g:id>702151512</g:id>
-      <g:title>Tunay na Black Forest Honey 500 Gramo</g:title>
-      <g:description>Tunay na Black Forest Honey 500 Gramo. Ibang Pulot-pukyutan. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-500-gramo/p702151512?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Su53WlCUjbcmYEIRA06XZKW41ALMXrSILblY5x0I.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>80.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>702151512</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1934538070</guid>
       <g:id>1934538070</g:id>
       <g:title>Wildflower Honey, Timog o Hadramawt, 2 Kilo</g:title>
@@ -3252,21 +3284,6 @@
       <g:item_group_id>0041003002</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>950198944</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pulot ng Bulaklak</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">858223421</guid>
-      <g:id>858223421</g:id>
-      <g:title>Pinatuyong Igos mula sa Syria, 1 Kilo</g:title>
-      <g:description>Pinatuyong Igos mula sa Syria, 1 Kilo. Pinatuyong Prutas. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pinatuyong-igos-mula-sa-syria-1-kilo/p858223421?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Dm8mjuGBS16UL50WBtz2BJoifTKov3Urt0HcqjdQ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>73.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>02020203</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>858223421</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>Pagganap B</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Pinatuyong Prutas</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">177144225</guid>
       <g:id>177144225</g:id>
@@ -4046,23 +4063,6 @@
       <g:item_group_id>0061009001</g:item_group_id>
       <g:shipping_weight>0.51 kg</g:shipping_weight>
     <g:mpn>1766572873</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Pagganap D</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Produkto ng Bubuyog</g:custom_label_3><g:unit_pricing_measure>10g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1688053025</guid>
-      <g:id>1688053025</g:id>
-      <g:title>Mga Mani na may Pulot (Almond - Cashew - Walnut - Pecan - Hazelnut - Pistachio) (500 Gramo)</g:title>
-      <g:description>Mga Mani na may Pulot (Almond - Cashew - Walnut - Pecan - Hazelnut - Pistachio) (500 Gramo). Ibang Pulot-pukyutan. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/mga-mani-na-may-pulot-almond-cashew-walnut-pecan-hazelnut-pistachio-500-gramo/p1688053025?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/LKu6Pz3TUzjMPlSbl6AyGne9g3LYiRr2ylC6ob0Y.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/a48MgweLMOrxTp9dha3VK8JwbQLhO4ujCDJ1HWvB.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>99.00 SAR</g:price>
-      <g:sale_price>79.01 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041053001</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1688053025</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Pagganap C</g:custom_label_0><g:custom_label_1>Buong taon</g:custom_label_1><g:custom_label_2>Wala pang 100</g:custom_label_2><g:custom_label_3>Ibang Pulot-pukyutan</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">472529251</guid>
       <g:id>472529251</g:id>

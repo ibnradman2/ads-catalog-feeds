@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 00:46:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:04:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1570,5 +1570,5 @@
       <g:item_group_id>0041012002</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>0041012002</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    </channel>
+  </channel>
 </rss>

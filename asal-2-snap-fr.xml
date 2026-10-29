@@ -4,10 +4,57 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:17:35 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">858223421</guid>
+      <g:id>858223421</g:id>
+      <g:title>Figues séchées 1 kg</g:title>
+      <g:description>Figues séchées 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Dm8mjuGBS16UL50WBtz2BJoifTKov3Urt0HcqjdQ.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>73.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>02020203</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1688053025</guid>
+      <g:id>1688053025</g:id>
+      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g)</g:title>
+      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LKu6Pz3TUzjMPlSbl6AyGne9g3LYiRr2ylC6ob0Y.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/a48MgweLMOrxTp9dha3VK8JwbQLhO4ujCDJ1HWvB.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>99.00 SAR</g:price>
+      <g:sale_price>79.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041053001</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">702151512</guid>
+      <g:id>702151512</g:id>
+      <g:title>Miel de la Forêt-Noire authentique 500 g</g:title>
+      <g:description>Miel de la Forêt-Noire authentique 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-500-g/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Su53WlCUjbcmYEIRA06XZKW41ALMXrSILblY5x0I.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>80.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041010002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">957082464</guid>
       <g:id>957082464</g:id>
@@ -3001,21 +3048,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">702151512</guid>
-      <g:id>702151512</g:id>
-      <g:title>Miel de la Forêt-Noire authentique 500 g</g:title>
-      <g:description>Miel de la Forêt-Noire authentique 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-la-for-t-noire-authentique-500-g/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Su53WlCUjbcmYEIRA06XZKW41ALMXrSILblY5x0I.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>80.99 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041010002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1934538070</guid>
       <g:id>1934538070</g:id>
       <g:title>Miel de fleurs sauvages du Sud ou du Hadramaout 2 kg</g:title>
@@ -3216,21 +3248,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041003002</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">858223421</guid>
-      <g:id>858223421</g:id>
-      <g:title>Figues séchées 1 kg</g:title>
-      <g:description>Figues séchées 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/figues-s-ch-es-1-kg/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Dm8mjuGBS16UL50WBtz2BJoifTKov3Urt0HcqjdQ.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>73.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>02020203</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">177144225</guid>
@@ -4010,23 +4027,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0061009001</g:item_group_id>
       <g:shipping_weight>0.51 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1688053025</guid>
-      <g:id>1688053025</g:id>
-      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g)</g:title>
-      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (500 g). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/LKu6Pz3TUzjMPlSbl6AyGne9g3LYiRr2ylC6ob0Y.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/a48MgweLMOrxTp9dha3VK8JwbQLhO4ujCDJ1HWvB.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>99.00 SAR</g:price>
-      <g:sale_price>79.01 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041053001</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">472529251</guid>
