@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 20:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:11:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1741453097</g:id>
+      <g:title>کشمیری سدر شہد کے 6 ڈبے (600 گرام)</g:title>
+      <g:description>کشمیری سدر شہد کے 6 ڈبے (600 گرام). 4.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1165273283</g:id>
       <g:title>جنسنگ کی جڑیں (پوری جڑ)</g:title>
@@ -115,12 +121,6 @@
       <g:title>3 کلو کشمیری سدر شہد مفت ڈیلیوری کے ساتھ (نایاب معیار کی فصل، بہت محدود مقدار)</g:title>
       <g:description>3 کلو کشمیری سدر شہد مفت ڈیلیوری کے ساتھ (نایاب معیار کی فصل، بہت محدود مقدار). 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/3/p1813391541?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1741453097</g:id>
-      <g:title>کشمیری سدر شہد کے 6 ڈبے (600 گرام)</g:title>
-      <g:description>کشمیری سدر شہد کے 6 ڈبے (600 گرام). 4.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1016153732</g:id>

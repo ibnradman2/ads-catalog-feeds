@@ -4,10 +4,26 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 20:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:11:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1741453097</guid>
+      <g:id>1741453097</g:id>
+      <g:title>6罐克什米尔西德尔蜂蜜（600克）</g:title>
+      <g:description>6罐克什米尔西德尔蜂蜜（600克）. 4.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/2VfmnpuamA35Nb8VGG59ruGGQljCfnGvCab9mkvW.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>420.00 SAR</g:price>
+      <g:sale_price>240.01 SAR</g:sale_price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101017</g:item_group_id>
+      <g:shipping_weight>4.1 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1165273283</guid>
       <g:id>1165273283</g:id>
@@ -365,23 +381,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>1006002002</g:item_group_id>
       <g:shipping_weight>4.0 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1741453097</guid>
-      <g:id>1741453097</g:id>
-      <g:title>6罐克什米尔西德尔蜂蜜（600克）</g:title>
-      <g:description>6罐克什米尔西德尔蜂蜜（600克）. 4.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/6-600/p1741453097?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/G3JKdsTnVI7fTvdVaFQaRgfRkg2JEOlX6ixj1kXa.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/2VfmnpuamA35Nb8VGG59ruGGQljCfnGvCab9mkvW.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>420.00 SAR</g:price>
-      <g:sale_price>240.01 SAR</g:sale_price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101017</g:item_group_id>
-      <g:shipping_weight>4.1 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1016153732</guid>
@@ -3486,7 +3485,7 @@
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/yUTqEw9DfHFrj6iGypjq8UH1iUsZ7MPtIvceG7cH.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/TmQEYx6WkuENj92VuSDNfWK2SlWG4TybPDfC28As.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/Xq5LqyqYh4Uxf7bUzYSWLA3E66Mqth3l0uqBM6qg.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jjGBpDxED1OXmV2EJVaOSzxZRQTZuF8tLNOuYkMV.jpg</g:additional_image_link><g:additional_image_link>https://cdn.salla.sa/mgEBE/ZhutNwOBEzk5UJYuE2jOk0OZb3hjdW1d7ojNiQus.jpg</g:additional_image_link><g:availability>in stock</g:availability>
       <g:price>6883.00 SAR</g:price>
       <g:sale_price>5162.01 SAR</g:sale_price>
       <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
