@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 28 Oct 2026 20:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:46:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>277670775</g:id>
+      <g:title>天然花蜜4公斤</g:title>
+      <g:description>天然花蜜4公斤. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/4/p277670775?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1036170524</g:id>
       <g:title>2公斤天然西德尔蜂蜜 + 免费赠送2公斤</g:title>
@@ -535,12 +541,6 @@
       <g:title>萨马尔蜂蜜（Shawka优质款）500克</g:title>
       <g:description>萨马尔蜂蜜（Shawka优质款）500克. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/zh/shawka-500/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>277670775</g:id>
-      <g:title>天然花蜜4公斤</g:title>
-      <g:description>天然花蜜4公斤. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/4/p277670775?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1425604290</g:id>
