@@ -4,10 +4,43 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 03:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">957082464</guid>
+      <g:id>957082464</g:id>
+      <g:title>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ</g:title>
+      <g:description>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/JG7Ldwk3ssZJkn7XDmGxKDHpCWFN2DdTmCAIsa0d.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/sYiuTDssWrgvjpxE67GtkHYx9RNBK4mK02pKwccu.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1400.00 SAR</g:price>
+      <g:sale_price>950.00 SAR</g:sale_price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101008</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1688919538</guid>
+      <g:id>1688919538</g:id>
+      <g:title>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے</g:title>
+      <g:description>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے. 6.44 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/2MUZPm4Ur4PSSwAsaaFig12u524ZLzqRrYZB5Zmq.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>730.00 SAR</g:price>
+      <g:sale_price>389.00 SAR</g:sale_price>
+      <g:brand>عسل الجبل</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101018</g:item_group_id>
+      <g:shipping_weight>6.44 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1516032688</guid>
       <g:id>1516032688</g:id>
@@ -1388,22 +1421,6 @@
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1688919538</guid>
-      <g:id>1688919538</g:id>
-      <g:title>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے</g:title>
-      <g:description>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے. 6.44 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/2MUZPm4Ur4PSSwAsaaFig12u524ZLzqRrYZB5Zmq.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>730.00 SAR</g:price>
-      <g:sale_price>389.00 SAR</g:sale_price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101018</g:item_group_id>
-      <g:shipping_weight>6.44 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">685341090</guid>
       <g:id>685341090</g:id>
       <g:title>دیسی جنگلی پھولوں کے شہد کا چھتہ، 2 چھتے، 32% رعایت اور مفت ڈیلیوری کے ساتھ</g:title>
@@ -1964,23 +1981,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041010006</g:item_group_id>
       <g:shipping_weight>7.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">957082464</guid>
-      <g:id>957082464</g:id>
-      <g:title>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ</g:title>
-      <g:description>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/JG7Ldwk3ssZJkn7XDmGxKDHpCWFN2DdTmCAIsa0d.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/sYiuTDssWrgvjpxE67GtkHYx9RNBK4mK02pKwccu.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1400.00 SAR</g:price>
-      <g:sale_price>950.00 SAR</g:sale_price>
-      <g:brand>عسل الجبل</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101008</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
     </item>
     <item>
       <guid isPermaLink="false">1016153732</guid>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 03:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>957082464</g:id>
+      <g:title>Alok: Royal Usaimi Sidr Honey - Royal Sidr Honey na may Suklay at Libreng Pagpapadala</g:title>
+      <g:description>Alok: Royal Usaimi Sidr Honey - Royal Sidr Honey na may Suklay at Libreng Pagpapadala. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/alok-royal-usaimi-sidr-honey-royal-sidr-honey-na-may-suklay-at-libreng-pagpapada/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1688919538</g:id>
+      <g:title>5 Kilo ng Black Seed Honey + 2 Garapon ng Inuming Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Black Seed</g:title>
+      <g:description>5 Kilo ng Black Seed Honey + 2 Garapon ng Inuming Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Black Seed. 6.44 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/5-kilo-ng-black-seed-honey-2-garapon-ng-inuming-pulot-na-may-luya-lemon-at-turme/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1516032688</g:id>
       <g:title>Kashmiri Sidr na Pulot, 1 Kilo</g:title>
@@ -729,12 +741,6 @@
       <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-2-kilo-libreng-shipping/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1688919538</g:id>
-      <g:title>5 Kilo ng Black Seed Honey + 2 Garapon ng Inuming Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Black Seed</g:title>
-      <g:description>5 Kilo ng Black Seed Honey + 2 Garapon ng Inuming Pulot na may Luya, Lemon at Turmerik (470 g) + Buto ng Black Seed. 6.44 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/5-kilo-ng-black-seed-honey-2-garapon-ng-inuming-pulot-na-may-luya-lemon-at-turme/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>685341090</g:id>
       <g:title>2 Piraso ng Pulot-pukyutan ng Pambansang Ligaw na Bulaklak, 32% Diskwento + Libreng Pagpapadala</g:title>
       <g:description>2 Piraso ng Pulot-pukyutan ng Pambansang Ligaw na Bulaklak, 32% Diskwento + Libreng Pagpapadala. 1.4 kg.</g:description>
@@ -997,12 +1003,6 @@
       <g:title>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan</g:title>
       <g:description>Tunay na Black Forest Honey 7 Kilo Galon sa Pakyawan. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-7-kilo-galon-sa-pakyawan/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>957082464</g:id>
-      <g:title>Alok: Royal Usaimi Sidr Honey - Royal Sidr Honey na may Suklay at Libreng Pagpapadala</g:title>
-      <g:description>Alok: Royal Usaimi Sidr Honey - Royal Sidr Honey na may Suklay at Libreng Pagpapadala. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/alok-royal-usaimi-sidr-honey-royal-sidr-honey-na-may-suklay-at-libreng-pagpapada/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1016153732</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 03:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>957082464</g:id>
+      <g:title>Oferta de miel Sidr real Usaymi: miel Sidr real con panal y envío gratis</g:title>
+      <g:description>Oferta de miel Sidr real Usaymi: miel Sidr real con panal y envío gratis. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-de-miel-sidr-real-usaymi-miel-sidr-real-con-panal-y-env-o-gratis/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1688919538</g:id>
+      <g:title>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro</g:title>
+      <g:description>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro. 6.44 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/5-kilos-de-miel-de-comino-negro-2-envases-de-bebida-de-miel-con-jengibre-lim-n-y/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1516032688</g:id>
       <g:title>Miel de Sidr de Cachemira 1 kg</g:title>
@@ -729,12 +741,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-casta-o-abu-farwa-casta-o-2-kg-env-o-gratis/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1688919538</g:id>
-      <g:title>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro</g:title>
-      <g:description>5 kilos de miel de comino negro + 2 envases de bebida de miel con jengibre, limón y cúrcuma (470 g) + granos de comino negro. 6.44 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/5-kilos-de-miel-de-comino-negro-2-envases-de-bebida-de-miel-con-jengibre-lim-n-y/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>685341090</g:id>
       <g:title>2 panales de miel de flores silvestres locales con 32 por ciento de descuento + envío gratis</g:title>
       <g:description>2 panales de miel de flores silvestres locales con 32 por ciento de descuento + envío gratis. 1.4 kg.</g:description>
@@ -997,12 +1003,6 @@
       <g:title>Miel de la Selva Negra auténtica garrafa 7 kg precio mayorista</g:title>
       <g:description>Miel de la Selva Negra auténtica garrafa 7 kg precio mayorista. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-garrafa-7-kg-precio-mayorista/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>957082464</g:id>
-      <g:title>Oferta de miel Sidr real Usaymi: miel Sidr real con panal y envío gratis</g:title>
-      <g:description>Oferta de miel Sidr real Usaymi: miel Sidr real con panal y envío gratis. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-de-miel-sidr-real-usaymi-miel-sidr-real-con-panal-y-env-o-gratis/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1016153732</g:id>

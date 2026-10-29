@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 03:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:13:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>957082464</g:id>
+      <g:title>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ</g:title>
+      <g:description>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1688919538</g:id>
+      <g:title>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے</g:title>
+      <g:description>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے. 6.44 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1516032688</g:id>
       <g:title>کشمیری سدر شہد 1 کلو</g:title>
@@ -531,12 +543,6 @@
       <g:link>https://asalaljebal.sa/ur/2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1688919538</g:id>
-      <g:title>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے</g:title>
-      <g:description>5 کلو کالے دانے کا شہد + ادرک لیموں ہلدی شہد مشروب کے 2 ڈبے (470 گرام) + کلونجی کے دانے. 6.44 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5-2-470/p1688919538?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>685341090</g:id>
       <g:title>دیسی جنگلی پھولوں کے شہد کا چھتہ، 2 چھتے، 32% رعایت اور مفت ڈیلیوری کے ساتھ</g:title>
       <g:description>دیسی جنگلی پھولوں کے شہد کا چھتہ، 2 چھتے، 32% رعایت اور مفت ڈیلیوری کے ساتھ. 1.4 kg.</g:description>
@@ -745,12 +751,6 @@
       <g:title>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں</g:title>
       <g:description>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/7/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>957082464</g:id>
-      <g:title>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ</g:title>
-      <g:description>عصیمی شاہی سدر شہد کی پیشکش - موم کے ساتھ شاہی سدر شہد، مفت ڈیلیوری کے ساتھ. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p957082464?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1016153732</g:id>
