@@ -4,25 +4,323 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 18:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:08:30 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
     <item>
-      <guid isPermaLink="false">1854842724</guid>
-      <g:id>1854842724</g:id>
-      <g:title>Royal Jelly Mesir 10 g</g:title>
-      <g:description>Royal Jelly Mesir 10 g. 0.51 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/royal-jelly-mesir-10-g/p1854842724?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/5TwcPNte3twR6YVb33KhFcwn5X81iMuv6so7vLYT.jpeg</g:image_link>
+      <guid isPermaLink="false">1590568579</guid>
+      <g:id>1590568579</g:id>
+      <g:title>Minuman Madu Jahe, Lemon, dan Kunyit, 3 Botol</g:title>
+      <g:description>Minuman Madu Jahe, Lemon, dan Kunyit, 3 Botol. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/minuman-madu-jahe-lemon-dan-kunyit-3-botol/p1590568579?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/vSetQXxwOstzPlo4ZWxQKK4XNMAzveez8Pe4D0mR.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/pH1EMCxmwr1VeUbm5IIOiQmQ6gIXVzXOobMN1ePL.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/5z47kzkPgJ16ggiwnWYlk9eYZOpdGwZEnyvwe15l.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/9EvKP5BBB97jPaARPwDdKQotZPZEZNNCtWhfDUkd.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/GXg3JwHQYAgC1jt4yLwICuhqSfzzOwVT3sQw5K2q.png</g:additional_image_link>
       <g:availability>in stock</g:availability>
-      <g:price>57.99 SAR</g:price>
+      <g:price>210.00 SAR</g:price>
+      <g:sale_price>179.00 SAR</g:sale_price>
       <g:brand>Asal Aljebal</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061008</g:item_group_id>
-      <g:shipping_weight>0.51 kg</g:shipping_weight>
-    <g:mpn>1854842724</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>10g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+      <g:item_group_id>004-1050001</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1590568579</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1613959166</guid>
+      <g:id>1613959166</g:id>
+      <g:title>Minuman Madu Alami dengan Jahe, Lemon, dan Kunyit 470 g</g:title>
+      <g:description>Minuman Madu Alami dengan Jahe, Lemon, dan Kunyit 470 g. 0.97 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/minuman-madu-alami-dengan-jahe-lemon-dan-kunyit-470-g/p1613959166?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/ooibU1gypC0TmjTtewvbIhrVQhd7wr5HkoTUC0aP.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041050</g:item_group_id>
+      <g:shipping_weight>0.97 kg</g:shipping_weight>
+    <g:mpn>1613959166</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1262276205</guid>
+      <g:id>1262276205</g:id>
+      <g:title>Madu Talh Premium 2 Kg</g:title>
+      <g:description>Madu Talh Premium 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/E0uUGovbSvlVlkKXjScM8bSYLJ8PNA6LSuzKSs26.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>804.00 SAR</g:price>
+      <g:sale_price>746.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029004</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1262276205</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">2140503485</guid>
+      <g:id>2140503485</g:id>
+      <g:title>Madu Sarang Sidr Royal 5 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal 5 Kg. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/LOBFTDmAF0lKJPqwIEzcO7Qh2WtnxEL4zxM3Sugr.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b2pdN4oTjKvhFsOneNqLhwfBiChH7RlqmOuBmTF4.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3441.00 SAR</g:price>
+      <g:sale_price>2731.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024011</g:item_group_id>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    <g:mpn>2140503485</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1232313534</guid>
+      <g:id>1232313534</g:id>
+      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/XeQILTGvZ9GoSWUfSH3419TXX4kYoVl51SsszT6H.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/p5yFFCn7DMrjGzUAyvAPZ3i6MG0G9Ni9LQ8SjCgG.jpeg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1377.00 SAR</g:price>
+      <g:sale_price>1100.09 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0031024010</g:item_group_id>
+      <g:shipping_weight>2.5 kg</g:shipping_weight>
+    <g:mpn>1232313534</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">565752464</guid>
+      <g:id>565752464</g:id>
+      <g:title>Madu Sidr Peshawari Pakistan Galon 7 Kg Harga Grosir</g:title>
+      <g:description>Madu Sidr Peshawari Pakistan Galon 7 Kg Harga Grosir. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-peshawari-pakistan-galon-7-kg-harga-grosir/p565752464?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/VDKNugvPrHdXxXmHRyjAnKnRImUWFM4YmwzLMSUl.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Miaghrh1vgVLImknwz8QpkWDLh8DS1MYu3POoHPw.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>835.00 SAR</g:price>
+      <g:sale_price>599.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041007006</g:item_group_id>
+      <g:shipping_weight>7.5 kg</g:shipping_weight>
+    <g:mpn>565752464</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">957082464</guid>
+      <g:id>957082464</g:id>
+      <g:title>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis</g:title>
+      <g:description>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis. 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/penawaran-madu-sidr-royal-usaimi-madu-sidr-royal-dengan-sarang-pengiriman-gratis/p957082464?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/JG7Ldwk3ssZJkn7XDmGxKDHpCWFN2DdTmCAIsa0d.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/sYiuTDssWrgvjpxE67GtkHYx9RNBK4mK02pKwccu.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1400.00 SAR</g:price>
+      <g:sale_price>950.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101008</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:mpn>957082464</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1883389928</guid>
+      <g:id>1883389928</g:id>
+      <g:title>Madu Marjoram Galon 10 Kilo Harga Grosir</g:title>
+      <g:description>Madu Marjoram Galon 10 Kilo Harga Grosir. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-marjoram-galon-10-kilo-harga-grosir/p1883389928?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/HtepJE9QaVRB6ZUgNDmjZMxBoKSBZFoJt02nnZmO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1800.00 SAR</g:price>
+      <g:sale_price>1400.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041018006</g:item_group_id>
+      <g:shipping_weight>10.5 kg</g:shipping_weight>
+    <g:mpn>1883389928</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1293030213</guid>
+      <g:id>1293030213</g:id>
+      <g:title>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir)</g:title>
+      <g:description>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-gunung-lokal-dengan-sarang-1-kilo-gratis-ongkir/p1293030213?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/PWaiFy3Ln8sxgn7hL3QCJAPTGblqz5OOLvabAgCX.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/nZcjXaBOu2tjeanR2tFaHg8GMHdpsmiQnmcLi1F9.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>489.00 SAR</g:price>
+      <g:sale_price>397.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101057</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1293030213</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1017059861</guid>
+      <g:id>1017059861</g:id>
+      <g:title>Paket Satu Kilo Madu Habbatussauda + Satu Kilo Madu Bunga Semanggi (Gratis Ongkir)</g:title>
+      <g:description>Paket Satu Kilo Madu Habbatussauda + Satu Kilo Madu Bunga Semanggi (Gratis Ongkir). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-satu-kilo-madu-habbatussauda-satu-kilo-madu-bunga-semanggi-gratis-ongkir/p1017059861?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/uVpQmN8mb8fAqldr01pXGwxvhI89OvQ0jtOcLDCT.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101010</g:item_group_id>
+      <g:shipping_weight>2.0 kg</g:shipping_weight>
+    <g:mpn>1017059861</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">879350052</guid>
+      <g:id>879350052</g:id>
+      <g:title>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir)</g:title>
+      <g:description>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-spesial-4-kemasan-sidr-kashmir-3-kemasan-madu-habbatussauda-jintan-hitam-s/p879350052?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/gxkrxVXyf9V2BVxmESL0III9LAMpcFjLZB8DeCKE.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>436.00 SAR</g:price>
+      <g:sale_price>295.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101007</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>879350052</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1914385815</guid>
+      <g:id>1914385815</g:id>
+      <g:title>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir)</g:title>
+      <g:description>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir). 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-bunga-semanggi-barsim-galon-5-kg-harga-grosir-gratis-ongkir/p1914385815?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/tQXsROt3S8B6AFOVuEhlsG43odQSM5qFVI5M9Hlz.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>517.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101035</g:item_group_id>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    <g:mpn>1914385815</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">863586339</guid>
+      <g:id>863586339</g:id>
+      <g:title>Kismis Hitam Yaman 4 Kilo</g:title>
+      <g:description>Kismis Hitam Yaman 4 Kilo. 4.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/kismis-hitam-yaman-4-kilo/p863586339?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/jSeEFLKa9g6b3lSXBNvVVjbXkG3WBluDWhc3y9ZU.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>240.01 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081002004</g:item_group_id>
+      <g:shipping_weight>4.5 kg</g:shipping_weight>
+    <g:mpn>863586339</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">52483795</guid>
+      <g:id>52483795</g:id>
+      <g:title>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram</g:title>
+      <g:description>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/dua-kemasan-madu-campuran-pegunungan-dengan-sidr-serbuk-sari-royal-jelly-dan-gin/p52483795?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/bfsCkqy0KIz6MhqIUemK0hgJMnDBuYvDITfHre9P.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>780.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1005002001</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>52483795</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1571578210</guid>
+      <g:id>1571578210</g:id>
+      <g:title>Madu Talh Premium 7 Kg Galon Harga Grosir</g:title>
+      <g:description>Madu Talh Premium 7 Kg Galon Harga Grosir. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-talh-premium-7-kg-galon-harga-grosir/p1571578210?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/7Q2iWSTsxNbCX4AhQFrVXIhv6HzRY6rVwCpsrRma.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2814.00 SAR</g:price>
+      <g:sale_price>2409.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041029006</g:item_group_id>
+      <g:shipping_weight>7.5 kg</g:shipping_weight>
+    <g:mpn>1571578210</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">312187437</guid>
+      <g:id>312187437</g:id>
+      <g:title>Madu Sidr Pegunungan Peshawar 3 Kilo</g:title>
+      <g:description>Madu Sidr Pegunungan Peshawar 3 Kilo. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-pegunungan-peshawar-3-kilo/p312187437?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/sRJTzaa4EjEQzqM6yuway5ehw6iImIqy62euF0KI.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>345.00 SAR</g:price>
+      <g:sale_price>299.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101059</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>312187437</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>3kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1813391541</guid>
+      <g:id>1813391541</g:id>
+      <g:title>3 Kg Madu Sidr Kashmiri Diskon 22% dengan Gratis Ongkir (Panen Kualitas Langka, Jumlah Sangat Terbatas)</g:title>
+      <g:description>3 Kg Madu Sidr Kashmiri Diskon 22% dengan Gratis Ongkir (Panen Kualitas Langka, Jumlah Sangat Terbatas). 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/3-kg-madu-sidr-kashmiri-diskon-22-dengan-gratis-ongkir-panen-kualitas-langka-jum/p1813391541?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/qwgRJQO7pBy0inGYkUrEBhLAsAB1ZwpKfcfHvBjv.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>255.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101032</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>1813391541</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">200955964</guid>
+      <g:id>200955964</g:id>
+      <g:title>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram</g:title>
+      <g:description>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram. 4.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/galon-sidr-kashmiri-3-kilo-talbinah-500-gram/p200955964?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/jMznonFXza2Ztu9Qy8KefvsDvo0Vkj4jcNyuCCsX.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>290.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>1006002002</g:item_group_id>
+      <g:shipping_weight>4.0 kg</g:shipping_weight>
+    <g:mpn>200955964</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1741453097</guid>
+      <g:id>1741453097</g:id>
+      <g:title>6 Kemasan Madu Sidr Kashmir (600 Gram)</g:title>
+      <g:description>6 Kemasan Madu Sidr Kashmir (600 Gram). 4.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/6-kemasan-madu-sidr-kashmir-600-gram/p1741453097?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/G3JKdsTnVI7fTvdVaFQaRgfRkg2JEOlX6ixj1kXa.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/2VfmnpuamA35Nb8VGG59ruGGQljCfnGvCab9mkvW.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>420.00 SAR</g:price>
+      <g:sale_price>240.01 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101017</g:item_group_id>
+      <g:shipping_weight>4.1 kg</g:shipping_weight>
+    <g:mpn>1741453097</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1016153732</guid>
       <g:id>1016153732</g:id>
@@ -87,6 +385,21 @@
       <g:item_group_id>0140101031</g:item_group_id>
       <g:shipping_weight>10.75 kg</g:shipping_weight>
     <g:mpn>821410085</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1854842724</guid>
+      <g:id>1854842724</g:id>
+      <g:title>Royal Jelly Mesir 10 g</g:title>
+      <g:description>Royal Jelly Mesir 10 g. 0.51 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/royal-jelly-mesir-10-g/p1854842724?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/5TwcPNte3twR6YVb33KhFcwn5X81iMuv6so7vLYT.jpeg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>57.99 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061008</g:item_group_id>
+      <g:shipping_weight>0.51 kg</g:shipping_weight>
+    <g:mpn>1854842724</g:mpn><g:google_product_category>422</g:google_product_category><g:unit_pricing_measure>10g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1162802741</guid>
       <g:id>1162802741</g:id>
@@ -290,23 +603,6 @@
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>702151512</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">957082464</guid>
-      <g:id>957082464</g:id>
-      <g:title>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis</g:title>
-      <g:description>Penawaran Madu Sidr Royal Usaimi - Madu Sidr Royal dengan Sarang Pengiriman Gratis. 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/penawaran-madu-sidr-royal-usaimi-madu-sidr-royal-dengan-sarang-pengiriman-gratis/p957082464?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/JG7Ldwk3ssZJkn7XDmGxKDHpCWFN2DdTmCAIsa0d.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/sYiuTDssWrgvjpxE67GtkHYx9RNBK4mK02pKwccu.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1400.00 SAR</g:price>
-      <g:sale_price>950.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101008</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>957082464</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
       <guid isPermaLink="false">1688919538</guid>
       <g:id>1688919538</g:id>
       <g:title>5 Kilo Madu Habbatussauda + 2 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit (470 g) + Biji Habbatussauda</g:title>
@@ -447,22 +743,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>1129449226</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">879350052</guid>
-      <g:id>879350052</g:id>
-      <g:title>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir)</g:title>
-      <g:description>Paket Spesial: 4 Kemasan Sidr Kashmir + 3 Kemasan Madu Habbatussauda (Jintan Hitam) + Sendok Madu Kayu (Gratis Ongkir). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-spesial-4-kemasan-sidr-kashmir-3-kemasan-madu-habbatussauda-jintan-hitam-s/p879350052?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/gxkrxVXyf9V2BVxmESL0III9LAMpcFjLZB8DeCKE.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>436.00 SAR</g:price>
-      <g:sale_price>295.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101007</g:item_group_id>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>879350052</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
       <guid isPermaLink="false">381563450</guid>
       <g:id>381563450</g:id>
       <g:title>Bubuk Royal Jelly - 30 Gram</g:title>
@@ -508,22 +788,6 @@
       <g:item_group_id>0031003001</g:item_group_id>
       <g:shipping_weight>1.75 kg</g:shipping_weight>
     <g:mpn>645419491</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1.25kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">863586339</guid>
-      <g:id>863586339</g:id>
-      <g:title>Kismis Hitam Yaman 4 Kilo</g:title>
-      <g:description>Kismis Hitam Yaman 4 Kilo. 4.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/kismis-hitam-yaman-4-kilo/p863586339?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/jSeEFLKa9g6b3lSXBNvVVjbXkG3WBluDWhc3y9ZU.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>240.01 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0081002004</g:item_group_id>
-      <g:shipping_weight>4.5 kg</g:shipping_weight>
-    <g:mpn>863586339</g:mpn><g:google_product_category>1755</g:google_product_category><g:unit_pricing_measure>4kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1190839815</guid>
       <g:id>1190839815</g:id>
@@ -860,22 +1124,6 @@
       <g:shipping_weight>3.0 kg</g:shipping_weight>
     <g:mpn>987199113</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
-      <guid isPermaLink="false">52483795</guid>
-      <g:id>52483795</g:id>
-      <g:title>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram</g:title>
-      <g:description>Dua Kemasan Madu Campuran Pegunungan dengan Sidr, Serbuk Sari, Royal Jelly, dan Ginseng 500 Gram. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/dua-kemasan-madu-campuran-pegunungan-dengan-sidr-serbuk-sari-royal-jelly-dan-gin/p52483795?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/bfsCkqy0KIz6MhqIUemK0hgJMnDBuYvDITfHre9P.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>780.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1005002001</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>52483795</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
       <guid isPermaLink="false">1170804255</guid>
       <g:id>1170804255</g:id>
       <g:title>Campuran Al Jabal Royal 1 kilo</g:title>
@@ -939,23 +1187,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>1590017383</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">565752464</guid>
-      <g:id>565752464</g:id>
-      <g:title>Madu Sidr Peshawari Pakistan Galon 7 Kg Harga Grosir</g:title>
-      <g:description>Madu Sidr Peshawari Pakistan Galon 7 Kg Harga Grosir. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-peshawari-pakistan-galon-7-kg-harga-grosir/p565752464?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/VDKNugvPrHdXxXmHRyjAnKnRImUWFM4YmwzLMSUl.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/Miaghrh1vgVLImknwz8QpkWDLh8DS1MYu3POoHPw.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>835.00 SAR</g:price>
-      <g:sale_price>599.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041007006</g:item_group_id>
-      <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:mpn>565752464</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1919160088</guid>
       <g:id>1919160088</g:id>
       <g:title>3 Kemasan Ramuan Al Jabal Royal ukuran setengah kilo</g:title>
@@ -971,22 +1202,6 @@
       <g:item_group_id>0140101066</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:mpn>1919160088</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">312187437</guid>
-      <g:id>312187437</g:id>
-      <g:title>Madu Sidr Pegunungan Peshawar 3 Kilo</g:title>
-      <g:description>Madu Sidr Pegunungan Peshawar 3 Kilo. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-pegunungan-peshawar-3-kilo/p312187437?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/sRJTzaa4EjEQzqM6yuway5ehw6iImIqy62euF0KI.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>345.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101059</g:item_group_id>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>312187437</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>3kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1473483671</guid>
       <g:id>1473483671</g:id>
@@ -1005,23 +1220,6 @@
       <g:item_group_id>0041007007</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
     <g:mpn>1473483671</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">1232313534</guid>
-      <g:id>1232313534</g:id>
-      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
-      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/XeQILTGvZ9GoSWUfSH3419TXX4kYoVl51SsszT6H.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/p5yFFCn7DMrjGzUAyvAPZ3i6MG0G9Ni9LQ8SjCgG.jpeg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1377.00 SAR</g:price>
-      <g:sale_price>1100.09 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031024010</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1232313534</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">768106172</guid>
       <g:id>768106172</g:id>
@@ -1465,38 +1663,6 @@
       <g:shipping_weight>0.75 kg</g:shipping_weight>
     <g:mpn>284318205</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
-      <guid isPermaLink="false">1017059861</guid>
-      <g:id>1017059861</g:id>
-      <g:title>Paket Satu Kilo Madu Habbatussauda + Satu Kilo Madu Bunga Semanggi (Gratis Ongkir)</g:title>
-      <g:description>Paket Satu Kilo Madu Habbatussauda + Satu Kilo Madu Bunga Semanggi (Gratis Ongkir). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-satu-kilo-madu-habbatussauda-satu-kilo-madu-bunga-semanggi-gratis-ongkir/p1017059861?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/uVpQmN8mb8fAqldr01pXGwxvhI89OvQ0jtOcLDCT.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101010</g:item_group_id>
-      <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:mpn>1017059861</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">1813391541</guid>
-      <g:id>1813391541</g:id>
-      <g:title>3 Kg Madu Sidr Kashmiri Diskon 22% dengan Gratis Ongkir (Panen Kualitas Langka, Jumlah Sangat Terbatas)</g:title>
-      <g:description>3 Kg Madu Sidr Kashmiri Diskon 22% dengan Gratis Ongkir (Panen Kualitas Langka, Jumlah Sangat Terbatas). 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/3-kg-madu-sidr-kashmiri-diskon-22-dengan-gratis-ongkir-panen-kualitas-langka-jum/p1813391541?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/qwgRJQO7pBy0inGYkUrEBhLAsAB1ZwpKfcfHvBjv.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>255.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101032</g:item_group_id>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>1813391541</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
       <guid isPermaLink="false">1245825048</guid>
       <g:id>1245825048</g:id>
       <g:title>Serbuk Sari Lebah - 3 Kemasan × 500 g</g:title>
@@ -1512,22 +1678,6 @@
       <g:item_group_id>0061007004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:mpn>1245825048</g:mpn><g:google_product_category>422</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">200955964</guid>
-      <g:id>200955964</g:id>
-      <g:title>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram</g:title>
-      <g:description>Galon Sidr Kashmiri 3 Kilo + Talbinah 500 gram. 4.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/galon-sidr-kashmiri-3-kilo-talbinah-500-gram/p200955964?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/jMznonFXza2Ztu9Qy8KefvsDvo0Vkj4jcNyuCCsX.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>290.00 SAR</g:price>
-      <g:sale_price>199.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>1006002002</g:item_group_id>
-      <g:shipping_weight>4.0 kg</g:shipping_weight>
-    <g:mpn>200955964</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1766152166</guid>
       <g:id>1766152166</g:id>
@@ -1780,22 +1930,6 @@
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>650316978</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1741453097</guid>
-      <g:id>1741453097</g:id>
-      <g:title>6 Kemasan Madu Sidr Kashmir (600 Gram)</g:title>
-      <g:description>6 Kemasan Madu Sidr Kashmir (600 Gram). 4.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/6-kemasan-madu-sidr-kashmir-600-gram/p1741453097?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/G3JKdsTnVI7fTvdVaFQaRgfRkg2JEOlX6ixj1kXa.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>420.00 SAR</g:price>
-      <g:sale_price>240.01 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101017</g:item_group_id>
-      <g:shipping_weight>4.1 kg</g:shipping_weight>
-    <g:mpn>1741453097</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
       <guid isPermaLink="false">520040245</guid>
       <g:id>520040245</g:id>
       <g:title>Madu Sidr Hadhrami Do'an 500 gram</g:title>
@@ -2034,22 +2168,6 @@
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     <g:mpn>149216914</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
-      <guid isPermaLink="false">1914385815</guid>
-      <g:id>1914385815</g:id>
-      <g:title>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir)</g:title>
-      <g:description>Madu Bunga Semanggi (Barsim) Galon 5 Kg Harga Grosir (Gratis Ongkir). 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-bunga-semanggi-barsim-galon-5-kg-harga-grosir-gratis-ongkir/p1914385815?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/tQXsROt3S8B6AFOVuEhlsG43odQSM5qFVI5M9Hlz.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>517.00 SAR</g:price>
-      <g:sale_price>299.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101035</g:item_group_id>
-      <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>1914385815</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
       <guid isPermaLink="false">1880326017</guid>
       <g:id>1880326017</g:id>
       <g:title>Madu Athl (Shal) 1 kilo</g:title>
@@ -2223,23 +2341,6 @@
       <g:item_group_id>0031033001</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>1372377871</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1293030213</guid>
-      <g:id>1293030213</g:id>
-      <g:title>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir)</g:title>
-      <g:description>Madu Sidr Gunung Lokal dengan Sarang 1 kilo (Gratis Ongkir). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-gunung-lokal-dengan-sarang-1-kilo-gratis-ongkir/p1293030213?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/PWaiFy3Ln8sxgn7hL3QCJAPTGblqz5OOLvabAgCX.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/nZcjXaBOu2tjeanR2tFaHg8GMHdpsmiQnmcLi1F9.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>489.00 SAR</g:price>
-      <g:sale_price>397.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101057</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1293030213</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">646285546</guid>
       <g:id>646285546</g:id>
@@ -2734,22 +2835,6 @@
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:mpn>1279698288</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
-      <guid isPermaLink="false">1262276205</guid>
-      <g:id>1262276205</g:id>
-      <g:title>Madu Talh Premium 2 Kg</g:title>
-      <g:description>Madu Talh Premium 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/E0uUGovbSvlVlkKXjScM8bSYLJ8PNA6LSuzKSs26.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>804.00 SAR</g:price>
-      <g:sale_price>746.01 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041029004</g:item_group_id>
-      <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>1262276205</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1333415564</guid>
       <g:id>1333415564</g:id>
       <g:title>2 Kg Madu Sidr Gunung Diskon 15% + Gratis Ongkir</g:title>
@@ -2954,22 +3039,6 @@
       <g:item_group_id>00610011002</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     <g:mpn>1819446678</g:mpn><g:google_product_category>1529</g:google_product_category><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1883389928</guid>
-      <g:id>1883389928</g:id>
-      <g:title>Madu Marjoram Galon 10 Kilo Harga Grosir</g:title>
-      <g:description>Madu Marjoram Galon 10 Kilo Harga Grosir. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-marjoram-galon-10-kilo-harga-grosir/p1883389928?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/HtepJE9QaVRB6ZUgNDmjZMxBoKSBZFoJt02nnZmO.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1800.00 SAR</g:price>
-      <g:sale_price>1400.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041018006</g:item_group_id>
-      <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>1883389928</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1204991584</guid>
       <g:id>1204991584</g:id>
@@ -3252,39 +3321,6 @@
       <g:item_group_id>0021091007</g:item_group_id>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
     <g:mpn>595190855</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">1571578210</guid>
-      <g:id>1571578210</g:id>
-      <g:title>Madu Talh Premium 7 Kg Galon Harga Grosir</g:title>
-      <g:description>Madu Talh Premium 7 Kg Galon Harga Grosir. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-talh-premium-7-kg-galon-harga-grosir/p1571578210?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/7Q2iWSTsxNbCX4AhQFrVXIhv6HzRY6rVwCpsrRma.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>2814.00 SAR</g:price>
-      <g:sale_price>2409.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041029006</g:item_group_id>
-      <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:mpn>1571578210</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>7kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">2140503485</guid>
-      <g:id>2140503485</g:id>
-      <g:title>Madu Sarang Sidr Royal 5 Kg</g:title>
-      <g:description>Madu Sarang Sidr Royal 5 Kg. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/LOBFTDmAF0lKJPqwIEzcO7Qh2WtnxEL4zxM3Sugr.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/b2pdN4oTjKvhFsOneNqLhwfBiChH7RlqmOuBmTF4.jpeg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>3441.00 SAR</g:price>
-      <g:sale_price>2731.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0031024011</g:item_group_id>
-      <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>2140503485</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">598737026</guid>
       <g:id>598737026</g:id>
@@ -3690,21 +3726,6 @@
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>2125447012</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
-      <guid isPermaLink="false">1613959166</guid>
-      <g:id>1613959166</g:id>
-      <g:title>Minuman Madu Alami dengan Jahe, Lemon, dan Kunyit 470 g</g:title>
-      <g:description>Minuman Madu Alami dengan Jahe, Lemon, dan Kunyit 470 g. 0.97 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/minuman-madu-alami-dengan-jahe-lemon-dan-kunyit-470-g/p1613959166?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/ooibU1gypC0TmjTtewvbIhrVQhd7wr5HkoTUC0aP.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041050</g:item_group_id>
-      <g:shipping_weight>0.97 kg</g:shipping_weight>
-    <g:mpn>1613959166</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>470g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">1726967627</guid>
       <g:id>1726967627</g:id>
       <g:title>Dua Kemasan Madu dengan Kacang-kacangan 500 Gram</g:title>
@@ -3739,26 +3760,6 @@
       <g:item_group_id>0051020004</g:item_group_id>
       <g:shipping_weight>5.0 kg</g:shipping_weight>
     <g:mpn>112154521</g:mpn><g:google_product_category>6812</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">1590568579</guid>
-      <g:id>1590568579</g:id>
-      <g:title>Minuman Madu Jahe, Lemon, dan Kunyit, 3 Botol</g:title>
-      <g:description>Minuman Madu Jahe, Lemon, dan Kunyit, 3 Botol. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/minuman-madu-jahe-lemon-dan-kunyit-3-botol/p1590568579?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/vSetQXxwOstzPlo4ZWxQKK4XNMAzveez8Pe4D0mR.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/pH1EMCxmwr1VeUbm5IIOiQmQ6gIXVzXOobMN1ePL.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/5z47kzkPgJ16ggiwnWYlk9eYZOpdGwZEnyvwe15l.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/9EvKP5BBB97jPaARPwDdKQotZPZEZNNCtWhfDUkd.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/GXg3JwHQYAgC1jt4yLwICuhqSfzzOwVT3sQw5K2q.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>210.00 SAR</g:price>
-      <g:sale_price>179.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>004-1050001</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1590568579</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">402261162</guid>
       <g:id>402261162</g:id>
