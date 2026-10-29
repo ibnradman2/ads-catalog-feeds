@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:17:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1704938777</g:id>
+      <g:title>Ürdün Sıvı Propolis 50 ml</g:title>
+      <g:description>Ürdün Sıvı Propolis 50 ml. 0.05 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rd-n-s-v-propolis-50-ml/p1704938777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>985280850</g:id>
+      <g:title>Yabani Çiçek Balı, Güney veya Hadramut, 250 g</g:title>
+      <g:description>Yabani Çiçek Balı, Güney veya Hadramut, 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yabani-i-ek-bal-g-ney-veya-hadramut-250-g/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>625331805</g:id>
+      <g:title>Keşmir Sidr Balı (600 Gram)</g:title>
+      <g:description>Keşmir Sidr Balı (600 Gram). 1.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-600-gram/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>858223421</g:id>
       <g:title>Kurutulmuş İncir 1 kg</g:title>
@@ -945,12 +963,6 @@
       <g:link>https://asalaljebal.sa/tr/abu-farwa-kestane-bal-10-kilo-bidon-toptan-fiyat-cretsiz-kargo/p1715451278?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>985280850</g:id>
-      <g:title>Yabani Çiçek Balı, Güney veya Hadramut, 250 g</g:title>
-      <g:description>Yabani Çiçek Balı, Güney veya Hadramut, 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yabani-i-ek-bal-g-ney-veya-hadramut-250-g/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>394421153</g:id>
       <g:title>Sıvı Kore Kırmızı Ginseng Özütü 30 Gram</g:title>
       <g:description>Sıvı Kore Kırmızı Ginseng Özütü 30 Gram. 0.53 kg.</g:description>
@@ -1075,12 +1087,6 @@
       <g:title>Arı Zehirli Krem</g:title>
       <g:description>Arı Zehirli Krem. 0.02 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/ar-zehirli-krem/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1704938777</g:id>
-      <g:title>Ürdün Sıvı Propolis 50 ml</g:title>
-      <g:description>Ürdün Sıvı Propolis 50 ml. 0.05 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rd-n-s-v-propolis-50-ml/p1704938777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1853234062</g:id>
@@ -1309,12 +1315,6 @@
       <g:title>Anason Balı 5 Kilo Galon Toptan Fiyat</g:title>
       <g:description>Anason Balı 5 Kilo Galon Toptan Fiyat. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/anason-bal-5-kilo-galon-toptan-fiyat/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>625331805</g:id>
-      <g:title>Keşmir Sidr Balı (600 Gram)</g:title>
-      <g:description>Keşmir Sidr Balı (600 Gram). 1.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-600-gram/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2024213782</g:id>

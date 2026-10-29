@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:17:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1704938777</g:id>
+      <g:title>Likidong Propolis mula sa Jordan, 50 ml</g:title>
+      <g:description>Likidong Propolis mula sa Jordan, 50 ml. 0.05 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/likidong-propolis-mula-sa-jordan-50-ml/p1704938777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>985280850</g:id>
+      <g:title>Wild Flower Honey mula sa Timog o Hadhrami 250 Gramo</g:title>
+      <g:description>Wild Flower Honey mula sa Timog o Hadhrami 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/wild-flower-honey-mula-sa-timog-o-hadhrami-250-gramo/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>625331805</g:id>
+      <g:title>Kashmiri Sidr Honey (600 Gramo)</g:title>
+      <g:description>Kashmiri Sidr Honey (600 Gramo). 1.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/kashmiri-sidr-honey-600-gramo/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>858223421</g:id>
       <g:title>Pinatuyong Igos mula sa Syria, 1 Kilo</g:title>
@@ -945,12 +963,6 @@
       <g:link>https://asalaljebal.sa/tl/galon-ng-pulot-ng-chestnut-abu-farwa-na-10-kilo-presyong-pakyawan-libreng-pagpap/p1715451278?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>985280850</g:id>
-      <g:title>Wild Flower Honey mula sa Timog o Hadhrami 250 Gramo</g:title>
-      <g:description>Wild Flower Honey mula sa Timog o Hadhrami 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/wild-flower-honey-mula-sa-timog-o-hadhrami-250-gramo/p985280850?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>394421153</g:id>
       <g:title>Likidong Extract ng Korean Red Ginseng 30 gramo</g:title>
       <g:description>Likidong Extract ng Korean Red Ginseng 30 gramo. 0.53 kg.</g:description>
@@ -1075,12 +1087,6 @@
       <g:title>Krema ng Lason ng Bubuyog</g:title>
       <g:description>Krema ng Lason ng Bubuyog. 0.02 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/krema-ng-lason-ng-bubuyog/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1704938777</g:id>
-      <g:title>Likidong Propolis mula sa Jordan, 50 ml</g:title>
-      <g:description>Likidong Propolis mula sa Jordan, 50 ml. 0.05 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/likidong-propolis-mula-sa-jordan-50-ml/p1704938777?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1853234062</g:id>
@@ -1315,12 +1321,6 @@
       <g:title>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan</g:title>
       <g:description>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/anise-honey-5-kilo-na-galon-sa-presyong-pakyawan/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>625331805</g:id>
-      <g:title>Kashmiri Sidr Honey (600 Gramo)</g:title>
-      <g:description>Kashmiri Sidr Honey (600 Gramo). 1.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/kashmiri-sidr-honey-600-gramo/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>2024213782</g:id>

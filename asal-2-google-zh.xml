@@ -4,10 +4,56 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:17:57 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1704938777</guid>
+      <g:id>1704938777</g:id>
+      <g:title>约旦液体蜂胶 50毫升</g:title>
+      <g:description>约旦液体蜂胶 50毫升. 蜂产品. 0.05 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/50/p1704938777?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/kUdideE63YJ3QZbK6slqYgXj9Xk1sj1hhYsx7BLf.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/glVtWHjWNfnOskYeCT6KPqkkRvmYFMWosaTWYeSa.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>65.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0060104801</g:item_group_id>
+      <g:shipping_weight>0.05 kg</g:shipping_weight>
+    <g:mpn>1704938777</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">985280850</guid>
+      <g:id>985280850</g:id>
+      <g:title>野花蜂蜜 南部或哈德拉毛 250克</g:title>
+      <g:description>野花蜂蜜 南部或哈德拉毛 250克. 花蜜. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p985280850?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/tea7gH1begC6jdkj7G7Ee6v3totAuycO5vRLKCV4.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>69.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0021002001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>985280850</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">625331805</guid>
+      <g:id>625331805</g:id>
+      <g:title>克什米尔西德尔蜂蜜（600克）</g:title>
+      <g:description>克什米尔西德尔蜂蜜（600克）. 西德尔蜂蜜. 1.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/600/p625331805?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Ubkvwyx6Io0aD5xHs7egMddnWHVGGoLiO4h7NzPJ.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>70.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041006008</g:item_group_id>
+      <g:shipping_weight>1.1 kg</g:shipping_weight>
+    <g:mpn>625331805</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>600g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">858223421</guid>
       <g:id>858223421</g:id>
@@ -2462,21 +2508,6 @@
       <g:shipping_weight>10.5 kg</g:shipping_weight>
     <g:mpn>1715451278</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">985280850</guid>
-      <g:id>985280850</g:id>
-      <g:title>野花蜂蜜 南部或哈德拉毛 250克</g:title>
-      <g:description>野花蜂蜜 南部或哈德拉毛 250克. 花蜜. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p985280850?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/tea7gH1begC6jdkj7G7Ee6v3totAuycO5vRLKCV4.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>69.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0021002001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>985280850</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>花蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">394421153</guid>
       <g:id>394421153</g:id>
       <g:title>韩国红参精华液 30克</g:title>
@@ -2815,22 +2846,6 @@
       <g:item_group_id>006006006001</g:item_group_id>
       <g:shipping_weight>0.02 kg</g:shipping_weight>
     <g:mpn>1204991584</g:mpn><g:google_product_category>567</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>护肤</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1704938777</guid>
-      <g:id>1704938777</g:id>
-      <g:title>约旦液体蜂胶 50毫升</g:title>
-      <g:description>约旦液体蜂胶 50毫升. 蜂产品. 0.05 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/50/p1704938777?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/kUdideE63YJ3QZbK6slqYgXj9Xk1sj1hhYsx7BLf.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/glVtWHjWNfnOskYeCT6KPqkkRvmYFMWosaTWYeSa.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>65.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0060104801</g:item_group_id>
-      <g:shipping_weight>0.05 kg</g:shipping_weight>
-    <g:mpn>1704938777</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>蜂产品</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1853234062</guid>
       <g:id>1853234062</g:id>
@@ -3442,21 +3457,6 @@
       <g:item_group_id>0041049005</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1500398965</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>600及以上</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">625331805</guid>
-      <g:id>625331805</g:id>
-      <g:title>克什米尔西德尔蜂蜜（600克）</g:title>
-      <g:description>克什米尔西德尔蜂蜜（600克）. 西德尔蜂蜜. 1.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/600/p625331805?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Ubkvwyx6Io0aD5xHs7egMddnWHVGGoLiO4h7NzPJ.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>70.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041006008</g:item_group_id>
-      <g:shipping_weight>1.1 kg</g:shipping_weight>
-    <g:mpn>625331805</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>600g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">2024213782</guid>
       <g:id>2024213782</g:id>
