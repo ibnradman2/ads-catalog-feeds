@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 08:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:02:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>950198944</g:id>
+      <g:title>Clover Honey 500 g</g:title>
+      <g:description>Clover Honey 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/clover-honey-500-g/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1762934428</g:id>
+      <g:title>Pakistani Peshawari Sidr Honey 500 Gramo</g:title>
+      <g:description>Pakistani Peshawari Sidr Honey 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pakistani-peshawari-sidr-honey-500-gramo/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>946587237</g:id>
+      <g:title>Itim na Pasas na Yemeni 1 Kilo</g:title>
+      <g:description>Itim na Pasas na Yemeni 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/itim-na-pasas-na-yemeni-1-kilo/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1695821747</g:id>
       <g:title>Pulot ng Moringa, 250 Gramo</g:title>
@@ -1251,18 +1269,6 @@
       <g:link>https://asalaljebal.sa/tl/kashmiri-na-pulot-ng-sidr-250-gramo/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1762934428</g:id>
-      <g:title>Pakistani Peshawari Sidr Honey 500 Gramo</g:title>
-      <g:description>Pakistani Peshawari Sidr Honey 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pakistani-peshawari-sidr-honey-500-gramo/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>950198944</g:id>
-      <g:title>Clover Honey 500 g</g:title>
-      <g:description>Clover Honey 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/clover-honey-500-g/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>177144225</g:id>
       <g:title>Clover Honey 250 g</g:title>
       <g:description>Clover Honey 250 g. 0.75 kg.</g:description>
@@ -1479,12 +1485,6 @@
       <g:link>https://asalaljebal.sa/tl/pulot-ng-marjoram-250-gramo/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>946587237</g:id>
-      <g:title>Itim na Pasas na Yemeni 1 Kilo</g:title>
-      <g:description>Itim na Pasas na Yemeni 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/itim-na-pasas-na-yemeni-1-kilo/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>690835588</g:id>
       <g:title>Black Seed na 250 Gramo</g:title>
       <g:description>Black Seed na 250 Gramo. 0.75 kg.</g:description>
@@ -1574,5 +1574,5 @@
       <g:description>Pulot ng Acacia, 250 Gramo. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-ng-acacia-250-gramo/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
-    </channel>
+  </channel>
 </rss>

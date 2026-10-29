@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 08:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:02:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>950198944</g:id>
+      <g:title>Miel de flor de trébol 500 g</g:title>
+      <g:description>Miel de flor de trébol 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-500-g/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1762934428</g:id>
+      <g:title>Miel de Sidr Peshawari de Pakistán 500 g</g:title>
+      <g:description>Miel de Sidr Peshawari de Pakistán 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-de-pakist-n-500-g/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>946587237</g:id>
+      <g:title>Pasas negras de Yemen 1 kg</g:title>
+      <g:description>Pasas negras de Yemen 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/pasas-negras-de-yemen-1-kg/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1695821747</g:id>
       <g:title>Miel de moringa 250 g</g:title>
@@ -1251,18 +1269,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-cachemira-250-g/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1762934428</g:id>
-      <g:title>Miel de Sidr Peshawari de Pakistán 500 g</g:title>
-      <g:description>Miel de Sidr Peshawari de Pakistán 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-de-pakist-n-500-g/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>950198944</g:id>
-      <g:title>Miel de flor de trébol 500 g</g:title>
-      <g:description>Miel de flor de trébol 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flor-de-tr-bol-500-g/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>177144225</g:id>
       <g:title>Miel de flor de trébol 250 g</g:title>
       <g:description>Miel de flor de trébol 250 g. 0.75 kg.</g:description>
@@ -1479,12 +1485,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-mejorana-250-g/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>946587237</g:id>
-      <g:title>Pasas negras de Yemen 1 kg</g:title>
-      <g:description>Pasas negras de Yemen 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/pasas-negras-de-yemen-1-kg/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>690835588</g:id>
       <g:title>Comino negro (habbat al-baraka) en semillas 250 gramos</g:title>
       <g:description>Comino negro (habbat al-baraka) en semillas 250 gramos. 0.75 kg.</g:description>
@@ -1568,5 +1568,5 @@
       <g:description>Miel de acacia 250 g. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
-    </channel>
+  </channel>
 </rss>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:03:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2047975632</g:id>
+      <g:title>12 Kilo Doğal Çiçek Balı</g:title>
+      <g:description>12 Kilo Doğal Çiçek Balı. 12.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/12-kilo-do-al-i-ek-bal/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>277670775</g:id>
       <g:title>4 kg Doğal Çiçek Balı</g:title>
@@ -589,12 +595,6 @@
       <g:title>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı + 2 Kilo Avrupa Kara Orman Balı</g:title>
       <g:description>2 Kilo Doğal Sidr Balı + 2 Kilo Doğal Çiçek Balı + 2 Kilo Avrupa Kara Orman Balı. 6.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/2-kilo-do-al-sidr-bal-2-kilo-do-al-i-ek-bal-2-kilo-avrupa-kara-orman-bal/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>2047975632</g:id>
-      <g:title>12 Kilo Doğal Çiçek Balı</g:title>
-      <g:description>12 Kilo Doğal Çiçek Balı. 12.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/12-kilo-do-al-i-ek-bal/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>146284993</g:id>

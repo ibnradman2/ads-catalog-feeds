@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 29 Oct 2026 08:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:02:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>950198944</g:id>
+      <g:title>बरसीम शहद (क्लोवर) 500 ग्राम</g:title>
+      <g:description>बरसीम शहद (क्लोवर) 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1762934428</g:id>
+      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 500 ग्राम</g:title>
+      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>946587237</g:id>
+      <g:title>यमनी काली किशमिश 1 किलो</g:title>
+      <g:description>यमनी काली किशमिश 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1695821747</g:id>
       <g:title>मोरिंगा शहद 250 ग्राम</g:title>
@@ -1251,18 +1269,6 @@
       <g:link>https://asalaljebal.sa/hi/250/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1762934428</g:id>
-      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 500 ग्राम</g:title>
-      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1762934428?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>950198944</g:id>
-      <g:title>बरसीम शहद (क्लोवर) 500 ग्राम</g:title>
-      <g:description>बरसीम शहद (क्लोवर) 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p950198944?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>177144225</g:id>
       <g:title>बरसीम शहद (क्लोवर) 250 ग्राम</g:title>
       <g:description>बरसीम शहद (क्लोवर) 250 ग्राम. 0.75 kg.</g:description>
@@ -1479,12 +1485,6 @@
       <g:link>https://asalaljebal.sa/hi/250/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>946587237</g:id>
-      <g:title>यमनी काली किशमिश 1 किलो</g:title>
-      <g:description>यमनी काली किशमिश 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p946587237?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>690835588</g:id>
       <g:title>कलौंजी के बीज (हब्बतुल बरका) 250 ग्राम</g:title>
       <g:description>कलौंजी के बीज (हब्बतुल बरका) 250 ग्राम. 0.75 kg.</g:description>
@@ -1574,5 +1574,5 @@
       <g:description>अकेशिया शहद 250 ग्राम. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/250/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
-    </channel>
+  </channel>
 </rss>
