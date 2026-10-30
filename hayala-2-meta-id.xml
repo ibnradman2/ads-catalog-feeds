@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 06:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:20:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1270839426</g:id>
+      <g:title>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir)</g:title>
+      <g:description>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/penawaran-kapulaga-amerika-grade-satu-extra-jumbo-no-1-ketebalan-8-mm-karton-5-k/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>360158781</g:id>
       <g:title>18 kemasan saffron Super Negin 18 gram + parutan saffron hadiah</g:title>
@@ -877,12 +883,6 @@
       <g:title>Kopi Harari Bashinfer 5 Kilo - Kopi Ethiopia Kelas Satu Qahwat Al-Khair untuk Kopi Arab</g:title>
       <g:description>Kopi Harari Bashinfer 5 Kilo - Kopi Ethiopia Kelas Satu Qahwat Al-Khair untuk Kopi Arab. 5.5 kg.</g:description>
       <g:link>https://hayala.co/ind/kopi-harari-bashinfer-5-kilo-kopi-ethiopia-kelas-satu-qahwat-al-khair-untuk-kopi/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1270839426</g:id>
-      <g:title>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir)</g:title>
-      <g:description>Penawaran Kapulaga Amerika Grade Satu Extra Jumbo No. 1 Ketebalan 8 mm Karton 5 Kilo (Gratis Ongkir). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/penawaran-kapulaga-amerika-grade-satu-extra-jumbo-no-1-ketebalan-8-mm-karton-5-k/p1270839426?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     </channel>
 </rss>
