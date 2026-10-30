@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 04:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:21:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>गिफ़्ट बॉक्स, 8 डिब्बे प्राकृतिक सिदर शहद</g:title>
+      <g:description>गिफ़्ट बॉक्स, 8 डिब्बे प्राकृतिक सिदर शहद. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>311501392</g:id>
       <g:title>8 किलो प्राकृतिक फूलों का शहद</g:title>
@@ -589,12 +595,6 @@
       <g:title>12 जार प्राकृतिक सिद्र शहद</g:title>
       <g:description>12 जार प्राकृतिक सिद्र शहद. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/hi/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>717865418</g:id>
-      <g:title>गिफ़्ट बॉक्स, 8 डिब्बे प्राकृतिक सिदर शहद</g:title>
-      <g:description>गिफ़्ट बॉक्स, 8 डिब्बे प्राकृतिक सिदर शहद. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>190273304</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 04:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:21:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>گفٹ باکس، قدرتی سدر شہد کے 8 جار</g:title>
+      <g:description>گفٹ باکس، قدرتی سدر شہد کے 8 جار. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>311501392</g:id>
       <g:title>8 کلو قدرتی پھولوں کا شہد</g:title>
@@ -541,12 +547,6 @@
       <g:title>قدرتی سدر شہد کی 12 بوتلیں</g:title>
       <g:description>قدرتی سدر شہد کی 12 بوتلیں. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/ur/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>717865418</g:id>
-      <g:title>گفٹ باکس، قدرتی سدر شہد کے 8 جار</g:title>
-      <g:description>گفٹ باکس، قدرتی سدر شہد کے 8 جار. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/8/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>190273304</g:id>

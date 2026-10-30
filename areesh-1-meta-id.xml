@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 04:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:21:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>717865418</g:id>
+      <g:title>Box Hadiah 8 Kemasan Madu Sidr Alami</g:title>
+      <g:description>Box Hadiah 8 Kemasan Madu Sidr Alami. 2.0 kg.</g:description>
+      <g:link>https://areesh.sa/ind/box-hadiah-8-kemasan-madu-sidr-alami/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>311501392</g:id>
       <g:title>8 Kilo Madu Bunga Alami</g:title>
@@ -376,8 +382,8 @@
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>765679051</g:id>
-      <g:title>Madu Sidr Areesh dengan Royal Jelly dan Propolis, Kemasan 500 g</g:title>
-      <g:description>Madu Sidr Areesh dengan Royal Jelly dan Propolis, Kemasan 500 g. 1.0 kg.</g:description>
+      <g:title>Madu Sidr Areesh dengan Royal Jelly dan Propolis (Kemasan 500 g)</g:title>
+      <g:description>Madu Sidr Areesh dengan Royal Jelly dan Propolis (Kemasan 500 g). 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-sidr-areesh-dengan-royal-jelly-dan-propolis-kemasan-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
@@ -589,12 +595,6 @@
       <g:title>12 Kemasan Madu Sidr Alami</g:title>
       <g:description>12 Kemasan Madu Sidr Alami. 3.0 kg.</g:description>
       <g:link>https://areesh.sa/ind/12-kemasan-madu-sidr-alami/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>717865418</g:id>
-      <g:title>Box Hadiah 8 Kemasan Madu Sidr Alami</g:title>
-      <g:description>Box Hadiah 8 Kemasan Madu Sidr Alami. 2.0 kg.</g:description>
-      <g:link>https://areesh.sa/ind/box-hadiah-8-kemasan-madu-sidr-alami/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>190273304</g:id>

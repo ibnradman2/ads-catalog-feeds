@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 04:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:27:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>360158781</g:id>
+      <g:title>18盒Super Naqeel藏红花 18克 + 赠送藏红花研磨器</g:title>
+      <g:description>18盒Super Naqeel藏红花 18克 + 赠送藏红花研磨器. 0.518 kg.</g:description>
+      <g:link>https://hayala.co/zh/18-super-naqeel-18/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1053775856</g:id>
       <g:title>12包特级Negin藏红花 12克 + 免运费</g:title>
@@ -811,12 +817,6 @@
       <g:title>24包超级Negin藏红花 24克 + 免运费</g:title>
       <g:description>24包超级Negin藏红花 24克 + 免运费. 0.524 kg.</g:description>
       <g:link>https://hayala.co/zh/24-negin-24/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>360158781</g:id>
-      <g:title>18盒Super Naqeel藏红花 18克 + 赠送藏红花研磨器</g:title>
-      <g:description>18盒Super Naqeel藏红花 18克 + 赠送藏红花研磨器. 0.518 kg.</g:description>
-      <g:link>https://hayala.co/zh/18-super-naqeel-18/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1232653674</g:id>

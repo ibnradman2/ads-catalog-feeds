@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 04:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:27:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>360158781</g:id>
+      <g:title>18 پیکٹ سپر نقیل زعفران 18 گرام + زعفران کھرل تحفے میں</g:title>
+      <g:description>18 پیکٹ سپر نقیل زعفران 18 گرام + زعفران کھرل تحفے میں. 0.518 kg.</g:description>
+      <g:link>https://hayala.co/ur/18-18/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1053775856</g:id>
       <g:title>12 پیکٹ سپر نقیل زعفران 12 گرام + مفت ڈیلیوری</g:title>
@@ -769,12 +775,6 @@
       <g:title>24 پیکٹ سپر نقیل زعفران 24 گرام + مفت ڈیلیوری</g:title>
       <g:description>24 پیکٹ سپر نقیل زعفران 24 گرام + مفت ڈیلیوری. 0.524 kg.</g:description>
       <g:link>https://hayala.co/ur/24-24/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>360158781</g:id>
-      <g:title>18 پیکٹ سپر نقیل زعفران 18 گرام + زعفران کھرل تحفے میں</g:title>
-      <g:description>18 پیکٹ سپر نقیل زعفران 18 گرام + زعفران کھرل تحفے میں. 0.518 kg.</g:description>
-      <g:link>https://hayala.co/ur/18-18/p360158781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1232653674</g:id>
