@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 11:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:50:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1121679642</g:id>
+      <g:title>Ginseng coréen 15 g</g:title>
+      <g:description>Ginseng coréen 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/ginseng-cor-en-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Gelée royale 15 g</g:title>
+      <g:description>Gelée royale 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gel-e-royale-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>170976614</g:id>
+      <g:title>Raisins secs noirs du Yémen 500 g</g:title>
+      <g:description>Raisins secs noirs du Yémen 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>243164549</g:id>
+      <g:title>Miel de Sidr royal Asimi 1 kg</g:title>
+      <g:description>Miel de Sidr royal Asimi 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-asimi-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1766572873</g:id>
       <g:title>Poudre de gelée royale – 10 g</g:title>
@@ -1023,12 +1047,6 @@
       <g:link>https://asalaljebal.sa/fr/4-pots-de-miel-de-manuka-n-o-z-landais-umf-5-mgo-100-250-g/p646285546?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>480352283</g:id>
-      <g:title>Gelée royale 15 g</g:title>
-      <g:description>Gelée royale 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gel-e-royale-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>622456174</g:id>
       <g:title>Miel de Talh premium 1 kg</g:title>
       <g:description>Miel de Talh premium 1 kg. 1.5 kg.</g:description>
@@ -1135,12 +1153,6 @@
       <g:title>Cuillères de miel de sidr naturel - 25 cuillères</g:title>
       <g:description>Cuillères de miel de sidr naturel - 25 cuillères. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/cuill-res-de-miel-de-sidr-naturel-25-cuill-res/p953218840?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>243164549</g:id>
-      <g:title>Miel de Sidr royal Asimi 1 kg</g:title>
-      <g:description>Miel de Sidr royal Asimi 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-asimi-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>909201315</g:id>
@@ -1341,12 +1353,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-10-kg-en-bidon-prix-de-gros/p63390305?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>170976614</g:id>
-      <g:title>Raisins secs noirs du Yémen 500 g</g:title>
-      <g:description>Raisins secs noirs du Yémen 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>101060786</g:id>
       <g:title>Miel de Sidr du Cachemire 250 g</g:title>
       <g:description>Miel de Sidr du Cachemire 250 g. 0.75 kg.</g:description>
@@ -1477,12 +1483,6 @@
       <g:title>Miel en rayon de talh de Hail 2 kg</g:title>
       <g:description>Miel en rayon de talh de Hail 2 kg. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-talh-de-hail-2-kg/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1121679642</g:id>
-      <g:title>Ginseng coréen 15 g</g:title>
-      <g:description>Ginseng coréen 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/ginseng-cor-en-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1517173604</g:id>

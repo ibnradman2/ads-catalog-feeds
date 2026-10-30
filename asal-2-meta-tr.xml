@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 11:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:50:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1121679642</g:id>
+      <g:title>Ginseng 15 gr</g:title>
+      <g:description>Ginseng 15 gr. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ginseng-15-gr/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Arı Ana Sütü 15 gr</g:title>
+      <g:description>Arı Ana Sütü 15 gr. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ar-ana-s-t-15-gr/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>170976614</g:id>
+      <g:title>Yemen Siyah Kuru Üzüm 500 g</g:title>
+      <g:description>Yemen Siyah Kuru Üzüm 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/yemen-siyah-kuru-z-m-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>243164549</g:id>
+      <g:title>Asimi Kraliyet Sidr Balı 1 kg</g:title>
+      <g:description>Asimi Kraliyet Sidr Balı 1 kg. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/asimi-kraliyet-sidr-bal-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1766572873</g:id>
       <g:title>Arı Sütü Tozu - 10 Gram</g:title>
@@ -1023,12 +1047,6 @@
       <g:link>https://asalaljebal.sa/tr/4-adet-yeni-zelanda-manuka-bal-umf-5-mgo-100-250-g/p646285546?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>480352283</g:id>
-      <g:title>Arı Ana Sütü 15 gr</g:title>
-      <g:description>Arı Ana Sütü 15 gr. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ar-ana-s-t-15-gr/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>622456174</g:id>
       <g:title>Premium Talh Balı 1 Kilo</g:title>
       <g:description>Premium Talh Balı 1 Kilo. 1.5 kg.</g:description>
@@ -1135,12 +1153,6 @@
       <g:title>Doğal Sidr Balı Kaşıkları 25 Kaşık</g:title>
       <g:description>Doğal Sidr Balı Kaşıkları 25 Kaşık. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/do-al-sidr-bal-ka-klar-25-ka-k/p953218840?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>243164549</g:id>
-      <g:title>Asimi Kraliyet Sidr Balı 1 kg</g:title>
-      <g:description>Asimi Kraliyet Sidr Balı 1 kg. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/asimi-kraliyet-sidr-bal-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>909201315</g:id>
@@ -1341,12 +1353,6 @@
       <g:link>https://asalaljebal.sa/tr/premium-talh-bal-10-kilo-toptan-bidon/p63390305?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>170976614</g:id>
-      <g:title>Yemen Siyah Kuru Üzüm 500 g</g:title>
-      <g:description>Yemen Siyah Kuru Üzüm 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/yemen-siyah-kuru-z-m-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>101060786</g:id>
       <g:title>Keşmir Sidr Balı 250 Gram</g:title>
       <g:description>Keşmir Sidr Balı 250 Gram. 0.75 kg.</g:description>
@@ -1477,12 +1483,6 @@
       <g:title>2 kg Hail Talh Petek Balı</g:title>
       <g:description>2 kg Hail Talh Petek Balı. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/2-kg-hail-talh-petek-bal/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1121679642</g:id>
-      <g:title>Ginseng 15 gr</g:title>
-      <g:description>Ginseng 15 gr. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ginseng-15-gr/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1517173604</g:id>

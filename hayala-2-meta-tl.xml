@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 11:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:50:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2106298714</g:id>
+      <g:title>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo</g:title>
+      <g:description>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/amerikanong-jumbo-cardamom-na-unang-grado-blg-2-7-mm-karton-na-5-kilo/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>669353113</g:id>
+      <g:title>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape</g:title>
+      <g:description>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape. 10.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/harari-bashanfar-na-kape-10-kilo-bunn-al-khair-na-ethiopian-unang-grado-para-sa-/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1270839426</g:id>
       <g:title>Handog na Amerikanong Cardamom Unang Grado Extra Jumbo Blg. 1, 8 mm, Karton na 5 Kilo (Libreng Padala)</g:title>
@@ -873,12 +885,6 @@
       <g:link>https://hayala.co/tl/kapeng-luqmati-bashnafar-10-kilo-ethiopian-na-kape-ng-al-khair-unang-grado-para-/p2038336306?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>669353113</g:id>
-      <g:title>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape</g:title>
-      <g:description>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape. 10.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/harari-bashanfar-na-kape-10-kilo-bunn-al-khair-na-ethiopian-unang-grado-para-sa-/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1643632887</g:id>
       <g:title>Amerikanong Cardamom na Unang Grado, Jumbo Blg. 2, 7 mm, 1 Kilo</g:title>
       <g:description>Amerikanong Cardamom na Unang Grado, Jumbo Blg. 2, 7 mm, 1 Kilo. 1.5 kg.</g:description>
@@ -889,12 +895,6 @@
       <g:title>Amerikanong Cardamom na Unang Grado Blg. 3, 6 mm, Karton na 5 Kilo</g:title>
       <g:description>Amerikanong Cardamom na Unang Grado Blg. 3, 6 mm, Karton na 5 Kilo. 5.5 kg.</g:description>
       <g:link>https://hayala.co/tl/amerikanong-cardamom-na-unang-grado-blg-3-6-mm-karton-na-5-kilo/p1434036849?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2106298714</g:id>
-      <g:title>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo</g:title>
-      <g:description>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/amerikanong-jumbo-cardamom-na-unang-grado-blg-2-7-mm-karton-na-5-kilo/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1621826523</g:id>
