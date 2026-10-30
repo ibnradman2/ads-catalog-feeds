@@ -4,10 +4,26 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 14:05:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:21:14 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">146284993</guid>
+      <g:id>146284993</g:id>
+      <g:title>3公斤天然西德尔蜜</g:title>
+      <g:description>3公斤天然西德尔蜜. 西德尔蜂蜜. 3.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/3/p146284993?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/NrIYtY5Mk2GNnTxqB8QErYxprwfsSro7e191Eojp.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>299.00 SAR</g:price>
+      <g:sale_price>149.01 SAR</g:sale_price>
+      <g:brand>阿里什</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>15152003</g:item_group_id>
+      <g:shipping_weight>3.5 kg</g:shipping_weight>
+    <g:mpn>15152003</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>3kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">717865418</guid>
       <g:id>717865418</g:id>
@@ -1521,22 +1537,6 @@
       <g:item_group_id>0041007003010</g:item_group_id>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
     <g:mpn>0041007003010</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">146284993</guid>
-      <g:id>146284993</g:id>
-      <g:title>3公斤天然西德尔蜜</g:title>
-      <g:description>3公斤天然西德尔蜜. 西德尔蜂蜜. 3.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/3/p146284993?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/NrIYtY5Mk2GNnTxqB8QErYxprwfsSro7e191Eojp.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>299.00 SAR</g:price>
-      <g:sale_price>149.01 SAR</g:sale_price>
-      <g:brand>阿里什</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>15152003</g:item_group_id>
-      <g:shipping_weight>3.5 kg</g:shipping_weight>
-    <g:mpn>15152003</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>3kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">480738937</guid>
       <g:id>480738937</g:id>

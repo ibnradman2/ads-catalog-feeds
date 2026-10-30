@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 14:05:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:21:14 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>146284993</g:id>
+      <g:title>3 Kilo Madu Sidr Alami</g:title>
+      <g:description>3 Kilo Madu Sidr Alami. 3.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/3-kilo-madu-sidr-alami/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>717865418</g:id>
       <g:title>Box Hadiah 8 Kemasan Madu Sidr Alami</g:title>
@@ -601,12 +607,6 @@
       <g:title>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami + 2 Kilo Madu Hutan Hitam Eropa</g:title>
       <g:description>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami + 2 Kilo Madu Hutan Hitam Eropa. 6.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/2-kilo-madu-sidr-alami-2-kilo-madu-bunga-alami-2-kilo-madu-hutan-hitam-eropa/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>146284993</g:id>
-      <g:title>3 Kilo Madu Sidr Alami</g:title>
-      <g:description>3 Kilo Madu Sidr Alami. 3.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/3-kilo-madu-sidr-alami/p146284993?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>480738937</g:id>
