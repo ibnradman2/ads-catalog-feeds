@@ -24,7 +24,7 @@
       <g:product_type>أصناف العسل الطبيعي</g:product_type>
       <g:item_group_id>0151007006</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
-    <g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
+    <g:mpn>0151007006</g:mpn><g:google_product_category>136</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>هدايا</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">311501392</guid>
       <g:id>311501392</g:id>
@@ -1770,7 +1770,7 @@
       <g:product_type>عروضنا</g:product_type>
       <g:item_group_id>1515012</g:item_group_id>
       <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
+    <g:mpn>1515012</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>أداء ج</g:custom_label_0><g:custom_label_1>دائم</g:custom_label_1><g:custom_label_2>100 إلى 299</g:custom_label_2><g:custom_label_3>سدر</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">190273304</guid>
       <g:id>190273304</g:id>
