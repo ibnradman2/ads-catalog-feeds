@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 01:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:12:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1053775856</g:id>
+      <g:title>12 kemasan saffron Super Negin 12 gram + pengiriman gratis</g:title>
+      <g:description>12 kemasan saffron Super Negin 12 gram + pengiriman gratis. 0.512 kg.</g:description>
+      <g:link>https://hayala.co/ind/12-kemasan-saffron-super-negin-12-gram-pengiriman-gratis/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>895361493</g:id>
       <g:title>Saffron Super Negin 28 gram (satu ons) + pengiriman gratis</g:title>
@@ -823,12 +829,6 @@
       <g:title>Dua kemasan saffron Super Negin 10 gram</g:title>
       <g:description>Dua kemasan saffron Super Negin 10 gram. 0.51 kg.</g:description>
       <g:link>https://hayala.co/ind/dua-kemasan-saffron-super-negin-10-gram/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1053775856</g:id>
-      <g:title>12 kemasan saffron Super Negin 12 gram + pengiriman gratis</g:title>
-      <g:description>12 kemasan saffron Super Negin 12 gram + pengiriman gratis. 0.512 kg.</g:description>
-      <g:link>https://hayala.co/ind/12-kemasan-saffron-super-negin-12-gram-pengiriman-gratis/p1053775856?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1303028575</g:id>

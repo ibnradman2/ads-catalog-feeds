@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 02:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:13:42 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>蜂毒霜</g:title>
+      <g:description>蜂毒霜. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>431101948</g:id>
+      <g:title>洋槐蜂蜜 250克</g:title>
+      <g:description>洋槐蜂蜜 250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>283420378</g:id>
+      <g:title>约旦蜜蜂花粉 50克</g:title>
+      <g:description>约旦蜜蜂花粉 50克. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/50/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1726967627</g:id>
+      <g:title>两罐坚果蜂蜜 500克</g:title>
+      <g:description>两罐坚果蜂蜜 500克. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>112154521</g:id>
+      <g:title>阿利亚阿杰瓦特级椰枣 5公斤（免运费）</g:title>
+      <g:description>阿利亚阿杰瓦特级椰枣 5公斤（免运费）. 5.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/5/p112154521?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>655440664</g:id>
       <g:title>天然芝麻油 580克</g:title>
@@ -1185,12 +1215,6 @@
       <g:link>https://asalaljebal.sa/zh/500/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1204991584</g:id>
-      <g:title>蜂毒霜</g:title>
-      <g:description>蜂毒霜. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1853234062</g:id>
       <g:title>茴芹蜂蜜 10公斤桶装 批发价</g:title>
       <g:description>茴芹蜂蜜 10公斤桶装 批发价. 10.5 kg.</g:description>
@@ -1425,18 +1449,6 @@
       <g:link>https://asalaljebal.sa/zh/5/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1726967627</g:id>
-      <g:title>两罐坚果蜂蜜 500克</g:title>
-      <g:description>两罐坚果蜂蜜 500克. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p1726967627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>112154521</g:id>
-      <g:title>阿利亚阿杰瓦特级椰枣 5公斤（免运费）</g:title>
-      <g:description>阿利亚阿杰瓦特级椰枣 5公斤（免运费）. 5.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/5/p112154521?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>402261162</g:id>
       <g:title>辣木蜂蜜 500克</g:title>
       <g:description>辣木蜂蜜 500克. 1.0 kg.</g:description>
@@ -1527,12 +1539,6 @@
       <g:link>https://asalaljebal.sa/zh/1/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>283420378</g:id>
-      <g:title>约旦蜜蜂花粉 50克</g:title>
-      <g:description>约旦蜜蜂花粉 50克. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/50/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1766572873</g:id>
       <g:title>蜂王浆干粉 10克</g:title>
       <g:description>蜂王浆干粉 10克. 0.51 kg.</g:description>
@@ -1561,12 +1567,6 @@
       <g:title>萨姆拉刺蜂蜜巢蜜 500克</g:title>
       <g:description>萨姆拉刺蜂蜜巢蜜 500克. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p653909050?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>431101948</g:id>
-      <g:title>洋槐蜂蜜 250克</g:title>
-      <g:description>洋槐蜂蜜 250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
   </channel>
 </rss>
