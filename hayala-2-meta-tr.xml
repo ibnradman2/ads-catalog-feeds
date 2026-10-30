@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 17:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:00:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>10846494</g:id>
+      <g:title>Birinci Sınıf Amerikan Kakule No. 2 7 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
+      <g:description>Birinci Sınıf Amerikan Kakule No. 2 7 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-2-7-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p10846494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2106298714</g:id>
       <g:title>Amerikan Kakule Jumbo Birinci Sınıf No. 2, 7 mm Kalınlık 5 Kg Karton</g:title>
@@ -883,12 +889,6 @@
       <g:title>Harari Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:title>
       <g:description>Harari Başenfer Kahvesi 5 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi. 5.5 kg.</g:description>
       <g:link>https://hayala.co/tr/harari-ba-enfer-kahvesi-5-kg-el-hayr-etiyopya-birinci-s-n-f-arap-kahvesi/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>10846494</g:id>
-      <g:title>Birinci Sınıf Amerikan Kakule No. 2 7 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
-      <g:description>Birinci Sınıf Amerikan Kakule No. 2 7 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-2-7-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p10846494?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     </channel>
 </rss>
