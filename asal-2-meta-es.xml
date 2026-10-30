@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 06:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1766572873</g:id>
+      <g:title>Jalea Real en Polvo - 10 g</g:title>
+      <g:description>Jalea Real en Polvo - 10 g. 0.51 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/jalea-real-en-polvo-10-g/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>803494818</g:id>
+      <g:title>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-j</g:title>
+      <g:description>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-jamal). 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/frutos-secos-variados-mezcla-de-d-tiles-almendras-pi-ones-d-tiles-frescos-pistac/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2074483289</g:id>
+      <g:title>Miel de la Selva Negra auténtica 250 g</g:title>
+      <g:description>Miel de la Selva Negra auténtica 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-250-g/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>458800063</g:id>
+      <g:title>Miel de Sidr real en panal 1 kg de las montañas de Al Usaimat</g:title>
+      <g:description>Miel de Sidr real en panal 1 kg de las montañas de Al Usaimat. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-en-panal-1-kg-de-las-monta-as-de-al-usaimat/p458800063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>312187437</g:id>
+      <g:title>Miel de sidr de montaña de Peshawar, 3 kg</g:title>
+      <g:description>Miel de sidr de montaña de Peshawar, 3 kg. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>581887586</g:id>
       <g:title>Higos secos 500 g</g:title>
@@ -223,12 +253,6 @@
       <g:title>Miel de talh premium 7 kg en garrafa a precio de mayorista</g:title>
       <g:description>Miel de talh premium 7 kg en garrafa a precio de mayorista. 7.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-talh-premium-7-kg-en-garrafa-a-precio-de-mayorista/p1571578210?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>312187437</g:id>
-      <g:title>Miel de sidr de montaña de Peshawar, 3 kg</g:title>
-      <g:description>Miel de sidr de montaña de Peshawar, 3 kg. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1813391541</g:id>
@@ -1047,12 +1071,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-salam-balad-1000-g/p623445940?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>803494818</g:id>
-      <g:title>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-j</g:title>
-      <g:description>Frutos secos variados (mezcla de dátiles, almendras, piñones, dátiles frescos, pistachos, nueces, coco, comino negro, alcaravea, cacahuetes y ain al-jamal). 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/frutos-secos-variados-mezcla-de-d-tiles-almendras-pi-ones-d-tiles-frescos-pistac/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1436534649</g:id>
       <g:title>Miel de Manuka UMF 5+ | UMF 15+ | UMF 20+ (Pack de 3 frascos)</g:title>
       <g:description>Miel de Manuka UMF 5+ | UMF 15+ | UMF 20+ (Pack de 3 frascos). 0.75 kg.</g:description>
@@ -1123,12 +1141,6 @@
       <g:title>Cucharas de miel de sidr natural, 25 cucharas</g:title>
       <g:description>Cucharas de miel de sidr natural, 25 cucharas. 0.25 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/cucharas-de-miel-de-sidr-natural-25-cucharas/p953218840?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>458800063</g:id>
-      <g:title>Miel de Sidr real en panal 1 kg de las montañas de Al Usaimat</g:title>
-      <g:description>Miel de Sidr real en panal 1 kg de las montañas de Al Usaimat. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-real-en-panal-1-kg-de-las-monta-as-de-al-usaimat/p458800063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>243164549</g:id>
@@ -1303,12 +1315,6 @@
       <g:title>Miel de flores silvestres del sur o de Hadramaut 5 kg, garrafa al por mayor</g:title>
       <g:description>Miel de flores silvestres del sur o de Hadramaut 5 kg, garrafa al por mayor. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-5-kg-garrafa-al-por-mayor/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2074483289</g:id>
-      <g:title>Miel de la Selva Negra auténtica 250 g</g:title>
-      <g:description>Miel de la Selva Negra auténtica 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-la-selva-negra-aut-ntica-250-g/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1934538070</g:id>
@@ -1543,12 +1549,6 @@
       <g:title>Panal de miel de acacia Salam local, 1 kg</g:title>
       <g:description>Panal de miel de acacia Salam local, 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/panal-de-miel-de-acacia-salam-local-1-kg/p1519634473?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1766572873</g:id>
-      <g:title>Jalea Real en Polvo - 10 g</g:title>
-      <g:description>Jalea Real en Polvo - 10 g. 0.51 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/jalea-real-en-polvo-10-g/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>472529251</g:id>
