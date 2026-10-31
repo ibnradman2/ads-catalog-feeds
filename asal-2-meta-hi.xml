@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 31 Oct 2026 01:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:14:45 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>101060786</g:id>
+      <g:title>कश्मीरी सिद्र शहद 250 ग्राम</g:title>
+      <g:description>कश्मीरी सिद्र शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>411224162</g:id>
+      <g:title>मुर्र (बोल / Myrrh) 50 ग्राम</g:title>
+      <g:description>मुर्र (बोल / Myrrh) 50 ग्राम. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/myrrh-50/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>473047885</g:id>
+      <g:title>पिसा हुआ भारतीय कुस्त (कूठ) (150 ग्राम)</g:title>
+      <g:description>पिसा हुआ भारतीय कुस्त (कूठ) (150 ग्राम). 0.65 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/150/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>988896669</g:id>
       <g:title>पाकिस्तानी पेशावरी सिद्र शहद 250 ग्राम</g:title>
@@ -1275,12 +1293,6 @@
       <g:link>https://asalaljebal.sa/hi/250/p1007628890?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>411224162</g:id>
-      <g:title>मुर्र (बोल / Myrrh) 50 ग्राम</g:title>
-      <g:description>मुर्र (बोल / Myrrh) 50 ग्राम. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/myrrh-50/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1853234062</g:id>
       <g:title>ऐनीस शहद 10 किलो गैलन, थोक दाम पर</g:title>
       <g:description>ऐनीस शहद 10 किलो गैलन, थोक दाम पर. 10.5 kg.</g:description>
@@ -1381,12 +1393,6 @@
       <g:title>प्रीमियम तलह शहद 10 किलो गैलन थोक भाव पर</g:title>
       <g:description>प्रीमियम तलह शहद 10 किलो गैलन थोक भाव पर. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/10/p63390305?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>101060786</g:id>
-      <g:title>कश्मीरी सिद्र शहद 250 ग्राम</g:title>
-      <g:description>कश्मीरी सिद्र शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>177144225</g:id>
@@ -1555,12 +1561,6 @@
       <g:title>क़तद शहद (1 किलोग्राम)</g:title>
       <g:description>क़तद शहद (1 किलोग्राम). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/1/p472529251?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>473047885</g:id>
-      <g:title>पिसा हुआ भारतीय कुस्त (कूठ) (150 ग्राम)</g:title>
-      <g:description>पिसा हुआ भारतीय कुस्त (कूठ) (150 ग्राम). 0.65 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/150/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1517848832</g:id>

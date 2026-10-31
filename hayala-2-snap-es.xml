@@ -4,10 +4,56 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 31 Oct 2026 01:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:46:23 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1939267679</guid>
+      <g:id>1939267679</g:id>
+      <g:title>24 sobres de azafrán Super Negin de 24 g + envío gratis</g:title>
+      <g:description>24 sobres de azafrán Super Negin de 24 g + envío gratis. 0.524 kg.</g:description>
+      <g:link>https://hayala.co/es/24-sobres-de-azafr-n-super-negin-de-24-g-env-o-gratis/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/pH5Psc6iiHdwaTSh11kpnYC2bUDNKzEUtZBDGUDe.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>480.00 SAR</g:price>
+      <g:sale_price>320.00 SAR</g:sale_price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>0.524 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1621826523</guid>
+      <g:id>1621826523</g:id>
+      <g:title>Café Harari Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
+      <g:description>Café Harari Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-harari-bashenfer-5-kg-caf-al-khair-et-ope-de-primera-calidad-para-caf-rabe/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/LLNBDiakgqBPVJ5xuFLrVl4UlPd63kSnCZGFmcWS.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>260.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <guid isPermaLink="false">1434036849</guid>
+      <g:id>1434036849</g:id>
+      <g:title>Cardamomo americano de primera calidad número 3, 6 mm, caja de 5 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad número 3, 6 mm, caja de 5 kg. 5.5 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-n-mero-3-6-mm-caja-de-5-kg/p1434036849?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/tdtaXPnMvAj4Ln1eVmsaMZCEfhpZCCzblRum1g37.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/YfgFFiTXSfM2OHrb0tcTCauFyRa2Atw226lnIiqc.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/uaKyiGVTL1yKe9zBfeqT98BTtw6VdE20lSlbxIlo.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.salla.sa/DnGQb/ZM0Zzh3Z4tMnwmLlDbXKCMzteVivA3AFC9xrwAuW.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1096.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>5.5 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">1643632887</guid>
       <g:id>1643632887</g:id>
@@ -2022,21 +2068,6 @@
       <g:shipping_weight>0.515 kg</g:shipping_weight>
     </item>
     <item>
-      <guid isPermaLink="false">1939267679</guid>
-      <g:id>1939267679</g:id>
-      <g:title>24 sobres de azafrán Super Negin de 24 g + envío gratis</g:title>
-      <g:description>24 sobres de azafrán Super Negin de 24 g + envío gratis. 0.524 kg.</g:description>
-      <g:link>https://hayala.co/es/24-sobres-de-azafr-n-super-negin-de-24-g-env-o-gratis/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/pH5Psc6iiHdwaTSh11kpnYC2bUDNKzEUtZBDGUDe.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>480.00 SAR</g:price>
-      <g:sale_price>320.00 SAR</g:sale_price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>0.524 kg</g:shipping_weight>
-    </item>
-    <item>
       <guid isPermaLink="false">1232653674</guid>
       <g:id>1232653674</g:id>
       <g:title>2 envases de azafrán súper negin 10 gramos</g:title>
@@ -2079,37 +2110,6 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.18 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1434036849</guid>
-      <g:id>1434036849</g:id>
-      <g:title>Cardamomo americano de primera calidad número 3, 6 mm, caja de 5 kg</g:title>
-      <g:description>Cardamomo americano de primera calidad número 3, 6 mm, caja de 5 kg. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-n-mero-3-6-mm-caja-de-5-kg/p1434036849?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/tdtaXPnMvAj4Ln1eVmsaMZCEfhpZCCzblRum1g37.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/YfgFFiTXSfM2OHrb0tcTCauFyRa2Atw226lnIiqc.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/uaKyiGVTL1yKe9zBfeqT98BTtw6VdE20lSlbxIlo.png</g:additional_image_link>
-      <g:additional_image_link>https://cdn.salla.sa/DnGQb/ZM0Zzh3Z4tMnwmLlDbXKCMzteVivA3AFC9xrwAuW.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>1096.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>5.5 kg</g:shipping_weight>
-    </item>
-    <item>
-      <guid isPermaLink="false">1621826523</guid>
-      <g:id>1621826523</g:id>
-      <g:title>Café Harari Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
-      <g:description>Café Harari Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe. 5.5 kg.</g:description>
-      <g:link>https://hayala.co/es/caf-harari-bashenfer-5-kg-caf-al-khair-et-ope-de-primera-calidad-para-caf-rabe/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/LLNBDiakgqBPVJ5xuFLrVl4UlPd63kSnCZGFmcWS.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>260.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>5.5 kg</g:shipping_weight>
     </item>
     </channel>
 </rss>

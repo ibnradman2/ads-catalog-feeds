@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 31 Oct 2026 01:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:14:45 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>101060786</g:id>
+      <g:title>Kashmiri na Pulot ng Sidr, 250 Gramo</g:title>
+      <g:description>Kashmiri na Pulot ng Sidr, 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/kashmiri-na-pulot-ng-sidr-250-gramo/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>411224162</g:id>
+      <g:title>Halamang Mirra na 50 Gramo</g:title>
+      <g:description>Halamang Mirra na 50 Gramo. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/halamang-mirra-na-50-gramo/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>473047885</g:id>
+      <g:title>Giniling na Indian Qust (150 gramo)</g:title>
+      <g:description>Giniling na Indian Qust (150 gramo). 0.65 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/giniling-na-indian-qust-150-gramo/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>988896669</g:id>
       <g:title>Pakistani Peshawari Sidr Honey 250 Gramo</g:title>
@@ -1275,12 +1293,6 @@
       <g:link>https://asalaljebal.sa/tl/giniling-na-gum-arabic-250-gramo/p1007628890?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>411224162</g:id>
-      <g:title>Halamang Mirra na 50 Gramo</g:title>
-      <g:description>Halamang Mirra na 50 Gramo. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/halamang-mirra-na-50-gramo/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1853234062</g:id>
       <g:title>Anise Honey 10 Kilo na Galon sa Presyong Pakyawan</g:title>
       <g:description>Anise Honey 10 Kilo na Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
@@ -1381,12 +1393,6 @@
       <g:title>Premium Talh Honey 10 Kilo Galon sa Presyong Pakyawan</g:title>
       <g:description>Premium Talh Honey 10 Kilo Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/premium-talh-honey-10-kilo-galon-sa-presyong-pakyawan/p63390305?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>101060786</g:id>
-      <g:title>Kashmiri na Pulot ng Sidr, 250 Gramo</g:title>
-      <g:description>Kashmiri na Pulot ng Sidr, 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/kashmiri-na-pulot-ng-sidr-250-gramo/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>177144225</g:id>
@@ -1555,12 +1561,6 @@
       <g:title>Pulot ng Qatad (1 kilo)</g:title>
       <g:description>Pulot ng Qatad (1 kilo). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-ng-qatad-1-kilo/p472529251?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>473047885</g:id>
-      <g:title>Giniling na Indian Qust (150 gramo)</g:title>
-      <g:description>Giniling na Indian Qust (150 gramo). 0.65 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/giniling-na-indian-qust-150-gramo/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1517848832</g:id>
