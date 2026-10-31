@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 17:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:17:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1643632887</g:id>
+      <g:title>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg</g:title>
+      <g:description>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-jumbo-n-mero-2-7-mm-1-kg/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2038336306</g:id>
+      <g:title>Café Lokmati Bashenfer 10 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
+      <g:description>Café Lokmati Bashenfer 10 kg - Café Al Khair etíope de primera calidad para café árabe. 10.5 kg.</g:description>
+      <g:link>https://hayala.co/es/caf-lokmati-bashenfer-10-kg-caf-al-khair-et-ope-de-primera-calidad-para-caf-rabe/p2038336306?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>2106298714</g:id>
       <g:title>Cardamomo americano jumbo de primera calidad número 2, 7 mm, caja de 5 kg</g:title>
@@ -865,18 +877,6 @@
       <g:title>Ghee de oveja tradicional 680 g</g:title>
       <g:description>Ghee de oveja tradicional 680 g. 1.18 kg.</g:description>
       <g:link>https://hayala.co/es/ghee-de-oveja-tradicional-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2038336306</g:id>
-      <g:title>Café Lokmati Bashenfer 10 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
-      <g:description>Café Lokmati Bashenfer 10 kg - Café Al Khair etíope de primera calidad para café árabe. 10.5 kg.</g:description>
-      <g:link>https://hayala.co/es/caf-lokmati-bashenfer-10-kg-caf-al-khair-et-ope-de-primera-calidad-para-caf-rabe/p2038336306?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1643632887</g:id>
-      <g:title>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg</g:title>
-      <g:description>Cardamomo americano de primera calidad jumbo número 2, 7 mm, 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/cardamomo-americano-de-primera-calidad-jumbo-n-mero-2-7-mm-1-kg/p1643632887?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1434036849</g:id>

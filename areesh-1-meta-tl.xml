@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 18:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:08:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>190273304</g:id>
+      <g:title>2 Kilong Natural na Pulot ng Sidr + 2 Kilong Natural na Pulot ng Bulaklak + 2 Kilong Pulot ng European Black Forest</g:title>
+      <g:description>2 Kilong Natural na Pulot ng Sidr + 2 Kilong Natural na Pulot ng Bulaklak + 2 Kilong Pulot ng European Black Forest. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/2-kilong-natural-na-pulot-ng-sidr-2-kilong-natural-na-pulot-ng-bulaklak-2-kilong/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>916755779</g:id>
+      <g:title>12 Pakete ng Natural na Pulot ng Sidr</g:title>
+      <g:description>12 Pakete ng Natural na Pulot ng Sidr. 3.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/12-pakete-ng-natural-na-pulot-ng-sidr/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>146284993</g:id>
       <g:title>3 Kilo Natural na Pulot ng Sidr</g:title>
@@ -595,18 +607,6 @@
       <g:title>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg</g:title>
       <g:description>Pulot ng Ligaw na Bulaklak sa Wax (Lokal), Palayok na 2.5 Kg. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/pulot-ng-ligaw-na-bulaklak-sa-wax-lokal-palayok-na-2-5-kg/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>916755779</g:id>
-      <g:title>12 Pakete ng Natural na Pulot ng Sidr</g:title>
-      <g:description>12 Pakete ng Natural na Pulot ng Sidr. 3.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/12-pakete-ng-natural-na-pulot-ng-sidr/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>190273304</g:id>
-      <g:title>2 Kilong Natural na Pulot ng Sidr + 2 Kilong Natural na Pulot ng Bulaklak + 2 Kilong Pulot ng European Black Forest</g:title>
-      <g:description>2 Kilong Natural na Pulot ng Sidr + 2 Kilong Natural na Pulot ng Bulaklak + 2 Kilong Pulot ng European Black Forest. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/2-kilong-natural-na-pulot-ng-sidr-2-kilong-natural-na-pulot-ng-bulaklak-2-kilong/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>480738937</g:id>

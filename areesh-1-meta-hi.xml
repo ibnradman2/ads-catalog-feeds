@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 18:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:08:31 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>190273304</g:id>
+      <g:title>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद + 2 किलो यूरोपीय ब्लैक फॉरेस्ट शहद</g:title>
+      <g:description>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद + 2 किलो यूरोपीय ब्लैक फॉरेस्ट शहद. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/hi/2-2-2/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>916755779</g:id>
+      <g:title>12 जार प्राकृतिक सिद्र शहद</g:title>
+      <g:description>12 जार प्राकृतिक सिद्र शहद. 3.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>146284993</g:id>
       <g:title>3 किलो प्राकृतिक सिदर शहद</g:title>
@@ -595,18 +607,6 @@
       <g:title>मोम में देसी जंगली फूलों का शहद, 2.5 किलो का बर्तन</g:title>
       <g:description>मोम में देसी जंगली फूलों का शहद, 2.5 किलो का बर्तन. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/hi/2-5/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>916755779</g:id>
-      <g:title>12 जार प्राकृतिक सिद्र शहद</g:title>
-      <g:description>12 जार प्राकृतिक सिद्र शहद. 3.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/12/p916755779?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>190273304</g:id>
-      <g:title>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद + 2 किलो यूरोपीय ब्लैक फॉरेस्ट शहद</g:title>
-      <g:description>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद + 2 किलो यूरोपीय ब्लैक फॉरेस्ट शहद. 6.5 kg.</g:description>
-      <g:link>https://areesh.sa/hi/2-2-2/p190273304?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>480738937</g:id>

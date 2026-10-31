@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 20:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:13:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>Madu Sidr Peshawari Pakistan 250 Gram</g:title>
+      <g:description>Madu Sidr Peshawari Pakistan 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-peshawari-pakistan-250-gram/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1819446678</g:id>
+      <g:title>Gum Arab Giling 500 gram</g:title>
+      <g:description>Gum Arab Giling 500 gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/gum-arab-giling-500-gram/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>658342130</g:id>
+      <g:title>Cuka Apel Organik 500 ml</g:title>
+      <g:description>Cuka Apel Organik 500 ml. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/cuka-apel-organik-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>250040053</g:id>
       <g:title>Habbatussauda 1 Kilo</g:title>
@@ -1083,12 +1101,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-talh-premium-1-kg/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>988896669</g:id>
-      <g:title>Madu Sidr Peshawari Pakistan 250 Gram</g:title>
-      <g:description>Madu Sidr Peshawari Pakistan 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-peshawari-pakistan-250-gram/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1849198782</g:id>
       <g:title>Madu Kelor 2 Kilo</g:title>
       <g:description>Madu Kelor 2 Kilo. 2.5 kg.</g:description>
@@ -1129,12 +1141,6 @@
       <g:title>Setengah Kilo Sidr Pegunungan + Setengah Kilo Syauka + Setengah Kilo Putih Hungaria + Setengah Kilo Black Forest + Setengah Kilo Bunga Liar (Gratis On</g:title>
       <g:description>Setengah Kilo Sidr Pegunungan + Setengah Kilo Syauka + Setengah Kilo Putih Hungaria + Setengah Kilo Black Forest + Setengah Kilo Bunga Liar (Gratis Ongkir). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/setengah-kilo-sidr-pegunungan-setengah-kilo-syauka-setengah-kilo-putih-hungaria-/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>658342130</g:id>
-      <g:title>Cuka Apel Organik 500 ml</g:title>
-      <g:description>Cuka Apel Organik 500 ml. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/cuka-apel-organik-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1050095293</g:id>
@@ -1267,12 +1273,6 @@
       <g:title>Herba Murr (Myrrh) 50 Gram</g:title>
       <g:description>Herba Murr (Myrrh) 50 Gram. 0.55 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/herba-murr-myrrh-50-gram/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1819446678</g:id>
-      <g:title>Gum Arab Giling 500 gram</g:title>
-      <g:description>Gum Arab Giling 500 gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/gum-arab-giling-500-gram/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1853234062</g:id>

@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 30 Oct 2026 20:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:13:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 250克</g:title>
+      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1819446678</g:id>
+      <g:title>阿拉伯树胶粉 500克</g:title>
+      <g:description>阿拉伯树胶粉 500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>658342130</g:id>
+      <g:title>有机苹果醋 500毫升</g:title>
+      <g:description>有机苹果醋 500毫升. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/500/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>250040053</g:id>
       <g:title>整粒黑种草籽 1公斤</g:title>
@@ -1083,12 +1101,6 @@
       <g:link>https://asalaljebal.sa/zh/1/p622456174?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>988896669</g:id>
-      <g:title>巴基斯坦白沙瓦西德尔蜂蜜 250克</g:title>
-      <g:description>巴基斯坦白沙瓦西德尔蜂蜜 250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1849198782</g:id>
       <g:title>辣木蜂蜜 2公斤</g:title>
       <g:description>辣木蜂蜜 2公斤. 2.5 kg.</g:description>
@@ -1129,12 +1141,6 @@
       <g:title>半公斤山地西德尔 + 半公斤沙瓦卡 + 半公斤匈牙利白蜜 + 半公斤黑森林 + 半公斤野花蜂蜜（免运费）</g:title>
       <g:description>半公斤山地西德尔 + 半公斤沙瓦卡 + 半公斤匈牙利白蜜 + 半公斤黑森林 + 半公斤野花蜂蜜（免运费）. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/product/p756867072?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>658342130</g:id>
-      <g:title>有机苹果醋 500毫升</g:title>
-      <g:description>有机苹果醋 500毫升. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1050095293</g:id>
@@ -1267,12 +1273,6 @@
       <g:title>没药 50克</g:title>
       <g:description>没药 50克. 0.55 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/50/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1819446678</g:id>
-      <g:title>阿拉伯树胶粉 500克</g:title>
-      <g:description>阿拉伯树胶粉 500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/500/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1853234062</g:id>
