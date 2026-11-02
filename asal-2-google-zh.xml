@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 01 Nov 2026 23:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:15:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -1744,21 +1744,6 @@
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:mpn>425796384</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>蜂蜜混合</g:custom_label_3></item>
     <item>
-      <guid isPermaLink="false">1590017383</guid>
-      <g:id>1590017383</g:id>
-      <g:title>山地西德尔蜂巢蜜 1公斤</g:title>
-      <g:description>山地西德尔蜂巢蜜 1公斤. 西德尔蜂蜜. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/1/p1590017383?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/4VShuAa32u0STWzJk4fiUSiLZTUQEoBavSYJGL6H.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>390.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>003-10015002</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>1590017383</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
       <guid isPermaLink="false">260814103</guid>
       <g:id>260814103</g:id>
       <g:title>1 公斤萨姆拉（刺相思树）蜂蜜 + 1 公斤（免费配送）</g:title>
@@ -1774,6 +1759,21 @@
       <g:item_group_id>0140101039</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>260814103</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>萨姆拉蜂蜜</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">1590017383</guid>
+      <g:id>1590017383</g:id>
+      <g:title>山地西德尔蜂巢蜜 1公斤</g:title>
+      <g:description>山地西德尔蜂巢蜜 1公斤. 西德尔蜂蜜. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/1/p1590017383?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/4VShuAa32u0STWzJk4fiUSiLZTUQEoBavSYJGL6H.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>390.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>003-10015002</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>1590017383</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>300至599</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1919160088</guid>
       <g:id>1919160088</g:id>

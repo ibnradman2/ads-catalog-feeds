@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 01 Nov 2026 20:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:15:58 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -663,16 +663,16 @@
       <g:link>https://asalaljebal.sa/ind/2-kemasan-campuran-al-jabal-royal-500-gram-1-kemasan-madu-kacang-setengah-kilo/p425796384?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1590017383</g:id>
-      <g:title>Madu Sarang Sidr Gunung 1 kilo</g:title>
-      <g:description>Madu Sarang Sidr Gunung 1 kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-gunung-1-kilo/p1590017383?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>260814103</g:id>
       <g:title>1 Kilo Madu Syauk (Samurah) + 1 Kilo (Gratis Ongkir)</g:title>
       <g:description>1 Kilo Madu Syauk (Samurah) + 1 Kilo (Gratis Ongkir). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/1-kilo-madu-syauk-samurah-1-kilo-gratis-ongkir/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1590017383</g:id>
+      <g:title>Madu Sarang Sidr Gunung 1 kilo</g:title>
+      <g:description>Madu Sarang Sidr Gunung 1 kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-gunung-1-kilo/p1590017383?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1919160088</g:id>
