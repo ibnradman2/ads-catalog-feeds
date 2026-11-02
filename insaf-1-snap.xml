@@ -4,10 +4,25 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 01 Nov 2026 23:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:00:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">1000220080</guid>
+      <g:id>1000220080</g:id>
+      <g:title>عرض الشتاء: 3 كيلو عسل سدر طبيعي + 3 كيلو عسل زهور طبيعي</g:title>
+      <g:description>عرض الشتاء: 3 كيلو عسل سدر طبيعي + 3 كيلو عسل زهور طبيعي</g:description>
+      <g:link>https://insafcompany.sa/ar/product-1000220080/p1000220080?tax_profile=sa&amp;currency=SAR&amp;utm_source=snapchat&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adSet.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:image_link>https://cdn.salla.sa/qbqyN/8q03JTUyrj9hZfzpTF9ipaLJlXHOw6TK2jsfhmVr.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>480.00 SAR</g:price>
+      <g:sale_price>199.00 SAR</g:sale_price>
+      <g:brand>إنصاف العسل</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>عسل السدر  الفاخر</g:product_type>
+      <g:shipping_weight>6.0 kg</g:shipping_weight>
+    </item>
     <item>
       <guid isPermaLink="false">850933620</guid>
       <g:id>850933620</g:id>

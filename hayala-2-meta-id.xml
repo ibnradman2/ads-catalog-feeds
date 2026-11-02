@@ -4,21 +4,33 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 31 Oct 2026 03:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:28:42 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
-    <item>
-      <g:id>1939267679</g:id>
-      <g:title>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir</g:title>
-      <g:description>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir. 0.524 kg.</g:description>
-      <g:link>https://hayala.co/ind/24-kemasan-saffron-super-negin-24-g-gratis-ongkir/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1621826523</g:id>
       <g:title>Kopi Harari Bashinfer 5 Kilo - Kopi Ethiopia Kelas Satu Qahwat Al-Khair untuk Kopi Arab</g:title>
       <g:description>Kopi Harari Bashinfer 5 Kilo - Kopi Ethiopia Kelas Satu Qahwat Al-Khair untuk Kopi Arab. 5.5 kg.</g:description>
       <g:link>https://hayala.co/ind/kopi-harari-bashinfer-5-kilo-kopi-ethiopia-kelas-satu-qahwat-al-khair-untuk-kopi/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1033561560</g:id>
+      <g:title>Kopi Harari Bashenfer 2 Kg - Kopi Khair Ethiopia Kelas Satu untuk Kopi Arab</g:title>
+      <g:description>Kopi Harari Bashenfer 2 Kg - Kopi Khair Ethiopia Kelas Satu untuk Kopi Arab. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/kopi-harari-bashenfer-2-kg-kopi-khair-ethiopia-kelas-satu-untuk-kopi-arab/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>669353113</g:id>
+      <g:title>Kopi Harari Bashanfar 10 kilo - Bin Al-Khair Etiopia kelas pertama untuk kopi Arab</g:title>
+      <g:description>Kopi Harari Bashanfar 10 kilo - Bin Al-Khair Etiopia kelas pertama untuk kopi Arab. 10.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/kopi-harari-bashanfar-10-kilo-bin-al-khair-etiopia-kelas-pertama-untuk-kopi-arab/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1939267679</g:id>
+      <g:title>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir</g:title>
+      <g:description>24 Kemasan Saffron Super Negin 24 g + Gratis Ongkir. 0.524 kg.</g:description>
+      <g:link>https://hayala.co/ind/24-kemasan-saffron-super-negin-24-g-gratis-ongkir/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1434036849</g:id>
@@ -43,12 +55,6 @@
       <g:title>Kapulaga Amerika Jumbo Grade Satu No. 2 Ketebalan 7 mm Karton 5 Kilo</g:title>
       <g:description>Kapulaga Amerika Jumbo Grade Satu No. 2 Ketebalan 7 mm Karton 5 Kilo. 5.5 kg.</g:description>
       <g:link>https://hayala.co/ind/kapulaga-amerika-jumbo-grade-satu-no-2-ketebalan-7-mm-karton-5-kilo/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>669353113</g:id>
-      <g:title>Kopi Harari Bashanfar 10 kilo - Bin Al-Khair Etiopia kelas pertama untuk kopi Arab</g:title>
-      <g:description>Kopi Harari Bashanfar 10 kilo - Bin Al-Khair Etiopia kelas pertama untuk kopi Arab. 10.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/kopi-harari-bashanfar-10-kilo-bin-al-khair-etiopia-kelas-pertama-untuk-kopi-arab/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1270839426</g:id>
@@ -655,12 +661,6 @@
       <g:title>Kacang Pinus Pakistan 500 gram</g:title>
       <g:description>Kacang Pinus Pakistan 500 gram. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ind/kacang-pinus-pakistan-500-gram/p1565509631?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1033561560</g:id>
-      <g:title>Kopi Harari Bashenfer 2 Kg - Kopi Khair Ethiopia Kelas Satu untuk Kopi Arab</g:title>
-      <g:description>Kopi Harari Bashenfer 2 Kg - Kopi Khair Ethiopia Kelas Satu untuk Kopi Arab. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/kopi-harari-bashenfer-2-kg-kopi-khair-ethiopia-kelas-satu-untuk-kopi-arab/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>222295925</g:id>

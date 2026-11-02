@@ -4,21 +4,33 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 31 Oct 2026 03:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:28:42 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
-    <item>
-      <g:id>1939267679</g:id>
-      <g:title>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping</g:title>
-      <g:description>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping. 0.524 kg.</g:description>
-      <g:link>https://hayala.co/tl/24-pakete-ng-super-nakhil-na-safron-24-gramo-libreng-shipping/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1621826523</g:id>
       <g:title>Kapeng Harari Bashnafar 5 Kilo - Ethiopian na Kape ng Al Khair, Unang Grado para sa Arabic Coffee</g:title>
       <g:description>Kapeng Harari Bashnafar 5 Kilo - Ethiopian na Kape ng Al Khair, Unang Grado para sa Arabic Coffee. 5.5 kg.</g:description>
       <g:link>https://hayala.co/tl/kapeng-harari-bashnafar-5-kilo-ethiopian-na-kape-ng-al-khair-unang-grado-para-sa/p1621826523?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1033561560</g:id>
+      <g:title>Harari Bashanfar na Kape 2 Kilo - Al Khair na Ethiopian na Kape, Unang Grado para sa Arabic Coffee</g:title>
+      <g:description>Harari Bashanfar na Kape 2 Kilo - Al Khair na Ethiopian na Kape, Unang Grado para sa Arabic Coffee. 2.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/harari-bashanfar-na-kape-2-kilo-al-khair-na-ethiopian-na-kape-unang-grado-para-s/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>669353113</g:id>
+      <g:title>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape</g:title>
+      <g:description>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape. 10.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/harari-bashanfar-na-kape-10-kilo-bunn-al-khair-na-ethiopian-unang-grado-para-sa-/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1939267679</g:id>
+      <g:title>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping</g:title>
+      <g:description>24 Pakete ng Super Nakhil na Safron 24 Gramo + Libreng Shipping. 0.524 kg.</g:description>
+      <g:link>https://hayala.co/tl/24-pakete-ng-super-nakhil-na-safron-24-gramo-libreng-shipping/p1939267679?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1434036849</g:id>
@@ -49,12 +61,6 @@
       <g:title>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo</g:title>
       <g:description>Amerikanong Jumbo Cardamom na Unang Grado Blg. 2, 7 mm, Karton na 5 Kilo. 5.5 kg.</g:description>
       <g:link>https://hayala.co/tl/amerikanong-jumbo-cardamom-na-unang-grado-blg-2-7-mm-karton-na-5-kilo/p2106298714?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>669353113</g:id>
-      <g:title>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape</g:title>
-      <g:description>Harari Bashanfar na Kape 10 Kilo - Bunn Al Khair na Ethiopian, Unang Grado para sa Arabic na Kape. 10.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/harari-bashanfar-na-kape-10-kilo-bunn-al-khair-na-ethiopian-unang-grado-para-sa-/p669353113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1270839426</g:id>
@@ -679,12 +685,6 @@
       <g:title>Pine Nuts na Pakistani - 500 Gramo</g:title>
       <g:description>Pine Nuts na Pakistani - 500 Gramo. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tl/pine-nuts-na-pakistani-500-gramo/p1565509631?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1033561560</g:id>
-      <g:title>Harari Bashanfar na Kape 2 Kilo - Al Khair na Ethiopian na Kape, Unang Grado para sa Arabic Coffee</g:title>
-      <g:description>Harari Bashanfar na Kape 2 Kilo - Al Khair na Ethiopian na Kape, Unang Grado para sa Arabic Coffee. 2.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/harari-bashanfar-na-kape-2-kilo-al-khair-na-ethiopian-na-kape-unang-grado-para-s/p1033561560?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>222295925</g:id>
