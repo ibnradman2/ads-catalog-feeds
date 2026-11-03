@@ -4,10 +4,22 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 26 Oct 2026 10:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:26:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>777320175</g:id>
+      <g:title>Lokal na Baladi Talh Honey 500 g</g:title>
+      <g:description>Lokal na Baladi Talh Honey 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/lokal-na-baladi-talh-honey-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>293213385</g:id>
+      <g:title>Lokal na Baladi Samra (Shawka) Honey 500 g</g:title>
+      <g:description>Lokal na Baladi Samra (Shawka) Honey 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/lokal-na-baladi-samra-shawka-honey-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>850933620</g:id>
       <g:title>Mountain Honeycomb Honey 200 g</g:title>
@@ -69,12 +81,6 @@
       <g:link>https://insafcompany.sa/tl/handog-sa-katapusan-ng-taon-2-kg-natural-na-sidr-4-kg-natural-na-pulot-ng-bulakl/p795150874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>777320175</g:id>
-      <g:title>Lokal na Baladi Talh Honey 500 g</g:title>
-      <g:description>Lokal na Baladi Talh Honey 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/lokal-na-baladi-talh-honey-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>673263980</g:id>
       <g:title>Natural na Pulot ng Bulaklak 500 g</g:title>
       <g:description>Natural na Pulot ng Bulaklak 500 g. 1.0 kg.</g:description>
@@ -85,12 +91,6 @@
       <g:title>Natural na Pulot ng Bulaklak 1 kg</g:title>
       <g:description>Natural na Pulot ng Bulaklak 1 kg. 1.5 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/natural-na-pulot-ng-bulaklak-1-kg/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>293213385</g:id>
-      <g:title>Lokal na Baladi Samra (Shawka) Honey 500 g</g:title>
-      <g:description>Lokal na Baladi Samra (Shawka) Honey 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/lokal-na-baladi-samra-shawka-honey-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>284822488</g:id>
