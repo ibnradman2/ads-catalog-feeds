@@ -4,10 +4,16 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 12:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:32:47 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>795150874</g:id>
+      <g:title>Handog sa Katapusan ng Taon: 2 kg Natural na Sidr + 4 kg Natural na Pulot ng Bulaklak</g:title>
+      <g:description>Handog sa Katapusan ng Taon: 2 kg Natural na Sidr + 4 kg Natural na Pulot ng Bulaklak. 6.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/handog-sa-katapusan-ng-taon-2-kg-natural-na-sidr-4-kg-natural-na-pulot-ng-bulakl/p795150874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>777320175</g:id>
       <g:title>Lokal na Baladi Talh Honey 500 g</g:title>
@@ -15,10 +21,64 @@
       <g:link>https://insafcompany.sa/tl/lokal-na-baladi-talh-honey-500-g/p777320175?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
+      <g:id>673263980</g:id>
+      <g:title>Natural na Pulot ng Bulaklak 500 g</g:title>
+      <g:description>Natural na Pulot ng Bulaklak 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/natural-na-pulot-ng-bulaklak-500-g/p673263980?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>592690627</g:id>
+      <g:title>Natural na Pulot ng Bulaklak 1 kg</g:title>
+      <g:description>Natural na Pulot ng Bulaklak 1 kg. 1.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/natural-na-pulot-ng-bulaklak-1-kg/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
       <g:id>293213385</g:id>
       <g:title>Lokal na Baladi Samra (Shawka) Honey 500 g</g:title>
       <g:description>Lokal na Baladi Samra (Shawka) Honey 500 g. 1.0 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/lokal-na-baladi-samra-shawka-honey-500-g/p293213385?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>284822488</g:id>
+      <g:title>Natural na Black Forest Honey 500 g</g:title>
+      <g:description>Natural na Black Forest Honey 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/natural-na-black-forest-honey-500-g/p284822488?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2048957687</g:id>
+      <g:title>Handog sa Taglamig: 10 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen</g:title>
+      <g:description>Handog sa Taglamig: 10 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen. 10.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-10-kg-natural-na-pulot-ng-bulaklak-regalong-bee-pollen/p2048957687?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2016323095</g:id>
+      <g:title>Handog sa Taglamig: 4 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen</g:title>
+      <g:description>Handog sa Taglamig: 4 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen. 4.5 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-4-kg-natural-na-pulot-ng-bulaklak-regalong-bee-pollen/p2016323095?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1632724705</g:id>
+      <g:title>Acacia Honey 500 g</g:title>
+      <g:description>Acacia Honey 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/acacia-honey-500-g/p1632724705?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1392084004</g:id>
+      <g:title>Pine Honey 500 g</g:title>
+      <g:description>Pine Honey 500 g. 1.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/pine-honey-500-g/p1392084004?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1382517036</g:id>
+      <g:title>Bee Pollen 250 g</g:title>
+      <g:description>Bee Pollen 250 g. 0.75 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/bee-pollen-250-g/p1382517036?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2044103725</g:id>
+      <g:title>Handog sa Taglamig: 6 Garapon ng Pulot na may Nuts</g:title>
+      <g:description>Handog sa Taglamig: 6 Garapon ng Pulot na may Nuts. 3.0 kg.</g:description>
+      <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-6-garapon-ng-pulot-na-may-nuts/p2044103725?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>850933620</g:id>
@@ -75,48 +135,6 @@
       <g:link>https://insafcompany.sa/tl/pulot-na-may-nuts-500-g/p879693415?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>795150874</g:id>
-      <g:title>Handog sa Katapusan ng Taon: 2 kg Natural na Sidr + 4 kg Natural na Pulot ng Bulaklak</g:title>
-      <g:description>Handog sa Katapusan ng Taon: 2 kg Natural na Sidr + 4 kg Natural na Pulot ng Bulaklak. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-katapusan-ng-taon-2-kg-natural-na-sidr-4-kg-natural-na-pulot-ng-bulakl/p795150874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>673263980</g:id>
-      <g:title>Natural na Pulot ng Bulaklak 500 g</g:title>
-      <g:description>Natural na Pulot ng Bulaklak 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/natural-na-pulot-ng-bulaklak-500-g/p673263980?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>592690627</g:id>
-      <g:title>Natural na Pulot ng Bulaklak 1 kg</g:title>
-      <g:description>Natural na Pulot ng Bulaklak 1 kg. 1.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/natural-na-pulot-ng-bulaklak-1-kg/p592690627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>284822488</g:id>
-      <g:title>Natural na Black Forest Honey 500 g</g:title>
-      <g:description>Natural na Black Forest Honey 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/natural-na-black-forest-honey-500-g/p284822488?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2048957687</g:id>
-      <g:title>Handog sa Taglamig: 10 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen</g:title>
-      <g:description>Handog sa Taglamig: 10 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen. 10.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-10-kg-natural-na-pulot-ng-bulaklak-regalong-bee-pollen/p2048957687?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2044103725</g:id>
-      <g:title>Handog sa Taglamig: 6 Garapon ng Pulot na may Nuts</g:title>
-      <g:description>Handog sa Taglamig: 6 Garapon ng Pulot na may Nuts. 3.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-6-garapon-ng-pulot-na-may-nuts/p2044103725?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2016323095</g:id>
-      <g:title>Handog sa Taglamig: 4 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen</g:title>
-      <g:description>Handog sa Taglamig: 4 kg Natural na Pulot ng Bulaklak + Regalong Bee Pollen. 4.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-4-kg-natural-na-pulot-ng-bulaklak-regalong-bee-pollen/p2016323095?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1992541699</g:id>
       <g:title>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm</g:title>
       <g:description>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+20, MGO 850+, 250 gm. 0.75 kg.</g:description>
@@ -153,12 +171,6 @@
       <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-4-kg-natural-na-sidr-honey-2-kg-natural-na-pulot-ng-bulaklak-/p1659176580?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1632724705</g:id>
-      <g:title>Acacia Honey 500 g</g:title>
-      <g:description>Acacia Honey 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/acacia-honey-500-g/p1632724705?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1610749424</g:id>
       <g:title>Black Seed Honey 500 g</g:title>
       <g:description>Black Seed Honey 500 g. 1.0 kg.</g:description>
@@ -187,18 +199,6 @@
       <g:title>Handog sa Taglamig: 6 kg Natural na Sidr Honey + 4 kg Natural na Flower Honey + Regalong Bee Pollen</g:title>
       <g:description>Handog sa Taglamig: 6 kg Natural na Sidr Honey + 4 kg Natural na Flower Honey + Regalong Bee Pollen. 10.5 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/handog-sa-taglamig-6-kg-natural-na-sidr-honey-4-kg-natural-na-flower-honey-regal/p1419760550?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1392084004</g:id>
-      <g:title>Pine Honey 500 g</g:title>
-      <g:description>Pine Honey 500 g. 1.0 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/pine-honey-500-g/p1392084004?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1382517036</g:id>
-      <g:title>Bee Pollen 250 g</g:title>
-      <g:description>Bee Pollen 250 g. 0.75 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/bee-pollen-250-g/p1382517036?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1338444945</g:id>
