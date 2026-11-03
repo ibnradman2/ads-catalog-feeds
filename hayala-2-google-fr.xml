@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 02 Nov 2026 23:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:46:49 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -15,13 +15,27 @@
       <g:description>Café Harari Bashanfar 5 kg - Café éthiopien Al Khair première qualité. Café. 5.5 kg.</g:description>
       <g:link>https://hayala.co/fr/caf-harari-bashanfar-5-kg-caf-thiopien-al-khair-premi-re-qualit/p1621826523?tax_profile=sa&amp;currency=SAR</g:link>
       <g:image_link>https://cdn.salla.sa/DnGQb/LLNBDiakgqBPVJ5xuFLrVl4UlPd63kSnCZGFmcWS.png</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>260.00 SAR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:price>280.00 SAR</g:price>
       <g:brand>Hayala</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1621826523</g:mpn><g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Café</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">669353113</guid>
+      <g:id>669353113</g:id>
+      <g:title>Café Harari Bashanfer 10 kg - Café Al Khair d'Éthiopie de premier choix pour le café arabe</g:title>
+      <g:description>Café Harari Bashanfer 10 kg - Café Al Khair d'Éthiopie de premier choix pour le café arabe. Café. 10.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/caf-harari-bashanfer-10-kg-caf-al-khair-d-thiopie-de-premier-choix-pour-le-caf-a/p669353113?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/DnGQb/Q2YrrfgyTVv1Mp8rWqg61Fp6QcRmzguH1pJX2LDn.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>520.00 SAR</g:price>
+      <g:brand>Hayala</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:shipping_weight>10.5 kg</g:shipping_weight>
+    <g:mpn>669353113</g:mpn><g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Café</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1033561560</guid>
       <g:id>1033561560</g:id>
@@ -36,20 +50,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>1033561560</g:mpn><g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance B</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Café</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">669353113</guid>
-      <g:id>669353113</g:id>
-      <g:title>Café Harari Bashanfer 10 kg - Café Al Khair d'Éthiopie de premier choix pour le café arabe</g:title>
-      <g:description>Café Harari Bashanfer 10 kg - Café Al Khair d'Éthiopie de premier choix pour le café arabe. Café. 10.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/caf-harari-bashanfer-10-kg-caf-al-khair-d-thiopie-de-premier-choix-pour-le-caf-a/p669353113?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/DnGQb/Q2YrrfgyTVv1Mp8rWqg61Fp6QcRmzguH1pJX2LDn.png</g:image_link>
-      <g:availability>out of stock</g:availability>
-      <g:price>460.00 SAR</g:price>
-      <g:brand>Hayala</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:shipping_weight>10.5 kg</g:shipping_weight>
-    <g:mpn>669353113</g:mpn><g:google_product_category>1868</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Café</g:custom_label_3><g:unit_pricing_measure>10kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1939267679</guid>
       <g:id>1939267679</g:id>
