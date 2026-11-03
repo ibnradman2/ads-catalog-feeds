@@ -4,10 +4,52 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 16:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1517173604</g:id>
+      <g:title>Farine d'orge (talbina prophétique) 250 g</g:title>
+      <g:description>Farine d'orge (talbina prophétique) 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/farine-d-orge-talbina-proph-tique-250-g/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>802419986</g:id>
+      <g:title>Farine d'orge (talbina prophétique) 500 g</g:title>
+      <g:description>Farine d'orge (talbina prophétique) 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/farine-d-orge-talbina-proph-tique-500-g/p802419986?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>690835588</g:id>
+      <g:title>Graines de nigelle 250 g</g:title>
+      <g:description>Graines de nigelle 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/graines-de-nigelle-250-g/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1113268922</g:id>
+      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg)</g:title>
+      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg). 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1113268922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1407401907</g:id>
+      <g:title>Miel de Sidr royal en rayon 10 kg, livraison gratuite</g:title>
+      <g:description>Miel de Sidr royal en rayon 10 kg, livraison gratuite. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-10-kg-livraison-gratuite/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>260814103</g:id>
+      <g:title>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite)</g:title>
+      <g:description>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite). 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-de-shawka-samra-1-kg-livraison-gratuite/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1766152166</g:id>
+      <g:title>Mélange des montagnes au miel de sidr naturel 500 g</g:title>
+      <g:description>Mélange des montagnes au miel de sidr naturel 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/m-lange-des-montagnes-au-miel-de-sidr-naturel-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1895717401</g:id>
       <g:title>Pollen d’abeille (grains de pollen) 30 g</g:title>
@@ -699,12 +741,6 @@
       <g:link>https://asalaljebal.sa/fr/m-lange-de-miel-royal-al-jabal-1-kg/p1170804255?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>260814103</g:id>
-      <g:title>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite)</g:title>
-      <g:description>1 kg de miel de Shawka (Samra) + 1 kg (livraison gratuite). 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/1-kg-de-miel-de-shawka-samra-1-kg-livraison-gratuite/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1590017383</g:id>
       <g:title>Miel en rayon de sidr de montagne 1 kg</g:title>
       <g:description>Miel en rayon de sidr de montagne 1 kg. 1.5 kg.</g:description>
@@ -813,12 +849,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-cachemire-2-kg/p1051366582?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1113268922</g:id>
-      <g:title>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg)</g:title>
-      <g:description>Fruits secs au miel (amandes, noix de cajou, noix, noix de pécan, noisettes, pistaches) (1 kg). 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/fruits-secs-au-miel-amandes-noix-de-cajou-noix-noix-de-p-can-noisettes-pistaches/p1113268922?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1059074726</g:id>
       <g:title>Miel d'athel (Saal) 500 grammes</g:title>
       <g:description>Miel d'athel (Saal) 500 grammes. 1.0 kg.</g:description>
@@ -889,12 +919,6 @@
       <g:title>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g</g:title>
       <g:description>Pollen d'abeille (grains de pollen) – 3 sachets × 500 g. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-grains-de-pollen-3-sachets-500-g/p1245825048?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1766152166</g:id>
-      <g:title>Mélange des montagnes au miel de sidr naturel 500 g</g:title>
-      <g:description>Mélange des montagnes au miel de sidr naturel 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/m-lange-des-montagnes-au-miel-de-sidr-naturel-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1376557630</g:id>
@@ -1425,12 +1449,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-asimi-bidon-de-10-kg-prix-de-gros/p1191377337?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1407401907</g:id>
-      <g:title>Miel de Sidr royal en rayon 10 kg, livraison gratuite</g:title>
-      <g:description>Miel de Sidr royal en rayon 10 kg, livraison gratuite. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-10-kg-livraison-gratuite/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1829509087</g:id>
       <g:title>3 pots de miel de sidr naturel + livraison gratuite</g:title>
       <g:description>3 pots de miel de sidr naturel + livraison gratuite. 1.5 kg.</g:description>
@@ -1491,34 +1509,16 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>802419986</g:id>
-      <g:title>Farine d'orge (talbina prophétique) 500 g</g:title>
-      <g:description>Farine d'orge (talbina prophétique) 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/farine-d-orge-talbina-proph-tique-500-g/p802419986?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1795183563</g:id>
       <g:title>Miel en rayon de talh de Hail 2 kg</g:title>
       <g:description>Miel en rayon de talh de Hail 2 kg. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-talh-de-hail-2-kg/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1517173604</g:id>
-      <g:title>Farine d'orge (talbina prophétique) 250 g</g:title>
-      <g:description>Farine d'orge (talbina prophétique) 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/farine-d-orge-talbina-proph-tique-250-g/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1257152391</g:id>
       <g:title>Miel de moringa bidon de 5 kg au prix de gros</g:title>
       <g:description>Miel de moringa bidon de 5 kg au prix de gros. 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-moringa-bidon-de-5-kg-au-prix-de-gros/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>690835588</g:id>
-      <g:title>Graines de nigelle 250 g</g:title>
-      <g:description>Graines de nigelle 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/graines-de-nigelle-250-g/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1528377487</g:id>
