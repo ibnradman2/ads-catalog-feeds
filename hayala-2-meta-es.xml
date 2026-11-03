@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 11:46:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1232653674</g:id>
+      <g:title>2 envases de azafrán súper negin 10 gramos</g:title>
+      <g:description>2 envases de azafrán súper negin 10 gramos. 0.51 kg.</g:description>
+      <g:link>https://hayala.co/es/2-envases-de-azafr-n-s-per-negin-10-gramos/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1621826523</g:id>
       <g:title>Café Harari Bashenfer 5 kg - Café Al Khair etíope de primera calidad para café árabe</g:title>
@@ -873,12 +879,6 @@
       <g:link>https://hayala.co/es/jalea-real-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1232653674</g:id>
-      <g:title>2 envases de azafrán súper negin 10 gramos</g:title>
-      <g:description>2 envases de azafrán súper negin 10 gramos. 0.51 kg.</g:description>
-      <g:link>https://hayala.co/es/2-envases-de-azafr-n-s-per-negin-10-gramos/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1303028575</g:id>
       <g:title>4 envases de especias para sopa</g:title>
       <g:description>4 envases de especias para sopa. 1.0 kg.</g:description>
@@ -890,5 +890,5 @@
       <g:description>Ghee de oveja tradicional 680 g. 1.18 kg.</g:description>
       <g:link>https://hayala.co/es/ghee-de-oveja-tradicional-680-g/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
-    </channel>
+  </channel>
 </rss>

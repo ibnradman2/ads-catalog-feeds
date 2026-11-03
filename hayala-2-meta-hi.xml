@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 11:46:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1232653674</g:id>
+      <g:title>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम</g:title>
+      <g:description>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम. 0.51 kg.</g:description>
+      <g:link>https://hayala.co/hi/2-10/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1621826523</g:id>
       <g:title>हरारी बाशनफ़र कॉफ़ी 5 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
@@ -891,12 +897,6 @@
       <g:link>https://hayala.co/hi/15/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1232653674</g:id>
-      <g:title>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम</g:title>
-      <g:description>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम. 0.51 kg.</g:description>
-      <g:link>https://hayala.co/hi/2-10/p1232653674?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1303028575</g:id>
       <g:title>4 सूप मसाला पैक</g:title>
       <g:description>4 सूप मसाला पैक. 1.0 kg.</g:description>
@@ -908,5 +908,5 @@
       <g:description>देसी भेड़ का घी 680 ग्राम. 1.18 kg.</g:description>
       <g:link>https://hayala.co/hi/680/p638751991?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
-    </channel>
+  </channel>
 </rss>
