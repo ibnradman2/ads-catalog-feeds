@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:11:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1588483287</g:id>
+      <g:title>अदरक, नींबू और हल्दी वाला शहद पेय – 3 जार</g:title>
+      <g:description>अदरक, नींबू और हल्दी वाला शहद पेय – 3 जार. 0.47 kg.</g:description>
+      <g:link>https://hayala.co/hi/3/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>4 सूप मसाला पैक</g:title>
+      <g:description>4 सूप मसाला पैक. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1232653674</g:id>
       <g:title>सुपर नेगिन केसर के 2 पैकेट 10 ग्राम</g:title>
@@ -133,12 +145,6 @@
       <g:title>गिफ़्ट बॉक्स - प्रीमियम अमेरिकी इलायची + सुपर नक़ील केसर + उपहार में घिसनी</g:title>
       <g:description>गिफ़्ट बॉक्स - प्रीमियम अमेरिकी इलायची + सुपर नक़ील केसर + उपहार में घिसनी. 0.031 kg.</g:description>
       <g:link>https://hayala.co/hi/product/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1588483287</g:id>
-      <g:title>अदरक, नींबू और हल्दी वाला शहद पेय – 3 जार</g:title>
-      <g:description>अदरक, नींबू और हल्दी वाला शहद पेय – 3 जार. 0.47 kg.</g:description>
-      <g:link>https://hayala.co/hi/3/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>946188382</g:id>
@@ -895,12 +901,6 @@
       <g:title>रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम</g:title>
       <g:description>रॉयल जेली (रानी मधुमक्खी का भोजन) 15 ग्राम. 0.515 kg.</g:description>
       <g:link>https://hayala.co/hi/15/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>4 सूप मसाला पैक</g:title>
-      <g:description>4 सूप मसाला पैक. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>638751991</g:id>

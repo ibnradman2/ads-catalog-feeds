@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:11:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1588483287</g:id>
+      <g:title>3 envases de bebida de miel con jengibre, limón y cúrcuma</g:title>
+      <g:description>3 envases de bebida de miel con jengibre, limón y cúrcuma. 0.47 kg.</g:description>
+      <g:link>https://hayala.co/es/3-envases-de-bebida-de-miel-con-jengibre-lim-n-y-c-rcuma/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>4 envases de especias para sopa</g:title>
+      <g:description>4 envases de especias para sopa. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/4-envases-de-especias-para-sopa/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1232653674</g:id>
       <g:title>2 envases de azafrán súper negin 10 gramos</g:title>
@@ -121,12 +133,6 @@
       <g:title>Cajas de regalo - Cardamomo americano de lujo + azafrán súper negin + rallador de regalo</g:title>
       <g:description>Cajas de regalo - Cardamomo americano de lujo + azafrán súper negin + rallador de regalo. 0.031 kg.</g:description>
       <g:link>https://hayala.co/es/cajas-de-regalo-cardamomo-americano-de-lujo-azafr-n-s-per-negin-rallador-de-rega/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1588483287</g:id>
-      <g:title>3 envases de bebida de miel con jengibre, limón y cúrcuma</g:title>
-      <g:description>3 envases de bebida de miel con jengibre, limón y cúrcuma. 0.47 kg.</g:description>
-      <g:link>https://hayala.co/es/3-envases-de-bebida-de-miel-con-jengibre-lim-n-y-c-rcuma/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>946188382</g:id>
@@ -877,12 +883,6 @@
       <g:title>Jalea real 15 g</g:title>
       <g:description>Jalea real 15 g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/es/jalea-real-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>4 envases de especias para sopa</g:title>
-      <g:description>4 envases de especias para sopa. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/4-envases-de-especias-para-sopa/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>638751991</g:id>

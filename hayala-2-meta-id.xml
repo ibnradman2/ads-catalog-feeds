@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:11:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1588483287</g:id>
+      <g:title>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit</g:title>
+      <g:description>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit. 0.47 kg.</g:description>
+      <g:link>https://hayala.co/ind/3-kemasan-minuman-madu-jahe-lemon-dan-kunyit/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>Rempah Sup 4 Kotak</g:title>
+      <g:description>Rempah Sup 4 Kotak. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/rempah-sup-4-kotak/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1232653674</g:id>
       <g:title>Dua kemasan saffron Super Negin 10 gram</g:title>
@@ -115,12 +127,6 @@
       <g:title>Boks Hadiah - Kapulaga Amerika Premium + Saffron Super Negin + Parutan Hadiah</g:title>
       <g:description>Boks Hadiah - Kapulaga Amerika Premium + Saffron Super Negin + Parutan Hadiah. 0.031 kg.</g:description>
       <g:link>https://hayala.co/ind/boks-hadiah-kapulaga-amerika-premium-saffron-super-negin-parutan-hadiah/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1588483287</g:id>
-      <g:title>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit</g:title>
-      <g:description>3 Kemasan Minuman Madu Jahe, Lemon, dan Kunyit. 0.47 kg.</g:description>
-      <g:link>https://hayala.co/ind/3-kemasan-minuman-madu-jahe-lemon-dan-kunyit/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>946188382</g:id>
@@ -871,12 +877,6 @@
       <g:title>Royal Jelly (Makanan Ratu Lebah) 15 gram</g:title>
       <g:description>Royal Jelly (Makanan Ratu Lebah) 15 gram. 0.515 kg.</g:description>
       <g:link>https://hayala.co/ind/royal-jelly-makanan-ratu-lebah-15-gram/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>Rempah Sup 4 Kotak</g:title>
-      <g:description>Rempah Sup 4 Kotak. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/rempah-sup-4-kotak/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>638751991</g:id>

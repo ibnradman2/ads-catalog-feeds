@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:11:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1588483287</g:id>
+      <g:title>3罐姜柠檬姜黄蜂蜜饮品</g:title>
+      <g:description>3罐姜柠檬姜黄蜂蜜饮品. 0.47 kg.</g:description>
+      <g:link>https://hayala.co/zh/3/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>汤料香料 4盒装</g:title>
+      <g:description>汤料香料 4盒装. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/zh/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1232653674</g:id>
       <g:title>2包特级Negin藏红花 10克</g:title>
@@ -115,12 +127,6 @@
       <g:title>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器</g:title>
       <g:description>礼盒 - 优质美国小豆蔻 + 超级Negin藏红花 + 赠送研磨器. 0.031 kg.</g:description>
       <g:link>https://hayala.co/zh/negin/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1588483287</g:id>
-      <g:title>3罐姜柠檬姜黄蜂蜜饮品</g:title>
-      <g:description>3罐姜柠檬姜黄蜂蜜饮品. 0.47 kg.</g:description>
-      <g:link>https://hayala.co/zh/3/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>946188382</g:id>
@@ -865,12 +871,6 @@
       <g:title>蜂王浆15克</g:title>
       <g:description>蜂王浆15克. 0.515 kg.</g:description>
       <g:link>https://hayala.co/zh/15/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>汤料香料 4盒装</g:title>
-      <g:description>汤料香料 4盒装. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/zh/4/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>638751991</g:id>

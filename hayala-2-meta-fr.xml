@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:11:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1588483287</g:id>
+      <g:title>3 pots de boisson au miel, gingembre, citron et curcuma</g:title>
+      <g:description>3 pots de boisson au miel, gingembre, citron et curcuma. 0.47 kg.</g:description>
+      <g:link>https://hayala.co/fr/3-pots-de-boisson-au-miel-gingembre-citron-et-curcuma/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>Pack de 4 boîtes d'épices pour soupe</g:title>
+      <g:description>Pack de 4 boîtes d'épices pour soupe. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/pack-de-4-bo-tes-d-pices-pour-soupe/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1232653674</g:id>
       <g:title>2 Boîtes de Safran Super Negin 10 g</g:title>
@@ -115,12 +127,6 @@
       <g:title>Coffret cadeau – Cardamome américaine premium + Safran Super Negin + Râpe offerte</g:title>
       <g:description>Coffret cadeau – Cardamome américaine premium + Safran Super Negin + Râpe offerte. 0.031 kg.</g:description>
       <g:link>https://hayala.co/fr/coffret-cadeau-cardamome-am-ricaine-premium-safran-super-negin-r-pe-offerte/p1038697929?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1588483287</g:id>
-      <g:title>3 pots de boisson au miel, gingembre, citron et curcuma</g:title>
-      <g:description>3 pots de boisson au miel, gingembre, citron et curcuma. 0.47 kg.</g:description>
-      <g:link>https://hayala.co/fr/3-pots-de-boisson-au-miel-gingembre-citron-et-curcuma/p1588483287?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>946188382</g:id>
@@ -871,12 +877,6 @@
       <g:title>Gelée royale 15 g</g:title>
       <g:description>Gelée royale 15 g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/fr/gel-e-royale-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>Pack de 4 boîtes d'épices pour soupe</g:title>
-      <g:description>Pack de 4 boîtes d'épices pour soupe. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/pack-de-4-bo-tes-d-pices-pour-soupe/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>638751991</g:id>

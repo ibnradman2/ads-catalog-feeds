@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:11:24 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303028575</g:id>
+      <g:title>4'lü Çorba Baharatı Paketi</g:title>
+      <g:description>4'lü Çorba Baharatı Paketi. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/4-l-orba-baharat-paketi/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1232653674</g:id>
       <g:title>2 Paket Süper Negin Safran 10 Gram</g:title>
@@ -877,12 +883,6 @@
       <g:title>Arı Sütü (Ana Arı Gıdası) 15 g</g:title>
       <g:description>Arı Sütü (Ana Arı Gıdası) 15 g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/tr/ar-s-t-ana-ar-g-das-15-g/p1300632420?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1303028575</g:id>
-      <g:title>4'lü Çorba Baharatı Paketi</g:title>
-      <g:description>4'lü Çorba Baharatı Paketi. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/4-l-orba-baharat-paketi/p1303028575?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>638751991</g:id>
