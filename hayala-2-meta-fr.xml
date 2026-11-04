@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 12:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:26:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>946188382</g:id>
+      <g:title>Dattes Ajwa Aliyat Al-Madinah premium (1) kg</g:title>
+      <g:description>Dattes Ajwa Aliyat Al-Madinah premium (1) kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/dattes-ajwa-aliyat-al-madinah-premium-1-kg/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2038336306</g:id>
       <g:title>Café Luqmati Bashanfar 10 kg - Café éthiopien Al Khair première qualité pour café arabe</g:title>
@@ -145,12 +151,6 @@
       <g:title>Cardamome américaine de premier choix n° 3, calibre 6 mm, 1 kg</g:title>
       <g:description>Cardamome américaine de premier choix n° 3, calibre 6 mm, 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/fr/cardamome-am-ricaine-de-premier-choix-n-3-calibre-6-mm-1-kg/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>946188382</g:id>
-      <g:title>Dattes Ajwa Aliyat Al-Madinah premium (1) kg</g:title>
-      <g:description>Dattes Ajwa Aliyat Al-Madinah premium (1) kg. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/dattes-ajwa-aliyat-al-madinah-premium-1-kg/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1854428382</g:id>

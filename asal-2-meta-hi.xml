@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 12:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:07:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1819446678</g:id>
+      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम</g:title>
+      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1795183563</g:id>
       <g:title>2 किलो हाइल के तल्ह का छत्ते वाला शहद</g:title>
@@ -169,12 +175,6 @@
       <g:title>कश्मीरी सिद्र शहद 10 किलो गैलन, पराग के साथ (मुफ़्त डिलीवरी)</g:title>
       <g:description>कश्मीरी सिद्र शहद 10 किलो गैलन, पराग के साथ (मुफ़्त डिलीवरी). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/10/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1819446678</g:id>
-      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम</g:title>
-      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>658342130</g:id>

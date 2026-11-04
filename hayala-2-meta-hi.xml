@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 12:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:26:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>946188382</g:id>
+      <g:title>प्रीमियम अलिया अल-मदीना अजवा खजूर 1 किलो</g:title>
+      <g:description>प्रीमियम अलिया अल-मदीना अजवा खजूर 1 किलो. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2038336306</g:id>
       <g:title>लुक़मती बाशनफ़र कॉफ़ी 10 किलो - अल-खैर इथियोपियाई प्रथम श्रेणी, अरबी कॉफ़ी के लिए</g:title>
@@ -163,12 +169,6 @@
       <g:title>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो</g:title>
       <g:description>प्रथम श्रेणी की अमेरिकन इलायची नंबर 3, 6 मिमी मोटाई, 1 किलो. 1.5 kg.</g:description>
       <g:link>https://hayala.co/hi/3-6-1/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>946188382</g:id>
-      <g:title>प्रीमियम अलिया अल-मदीना अजवा खजूर 1 किलो</g:title>
-      <g:description>प्रीमियम अलिया अल-मदीना अजवा खजूर 1 किलो. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1854428382</g:id>

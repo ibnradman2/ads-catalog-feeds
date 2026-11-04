@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 12:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:26:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>946188382</g:id>
+      <g:title>Premium Aliye Medine Acve Hurması 1 Kg</g:title>
+      <g:description>Premium Aliye Medine Acve Hurması 1 Kg. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/premium-aliye-medine-acve-hurmas-1-kg/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2038336306</g:id>
       <g:title>Lokmati Başenfer Kahvesi 10 kg - El Hayr Etiyopya Birinci Sınıf Arap Kahvesi</g:title>
@@ -151,12 +157,6 @@
       <g:title>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 1 Kg</g:title>
       <g:description>Amerikan Kakule Birinci Sınıf No. 3, 6 mm Kalınlık 1 Kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tr/amerikan-kakule-birinci-s-n-f-no-3-6-mm-kal-nl-k-1-kg/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>946188382</g:id>
-      <g:title>Premium Aliye Medine Acve Hurması 1 Kg</g:title>
-      <g:description>Premium Aliye Medine Acve Hurması 1 Kg. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/premium-aliye-medine-acve-hurmas-1-kg/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1854428382</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 12:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:07:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1819446678</g:id>
+      <g:title>Gomme arabique moulue 500 g</g:title>
+      <g:description>Gomme arabique moulue 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gomme-arabique-moulue-500-g/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1795183563</g:id>
       <g:title>Miel en rayon de talh de Hail 2 kg</g:title>
@@ -169,12 +175,6 @@
       <g:title>Offre miel de Sidr du Cachemire 10 kg en jerrican avec pollen (livraison gratuite)</g:title>
       <g:description>Offre miel de Sidr du Cachemire 10 kg en jerrican avec pollen (livraison gratuite). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/offre-miel-de-sidr-du-cachemire-10-kg-en-jerrican-avec-pollen-livraison-gratuite/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1819446678</g:id>
-      <g:title>Gomme arabique moulue 500 g</g:title>
-      <g:description>Gomme arabique moulue 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gomme-arabique-moulue-500-g/p1819446678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>658342130</g:id>

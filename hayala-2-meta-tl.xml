@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 12:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:26:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>946188382</g:id>
+      <g:title>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo</g:title>
+      <g:description>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/premium-ajwa-dates-ng-aliyah-madinah-1-kilo/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>2038336306</g:id>
       <g:title>Kapeng Luqmati Bashnafar 10 Kilo - Ethiopian na Kape ng Al Khair, Unang Grado para sa Arabic Coffee</g:title>
@@ -163,12 +169,6 @@
       <g:title>Amerikanong Cardamom na Unang Grado Blg. 3, 6 mm, 1 Kilo</g:title>
       <g:description>Amerikanong Cardamom na Unang Grado Blg. 3, 6 mm, 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tl/amerikanong-cardamom-na-unang-grado-blg-3-6-mm-1-kilo/p1051236094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>946188382</g:id>
-      <g:title>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo</g:title>
-      <g:description>Premium Ajwa Dates ng Aliyah Madinah, 1 Kilo. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/premium-ajwa-dates-ng-aliyah-madinah-1-kilo/p946188382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1854428382</g:id>
