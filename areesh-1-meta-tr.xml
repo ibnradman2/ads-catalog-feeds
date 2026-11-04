@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:22:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>527688141</g:id>
+      <g:title>Yerel Mumlu Yabani Çiçek Balı 1 Kilo</g:title>
+      <g:description>Yerel Mumlu Yabani Çiçek Balı 1 Kilo. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/yerel-mumlu-yabani-i-ek-bal-1-kilo/p527688141?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>561200214</g:id>
+      <g:title>Mumlu Dikenli Bal 500 Gram</g:title>
+      <g:description>Mumlu Dikenli Bal 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tr/mumlu-dikenli-bal-500-gram/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1303550999</g:id>
       <g:title>Dağ Sidr Mumlu Bal 500 Gram</g:title>
@@ -187,12 +199,6 @@
       <g:title>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı</g:title>
       <g:description>4 kg Doğal Sidr Balı + 2 kg Hediye Çiçek Balı. 6.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/4-kg-do-al-sidr-bal-2-kg-hediye-i-ek-bal/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>527688141</g:id>
-      <g:title>Yerel Mumlu Yabani Çiçek Balı 1 Kilo</g:title>
-      <g:description>Yerel Mumlu Yabani Çiçek Balı 1 Kilo. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/yerel-mumlu-yabani-i-ek-bal-1-kilo/p527688141?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>957180464</g:id>
@@ -403,12 +409,6 @@
       <g:title>Peşaver Sidr Balı 1 kg</g:title>
       <g:description>Peşaver Sidr Balı 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/pe-aver-sidr-bal-1-kg/p548974799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>561200214</g:id>
-      <g:title>Mumlu Dikenli Bal 500 Gram</g:title>
-      <g:description>Mumlu Dikenli Bal 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tr/mumlu-dikenli-bal-500-gram/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1206195242</g:id>

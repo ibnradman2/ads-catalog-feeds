@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:22:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>527688141</g:id>
+      <g:title>Kilo de rayon de miel de fleurs sauvages baladi</g:title>
+      <g:description>Kilo de rayon de miel de fleurs sauvages baladi. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/kilo-de-rayon-de-miel-de-fleurs-sauvages-baladi/p527688141?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>561200214</g:id>
+      <g:title>Miel d'épineux en rayon 500 g</g:title>
+      <g:description>Miel d'épineux en rayon 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-d-pineux-en-rayon-500-g/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1303550999</g:id>
       <g:title>Miel de sidr de montagne en rayon 500 g</g:title>
@@ -187,12 +199,6 @@
       <g:title>4 kg de miel de Sidr naturel + 2 kg de miel de fleurs offerts</g:title>
       <g:description>4 kg de miel de Sidr naturel + 2 kg de miel de fleurs offerts. 6.5 kg.</g:description>
       <g:link>https://areesh.sa/fr/4-kg-de-miel-de-sidr-naturel-2-kg-de-miel-de-fleurs-offerts/p14589094?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>527688141</g:id>
-      <g:title>Kilo de rayon de miel de fleurs sauvages baladi</g:title>
-      <g:description>Kilo de rayon de miel de fleurs sauvages baladi. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/kilo-de-rayon-de-miel-de-fleurs-sauvages-baladi/p527688141?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>957180464</g:id>
@@ -405,12 +411,6 @@
       <g:link>https://areesh.sa/fr/miel-de-sidr-de-peshawar-1-kg/p548974799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>561200214</g:id>
-      <g:title>Miel d'épineux en rayon 500 g</g:title>
-      <g:description>Miel d'épineux en rayon 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-d-pineux-en-rayon-500-g/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1206195242</g:id>
       <g:title>Miel de Manuka néo-zélandais Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
       <g:description>Miel de Manuka néo-zélandais Homeland Premium UMF 5+, MGO 100+, 250 g. 0.75 kg.</g:description>
@@ -418,8 +418,8 @@
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>765679051</g:id>
-      <g:title>Miel de Sidr Areesh à la gelée royale et à la propolis, pot de 500 g</g:title>
-      <g:description>Miel de Sidr Areesh à la gelée royale et à la propolis, pot de 500 g. 1.0 kg.</g:description>
+      <g:title>Miel de Sidr Areesh à la gelée royale et à la propolis (pot de 500 g)</g:title>
+      <g:description>Miel de Sidr Areesh à la gelée royale et à la propolis (pot de 500 g). 1.0 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-de-sidr-areesh-la-gel-e-royale-et-la-propolis-pot-de-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
