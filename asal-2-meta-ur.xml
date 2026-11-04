@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 07:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:24:26 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2125447012</g:id>
+      <g:title>اکیشیا شہد 5 کلو گیلن تھوک ریٹ پر</g:title>
+      <g:description>اکیشیا شہد 5 کلو گیلن تھوک ریٹ پر. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1718386524</g:id>
       <g:title>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں</g:title>
@@ -1129,12 +1135,6 @@
       <g:title>ادرک، لیموں اور ہلدی والے شہد مشروب کی 6 بوتلیں</g:title>
       <g:description>ادرک، لیموں اور ہلدی والے شہد مشروب کی 6 بوتلیں. 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/6/p1349303537?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2125447012</g:id>
-      <g:title>اکیشیا شہد 5 کلو گیلن تھوک ریٹ پر</g:title>
-      <g:description>اکیشیا شہد 5 کلو گیلن تھوک ریٹ پر. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>402261162</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 07:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:24:26 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2125447012</g:id>
+      <g:title>Garrafa de miel de acacia 5 kg a precio de mayorista</g:title>
+      <g:description>Garrafa de miel de acacia 5 kg a precio de mayorista. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/garrafa-de-miel-de-acacia-5-kg-a-precio-de-mayorista/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1718386524</g:id>
       <g:title>Miel de la Selva Negra auténtica garrafa 7 kg precio mayorista</g:title>
@@ -1513,12 +1519,6 @@
       <g:title>6 botes de bebida de miel con jengibre, limón y cúrcuma</g:title>
       <g:description>6 botes de bebida de miel con jengibre, limón y cúrcuma. 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/6-botes-de-bebida-de-miel-con-jengibre-lim-n-y-c-rcuma/p1349303537?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2125447012</g:id>
-      <g:title>Garrafa de miel de acacia 5 kg a precio de mayorista</g:title>
-      <g:description>Garrafa de miel de acacia 5 kg a precio de mayorista. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/garrafa-de-miel-de-acacia-5-kg-a-precio-de-mayorista/p2125447012?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>402261162</g:id>

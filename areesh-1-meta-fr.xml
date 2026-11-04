@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 07:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:14:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1126573678</g:id>
+      <g:title>Miel de Sidr du Hadramaout 500 g</g:title>
+      <g:description>Miel de Sidr du Hadramaout 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-du-hadramaout-500-g/p1126573678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1714475941</g:id>
+      <g:title>Miel de nigelle noire 2 kg</g:title>
+      <g:description>Miel de nigelle noire 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-nigelle-noire-2-kg/p1714475941?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>732821654</g:id>
       <g:title>Miel de manuka néo-zélandais Homeland Premium Manuka Honey UMF+15, MGO 550+, 250 g</g:title>
@@ -213,12 +225,6 @@
       <g:link>https://areesh.sa/fr/pollen-d-abeille-30-g/p115482841?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1126573678</g:id>
-      <g:title>Miel de Sidr du Hadramaout 500 g</g:title>
-      <g:description>Miel de Sidr du Hadramaout 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-du-hadramaout-500-g/p1126573678?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>427525089</g:id>
       <g:title>Miel de sidr royal Oussaïmi 250 g</g:title>
       <g:description>Miel de sidr royal Oussaïmi 250 g. 0.75 kg.</g:description>
@@ -229,12 +235,6 @@
       <g:title>Miel de Sidr du Hadramaout 250 g</g:title>
       <g:description>Miel de Sidr du Hadramaout 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-de-sidr-du-hadramaout-250-g/p1749454899?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1714475941</g:id>
-      <g:title>Miel de nigelle noire 2 kg</g:title>
-      <g:description>Miel de nigelle noire 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-nigelle-noire-2-kg/p1714475941?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>266726712</g:id>
