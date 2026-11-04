@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 13:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:18:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>331895065</g:id>
+      <g:title>Miel con frutos secos (almendras, anacardos, nueces, nueces pecanas, avellanas, pistachos) (500 g)</g:title>
+      <g:description>Miel con frutos secos (almendras, anacardos, nueces, nueces pecanas, avellanas, pistachos) (500 g). 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/miel-con-frutos-secos-almendras-anacardos-nueces-nueces-pecanas-avellanas-pistac/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>348925444</g:id>
+      <g:title>Nuez (americana) - 1 kg</g:title>
+      <g:description>Nuez (americana) - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/nuez-americana-1-kg/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>946188382</g:id>
       <g:title>Dátiles ajwa Aliyat Al Madinah premium de 1 kg</g:title>
@@ -279,12 +291,6 @@
       <g:link>https://hayala.co/es/nueces-americanas-500-g/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>348925444</g:id>
-      <g:title>Nuez (americana) - 1 kg</g:title>
-      <g:description>Nuez (americana) - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/nuez-americana-1-kg/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1079475470</g:id>
       <g:title>Semillas de lino - 500 g</g:title>
       <g:description>Semillas de lino - 500 g. 1.0 kg.</g:description>
@@ -313,12 +319,6 @@
       <g:title>Propóleo en granos (propóleo o pegamento de abejas) 15 g</g:title>
       <g:description>Propóleo en granos (propóleo o pegamento de abejas) 15 g. 0.515 kg.</g:description>
       <g:link>https://hayala.co/es/prop-leo-en-granos-prop-leo-o-pegamento-de-abejas-15-g/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>331895065</g:id>
-      <g:title>Miel con frutos secos (almendras, anacardos, nueces, nueces pecanas, avellanas, pistachos) (500 g)</g:title>
-      <g:description>Miel con frutos secos (almendras, anacardos, nueces, nueces pecanas, avellanas, pistachos) (500 g). 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/miel-con-frutos-secos-almendras-anacardos-nueces-nueces-pecanas-avellanas-pistac/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1809311902</g:id>

@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 19:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>876212657</g:id>
+      <g:title>کشمیری سدر شہد 500 گرام</g:title>
+      <g:description>کشمیری سدر شہد 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p876212657?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>581887586</g:id>
+      <g:title>خشک انجیر 500 گرام</g:title>
+      <g:description>خشک انجیر 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2074483289</g:id>
+      <g:title>سیاہ جنگل کا اصلی شہد 250 گرام</g:title>
+      <g:description>سیاہ جنگل کا اصلی شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>803494818</g:id>
+      <g:title>مکس خشک میوے (کھجور، بادام، چلغوزہ، بلح، پستہ، اخروٹ، ناریل، کلونجی، کراوے، مونگ پھلی اور عین الجمل کا مرکب)</g:title>
+      <g:description>مکس خشک میوے (کھجور، بادام، چلغوزہ، بلح، پستہ، اخروٹ، ناریل، کلونجی، کراوے، مونگ پھلی اور عین الجمل کا مرکب). 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1528377487</g:id>
       <g:title>مرزنجوش شہد 5 کلو گیلن، تھوک قیمت پر</g:title>
@@ -177,18 +201,6 @@
       <g:link>https://asalaljebal.sa/ur/1/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>803494818</g:id>
-      <g:title>مکس خشک میوے (کھجور، بادام، چلغوزہ، بلح، پستہ، اخروٹ، ناریل، کلونجی، کراوے، مونگ پھلی اور عین الجمل کا مرکب)</g:title>
-      <g:description>مکس خشک میوے (کھجور، بادام، چلغوزہ، بلح، پستہ، اخروٹ، ناریل، کلونجی، کراوے، مونگ پھلی اور عین الجمل کا مرکب). 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>2074483289</g:id>
-      <g:title>سیاہ جنگل کا اصلی شہد 250 گرام</g:title>
-      <g:description>سیاہ جنگل کا اصلی شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>458800063</g:id>
       <g:title>شاہی سدر موم والا شہد 1 کلو، یمن کے عصیمات پہاڑوں سے</g:title>
       <g:description>شاہی سدر موم والا شہد 1 کلو، یمن کے عصیمات پہاڑوں سے. 1.5 kg.</g:description>
@@ -199,18 +211,6 @@
       <g:title>3 کلو پہاڑی پشاوری سدر شہد</g:title>
       <g:description>3 کلو پہاڑی پشاوری سدر شہد. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/3/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>581887586</g:id>
-      <g:title>خشک انجیر 500 گرام</g:title>
-      <g:description>خشک انجیر 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>876212657</g:id>
-      <g:title>کشمیری سدر شہد 500 گرام</g:title>
-      <g:description>کشمیری سدر شہد 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p876212657?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2000496810</g:id>

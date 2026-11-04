@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 19:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>876212657</g:id>
+      <g:title>Kashmiri na Pulot ng Sidr, 500 Gramo</g:title>
+      <g:description>Kashmiri na Pulot ng Sidr, 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/kashmiri-na-pulot-ng-sidr-500-gramo/p876212657?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>581887586</g:id>
+      <g:title>Pinatuyong Igos mula sa Syria, 500 Gramo</g:title>
+      <g:description>Pinatuyong Igos mula sa Syria, 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pinatuyong-igos-mula-sa-syria-500-gramo/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2074483289</g:id>
+      <g:title>Tunay na Black Forest Honey 250 Gramo</g:title>
+      <g:description>Tunay na Black Forest Honey 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-250-gramo/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>803494818</g:id>
+      <g:title>Halo-halong Nuts (Timpla ng Datiles, Almendras, Pine Nuts, Sariwang Datiles, Pistachio, Walnut, Niyog, Itim na Binhi, Caraway, Mani, Ain al-Jamal)</g:title>
+      <g:description>Halo-halong Nuts (Timpla ng Datiles, Almendras, Pine Nuts, Sariwang Datiles, Pistachio, Walnut, Niyog, Itim na Binhi, Caraway, Mani, Ain al-Jamal). 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/halo-halong-nuts-timpla-ng-datiles-almendras-pine-nuts-sariwang-datiles-pistachi/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1528377487</g:id>
       <g:title>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan</g:title>
@@ -261,18 +285,6 @@
       <g:link>https://asalaljebal.sa/tl/royal-asimi-sidr-honey-1-kilo/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>803494818</g:id>
-      <g:title>Halo-halong Nuts (Timpla ng Datiles, Almendras, Pine Nuts, Sariwang Datiles, Pistachio, Walnut, Niyog, Itim na Binhi, Caraway, Mani, Ain al-Jamal)</g:title>
-      <g:description>Halo-halong Nuts (Timpla ng Datiles, Almendras, Pine Nuts, Sariwang Datiles, Pistachio, Walnut, Niyog, Itim na Binhi, Caraway, Mani, Ain al-Jamal). 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/halo-halong-nuts-timpla-ng-datiles-almendras-pine-nuts-sariwang-datiles-pistachi/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2074483289</g:id>
-      <g:title>Tunay na Black Forest Honey 250 Gramo</g:title>
-      <g:description>Tunay na Black Forest Honey 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/tunay-na-black-forest-honey-250-gramo/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>458800063</g:id>
       <g:title>Royal Sidr Honeycomb, 1 Kilo</g:title>
       <g:description>Royal Sidr Honeycomb, 1 Kilo. 1.5 kg.</g:description>
@@ -283,18 +295,6 @@
       <g:title>3 Kilo ng Pulot na Sidr mula Peshawar</g:title>
       <g:description>3 Kilo ng Pulot na Sidr mula Peshawar. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/3-kilo-ng-pulot-na-sidr-mula-peshawar/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>581887586</g:id>
-      <g:title>Pinatuyong Igos mula sa Syria, 500 Gramo</g:title>
-      <g:description>Pinatuyong Igos mula sa Syria, 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pinatuyong-igos-mula-sa-syria-500-gramo/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>876212657</g:id>
-      <g:title>Kashmiri na Pulot ng Sidr, 500 Gramo</g:title>
-      <g:description>Kashmiri na Pulot ng Sidr, 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/kashmiri-na-pulot-ng-sidr-500-gramo/p876212657?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>2000496810</g:id>

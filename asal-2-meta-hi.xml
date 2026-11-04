@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 19:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>876212657</g:id>
+      <g:title>कश्मीरी सिद्र शहद 500 ग्राम</g:title>
+      <g:description>कश्मीरी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p876212657?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>581887586</g:id>
+      <g:title>सूखे अंजीर (ड्राई फिग) 500 ग्राम</g:title>
+      <g:description>सूखे अंजीर (ड्राई फिग) 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2074483289</g:id>
+      <g:title>ब्लैक फ़ॉरेस्ट शहद (असली) 250 ग्राम</g:title>
+      <g:description>ब्लैक फ़ॉरेस्ट शहद (असली) 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>803494818</g:id>
+      <g:title>मिक्स मेवे (खजूर - बादाम - चिलगोज़ा - बलह खजूर - पिस्ता - अखरोट - नारियल - कलौंजी - शाहजीरा - मूँगफली - अखरोट गिरी)</g:title>
+      <g:description>मिक्स मेवे (खजूर - बादाम - चिलगोज़ा - बलह खजूर - पिस्ता - अखरोट - नारियल - कलौंजी - शाहजीरा - मूँगफली - अखरोट गिरी). 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/product/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1528377487</g:id>
       <g:title>मार्जोरम शहद 5 किलो गैलन, थोक दाम पर</g:title>
@@ -261,18 +285,6 @@
       <g:link>https://asalaljebal.sa/hi/1/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>803494818</g:id>
-      <g:title>मिक्स मेवे (खजूर - बादाम - चिलगोज़ा - बलह खजूर - पिस्ता - अखरोट - नारियल - कलौंजी - शाहजीरा - मूँगफली - अखरोट गिरी)</g:title>
-      <g:description>मिक्स मेवे (खजूर - बादाम - चिलगोज़ा - बलह खजूर - पिस्ता - अखरोट - नारियल - कलौंजी - शाहजीरा - मूँगफली - अखरोट गिरी). 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/product/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2074483289</g:id>
-      <g:title>ब्लैक फ़ॉरेस्ट शहद (असली) 250 ग्राम</g:title>
-      <g:description>ब्लैक फ़ॉरेस्ट शहद (असली) 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p2074483289?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>458800063</g:id>
       <g:title>रॉयल सिद्र मोम-छत्ता शहद 1 किलो</g:title>
       <g:description>रॉयल सिद्र मोम-छत्ता शहद 1 किलो. 1.5 kg.</g:description>
@@ -283,18 +295,6 @@
       <g:title>3 किलो पेशावरी पहाड़ी सिद्र शहद</g:title>
       <g:description>3 किलो पेशावरी पहाड़ी सिद्र शहद. 3.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/3/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>581887586</g:id>
-      <g:title>सूखे अंजीर (ड्राई फिग) 500 ग्राम</g:title>
-      <g:description>सूखे अंजीर (ड्राई फिग) 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p581887586?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>876212657</g:id>
-      <g:title>कश्मीरी सिद्र शहद 500 ग्राम</g:title>
-      <g:description>कश्मीरी सिद्र शहद 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p876212657?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2000496810</g:id>

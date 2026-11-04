@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 13:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:18:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>331895065</g:id>
+      <g:title>Madu Kacang-kacangan (Almond - Mete - Kenari Mata Unta - Pecan - Hazelnut - Pistachio) (500 gram)</g:title>
+      <g:description>Madu Kacang-kacangan (Almond - Mete - Kenari Mata Unta - Pecan - Hazelnut - Pistachio) (500 gram). 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/madu-kacang-kacangan-almond-mete-kenari-mata-unta-pecan-hazelnut-pistachio-500-g/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>348925444</g:id>
+      <g:title>Kenari Amerika - 1 Kg</g:title>
+      <g:description>Kenari Amerika - 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/kenari-amerika-1-kg/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>946188382</g:id>
       <g:title>Kurma Ajwa Aliyah Madinah Premium 1 Kg</g:title>
@@ -273,12 +285,6 @@
       <g:link>https://hayala.co/ind/walnut-amerika-500-gram/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>348925444</g:id>
-      <g:title>Kenari Amerika - 1 Kg</g:title>
-      <g:description>Kenari Amerika - 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/kenari-amerika-1-kg/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1079475470</g:id>
       <g:title>Biji Rami - 500 gram</g:title>
       <g:description>Biji Rami - 500 gram. 1.0 kg.</g:description>
@@ -307,12 +313,6 @@
       <g:title>Propolis Butiran (Perekat Lebah / Bee Glue) 15 gram</g:title>
       <g:description>Propolis Butiran (Perekat Lebah / Bee Glue) 15 gram. 0.515 kg.</g:description>
       <g:link>https://hayala.co/ind/propolis-butiran-perekat-lebah-bee-glue-15-gram/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>331895065</g:id>
-      <g:title>Madu Kacang-kacangan (Almond - Mete - Kenari Mata Unta - Pecan - Hazelnut - Pistachio) (500 gram)</g:title>
-      <g:description>Madu Kacang-kacangan (Almond - Mete - Kenari Mata Unta - Pecan - Hazelnut - Pistachio) (500 gram). 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/madu-kacang-kacangan-almond-mete-kenari-mata-unta-pecan-hazelnut-pistachio-500-g/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1809311902</g:id>

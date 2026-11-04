@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 13:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:18:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>331895065</g:id>
+      <g:title>شہد والے میوہ جات (بادام - کاجو - اخروٹ - پیکن - ہیزل نٹ - پستہ) (500 گرام)</g:title>
+      <g:description>شہد والے میوہ جات (بادام - کاجو - اخروٹ - پیکن - ہیزل نٹ - پستہ) (500 گرام). 1.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/500/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>348925444</g:id>
+      <g:title>امریکی اخروٹ (عین الجمل) - 1 کلو</g:title>
+      <g:description>امریکی اخروٹ (عین الجمل) - 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/1/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>946188382</g:id>
       <g:title>فاخر عالیۃ المدینہ عجوہ کھجور 1 کلو</g:title>
@@ -291,12 +303,6 @@
       <g:link>https://hayala.co/ur/500gm/p1468610802?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>348925444</g:id>
-      <g:title>امریکی اخروٹ (عین الجمل) - 1 کلو</g:title>
-      <g:description>امریکی اخروٹ (عین الجمل) - 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/1/p348925444?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1079475470</g:id>
       <g:title>السی کے بیج - 500 گرام</g:title>
       <g:description>السی کے بیج - 500 گرام. 1.0 kg.</g:description>
@@ -325,12 +331,6 @@
       <g:title>عکبر کے دانے (پروپولس یا مکھی کا گوند) 15 گرام</g:title>
       <g:description>عکبر کے دانے (پروپولس یا مکھی کا گوند) 15 گرام. 0.515 kg.</g:description>
       <g:link>https://hayala.co/ur/15/p1387194813?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>331895065</g:id>
-      <g:title>شہد والے میوہ جات (بادام - کاجو - اخروٹ - پیکن - ہیزل نٹ - پستہ) (500 گرام)</g:title>
-      <g:description>شہد والے میوہ جات (بادام - کاجو - اخروٹ - پیکن - ہیزل نٹ - پستہ) (500 گرام). 1.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/500/p331895065?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1809311902</g:id>
