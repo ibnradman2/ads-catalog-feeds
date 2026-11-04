@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 13:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:12:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1500398965</g:id>
+      <g:title>ऐनीस शहद 5 किलो गैलन, थोक दाम पर</g:title>
+      <g:description>ऐनीस शहद 5 किलो गैलन, थोक दाम पर. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/5/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1819446678</g:id>
       <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 500 ग्राम</g:title>
@@ -1495,12 +1501,6 @@
       <g:title>अथल शहद (अल-साल) 2 किलो</g:title>
       <g:description>अथल शहद (अल-साल) 2 किलो. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2/p608043670?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1500398965</g:id>
-      <g:title>ऐनीस शहद 5 किलो गैलन, थोक दाम पर</g:title>
-      <g:description>ऐनीस शहद 5 किलो गैलन, थोक दाम पर. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/5/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2024213782</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 13:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:12:39 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1500398965</g:id>
+      <g:title>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan</g:title>
+      <g:description>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/anise-honey-5-kilo-na-galon-sa-presyong-pakyawan/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1819446678</g:id>
       <g:title>Giniling na Gum Arabic 500 Gramo</g:title>
@@ -1495,12 +1501,6 @@
       <g:title>Athl Honey (Sal) 2 Kilo</g:title>
       <g:description>Athl Honey (Sal) 2 Kilo. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/athl-honey-sal-2-kilo/p608043670?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1500398965</g:id>
-      <g:title>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan</g:title>
-      <g:description>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/anise-honey-5-kilo-na-galon-sa-presyong-pakyawan/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>2024213782</g:id>
