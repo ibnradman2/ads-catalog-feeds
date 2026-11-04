@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 14:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:31:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>250040053</g:id>
+      <g:title>Black Seed na 1 Kilo</g:title>
+      <g:description>Black Seed na 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/black-seed-na-1-kilo/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>696442397</g:id>
+      <g:title>Propolis na Pulbos (Bee Glue) 15 g</g:title>
+      <g:description>Propolis na Pulbos (Bee Glue) 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/propolis-na-pulbos-bee-glue-15-g/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>658342130</g:id>
+      <g:title>Organikong Suka ng Mansanas 500 ml</g:title>
+      <g:description>Organikong Suka ng Mansanas 500 ml. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/organikong-suka-ng-mansanas-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2070936862</g:id>
+      <g:title>Pollen ng Palmera ng Datiles 15 g</g:title>
+      <g:description>Pollen ng Palmera ng Datiles 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pollen-ng-palmera-ng-datiles-15-g/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1500398965</g:id>
       <g:title>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan</g:title>
@@ -181,30 +205,6 @@
       <g:title>Alok: Kashmiri Sidr na Pulot, 10 Kilo na Galon na may Bee Pollen (Libreng Pagpapadala)</g:title>
       <g:description>Alok: Kashmiri Sidr na Pulot, 10 Kilo na Galon na may Bee Pollen (Libreng Pagpapadala). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/alok-kashmiri-sidr-na-pulot-10-kilo-na-galon-na-may-bee-pollen-libreng-pagpapada/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>658342130</g:id>
-      <g:title>Organikong Suka ng Mansanas 500 ml</g:title>
-      <g:description>Organikong Suka ng Mansanas 500 ml. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/organikong-suka-ng-mansanas-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>250040053</g:id>
-      <g:title>Black Seed na 1 Kilo</g:title>
-      <g:description>Black Seed na 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/black-seed-na-1-kilo/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>696442397</g:id>
-      <g:title>Propolis na Pulbos (Bee Glue) 15 g</g:title>
-      <g:description>Propolis na Pulbos (Bee Glue) 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/propolis-na-pulbos-bee-glue-15-g/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2070936862</g:id>
-      <g:title>Pollen ng Palmera ng Datiles 15 g</g:title>
-      <g:description>Pollen ng Palmera ng Datiles 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pollen-ng-palmera-ng-datiles-15-g/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>821410085</g:id>

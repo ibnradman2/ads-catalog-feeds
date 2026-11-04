@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 14:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:31:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>250040053</g:id>
+      <g:title>Comino negro (habbat al-baraka) en semillas 1 kilo</g:title>
+      <g:description>Comino negro (habbat al-baraka) en semillas 1 kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/comino-negro-habbat-al-baraka-en-semillas-1-kilo/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>696442397</g:id>
+      <g:title>Propóleo en polvo (resina de abeja) 15 g</g:title>
+      <g:description>Propóleo en polvo (resina de abeja) 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/prop-leo-en-polvo-resina-de-abeja-15-g/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>658342130</g:id>
+      <g:title>Vinagre de manzana ecológico, 500 ml</g:title>
+      <g:description>Vinagre de manzana ecológico, 500 ml. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/vinagre-de-manzana-ecol-gico-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2070936862</g:id>
+      <g:title>Polen de palmera datilera 15 g</g:title>
+      <g:description>Polen de palmera datilera 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-palmera-datilera-15-g/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1500398965</g:id>
       <g:title>Miel de anís, garrafón de 5 kg a precio de mayorista</g:title>
@@ -181,30 +205,6 @@
       <g:title>Oferta: miel de Sidr de Cachemira 10 kg en garrafa con polen de abeja (envío gratis)</g:title>
       <g:description>Oferta: miel de Sidr de Cachemira 10 kg en garrafa con polen de abeja (envío gratis). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/oferta-miel-de-sidr-de-cachemira-10-kg-en-garrafa-con-polen-de-abeja-env-o-grati/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>658342130</g:id>
-      <g:title>Vinagre de manzana ecológico, 500 ml</g:title>
-      <g:description>Vinagre de manzana ecológico, 500 ml. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/vinagre-de-manzana-ecol-gico-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>250040053</g:id>
-      <g:title>Comino negro (habbat al-baraka) en semillas 1 kilo</g:title>
-      <g:description>Comino negro (habbat al-baraka) en semillas 1 kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/comino-negro-habbat-al-baraka-en-semillas-1-kilo/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>696442397</g:id>
-      <g:title>Propóleo en polvo (resina de abeja) 15 g</g:title>
-      <g:description>Propóleo en polvo (resina de abeja) 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/prop-leo-en-polvo-resina-de-abeja-15-g/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>2070936862</g:id>
-      <g:title>Polen de palmera datilera 15 g</g:title>
-      <g:description>Polen de palmera datilera 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-de-palmera-datilera-15-g/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>821410085</g:id>

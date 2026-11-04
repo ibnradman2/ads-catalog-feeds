@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 14:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:31:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>250040053</g:id>
+      <g:title>Habbatussauda 1 Kilo</g:title>
+      <g:description>Habbatussauda 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/habbatussauda-1-kilo/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>696442397</g:id>
+      <g:title>Propolis Bubuk (Perekat Lebah) 15 gram</g:title>
+      <g:description>Propolis Bubuk (Perekat Lebah) 15 gram. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/propolis-bubuk-perekat-lebah-15-gram/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>658342130</g:id>
+      <g:title>Cuka Apel Organik 500 ml</g:title>
+      <g:description>Cuka Apel Organik 500 ml. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/cuka-apel-organik-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>2070936862</g:id>
+      <g:title>Serbuk Sari Kurma 15 gram</g:title>
+      <g:description>Serbuk Sari Kurma 15 gram. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/serbuk-sari-kurma-15-gram/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1500398965</g:id>
       <g:title>Madu Anise Galon 5 kilo Harga Grosir</g:title>
@@ -181,30 +205,6 @@
       <g:title>Penawaran Madu Sidr Kashmir 10 Kg Galon dengan Serbuk Sari (Gratis Ongkir)</g:title>
       <g:description>Penawaran Madu Sidr Kashmir 10 Kg Galon dengan Serbuk Sari (Gratis Ongkir). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/penawaran-madu-sidr-kashmir-10-kg-galon-dengan-serbuk-sari-gratis-ongkir/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>658342130</g:id>
-      <g:title>Cuka Apel Organik 500 ml</g:title>
-      <g:description>Cuka Apel Organik 500 ml. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/cuka-apel-organik-500-ml/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>250040053</g:id>
-      <g:title>Habbatussauda 1 Kilo</g:title>
-      <g:description>Habbatussauda 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/habbatussauda-1-kilo/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>696442397</g:id>
-      <g:title>Propolis Bubuk (Perekat Lebah) 15 gram</g:title>
-      <g:description>Propolis Bubuk (Perekat Lebah) 15 gram. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/propolis-bubuk-perekat-lebah-15-gram/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2070936862</g:id>
-      <g:title>Serbuk Sari Kurma 15 gram</g:title>
-      <g:description>Serbuk Sari Kurma 15 gram. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/serbuk-sari-kurma-15-gram/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>821410085</g:id>

@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 14:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:31:50 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>250040053</g:id>
+      <g:title>कलौंजी के बीज (हब्बतुल बरका) 1 किलो</g:title>
+      <g:description>कलौंजी के बीज (हब्बतुल बरका) 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/1/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>696442397</g:id>
+      <g:title>अकबर पाउडर (प्रोपोलिस या मधुमक्खी का गोंद) 15 ग्राम</g:title>
+      <g:description>अकबर पाउडर (प्रोपोलिस या मधुमक्खी का गोंद) 15 ग्राम. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/15/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>658342130</g:id>
+      <g:title>जैविक सेब का सिरका 500 मिली</g:title>
+      <g:description>जैविक सेब का सिरका 500 मिली. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2070936862</g:id>
+      <g:title>खजूर का पराग 15 ग्राम</g:title>
+      <g:description>खजूर का पराग 15 ग्राम. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/15/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1500398965</g:id>
       <g:title>ऐनीस शहद 5 किलो गैलन, थोक दाम पर</g:title>
@@ -181,30 +205,6 @@
       <g:title>कश्मीरी सिद्र शहद 10 किलो गैलन, पराग के साथ (मुफ़्त डिलीवरी)</g:title>
       <g:description>कश्मीरी सिद्र शहद 10 किलो गैलन, पराग के साथ (मुफ़्त डिलीवरी). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/10/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>658342130</g:id>
-      <g:title>जैविक सेब का सिरका 500 मिली</g:title>
-      <g:description>जैविक सेब का सिरका 500 मिली. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p658342130?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>250040053</g:id>
-      <g:title>कलौंजी के बीज (हब्बतुल बरका) 1 किलो</g:title>
-      <g:description>कलौंजी के बीज (हब्बतुल बरका) 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/1/p250040053?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>696442397</g:id>
-      <g:title>अकबर पाउडर (प्रोपोलिस या मधुमक्खी का गोंद) 15 ग्राम</g:title>
-      <g:description>अकबर पाउडर (प्रोपोलिस या मधुमक्खी का गोंद) 15 ग्राम. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/15/p696442397?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2070936862</g:id>
-      <g:title>खजूर का पराग 15 ग्राम</g:title>
-      <g:description>खजूर का पराग 15 ग्राम. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/15/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>821410085</g:id>
