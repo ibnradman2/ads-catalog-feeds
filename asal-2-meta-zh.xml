@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 06:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:15:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1718386524</g:id>
+      <g:title>正宗黑森林蜂蜜 7公斤桶装 批发</g:title>
+      <g:description>正宗黑森林蜂蜜 7公斤桶装 批发. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>802419986</g:id>
       <g:title>大麦粉（先知式大麦粥 Talbina）500克</g:title>
@@ -1321,12 +1327,6 @@
       <g:title>正宗黑森林蜂蜜 10公斤桶装 批发</g:title>
       <g:description>正宗黑森林蜂蜜 10公斤桶装 批发. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/10/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1718386524</g:id>
-      <g:title>正宗黑森林蜂蜜 7公斤桶装 批发</g:title>
-      <g:description>正宗黑森林蜂蜜 7公斤桶装 批发. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/7/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1497729139</g:id>

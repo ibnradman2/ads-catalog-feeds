@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 06:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:15:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1718386524</g:id>
+      <g:title>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں</g:title>
+      <g:description>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/7/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>802419986</g:id>
       <g:title>جو کا آٹا (نبوی تلبینہ) 500 گرام</g:title>
@@ -979,12 +985,6 @@
       <g:title>اصلی بلیک فاریسٹ شہد 10 کلو گیلن تھوک میں</g:title>
       <g:description>اصلی بلیک فاریسٹ شہد 10 کلو گیلن تھوک میں. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/10/p344412243?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1718386524</g:id>
-      <g:title>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں</g:title>
-      <g:description>اصلی بلیک فاریسٹ شہد 7 کلو گیلن تھوک میں. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/7/p1718386524?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1497729139</g:id>
