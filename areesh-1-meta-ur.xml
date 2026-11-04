@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 00:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:18:34 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1700113743</g:id>
+      <g:title>شاہی عصیمی سدر شہد 500 گرام</g:title>
+      <g:description>شاہی عصیمی سدر شہد 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/500/p1700113743?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1897520045</g:id>
       <g:title>شوکہ شہد (پریمیم سمرہ) 1 کلو</g:title>
@@ -163,12 +169,6 @@
       <g:title>قدرتی دیسی پروپولس (عکبر) - 65 گرام</g:title>
       <g:description>قدرتی دیسی پروپولس (عکبر) - 65 گرام. 0.565 kg.</g:description>
       <g:link>https://areesh.sa/ur/65/p283801056?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1700113743</g:id>
-      <g:title>شاہی عصیمی سدر شہد 500 گرام</g:title>
-      <g:description>شاہی عصیمی سدر شہد 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/500/p1700113743?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>311732055</g:id>

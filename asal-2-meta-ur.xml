@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1257152391</g:id>
+      <g:title>مورنگا شہد 5 کلو گیلن، تھوک قیمت پر</g:title>
+      <g:description>مورنگا شہد 5 کلو گیلن، تھوک قیمت پر. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>101060786</g:id>
+      <g:title>کشمیری سدر شہد 250 گرام</g:title>
+      <g:description>کشمیری سدر شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>473047885</g:id>
+      <g:title>قسط ہندی (کوسٹس) پسا ہوا پاؤڈر (150 گرام)</g:title>
+      <g:description>قسط ہندی (کوسٹس) پسا ہوا پاؤڈر (150 گرام). 0.65 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/150/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>830068410</g:id>
+      <g:title>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ</g:title>
+      <g:description>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-1/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>204409672</g:id>
       <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 7 کلو گیلن، تھوک قیمت پر</g:title>
@@ -79,18 +103,6 @@
       <g:title>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری)</g:title>
       <g:description>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/10/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>101060786</g:id>
-      <g:title>کشمیری سدر شہد 250 گرام</g:title>
-      <g:description>کشمیری سدر شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>473047885</g:id>
-      <g:title>قسط ہندی (کوسٹس) پسا ہوا پاؤڈر (150 گرام)</g:title>
-      <g:description>قسط ہندی (کوسٹس) پسا ہوا پاؤڈر (150 گرام). 0.65 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/150/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -795,12 +807,6 @@
       <g:link>https://asalaljebal.sa/ur/product/p2030973022?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>830068410</g:id>
-      <g:title>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ</g:title>
-      <g:description>2 کلو بلیک فاریسٹ شہد + 1 کلو ہدیہ. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-1/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>149216914</g:id>
       <g:title>نیوزی لینڈ مانوکا شہد UMF+20 کا ڈبہ + نیوزی لینڈ مانوکا شہد UMF+5 کا ڈبہ</g:title>
       <g:description>نیوزی لینڈ مانوکا شہد UMF+20 کا ڈبہ + نیوزی لینڈ مانوکا شہد UMF+5 کا ڈبہ. 0.5 kg.</g:description>
@@ -1141,12 +1147,6 @@
       <g:title>2 کلو حائل کے طلح کا چھتے والا شہد</g:title>
       <g:description>2 کلو حائل کے طلح کا چھتے والا شہد. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/2/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1257152391</g:id>
-      <g:title>مورنگا شہد 5 کلو گیلن، تھوک قیمت پر</g:title>
-      <g:description>مورنگا شہد 5 کلو گیلن، تھوک قیمت پر. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1528377487</g:id>

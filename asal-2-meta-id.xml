@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 00:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1257152391</g:id>
+      <g:title>Madu Kelor 5 Kilo Galon Harga Grosir</g:title>
+      <g:description>Madu Kelor 5 Kilo Galon Harga Grosir. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-kelor-5-kilo-galon-harga-grosir/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>411224162</g:id>
+      <g:title>Herba Murr (Myrrh) 50 Gram</g:title>
+      <g:description>Herba Murr (Myrrh) 50 Gram. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/herba-murr-myrrh-50-gram/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>101060786</g:id>
+      <g:title>Madu Sidr Kashmir 250 g</g:title>
+      <g:description>Madu Sidr Kashmir 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-250-g/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>473047885</g:id>
+      <g:title>Qusth Hindi Bubuk (150 gram)</g:title>
+      <g:description>Qusth Hindi Bubuk (150 gram). 0.65 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/qusth-hindi-bubuk-150-gram/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>830068410</g:id>
+      <g:title>2 Kilo Madu Hutan Hitam + 1 Kilo Hadiah</g:title>
+      <g:description>2 Kilo Madu Hutan Hitam + 1 Kilo Hadiah. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/2-kilo-madu-hutan-hitam-1-kilo-hadiah/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1774089564</g:id>
       <g:title>2 Kemasan Madu Manuka Selandia Baru UMF 15+ | UMF 10+</g:title>
@@ -109,24 +139,6 @@
       <g:title>Penawaran Madu Sidr Kashmir 10 Kg Galon dengan Serbuk Sari (Gratis Ongkir)</g:title>
       <g:description>Penawaran Madu Sidr Kashmir 10 Kg Galon dengan Serbuk Sari (Gratis Ongkir). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/penawaran-madu-sidr-kashmir-10-kg-galon-dengan-serbuk-sari-gratis-ongkir/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>101060786</g:id>
-      <g:title>Madu Sidr Kashmir 250 g</g:title>
-      <g:description>Madu Sidr Kashmir 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-250-g/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>411224162</g:id>
-      <g:title>Herba Murr (Myrrh) 50 Gram</g:title>
-      <g:description>Herba Murr (Myrrh) 50 Gram. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/herba-murr-myrrh-50-gram/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>473047885</g:id>
-      <g:title>Qusth Hindi Bubuk (150 gram)</g:title>
-      <g:description>Qusth Hindi Bubuk (150 gram). 0.65 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/qusth-hindi-bubuk-150-gram/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -1083,12 +1095,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-manuka-selandia-baru-honey-bros-premium-manuka-honey-umf-15-mgo-550-250-gm/p2037297617?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>830068410</g:id>
-      <g:title>2 Kilo Madu Hutan Hitam + 1 Kilo Hadiah</g:title>
-      <g:description>2 Kilo Madu Hutan Hitam + 1 Kilo Hadiah. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/2-kilo-madu-hutan-hitam-1-kilo-hadiah/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1819634026</g:id>
       <g:title>Madu Talh Hail 500 g</g:title>
       <g:description>Madu Talh Hail 500 g. 1.0 kg.</g:description>
@@ -1519,12 +1525,6 @@
       <g:title>2 Kg Madu Sarang Talh Hail</g:title>
       <g:description>2 Kg Madu Sarang Talh Hail. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/2-kg-madu-sarang-talh-hail/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1257152391</g:id>
-      <g:title>Madu Kelor 5 Kilo Galon Harga Grosir</g:title>
-      <g:description>Madu Kelor 5 Kilo Galon Harga Grosir. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-kelor-5-kilo-galon-harga-grosir/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1528377487</g:id>

@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 00:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1257152391</g:id>
+      <g:title>Miel de moringa bidon de 5 kg au prix de gros</g:title>
+      <g:description>Miel de moringa bidon de 5 kg au prix de gros. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-bidon-de-5-kg-au-prix-de-gros/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>411224162</g:id>
+      <g:title>Myrrhe (herbe Al Murra) 50 g</g:title>
+      <g:description>Myrrhe (herbe Al Murra) 50 g. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/myrrhe-herbe-al-murra-50-g/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>101060786</g:id>
+      <g:title>Miel de Sidr du Cachemire 250 g</g:title>
+      <g:description>Miel de Sidr du Cachemire 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-cachemire-250-g/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>473047885</g:id>
+      <g:title>Costus indien moulu (150 g)</g:title>
+      <g:description>Costus indien moulu (150 g). 0.65 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/costus-indien-moulu-150-g/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>830068410</g:id>
+      <g:title>2 kg de miel de la Forêt-Noire + 1 kg offert</g:title>
+      <g:description>2 kg de miel de la Forêt-Noire + 1 kg offert. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/2-kg-de-miel-de-la-for-t-noire-1-kg-offert/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1774089564</g:id>
       <g:title>Deux pots de miel de Manuka néo-zélandais UMF 15+ | UMF 10+</g:title>
@@ -109,24 +139,6 @@
       <g:title>Offre miel de Sidr du Cachemire 10 kg en jerrican avec pollen (livraison gratuite)</g:title>
       <g:description>Offre miel de Sidr du Cachemire 10 kg en jerrican avec pollen (livraison gratuite). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/offre-miel-de-sidr-du-cachemire-10-kg-en-jerrican-avec-pollen-livraison-gratuite/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>101060786</g:id>
-      <g:title>Miel de Sidr du Cachemire 250 g</g:title>
-      <g:description>Miel de Sidr du Cachemire 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-du-cachemire-250-g/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>411224162</g:id>
-      <g:title>Myrrhe (herbe Al Murra) 50 g</g:title>
-      <g:description>Myrrhe (herbe Al Murra) 50 g. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/myrrhe-herbe-al-murra-50-g/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>473047885</g:id>
-      <g:title>Costus indien moulu (150 g)</g:title>
-      <g:description>Costus indien moulu (150 g). 0.65 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/costus-indien-moulu-150-g/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -1083,12 +1095,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-manuka-n-o-z-landais-honey-bros-premium-manuka-honey-umf-15-mgo-550-250-/p2037297617?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>830068410</g:id>
-      <g:title>2 kg de miel de la Forêt-Noire + 1 kg offert</g:title>
-      <g:description>2 kg de miel de la Forêt-Noire + 1 kg offert. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/2-kg-de-miel-de-la-for-t-noire-1-kg-offert/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1819634026</g:id>
       <g:title>Miel de Talh de Haïl 500 g</g:title>
       <g:description>Miel de Talh de Haïl 500 g. 1.0 kg.</g:description>
@@ -1519,12 +1525,6 @@
       <g:title>Miel en rayon de talh de Hail 2 kg</g:title>
       <g:description>Miel en rayon de talh de Hail 2 kg. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-talh-de-hail-2-kg/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1257152391</g:id>
-      <g:title>Miel de moringa bidon de 5 kg au prix de gros</g:title>
-      <g:description>Miel de moringa bidon de 5 kg au prix de gros. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-moringa-bidon-de-5-kg-au-prix-de-gros/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1528377487</g:id>

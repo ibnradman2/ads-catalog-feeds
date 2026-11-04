@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 00:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1257152391</g:id>
+      <g:title>Moringa Balı 5 kg Bidon - Toptan Fiyatı</g:title>
+      <g:description>Moringa Balı 5 kg Bidon - Toptan Fiyatı. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/moringa-bal-5-kg-bidon-toptan-fiyat/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>411224162</g:id>
+      <g:title>Mür Otu 50 gram</g:title>
+      <g:description>Mür Otu 50 gram. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/m-r-otu-50-gram/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>101060786</g:id>
+      <g:title>Keşmir Sidr Balı 250 Gram</g:title>
+      <g:description>Keşmir Sidr Balı 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-250-gram/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>473047885</g:id>
+      <g:title>Öğütülmüş Hint Kostu 150 g</g:title>
+      <g:description>Öğütülmüş Hint Kostu 150 g. 0.65 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/t-lm-hint-kostu-150-g/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>830068410</g:id>
+      <g:title>2 kg Kara Orman Balı + 1 kg Hediye</g:title>
+      <g:description>2 kg Kara Orman Balı + 1 kg Hediye. 3.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/2-kg-kara-orman-bal-1-kg-hediye/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1774089564</g:id>
       <g:title>2 Kutu Yeni Zelanda Manuka Balı UMF+15 | UMF+10</g:title>
@@ -109,24 +139,6 @@
       <g:title>Keşmir Sidr Balı 10 Kilo Galon Teklifi, Polenli (Ücretsiz Kargo)</g:title>
       <g:description>Keşmir Sidr Balı 10 Kilo Galon Teklifi, Polenli (Ücretsiz Kargo). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-10-kilo-galon-teklifi-polenli-cretsiz-kargo/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>101060786</g:id>
-      <g:title>Keşmir Sidr Balı 250 Gram</g:title>
-      <g:description>Keşmir Sidr Balı 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ke-mir-sidr-bal-250-gram/p101060786?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>411224162</g:id>
-      <g:title>Mür Otu 50 gram</g:title>
-      <g:description>Mür Otu 50 gram. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/m-r-otu-50-gram/p411224162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>473047885</g:id>
-      <g:title>Öğütülmüş Hint Kostu 150 g</g:title>
-      <g:description>Öğütülmüş Hint Kostu 150 g. 0.65 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/t-lm-hint-kostu-150-g/p473047885?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>988896669</g:id>
@@ -1083,12 +1095,6 @@
       <g:link>https://asalaljebal.sa/tr/honey-bros-premium-yeni-zelanda-manuka-bal-umf-15-mgo-550-250-g/p2037297617?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>830068410</g:id>
-      <g:title>2 kg Kara Orman Balı + 1 kg Hediye</g:title>
-      <g:description>2 kg Kara Orman Balı + 1 kg Hediye. 3.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/2-kg-kara-orman-bal-1-kg-hediye/p830068410?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>1819634026</g:id>
       <g:title>Hail Talh Balı 500 Gram</g:title>
       <g:description>Hail Talh Balı 500 Gram. 1.0 kg.</g:description>
@@ -1519,12 +1525,6 @@
       <g:title>2 kg Hail Talh Petek Balı</g:title>
       <g:description>2 kg Hail Talh Petek Balı. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/2-kg-hail-talh-petek-bal/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1257152391</g:id>
-      <g:title>Moringa Balı 5 kg Bidon - Toptan Fiyatı</g:title>
-      <g:description>Moringa Balı 5 kg Bidon - Toptan Fiyatı. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/moringa-bal-5-kg-bidon-toptan-fiyat/p1257152391?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1528377487</g:id>
