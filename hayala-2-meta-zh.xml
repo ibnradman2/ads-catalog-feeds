@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 01:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:17:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1408049071</g:id>
+      <g:title>碧根果 1公斤</g:title>
+      <g:description>碧根果 1公斤. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/zh/1/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1588483287</g:id>
       <g:title>3罐姜柠檬姜黄蜂蜜饮品</g:title>
@@ -247,12 +253,6 @@
       <g:title>碧根果 500克</g:title>
       <g:description>碧根果 500克. 1.0 kg.</g:description>
       <g:link>https://hayala.co/zh/500/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1408049071</g:id>
-      <g:title>碧根果 1公斤</g:title>
-      <g:description>碧根果 1公斤. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/zh/1/p1408049071?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1468610802</g:id>

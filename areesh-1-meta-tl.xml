@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 02:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:51:21 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>687552137</g:id>
+      <g:title>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala)</g:title>
+      <g:description>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala). 5.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/premium-na-ajwa-aliyah-ng-madinah-5-kilo-libreng-pagpapadala/p687552137?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1889402382</g:id>
       <g:title>Pulot ng Athl (Saal) na 1 Kilo</g:title>
@@ -157,12 +163,6 @@
       <g:title>Premium na Ajwa Aliyah ng Madinah (1) Kilo</g:title>
       <g:description>Premium na Ajwa Aliyah ng Madinah (1) Kilo. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tl/premium-na-ajwa-aliyah-ng-madinah-1-kilo/p682371662?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>687552137</g:id>
-      <g:title>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala)</g:title>
-      <g:description>Premium na Ajwa Aliyah ng Madinah (5) Kilo (Libreng Pagpapadala). 5.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/premium-na-ajwa-aliyah-ng-madinah-5-kilo-libreng-pagpapadala/p687552137?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>26663992</g:id>
