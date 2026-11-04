@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 16:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:06:34 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>587159425</g:id>
+      <g:title>Samra (May Tinik) na Pulot sa Honeycomb 1 Kilo</g:title>
+      <g:description>Samra (May Tinik) na Pulot sa Honeycomb 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/samra-may-tinik-na-pulot-sa-honeycomb-1-kilo/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>162309629</g:id>
+      <g:title>Mountain Sidr na Pulot sa Honeycomb 1 Kilo</g:title>
+      <g:description>Mountain Sidr na Pulot sa Honeycomb 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/mountain-sidr-na-pulot-sa-honeycomb-1-kilo/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1256707703</g:id>
       <g:title>Pakete ng Pulot ng Puting Hungarian (Mardisia) + Libreng Pakete</g:title>
@@ -367,18 +379,6 @@
       <g:title>May Tinik na Pulot sa Honeycomb 500 Gramo</g:title>
       <g:description>May Tinik na Pulot sa Honeycomb 500 Gramo. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tl/may-tinik-na-pulot-sa-honeycomb-500-gramo/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>162309629</g:id>
-      <g:title>Mountain Sidr na Pulot sa Honeycomb 1 Kilo</g:title>
-      <g:description>Mountain Sidr na Pulot sa Honeycomb 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/mountain-sidr-na-pulot-sa-honeycomb-1-kilo/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>587159425</g:id>
-      <g:title>Samra (May Tinik) na Pulot sa Honeycomb 1 Kilo</g:title>
-      <g:description>Samra (May Tinik) na Pulot sa Honeycomb 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/samra-may-tinik-na-pulot-sa-honeycomb-1-kilo/p587159425?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1303550999</g:id>

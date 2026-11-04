@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 21:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:05:54 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>204409672</g:id>
+      <g:title>Miel de fleurs sauvages du Sud ou du Hadramaout 7 kg, bidon à prix de gros</g:title>
+      <g:description>Miel de fleurs sauvages du Sud ou du Hadramaout 7 kg, bidon à prix de gros. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-sauvages-du-sud-ou-du-hadramaout-7-kg-bidon-prix-de-gros/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>605570884</g:id>
+      <g:title>Deux pots de miel de sidr de montagne, 500 g chacun + 500 g de talbina prophétique (cadeau)</g:title>
+      <g:description>Deux pots de miel de sidr de montagne, 500 g chacun + 500 g de talbina prophétique (cadeau). 2.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-de-sidr-de-montagne-500-g-chacun-500-g-de-talbina-proph-tique-/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1517173604</g:id>
       <g:title>Farine d'orge (talbina prophétique) 250 g</g:title>
@@ -987,12 +999,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-qatad-500-g/p162134594?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>605570884</g:id>
-      <g:title>Deux pots de miel de sidr de montagne, 500 g chacun + 500 g de talbina prophétique (cadeau)</g:title>
-      <g:description>Deux pots de miel de sidr de montagne, 500 g chacun + 500 g de talbina prophétique (cadeau). 2.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-de-sidr-de-montagne-500-g-chacun-500-g-de-talbina-proph-tique-/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1994787951</g:id>
       <g:title>Miel de Talh premium 500 g</g:title>
       <g:description>Miel de Talh premium 500 g. 1.0 kg.</g:description>
@@ -1531,12 +1537,6 @@
       <g:title>Miel de marjolaine 2 kg</g:title>
       <g:description>Miel de marjolaine 2 kg. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-2-kg/p640611244?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>204409672</g:id>
-      <g:title>Miel de fleurs sauvages du Sud ou du Hadramaout 7 kg, bidon à prix de gros</g:title>
-      <g:description>Miel de fleurs sauvages du Sud ou du Hadramaout 7 kg, bidon à prix de gros. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-fleurs-sauvages-du-sud-ou-du-hadramaout-7-kg-bidon-prix-de-gros/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>660293034</g:id>
