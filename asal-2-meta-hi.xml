@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 09:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:45:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1007628890</g:id>
+      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम</g:title>
+      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p1007628890?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1895717401</g:id>
+      <g:title>पराग कण (बी पोलन) 30 ग्राम</g:title>
+      <g:description>पराग कण (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/30/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 250 ग्राम</g:title>
+      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1123362063</g:id>
+      <g:title>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम</g:title>
+      <g:description>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>2125447012</g:id>
       <g:title>अकेशिया शहद का गैलन 5 किलो, थोक मूल्य पर</g:title>
@@ -117,24 +141,6 @@
       <g:link>https://asalaljebal.sa/hi/500/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1895717401</g:id>
-      <g:title>पराग कण (बी पोलन) 30 ग्राम</g:title>
-      <g:description>पराग कण (बी पोलन) 30 ग्राम. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/30/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1123362063</g:id>
-      <g:title>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम</g:title>
-      <g:description>कलौंजी के बीज (हब्बतुल बरका) 500 ग्राम. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1007628890</g:id>
-      <g:title>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम</g:title>
-      <g:description>पिसा हुआ गम अरेबिक (अरबी गोंद) 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p1007628890?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1279698288</g:id>
       <g:title>शहद ऑफ़र: रॉयल उसैमी सिद्र शहद + दक्षिणी पहाड़ी सिद्र + दक्षिणी शौका समर + दक्षिणी प्रीमियम तल्ह</g:title>
       <g:description>शहद ऑफ़र: रॉयल उसैमी सिद्र शहद + दक्षिणी पहाड़ी सिद्र + दक्षिणी शौका समर + दक्षिणी प्रीमियम तल्ह. 2.0 kg.</g:description>
@@ -157,12 +163,6 @@
       <g:title>कश्मीरी सिद्र शहद 10 किलो गैलन, पराग के साथ (मुफ़्त डिलीवरी)</g:title>
       <g:description>कश्मीरी सिद्र शहद 10 किलो गैलन, पराग के साथ (मुफ़्त डिलीवरी). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/10/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>988896669</g:id>
-      <g:title>पाकिस्तानी पेशावरी सिद्र शहद 250 ग्राम</g:title>
-      <g:description>पाकिस्तानी पेशावरी सिद्र शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1819446678</g:id>

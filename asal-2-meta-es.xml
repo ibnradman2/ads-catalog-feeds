@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 09:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:45:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1007628890</g:id>
+      <g:title>Goma arábiga molida 250 gramos</g:title>
+      <g:description>Goma arábiga molida 250 gramos. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/goma-ar-biga-molida-250-gramos/p1007628890?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1895717401</g:id>
+      <g:title>Polen de abeja (granos de polen) 30 g</g:title>
+      <g:description>Polen de abeja (granos de polen) 30 g. 0.53 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-de-abeja-granos-de-polen-30-g/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>Miel de Sidr Peshawari de Pakistán 250 g</g:title>
+      <g:description>Miel de Sidr Peshawari de Pakistán 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-de-pakist-n-250-g/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1123362063</g:id>
+      <g:title>Comino negro (habbat al-baraka) en semillas 500 gramos</g:title>
+      <g:description>Comino negro (habbat al-baraka) en semillas 500 gramos. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/comino-negro-habbat-al-baraka-en-semillas-500-gramos/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>2125447012</g:id>
       <g:title>Garrafa de miel de acacia 5 kg a precio de mayorista</g:title>
@@ -117,24 +141,6 @@
       <g:link>https://asalaljebal.sa/es/mezcla-de-miel-de-al-jabal-con-sidr-natural-500-g/p1766152166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1895717401</g:id>
-      <g:title>Polen de abeja (granos de polen) 30 g</g:title>
-      <g:description>Polen de abeja (granos de polen) 30 g. 0.53 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-de-abeja-granos-de-polen-30-g/p1895717401?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1123362063</g:id>
-      <g:title>Comino negro (habbat al-baraka) en semillas 500 gramos</g:title>
-      <g:description>Comino negro (habbat al-baraka) en semillas 500 gramos. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/comino-negro-habbat-al-baraka-en-semillas-500-gramos/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1007628890</g:id>
-      <g:title>Goma arábiga molida 250 gramos</g:title>
-      <g:description>Goma arábiga molida 250 gramos. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/goma-ar-biga-molida-250-gramos/p1007628890?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>1279698288</g:id>
       <g:title>Oferta de miel de Sidr real Usaimi + Sidr de montaña del sur + Samar del sur + Talh premium del sur</g:title>
       <g:description>Oferta de miel de Sidr real Usaimi + Sidr de montaña del sur + Samar del sur + Talh premium del sur. 2.0 kg.</g:description>
@@ -157,12 +163,6 @@
       <g:title>Oferta: miel de Sidr de Cachemira 10 kg en garrafa con polen de abeja (envío gratis)</g:title>
       <g:description>Oferta: miel de Sidr de Cachemira 10 kg en garrafa con polen de abeja (envío gratis). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/oferta-miel-de-sidr-de-cachemira-10-kg-en-garrafa-con-polen-de-abeja-env-o-grati/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>988896669</g:id>
-      <g:title>Miel de Sidr Peshawari de Pakistán 250 g</g:title>
-      <g:description>Miel de Sidr Peshawari de Pakistán 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-sidr-peshawari-de-pakist-n-250-g/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1819446678</g:id>

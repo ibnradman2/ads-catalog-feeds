@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 09:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:45:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>988896669</g:id>
+      <g:title>پاکستانی پشاوری سدر شہد 250 گرام</g:title>
+      <g:description>پاکستانی پشاوری سدر شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1123362063</g:id>
+      <g:title>کلونجی (حبۃ البرکہ) کے دانے 500 گرام</g:title>
+      <g:description>کلونجی (حبۃ البرکہ) کے دانے 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2125447012</g:id>
       <g:title>اکیشیا شہد 5 کلو گیلن تھوک ریٹ پر</g:title>
@@ -99,12 +111,6 @@
       <g:link>https://asalaljebal.sa/ur/1-1/p260814103?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1123362063</g:id>
-      <g:title>کلونجی (حبۃ البرکہ) کے دانے 500 گرام</g:title>
-      <g:description>کلونجی (حبۃ البرکہ) کے دانے 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p1123362063?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1279698288</g:id>
       <g:title>آفر: شاہی عصیمی سدر شہد + جنوبی پہاڑی سدر + جنوبی شوکۃ سمر + ممتاز جنوبی طلح</g:title>
       <g:description>آفر: شاہی عصیمی سدر شہد + جنوبی پہاڑی سدر + جنوبی شوکۃ سمر + ممتاز جنوبی طلح. 2.0 kg.</g:description>
@@ -121,12 +127,6 @@
       <g:title>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری)</g:title>
       <g:description>کشمیری سدر شہد 10 کلو گیلن پھولوں کے زیرے کے ساتھ (مفت ڈیلیوری). 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/10/p1092237227?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>988896669</g:id>
-      <g:title>پاکستانی پشاوری سدر شہد 250 گرام</g:title>
-      <g:description>پاکستانی پشاوری سدر شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p988896669?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>250040053</g:id>
