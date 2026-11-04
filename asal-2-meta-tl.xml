@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:06:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>560043605</g:id>
+      <g:title>Wildflower Honey, Timog o Hadramawt, Galon na 5 Kilo, Presyong Pakyawan</g:title>
+      <g:description>Wildflower Honey, Timog o Hadramawt, Galon na 5 Kilo, Presyong Pakyawan. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-galon-na-5-kilo-presyong-pakyawan/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1257152391</g:id>
       <g:title>Pulot ng Moringa 5 kg Galon sa Presyong Pakyawan</g:title>
@@ -1405,12 +1411,6 @@
       <g:title>Natural na Pulot na may Pagkit 200 Gramo</g:title>
       <g:description>Natural na Pulot na may Pagkit 200 Gramo. 0.7 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/natural-na-pulot-na-may-pagkit-200-gramo/p1947615263?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>560043605</g:id>
-      <g:title>Wildflower Honey, Timog o Hadramawt, Galon na 5 Kilo, Presyong Pakyawan</g:title>
-      <g:description>Wildflower Honey, Timog o Hadramawt, Galon na 5 Kilo, Presyong Pakyawan. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-galon-na-5-kilo-presyong-pakyawan/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1934538070</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:06:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>560043605</g:id>
+      <g:title>Güney veya Hadramut Yabani Çiçek Balı 5 kg Bidon Toptan Fiyatına</g:title>
+      <g:description>Güney veya Hadramut Yabani Çiçek Balı 5 kg Bidon Toptan Fiyatına. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/g-ney-veya-hadramut-yabani-i-ek-bal-5-kg-bidon-toptan-fiyat-na/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1257152391</g:id>
       <g:title>Moringa Balı 5 kg Bidon - Toptan Fiyatı</g:title>
@@ -1399,12 +1405,6 @@
       <g:title>Doğal Petek Bal 200 Gram</g:title>
       <g:description>Doğal Petek Bal 200 Gram. 0.7 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/do-al-petek-bal-200-gram/p1947615263?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>560043605</g:id>
-      <g:title>Güney veya Hadramut Yabani Çiçek Balı 5 kg Bidon Toptan Fiyatına</g:title>
-      <g:description>Güney veya Hadramut Yabani Çiçek Balı 5 kg Bidon Toptan Fiyatına. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/g-ney-veya-hadramut-yabani-i-ek-bal-5-kg-bidon-toptan-fiyat-na/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1934538070</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:06:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>560043605</g:id>
+      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 5 کلو گیلن، تھوک قیمت پر</g:title>
+      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 5 کلو گیلن، تھوک قیمت پر. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1257152391</g:id>
       <g:title>مورنگا شہد 5 کلو گیلن، تھوک قیمت پر</g:title>
@@ -1039,12 +1045,6 @@
       <g:title>قدرتی شہد کا چھتہ (موم کے ساتھ) 200 گرام</g:title>
       <g:description>قدرتی شہد کا چھتہ (موم کے ساتھ) 200 گرام. 0.7 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/200/p1947615263?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>560043605</g:id>
-      <g:title>جنگلی پھولوں کا شہد جنوبی یا حضرمی 5 کلو گیلن، تھوک قیمت پر</g:title>
-      <g:description>جنگلی پھولوں کا شہد جنوبی یا حضرمی 5 کلو گیلن، تھوک قیمت پر. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1934538070</g:id>

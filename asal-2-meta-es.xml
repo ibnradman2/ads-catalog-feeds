@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 02:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:06:17 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>560043605</g:id>
+      <g:title>Miel de flores silvestres del sur o de Hadramaut 5 kg, garrafa al por mayor</g:title>
+      <g:description>Miel de flores silvestres del sur o de Hadramaut 5 kg, garrafa al por mayor. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-5-kg-garrafa-al-por-mayor/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1257152391</g:id>
       <g:title>Miel de moringa 5 kg en garrafa a precio de mayorista</g:title>
@@ -1405,12 +1411,6 @@
       <g:title>Miel en panal natural 200 gramos</g:title>
       <g:description>Miel en panal natural 200 gramos. 0.7 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/miel-en-panal-natural-200-gramos/p1947615263?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>560043605</g:id>
-      <g:title>Miel de flores silvestres del sur o de Hadramaut 5 kg, garrafa al por mayor</g:title>
-      <g:description>Miel de flores silvestres del sur o de Hadramaut 5 kg, garrafa al por mayor. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-flores-silvestres-del-sur-o-de-hadramaut-5-kg-garrafa-al-por-mayor/p560043605?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1934538070</g:id>
