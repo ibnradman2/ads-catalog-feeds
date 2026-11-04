@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>428797377</g:id>
+      <g:title>Ananas séché 1 kg</g:title>
+      <g:description>Ananas séché 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/ananas-s-ch-1-kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>331895065</g:id>
       <g:title>Miel aux noix (amande - noix de cajou - noix - noix de pécan - noisette - pistache) (500 g)</g:title>
@@ -253,12 +259,6 @@
       <g:title>Avocat séché 1 kg</g:title>
       <g:description>Avocat séché 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/fr/avocat-s-ch-1-kg/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>428797377</g:id>
-      <g:title>Ananas séché 1 kg</g:title>
-      <g:description>Ananas séché 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/ananas-s-ch-1-kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1433640019</g:id>

@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>Crème au venin d’abeille</g:title>
+      <g:description>Crème au venin d’abeille. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/cr-me-au-venin-d-abeille/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>Miel de nigelle authentique 250 g</g:title>
+      <g:description>Miel de nigelle authentique 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-nigelle-authentique-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>283420378</g:id>
+      <g:title>Pollen d’abeille de Jordanie 50 g</g:title>
+      <g:description>Pollen d’abeille de Jordanie 50 g. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-de-jordanie-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>431101948</g:id>
+      <g:title>Miel d'acacia 250 g</g:title>
+      <g:description>Miel d'acacia 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-d-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>876212657</g:id>
       <g:title>Miel de Sidr du Cachemire 500 g</g:title>
@@ -297,12 +321,6 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-de-montagne-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>2000496810</g:id>
-      <g:title>Miel de nigelle authentique 250 g</g:title>
-      <g:description>Miel de nigelle authentique 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-nigelle-authentique-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>216808863</g:id>
       <g:title>Miel de nigelle (graine noire) 5 kg + (livraison gratuite)</g:title>
       <g:description>Miel de nigelle (graine noire) 5 kg + (livraison gratuite). 5.5 kg.</g:description>
@@ -313,24 +331,6 @@
       <g:title>Cuillères de miel de sidr naturel - 50 pièces</g:title>
       <g:description>Cuillères de miel de sidr naturel - 50 pièces. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/cuill-res-de-miel-de-sidr-naturel-50-pi-ces/p200318229?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>Crème au venin d’abeille</g:title>
-      <g:description>Crème au venin d’abeille. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/cr-me-au-venin-d-abeille/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>431101948</g:id>
-      <g:title>Miel d'acacia 250 g</g:title>
-      <g:description>Miel d'acacia 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-d-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>283420378</g:id>
-      <g:title>Pollen d’abeille de Jordanie 50 g</g:title>
-      <g:description>Pollen d’abeille de Jordanie 50 g. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/pollen-d-abeille-de-jordanie-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1726967627</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>428797377</g:id>
+      <g:title>Kurutulmuş Ananas 1 kg</g:title>
+      <g:description>Kurutulmuş Ananas 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-ananas-1-kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>2071592201</g:id>
+      <g:title>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
+      <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-1-8-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>331895065</g:id>
       <g:title>Kuruyemişli Bal (Badem - Kaju - Ceviz - Pekan - Fındık - Antep Fıstığı) (500 gram)</g:title>
@@ -141,12 +153,6 @@
       <g:link>https://hayala.co/tr/s-per-nakil-safran-28-g-okka-cretsiz-kargo/p895361493?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>2071592201</g:id>
-      <g:title>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
-      <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-1-8-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>432604828</g:id>
       <g:title>Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 1 Kg</g:title>
       <g:description>Amerikan Kakule Birinci Sınıf Ekstra Jumbo No. 1, 8 mm Kalınlık 1 Kg. 1.5 kg.</g:description>
@@ -259,12 +265,6 @@
       <g:title>Kurutulmuş Avokado 1 kg</g:title>
       <g:description>Kurutulmuş Avokado 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-avokado-1-kg/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>428797377</g:id>
-      <g:title>Kurutulmuş Ananas 1 kg</g:title>
-      <g:description>Kurutulmuş Ananas 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-ananas-1-kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1433640019</g:id>

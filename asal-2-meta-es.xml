@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>Crema de veneno de abeja 20 g</g:title>
+      <g:description>Crema de veneno de abeja 20 g. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/crema-de-veneno-de-abeja-20-g/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>Miel de comino negro 250 g</g:title>
+      <g:description>Miel de comino negro 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-comino-negro-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>283420378</g:id>
+      <g:title>Polen jordano, 50 g</g:title>
+      <g:description>Polen jordano, 50 g. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/polen-jordano-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>431101948</g:id>
+      <g:title>Miel de acacia 250 g</g:title>
+      <g:description>Miel de acacia 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/miel-de-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>876212657</g:id>
       <g:title>Miel de Sidr de Cachemira 500 g</g:title>
@@ -297,12 +321,6 @@
       <g:link>https://asalaljebal.sa/es/miel-de-sidr-de-monta-a-de-peshawar-3-kg/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>2000496810</g:id>
-      <g:title>Miel de comino negro 250 g</g:title>
-      <g:description>Miel de comino negro 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-comino-negro-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>216808863</g:id>
       <g:title>Miel de Nigella (comino negro) 5 kg + (envío gratis)</g:title>
       <g:description>Miel de Nigella (comino negro) 5 kg + (envío gratis). 5.5 kg.</g:description>
@@ -313,24 +331,6 @@
       <g:title>Cucharas de miel de sidr natural envasadas, 50 unidades</g:title>
       <g:description>Cucharas de miel de sidr natural envasadas, 50 unidades. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/cucharas-de-miel-de-sidr-natural-envasadas-50-unidades/p200318229?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>Crema de veneno de abeja 20 g</g:title>
-      <g:description>Crema de veneno de abeja 20 g. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/crema-de-veneno-de-abeja-20-g/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>431101948</g:id>
-      <g:title>Miel de acacia 250 g</g:title>
-      <g:description>Miel de acacia 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/miel-de-acacia-250-g/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>283420378</g:id>
-      <g:title>Polen jordano, 50 g</g:title>
-      <g:description>Polen jordano, 50 g. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/polen-jordano-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1726967627</g:id>

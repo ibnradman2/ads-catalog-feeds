@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>Krema ng Lason ng Bubuyog</g:title>
+      <g:description>Krema ng Lason ng Bubuyog. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/krema-ng-lason-ng-bubuyog/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g</g:title>
+      <g:description>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/black-seed-honey-pulot-ng-habbat-al-barakah-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>283420378</g:id>
+      <g:title>Pollen ng Bubuyog mula Jordan 50g</g:title>
+      <g:description>Pollen ng Bubuyog mula Jordan 50g. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-mula-jordan-50g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>431101948</g:id>
+      <g:title>Pulot ng Acacia, 250 Gramo</g:title>
+      <g:description>Pulot ng Acacia, 250 Gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-acacia-250-gramo/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>876212657</g:id>
       <g:title>Kashmiri na Pulot ng Sidr, 500 Gramo</g:title>
@@ -297,12 +321,6 @@
       <g:link>https://asalaljebal.sa/tl/3-kilo-ng-pulot-na-sidr-mula-peshawar/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>2000496810</g:id>
-      <g:title>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g</g:title>
-      <g:description>Black Seed Honey (Pulot ng Habbat al-Barakah) 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/black-seed-honey-pulot-ng-habbat-al-barakah-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>216808863</g:id>
       <g:title>Pulot na Black Seed 5 Kilo + (Libreng Pagpapadala)</g:title>
       <g:description>Pulot na Black Seed 5 Kilo + (Libreng Pagpapadala). 5.5 kg.</g:description>
@@ -313,24 +331,6 @@
       <g:title>Mga Kutsarang Natural na Pulot na Sidr - 50 piraso</g:title>
       <g:description>Mga Kutsarang Natural na Pulot na Sidr - 50 piraso. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/mga-kutsarang-natural-na-pulot-na-sidr-50-piraso/p200318229?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>Krema ng Lason ng Bubuyog</g:title>
-      <g:description>Krema ng Lason ng Bubuyog. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/krema-ng-lason-ng-bubuyog/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>431101948</g:id>
-      <g:title>Pulot ng Acacia, 250 Gramo</g:title>
-      <g:description>Pulot ng Acacia, 250 Gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-acacia-250-gramo/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>283420378</g:id>
-      <g:title>Pollen ng Bubuyog mula Jordan 50g</g:title>
-      <g:description>Pollen ng Bubuyog mula Jordan 50g. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pollen-ng-bubuyog-mula-jordan-50g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1726967627</g:id>

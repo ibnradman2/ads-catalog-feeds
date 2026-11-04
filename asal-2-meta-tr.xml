@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>Arı Zehirli Krem</g:title>
+      <g:description>Arı Zehirli Krem. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/ar-zehirli-krem/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>Çörek Otu Balı 250 Gram</g:title>
+      <g:description>Çörek Otu Balı 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rek-otu-bal-250-gram/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>283420378</g:id>
+      <g:title>Ürdün Arı Poleni 50 g</g:title>
+      <g:description>Ürdün Arı Poleni 50 g. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>431101948</g:id>
+      <g:title>Akasya Balı 250 Gram</g:title>
+      <g:description>Akasya Balı 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/akasya-bal-250-gram/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>876212657</g:id>
       <g:title>Keşmir Sidr Balı 500 Gram</g:title>
@@ -297,12 +321,6 @@
       <g:link>https://asalaljebal.sa/tr/3-kg-da-sidr-bal-pe-aver/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
-      <g:id>2000496810</g:id>
-      <g:title>Çörek Otu Balı 250 Gram</g:title>
-      <g:description>Çörek Otu Balı 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rek-otu-bal-250-gram/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
       <g:id>216808863</g:id>
       <g:title>5 kg Çörek Otu Balı + (Ücretsiz Kargo)</g:title>
       <g:description>5 kg Çörek Otu Balı + (Ücretsiz Kargo). 5.5 kg.</g:description>
@@ -313,24 +331,6 @@
       <g:title>Doğal Sidr Balı Kaşıkları - 50 Adet</g:title>
       <g:description>Doğal Sidr Balı Kaşıkları - 50 Adet. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/do-al-sidr-bal-ka-klar-50-adet/p200318229?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>Arı Zehirli Krem</g:title>
-      <g:description>Arı Zehirli Krem. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/ar-zehirli-krem/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>431101948</g:id>
-      <g:title>Akasya Balı 250 Gram</g:title>
-      <g:description>Akasya Balı 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/akasya-bal-250-gram/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>283420378</g:id>
-      <g:title>Ürdün Arı Poleni 50 g</g:title>
-      <g:description>Ürdün Arı Poleni 50 g. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/rd-n-ar-poleni-50-g/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1726967627</g:id>

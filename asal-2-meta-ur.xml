@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>شہد کی مکھی کے زہر والی کریم</g:title>
+      <g:description>شہد کی مکھی کے زہر والی کریم. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>کالے دانے (کلونجی) کا شہد 250 گرام</g:title>
+      <g:description>کالے دانے (کلونجی) کا شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>431101948</g:id>
+      <g:title>قدرتی اکیشیا شہد 250 گرام</g:title>
+      <g:description>قدرتی اکیشیا شہد 250 گرام. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/250/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>876212657</g:id>
       <g:title>کشمیری سدر شہد 500 گرام</g:title>
@@ -213,28 +231,10 @@
       <g:link>https://asalaljebal.sa/ur/3/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>2000496810</g:id>
-      <g:title>کالے دانے (کلونجی) کا شہد 250 گرام</g:title>
-      <g:description>کالے دانے (کلونجی) کا شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>216808863</g:id>
       <g:title>کلونجی کا شہد، 5 کلو کا گیلن + (مفت ڈیلیوری)</g:title>
       <g:description>کلونجی کا شہد، 5 کلو کا گیلن + (مفت ڈیلیوری). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/5/p216808863?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>شہد کی مکھی کے زہر والی کریم</g:title>
-      <g:description>شہد کی مکھی کے زہر والی کریم. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>431101948</g:id>
-      <g:title>قدرتی اکیشیا شہد 250 گرام</g:title>
-      <g:description>قدرتی اکیشیا شہد 250 گرام. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/250/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1726967627</g:id>

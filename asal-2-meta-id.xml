@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 20:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>Krim Bisa Lebah</g:title>
+      <g:description>Krim Bisa Lebah. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/krim-bisa-lebah/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>2000496810</g:id>
+      <g:title>Madu Jintan Hitam 250 g</g:title>
+      <g:description>Madu Jintan Hitam 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-jintan-hitam-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>283420378</g:id>
+      <g:title>Serbuk Sari Yordania 50 gram</g:title>
+      <g:description>Serbuk Sari Yordania 50 gram. 0.55 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/serbuk-sari-yordania-50-gram/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>431101948</g:id>
+      <g:title>Madu Akasia 250 Gram</g:title>
+      <g:description>Madu Akasia 250 Gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-akasia-250-gram/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>876212657</g:id>
       <g:title>Madu Sidr Kashmir 500 g</g:title>
@@ -297,12 +321,6 @@
       <g:link>https://asalaljebal.sa/ind/madu-sidr-pegunungan-peshawar-3-kilo/p312187437?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>2000496810</g:id>
-      <g:title>Madu Jintan Hitam 250 g</g:title>
-      <g:description>Madu Jintan Hitam 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-jintan-hitam-250-g/p2000496810?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>216808863</g:id>
       <g:title>Madu Habbatussauda Hitam 5 Kilo + (Gratis Ongkir)</g:title>
       <g:description>Madu Habbatussauda Hitam 5 Kilo + (Gratis Ongkir). 5.5 kg.</g:description>
@@ -313,24 +331,6 @@
       <g:title>Sendok Madu Sidr Alami - 50 Buah</g:title>
       <g:description>Sendok Madu Sidr Alami - 50 Buah. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/sendok-madu-sidr-alami-50-buah/p200318229?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>Krim Bisa Lebah</g:title>
-      <g:description>Krim Bisa Lebah. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/krim-bisa-lebah/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>431101948</g:id>
-      <g:title>Madu Akasia 250 Gram</g:title>
-      <g:description>Madu Akasia 250 Gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-akasia-250-gram/p431101948?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>283420378</g:id>
-      <g:title>Serbuk Sari Yordania 50 gram</g:title>
-      <g:description>Serbuk Sari Yordania 50 gram. 0.55 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/serbuk-sari-yordania-50-gram/p283420378?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1726967627</g:id>
