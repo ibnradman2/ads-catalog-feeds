@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 18:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:04:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1882360715</g:id>
+      <g:title>Miel de fleurs sauvages 1 kg</g:title>
+      <g:description>Miel de fleurs sauvages 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-fleurs-sauvages-1-kg/p1882360715?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>401594117</g:id>
+      <g:title>Miel de Talh premium 500 g</g:title>
+      <g:description>Miel de Talh premium 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-talh-premium-500-g/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1456705998</g:id>
       <g:title>Miel de Sidr de Peshawar 2 kg</g:title>
@@ -255,12 +267,6 @@
       <g:link>https://areesh.sa/fr/miel-de-nigelle-noire-1-kg/p807269030?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1882360715</g:id>
-      <g:title>Miel de fleurs sauvages 1 kg</g:title>
-      <g:description>Miel de fleurs sauvages 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-fleurs-sauvages-1-kg/p1882360715?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1930504799</g:id>
       <g:title>Miel de fleurs de trèfle 500 g</g:title>
       <g:description>Miel de fleurs de trèfle 500 g. 1.0 kg.</g:description>
@@ -367,12 +373,6 @@
       <g:title>Ginseng (racine) 15 g</g:title>
       <g:description>Ginseng (racine) 15 g. 0.515 kg.</g:description>
       <g:link>https://areesh.sa/fr/ginseng-racine-15-g/p1404273996?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>401594117</g:id>
-      <g:title>Miel de Talh premium 500 g</g:title>
-      <g:description>Miel de Talh premium 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-talh-premium-500-g/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1921376200</g:id>

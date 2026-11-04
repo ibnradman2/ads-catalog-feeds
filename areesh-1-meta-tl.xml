@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 13:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:04:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1882360715</g:id>
+      <g:title>Pulot ng Ligaw na Bulaklak, 1 Kilo</g:title>
+      <g:description>Pulot ng Ligaw na Bulaklak, 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-ligaw-na-bulaklak-1-kilo/p1882360715?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>401594117</g:id>
+      <g:title>Premium na Pulot ng Talh na 500 Gramo</g:title>
+      <g:description>Premium na Pulot ng Talh na 500 Gramo. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/tl/premium-na-pulot-ng-talh-na-500-gramo/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1456705998</g:id>
       <g:title>Pulot ng Sidr na Peshawari, 2 Kilo</g:title>
@@ -255,12 +267,6 @@
       <g:link>https://areesh.sa/tl/pulot-ng-itim-na-buto-black-seed-1-kg/p807269030?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1882360715</g:id>
-      <g:title>Pulot ng Ligaw na Bulaklak, 1 Kilo</g:title>
-      <g:description>Pulot ng Ligaw na Bulaklak, 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-ligaw-na-bulaklak-1-kilo/p1882360715?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1930504799</g:id>
       <g:title>Pulot ng Bulaklak ng Klouber 500g</g:title>
       <g:description>Pulot ng Bulaklak ng Klouber 500g. 1.0 kg.</g:description>
@@ -367,12 +373,6 @@
       <g:title>Ginseng 15 Gramo</g:title>
       <g:description>Ginseng 15 Gramo. 0.515 kg.</g:description>
       <g:link>https://areesh.sa/tl/ginseng-15-gramo/p1404273996?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>401594117</g:id>
-      <g:title>Premium na Pulot ng Talh na 500 Gramo</g:title>
-      <g:description>Premium na Pulot ng Talh na 500 Gramo. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/tl/premium-na-pulot-ng-talh-na-500-gramo/p401594117?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1921376200</g:id>
