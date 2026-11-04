@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 16:31:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1528377487</g:id>
+      <g:title>Miel de marjolaine 5 kg bidon prix de gros</g:title>
+      <g:description>Miel de marjolaine 5 kg bidon prix de gros. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-5-kg-bidon-prix-de-gros/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>170976614</g:id>
+      <g:title>Raisins secs noirs du Yémen 500 g</g:title>
+      <g:description>Raisins secs noirs du Yémen 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Gelée royale 15 g</g:title>
+      <g:description>Gelée royale 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/gel-e-royale-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1121679642</g:id>
+      <g:title>Ginseng coréen 15 g</g:title>
+      <g:description>Ginseng coréen 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/ginseng-cor-en-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1766572873</g:id>
+      <g:title>Poudre de gelée royale – 10 g</g:title>
+      <g:description>Poudre de gelée royale – 10 g. 0.51 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/poudre-de-gel-e-royale-10-g/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>250040053</g:id>
       <g:title>Graines de nigelle 1 kg</g:title>
@@ -225,34 +255,10 @@
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-asimi-500-g/p1480885382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1121679642</g:id>
-      <g:title>Ginseng coréen 15 g</g:title>
-      <g:description>Ginseng coréen 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/ginseng-cor-en-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>480352283</g:id>
-      <g:title>Gelée royale 15 g</g:title>
-      <g:description>Gelée royale 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/gel-e-royale-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>170976614</g:id>
-      <g:title>Raisins secs noirs du Yémen 500 g</g:title>
-      <g:description>Raisins secs noirs du Yémen 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/raisins-secs-noirs-du-y-men-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>243164549</g:id>
       <g:title>Miel de Sidr royal Asimi 1 kg</g:title>
       <g:description>Miel de Sidr royal Asimi 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-asimi-1-kg/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1766572873</g:id>
-      <g:title>Poudre de gelée royale – 10 g</g:title>
-      <g:description>Poudre de gelée royale – 10 g. 0.51 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/poudre-de-gel-e-royale-10-g/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>803494818</g:id>
@@ -1525,12 +1531,6 @@
       <g:title>Miel de moringa 500 g</g:title>
       <g:description>Miel de moringa 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1528377487</g:id>
-      <g:title>Miel de marjolaine 5 kg bidon prix de gros</g:title>
-      <g:description>Miel de marjolaine 5 kg bidon prix de gros. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-5-kg-bidon-prix-de-gros/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>640611244</g:id>

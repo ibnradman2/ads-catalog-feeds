@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 16:31:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:00:05 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1528377487</g:id>
+      <g:title>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan</g:title>
+      <g:description>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-marjoram-5-kilo-galon-sa-presyong-pakyawan/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>170976614</g:id>
+      <g:title>Itim na Pasas na Yemeni 500 g</g:title>
+      <g:description>Itim na Pasas na Yemeni 500 g. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/itim-na-pasas-na-yemeni-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>480352283</g:id>
+      <g:title>Royal Jelly 15 g</g:title>
+      <g:description>Royal Jelly 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-jelly-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1121679642</g:id>
+      <g:title>Korean Ginseng 15 g</g:title>
+      <g:description>Korean Ginseng 15 g. 0.515 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/korean-ginseng-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1766572873</g:id>
+      <g:title>Royal Jelly Powder - 10 gramo</g:title>
+      <g:description>Royal Jelly Powder - 10 gramo. 0.51 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-jelly-powder-10-gramo/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>250040053</g:id>
       <g:title>Black Seed na 1 Kilo</g:title>
@@ -225,34 +255,10 @@
       <g:link>https://asalaljebal.sa/tl/royal-asimi-sidr-honey-500-gramo/p1480885382?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1121679642</g:id>
-      <g:title>Korean Ginseng 15 g</g:title>
-      <g:description>Korean Ginseng 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/korean-ginseng-15-g/p1121679642?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>480352283</g:id>
-      <g:title>Royal Jelly 15 g</g:title>
-      <g:description>Royal Jelly 15 g. 0.515 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-jelly-15-g/p480352283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>170976614</g:id>
-      <g:title>Itim na Pasas na Yemeni 500 g</g:title>
-      <g:description>Itim na Pasas na Yemeni 500 g. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/itim-na-pasas-na-yemeni-500-g/p170976614?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>243164549</g:id>
       <g:title>Royal Asimi Sidr Honey, 1 Kilo</g:title>
       <g:description>Royal Asimi Sidr Honey, 1 Kilo. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/royal-asimi-sidr-honey-1-kilo/p243164549?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1766572873</g:id>
-      <g:title>Royal Jelly Powder - 10 gramo</g:title>
-      <g:description>Royal Jelly Powder - 10 gramo. 0.51 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-jelly-powder-10-gramo/p1766572873?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>803494818</g:id>
@@ -1531,12 +1537,6 @@
       <g:title>Pulot ng Moringa, 500 Gramo</g:title>
       <g:description>Pulot ng Moringa, 500 Gramo. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pulot-ng-moringa-500-gramo/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1528377487</g:id>
-      <g:title>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan</g:title>
-      <g:description>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-marjoram-5-kilo-galon-sa-presyong-pakyawan/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>640611244</g:id>
