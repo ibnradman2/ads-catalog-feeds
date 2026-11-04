@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:11:43 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1897520045</g:id>
+      <g:title>Miel d'épines (Samar premium) 1 kg</g:title>
+      <g:description>Miel d'épines (Samar premium) 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-d-pines-samar-premium-1-kg/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1599820545</g:id>
+      <g:title>Miel Majra blanc 1 kg</g:title>
+      <g:description>Miel Majra blanc 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-majra-blanc-1-kg/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>480738937</g:id>
+      <g:title>Miel de fleurs naturel 2 kg</g:title>
+      <g:description>Miel de fleurs naturel 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-fleurs-naturel-2-kg/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1425604290</g:id>
+      <g:title>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg</g:title>
+      <g:description>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-naturel-2-kg-miel-de-fleurs-naturel-2-kg/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>587159425</g:id>
       <g:title>Miel de Samra en rayon (acacia épineux) 1 kg</g:title>
@@ -241,12 +265,6 @@
       <g:title>Miel de fleurs de trèfle 1 kg</g:title>
       <g:description>Miel de fleurs de trèfle 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-de-fleurs-de-tr-fle-1-kg/p557058910?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1897520045</g:id>
-      <g:title>Miel d'épines (Samar premium) 1 kg</g:title>
-      <g:description>Miel d'épines (Samar premium) 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-d-pines-samar-premium-1-kg/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1774315670</g:id>
@@ -591,12 +609,6 @@
       <g:link>https://areesh.sa/fr/miel-d-pines-samar-premium-500-g/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>1425604290</g:id>
-      <g:title>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg</g:title>
-      <g:description>Miel de Sidr naturel 2 kg + miel de fleurs naturel 2 kg. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-naturel-2-kg-miel-de-fleurs-naturel-2-kg/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1789520129</g:id>
       <g:title>Pot de rayon de miel de sidr royal de la région d'Asir</g:title>
       <g:description>Pot de rayon de miel de sidr royal de la région d'Asir. 2.5 kg.</g:description>
@@ -607,18 +619,6 @@
       <g:title>Pot de rayon de miel de fleurs sauvages baladi</g:title>
       <g:description>Pot de rayon de miel de fleurs sauvages baladi. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/fr/pot-de-rayon-de-miel-de-fleurs-sauvages-baladi/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>480738937</g:id>
-      <g:title>Miel de fleurs naturel 2 kg</g:title>
-      <g:description>Miel de fleurs naturel 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-fleurs-naturel-2-kg/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1599820545</g:id>
-      <g:title>Miel Majra blanc 1 kg</g:title>
-      <g:description>Miel Majra blanc 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-majra-blanc-1-kg/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
   </channel>
 </rss>

@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:11:43 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1897520045</g:id>
+      <g:title>萨马尔蜂蜜（Shawka优质款）1公斤</g:title>
+      <g:description>萨马尔蜂蜜（Shawka优质款）1公斤. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/shawka-1/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1599820545</g:id>
+      <g:title>白色马吉拉蜂蜜 1公斤</g:title>
+      <g:description>白色马吉拉蜂蜜 1公斤. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>480738937</g:id>
+      <g:title>天然百花蜜 2公斤</g:title>
+      <g:description>天然百花蜜 2公斤. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/2/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1425604290</g:id>
+      <g:title>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤</g:title>
+      <g:description>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/2-2/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>587159425</g:id>
       <g:title>萨马尔（刺树）蜂巢蜜 1公斤</g:title>
@@ -241,12 +265,6 @@
       <g:title>三叶草花蜜1公斤</g:title>
       <g:description>三叶草花蜜1公斤. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/1/p557058910?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1897520045</g:id>
-      <g:title>萨马尔蜂蜜（Shawka优质款）1公斤</g:title>
-      <g:description>萨马尔蜂蜜（Shawka优质款）1公斤. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/shawka-1/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1774315670</g:id>
@@ -591,12 +609,6 @@
       <g:link>https://areesh.sa/zh/shawka-500/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1425604290</g:id>
-      <g:title>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤</g:title>
-      <g:description>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/2-2/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1789520129</g:id>
       <g:title>阿西尔皇家西德尔蜂巢蜜罐 2.5公斤</g:title>
       <g:description>阿西尔皇家西德尔蜂巢蜜罐 2.5公斤. 2.5 kg.</g:description>
@@ -607,18 +619,6 @@
       <g:title>本地野花蜂巢蜜罐 2.5公斤</g:title>
       <g:description>本地野花蜂巢蜜罐 2.5公斤. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/2-5/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>480738937</g:id>
-      <g:title>天然百花蜜 2公斤</g:title>
-      <g:description>天然百花蜜 2公斤. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/2/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1599820545</g:id>
-      <g:title>白色马吉拉蜂蜜 1公斤</g:title>
-      <g:description>白色马吉拉蜂蜜 1公斤. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
   </channel>
 </rss>

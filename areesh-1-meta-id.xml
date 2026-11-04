@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:11:43 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1897520045</g:id>
+      <g:title>Madu Syauka (Samra Premium) 1 Kg</g:title>
+      <g:description>Madu Syauka (Samra Premium) 1 Kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-syauka-samra-premium-1-kg/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1599820545</g:id>
+      <g:title>Madu Majra Putih 1 kg</g:title>
+      <g:description>Madu Majra Putih 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-majra-putih-1-kg/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>480738937</g:id>
+      <g:title>2 Kilo Madu Bunga Alami</g:title>
+      <g:description>2 Kilo Madu Bunga Alami. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/2-kilo-madu-bunga-alami/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1425604290</g:id>
+      <g:title>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami</g:title>
+      <g:description>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/2-kilo-madu-sidr-alami-2-kilo-madu-bunga-alami/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>587159425</g:id>
       <g:title>Madu Samra (Syawk) dalam Sarang 1 Kilo</g:title>
@@ -241,12 +265,6 @@
       <g:title>Madu bunga semanggi 1 kg</g:title>
       <g:description>Madu bunga semanggi 1 kg. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/madu-bunga-semanggi-1-kg/p557058910?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1897520045</g:id>
-      <g:title>Madu Syauka (Samra Premium) 1 Kg</g:title>
-      <g:description>Madu Syauka (Samra Premium) 1 Kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-syauka-samra-premium-1-kg/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1774315670</g:id>
@@ -591,12 +609,6 @@
       <g:link>https://areesh.sa/ind/madu-syauka-samra-premium-500-g/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1425604290</g:id>
-      <g:title>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami</g:title>
-      <g:description>2 Kilo Madu Sidr Alami + 2 Kilo Madu Bunga Alami. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/2-kilo-madu-sidr-alami-2-kilo-madu-bunga-alami/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>1789520129</g:id>
       <g:title>Pot Sarang Sidr Royal dari Wilayah Asir</g:title>
       <g:description>Pot Sarang Sidr Royal dari Wilayah Asir. 2.5 kg.</g:description>
@@ -607,18 +619,6 @@
       <g:title>Pot Sarang Madu Bunga Liar Lokal</g:title>
       <g:description>Pot Sarang Madu Bunga Liar Lokal. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/pot-sarang-madu-bunga-liar-lokal/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>480738937</g:id>
-      <g:title>2 Kilo Madu Bunga Alami</g:title>
-      <g:description>2 Kilo Madu Bunga Alami. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/2-kilo-madu-bunga-alami/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1599820545</g:id>
-      <g:title>Madu Majra Putih 1 kg</g:title>
-      <g:description>Madu Majra Putih 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-majra-putih-1-kg/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
   </channel>
 </rss>

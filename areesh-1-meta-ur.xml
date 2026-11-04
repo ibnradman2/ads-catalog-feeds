@@ -4,10 +4,34 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 23:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:11:43 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1897520045</g:id>
+      <g:title>شوکہ شہد (پریمیم سمرہ) 1 کلو</g:title>
+      <g:description>شوکہ شہد (پریمیم سمرہ) 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/1/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1599820545</g:id>
+      <g:title>سفید مجری شہد 1 کلو</g:title>
+      <g:description>سفید مجری شہد 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>480738937</g:id>
+      <g:title>2 کلو قدرتی پھولوں کا شہد</g:title>
+      <g:description>2 کلو قدرتی پھولوں کا شہد. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/2/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1425604290</g:id>
+      <g:title>2 کلو قدرتی سدر شہد + 2 کلو قدرتی پھولوں کا شہد</g:title>
+      <g:description>2 کلو قدرتی سدر شہد + 2 کلو قدرتی پھولوں کا شہد. 4.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/2-2/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>587159425</g:id>
       <g:title>سمرہ (کانٹے دار) چھتے والا شہد 1 کلو</g:title>
@@ -229,12 +253,6 @@
       <g:title>برسیم کے پھول کا شہد 1 کلو</g:title>
       <g:description>برسیم کے پھول کا شہد 1 کلو. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/1/p557058910?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1897520045</g:id>
-      <g:title>شوکہ شہد (پریمیم سمرہ) 1 کلو</g:title>
-      <g:description>شوکہ شہد (پریمیم سمرہ) 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/1/p1897520045?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1774315670</g:id>
@@ -543,12 +561,6 @@
       <g:link>https://areesh.sa/ur/500/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>1425604290</g:id>
-      <g:title>2 کلو قدرتی سدر شہد + 2 کلو قدرتی پھولوں کا شہد</g:title>
-      <g:description>2 کلو قدرتی سدر شہد + 2 کلو قدرتی پھولوں کا شہد. 4.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/2-2/p1425604290?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>1789520129</g:id>
       <g:title>عسیر کا شاہی سدر چھتے کا مٹکا</g:title>
       <g:description>عسیر کا شاہی سدر چھتے کا مٹکا. 2.5 kg.</g:description>
@@ -559,18 +571,6 @@
       <g:title>موم میں مقامی جنگلی پھولوں کا شہد، 2.5 کلو کا برتن</g:title>
       <g:description>موم میں مقامی جنگلی پھولوں کا شہد، 2.5 کلو کا برتن. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/2-5/p1927503162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>480738937</g:id>
-      <g:title>2 کلو قدرتی پھولوں کا شہد</g:title>
-      <g:description>2 کلو قدرتی پھولوں کا شہد. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/2/p480738937?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1599820545</g:id>
-      <g:title>سفید مجری شہد 1 کلو</g:title>
-      <g:description>سفید مجری شہد 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/1/p1599820545?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
   </channel>
 </rss>
