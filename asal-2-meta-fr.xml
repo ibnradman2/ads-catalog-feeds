@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 10:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:00:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1795183563</g:id>
+      <g:title>Miel en rayon de talh de Hail 2 kg</g:title>
+      <g:description>Miel en rayon de talh de Hail 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-talh-de-hail-2-kg/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1007628890</g:id>
       <g:title>Gomme arabique moulue 250 g</g:title>
@@ -1519,12 +1525,6 @@
       <g:title>Miel de moringa 500 g</g:title>
       <g:description>Miel de moringa 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/miel-de-moringa-500-g/p402261162?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1795183563</g:id>
-      <g:title>Miel en rayon de talh de Hail 2 kg</g:title>
-      <g:description>Miel en rayon de talh de Hail 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-talh-de-hail-2-kg/p1795183563?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1528377487</g:id>
