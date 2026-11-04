@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 05:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:08:27 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>802419986</g:id>
+      <g:title>大麦粉（先知式大麦粥 Talbina）500克</g:title>
+      <g:description>大麦粉（先知式大麦粥 Talbina）500克. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/talbina-500/p802419986?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>690835588</g:id>
+      <g:title>整粒黑种草籽 250克</g:title>
+      <g:description>整粒黑种草籽 250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1517173604</g:id>
+      <g:title>大麦粉（先知式大麦粥）250克</g:title>
+      <g:description>大麦粉（先知式大麦粥）250克. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/250/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>204409672</g:id>
+      <g:title>南部或哈德拉毛野花蜂蜜 7公斤桶装 批发价</g:title>
+      <g:description>南部或哈德拉毛野花蜂蜜 7公斤桶装 批发价. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/7/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>560043605</g:id>
       <g:title>南部或哈德拉毛野花蜂蜜 5公斤桶装 批发价</g:title>
@@ -51,34 +75,10 @@
       <g:link>https://asalaljebal.sa/zh/umf-15-umf-10/p1774089564?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>204409672</g:id>
-      <g:title>南部或哈德拉毛野花蜂蜜 7公斤桶装 批发价</g:title>
-      <g:description>南部或哈德拉毛野花蜂蜜 7公斤桶装 批发价. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/7/p204409672?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>605570884</g:id>
       <g:title>两罐山地西德尔蜂蜜500克 + 半公斤先知塔尔比纳（赠品）</g:title>
       <g:description>两罐山地西德尔蜂蜜500克 + 半公斤先知塔尔比纳（赠品）. 2.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/500/p605570884?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1517173604</g:id>
-      <g:title>大麦粉（先知式大麦粥）250克</g:title>
-      <g:description>大麦粉（先知式大麦粥）250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p1517173604?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>802419986</g:id>
-      <g:title>大麦粉（先知式大麦粥 Talbina）500克</g:title>
-      <g:description>大麦粉（先知式大麦粥 Talbina）500克. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/talbina-500/p802419986?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>690835588</g:id>
-      <g:title>整粒黑种草籽 250克</g:title>
-      <g:description>整粒黑种草籽 250克. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/250/p690835588?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1113268922</g:id>

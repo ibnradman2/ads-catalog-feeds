@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 04:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:00:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>732821654</g:id>
+      <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF+15 MGO 550+ 250克</g:title>
+      <g:description>新西兰麦卢卡蜂蜜 Homeland Premium UMF+15 MGO 550+ 250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/homeland-premium-umf-15-mgo-550-250/p732821654?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>687552137</g:id>
       <g:title>阿利亚麦地那阿杰瓦精选椰枣5公斤（免费配送）</g:title>
@@ -169,12 +175,6 @@
       <g:title>蜂花粉</g:title>
       <g:description>蜂花粉. 0.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/product/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>732821654</g:id>
-      <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF+15 MGO 550+ 250克</g:title>
-      <g:description>新西兰麦卢卡蜂蜜 Homeland Premium UMF+15 MGO 550+ 250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/homeland-premium-umf-15-mgo-550-250/p732821654?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1394374627</g:id>
