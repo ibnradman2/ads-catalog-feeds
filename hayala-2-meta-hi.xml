@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 22:34:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:00:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1072059977</g:id>
+      <g:title>सूखा एवोकाडो 1 किलो</g:title>
+      <g:description>सूखा एवोकाडो 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>801044632</g:id>
+      <g:title>सूखा कीवी 1 किलो</g:title>
+      <g:description>सूखा कीवी 1 किलो. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/hi/1/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>428797377</g:id>
       <g:title>सूखा अनानास 1 किलो</g:title>
@@ -225,12 +237,6 @@
       <g:link>https://hayala.co/hi/250/p150479264?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>801044632</g:id>
-      <g:title>सूखा कीवी 1 किलो</g:title>
-      <g:description>सूखा कीवी 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1632683015</g:id>
       <g:title>कैमोमाइल के फूल 1 किलो</g:title>
       <g:description>कैमोमाइल के फूल 1 किलो. 1.5 kg.</g:description>
@@ -271,12 +277,6 @@
       <g:title>सूखा पपीता 1 किलो</g:title>
       <g:description>सूखा पपीता 1 किलो. 1.5 kg.</g:description>
       <g:link>https://hayala.co/hi/1/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1072059977</g:id>
-      <g:title>सूखा एवोकाडो 1 किलो</g:title>
-      <g:description>सूखा एवोकाडो 1 किलो. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/hi/1/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1433640019</g:id>

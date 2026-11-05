@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2144594011</g:id>
+      <g:title>Miel d'anis 250 g</g:title>
+      <g:description>Miel d'anis 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-d-anis-250-g/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>804454963</g:id>
+      <g:title>Miel en rayon naturel 400 g</g:title>
+      <g:description>Miel en rayon naturel 400 g. 0.9 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-naturel-400-g/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>655440664</g:id>
+      <g:title>Huile de sésame 580 g</g:title>
+      <g:description>Huile de sésame 580 g. 1.08 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/huile-de-s-same-580-g/p655440664?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>272226114</g:id>
+      <g:title>Miel de marjolaine 250 g</g:title>
+      <g:description>Miel de marjolaine 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-250-g/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1204991584</g:id>
       <g:title>Crème au venin d’abeille</g:title>
@@ -345,24 +369,6 @@
       <g:link>https://asalaljebal.sa/fr/dattes-ajwa-de-luxe-d-al-aliya-m-dine-5-kg-livraison-gratuite/p112154521?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>655440664</g:id>
-      <g:title>Huile de sésame 580 g</g:title>
-      <g:description>Huile de sésame 580 g. 1.08 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/huile-de-s-same-580-g/p655440664?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>272226114</g:id>
-      <g:title>Miel de marjolaine 250 g</g:title>
-      <g:description>Miel de marjolaine 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-marjolaine-250-g/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2144594011</g:id>
-      <g:title>Miel d'anis 250 g</g:title>
-      <g:description>Miel d'anis 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-d-anis-250-g/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1250122150</g:id>
       <g:title>5 kg de miel de sidr cachemiri avec 37 % de remise + un pot de pollen + livraison gratuite + paiement échelonné (récolte de qualité rare, quantité trè</g:title>
       <g:description>5 kg de miel de sidr cachemiri avec 37 % de remise + un pot de pollen + livraison gratuite + paiement échelonné (récolte de qualité rare, quantité très limitée). 5.5 kg.</g:description>
@@ -373,12 +379,6 @@
       <g:title>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g</g:title>
       <g:description>Deux pots de miel blanc de Hongrie (Mardisia) – 500 g. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/deux-pots-de-miel-blanc-de-hongrie-mardisia-500-g/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>804454963</g:id>
-      <g:title>Miel en rayon naturel 400 g</g:title>
-      <g:description>Miel en rayon naturel 400 g. 0.9 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-naturel-400-g/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1741453097</g:id>

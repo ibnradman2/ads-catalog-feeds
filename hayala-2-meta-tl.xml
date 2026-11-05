@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 22:34:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:00:10 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1072059977</g:id>
+      <g:title>Tuyong Avocado 1kg</g:title>
+      <g:description>Tuyong Avocado 1kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/tuyong-avocado-1kg/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>801044632</g:id>
+      <g:title>Dried Kiwi (Pinatuyong Kiwi) 1 Kilo</g:title>
+      <g:description>Dried Kiwi (Pinatuyong Kiwi) 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/dried-kiwi-pinatuyong-kiwi-1-kilo/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>428797377</g:id>
       <g:title>Tuyong Pineapple 1kg</g:title>
@@ -225,12 +237,6 @@
       <g:link>https://hayala.co/tl/dried-kiwi-pinatuyong-kiwi-250g/p150479264?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>801044632</g:id>
-      <g:title>Dried Kiwi (Pinatuyong Kiwi) 1 Kilo</g:title>
-      <g:description>Dried Kiwi (Pinatuyong Kiwi) 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/dried-kiwi-pinatuyong-kiwi-1-kilo/p801044632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1632683015</g:id>
       <g:title>Bulaklak ng Chamomile 1 Kilo</g:title>
       <g:description>Bulaklak ng Chamomile 1 Kilo. 1.5 kg.</g:description>
@@ -271,12 +277,6 @@
       <g:title>Tuyong Papaya 1kg</g:title>
       <g:description>Tuyong Papaya 1kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tl/tuyong-papaya-1kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1072059977</g:id>
-      <g:title>Tuyong Avocado 1kg</g:title>
-      <g:description>Tuyong Avocado 1kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/tuyong-avocado-1kg/p1072059977?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1433640019</g:id>

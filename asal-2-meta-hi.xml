@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 22:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1517848832</g:id>
+      <g:title>2.5 किलो देसी समरा (काँटेदार) छत्ते वाले शहद की देगची</g:title>
+      <g:description>2.5 किलो देसी समरा (काँटेदार) छत्ते वाले शहद की देगची. 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/2-5/p1517848832?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>2144594011</g:id>
+      <g:title>ऐनीस शहद 250 ग्राम</g:title>
+      <g:description>ऐनीस शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>804454963</g:id>
+      <g:title>प्राकृतिक छत्ते वाला शहद 400 ग्राम</g:title>
+      <g:description>प्राकृतिक छत्ते वाला शहद 400 ग्राम. 0.9 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/400/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>655440664</g:id>
+      <g:title>तिल का तेल 580 ग्राम</g:title>
+      <g:description>तिल का तेल 580 ग्राम. 1.08 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/580/p655440664?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>272226114</g:id>
+      <g:title>मार्जोरम शहद 250 ग्राम</g:title>
+      <g:description>मार्जोरम शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1204991584</g:id>
       <g:title>मधुमक्खी के विष वाली क्रीम</g:title>
@@ -345,24 +375,6 @@
       <g:link>https://asalaljebal.sa/hi/5/p112154521?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>655440664</g:id>
-      <g:title>तिल का तेल 580 ग्राम</g:title>
-      <g:description>तिल का तेल 580 ग्राम. 1.08 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/580/p655440664?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>272226114</g:id>
-      <g:title>मार्जोरम शहद 250 ग्राम</g:title>
-      <g:description>मार्जोरम शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>2144594011</g:id>
-      <g:title>ऐनीस शहद 250 ग्राम</g:title>
-      <g:description>ऐनीस शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p2144594011?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>1250122150</g:id>
       <g:title>5 किलो कश्मीरी सिद्र शहद 37% छूट पर + मधुमक्खी पराग पैक + मुफ़्त डिलीवरी + किस्तों में भुगतान (दुर्लभ गुणवत्ता की फ़सल, बहुत कम मात्रा)</g:title>
       <g:description>5 किलो कश्मीरी सिद्र शहद 37% छूट पर + मधुमक्खी पराग पैक + मुफ़्त डिलीवरी + किस्तों में भुगतान (दुर्लभ गुणवत्ता की फ़सल, बहुत कम मात्रा). 5.5 kg.</g:description>
@@ -373,12 +385,6 @@
       <g:title>2 जार सफ़ेद मजरा शहद (मरडीसिया) (500 ग्राम)</g:title>
       <g:description>2 जार सफ़ेद मजरा शहद (मरडीसिया) (500 ग्राम). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/2-500/p1862684535?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>804454963</g:id>
-      <g:title>प्राकृतिक छत्ते वाला शहद 400 ग्राम</g:title>
-      <g:description>प्राकृतिक छत्ते वाला शहद 400 ग्राम. 0.9 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/400/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1741453097</g:id>
@@ -1561,12 +1567,6 @@
       <g:title>क़तद शहद (1 किलोग्राम)</g:title>
       <g:description>क़तद शहद (1 किलोग्राम). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/1/p472529251?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1517848832</g:id>
-      <g:title>2.5 किलो देसी समरा (काँटेदार) छत्ते वाले शहद की देगची</g:title>
-      <g:description>2.5 किलो देसी समरा (काँटेदार) छत्ते वाले शहद की देगची. 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/2-5/p1517848832?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>653909050</g:id>
