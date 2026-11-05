@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 05 Nov 2026 09:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:15:09 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>311732055</g:id>
+      <g:title>Toz Propolis (Propolis veya Arı Zamkı, Bee Glue) 15 g</g:title>
+      <g:description>Toz Propolis (Propolis veya Arı Zamkı, Bee Glue) 15 g. 0.515 kg.</g:description>
+      <g:link>https://areesh.sa/tr/toz-propolis-propolis-veya-ar-zamk-bee-glue-15-g/p311732055?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1256707703</g:id>
       <g:title>Macar Beyaz Balı (Mardisia) Ambalajı + Bir Ambalaj Hediye</g:title>
@@ -235,12 +241,6 @@
       <g:title>Doğal Yerli Propolis - 65 g</g:title>
       <g:description>Doğal Yerli Propolis - 65 g. 0.565 kg.</g:description>
       <g:link>https://areesh.sa/tr/do-al-yerli-propolis-65-g/p283801056?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>311732055</g:id>
-      <g:title>Toz Propolis (Propolis veya Arı Zamkı, Bee Glue) 15 g</g:title>
-      <g:description>Toz Propolis (Propolis veya Arı Zamkı, Bee Glue) 15 g. 0.515 kg.</g:description>
-      <g:link>https://areesh.sa/tr/toz-propolis-propolis-veya-ar-zamk-bee-glue-15-g/p311732055?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1386198566</g:id>
