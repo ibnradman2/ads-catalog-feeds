@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 23:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:35:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1256707703</g:id>
+      <g:title>Envase de miel de Mardisia (miel húngara blanca) + un envase gratis</g:title>
+      <g:description>Envase de miel de Mardisia (miel húngara blanca) + un envase gratis. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/envase-de-miel-de-mardisia-miel-h-ngara-blanca-un-envase-gratis/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1394374627</g:id>
+      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 10+, MGO 300+, 250 g</g:title>
+      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 10+, MGO 300+, 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-10-mgo-300-250-g/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>Mezcla Real de Areesh (envase de 500 g)</g:title>
+      <g:description>Mezcla Real de Areesh (envase de 500 g). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/es/mezcla-real-de-areesh-envase-de-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>527688141</g:id>
       <g:title>Kilo de panal de flores silvestres locales</g:title>
@@ -117,12 +135,6 @@
       <g:link>https://areesh.sa/es/miel-de-sidr-de-monta-a-en-panal-1-kg/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1256707703</g:id>
-      <g:title>Envase de miel de Mardisia (miel húngara blanca) + un envase gratis</g:title>
-      <g:description>Envase de miel de Mardisia (miel húngara blanca) + un envase gratis. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/envase-de-miel-de-mardisia-miel-h-ngara-blanca-un-envase-gratis/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>190273304</g:id>
       <g:title>2 kg de miel de Sidr natural + 2 kg de miel de flores natural + 2 kg de miel del Bosque Negro europea</g:title>
       <g:description>2 kg de miel de Sidr natural + 2 kg de miel de flores natural + 2 kg de miel del Bosque Negro europea. 6.5 kg.</g:description>
@@ -217,12 +229,6 @@
       <g:title>Polen de abeja</g:title>
       <g:description>Polen de abeja. 0.5 kg.</g:description>
       <g:link>https://areesh.sa/es/polen-de-abeja/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1394374627</g:id>
-      <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 10+, MGO 300+, 250 g</g:title>
-      <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 10+, MGO 300+, 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-10-mgo-300-250-g/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>283801056</g:id>
@@ -415,12 +421,6 @@
       <g:title>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g</g:title>
       <g:description>Miel de Manuka de Nueva Zelanda Homeland Premium UMF 5+, MGO 100+, 250 g. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/es/miel-de-manuka-de-nueva-zelanda-homeland-premium-umf-5-mgo-100-250-g/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>Mezcla Real de Areesh (envase de 500 g)</g:title>
-      <g:description>Mezcla Real de Areesh (envase de 500 g). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/es/mezcla-real-de-areesh-envase-de-500-g/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1339577181</g:id>

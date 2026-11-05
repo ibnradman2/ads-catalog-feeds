@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 23:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:35:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1256707703</g:id>
+      <g:title>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶</g:title>
+      <g:description>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/mardisia/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1394374627</g:id>
+      <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF+10 MGO 300+ 250克</g:title>
+      <g:description>新西兰麦卢卡蜂蜜 Homeland Premium UMF+10 MGO 300+ 250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/homeland-premium-umf-10-mgo-300-250/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>阿里什皇家特调（500克罐装）</g:title>
+      <g:description>阿里什皇家特调（500克罐装）. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>527688141</g:id>
       <g:title>本地野花蜂巢蜜 1公斤</g:title>
@@ -117,12 +135,6 @@
       <g:link>https://areesh.sa/zh/1/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>1256707703</g:id>
-      <g:title>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶</g:title>
-      <g:description>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/mardisia/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>190273304</g:id>
       <g:title>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤 + 欧洲黑森林蜂蜜 2公斤</g:title>
       <g:description>天然西德尔蜂蜜 2公斤 + 天然百花蜜 2公斤 + 欧洲黑森林蜂蜜 2公斤. 6.5 kg.</g:description>
@@ -217,12 +229,6 @@
       <g:title>蜂花粉</g:title>
       <g:description>蜂花粉. 0.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/product/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1394374627</g:id>
-      <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF+10 MGO 300+ 250克</g:title>
-      <g:description>新西兰麦卢卡蜂蜜 Homeland Premium UMF+10 MGO 300+ 250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/homeland-premium-umf-10-mgo-300-250/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>283801056</g:id>
@@ -415,12 +421,6 @@
       <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF 5+ MGO 100+ 250克</g:title>
       <g:description>新西兰麦卢卡蜂蜜 Homeland Premium UMF 5+ MGO 100+ 250克. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/zh/homeland-premium-umf-5-mgo-100-250/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>阿里什皇家特调（500克罐装）</g:title>
-      <g:description>阿里什皇家特调（500克罐装）. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1339577181</g:id>

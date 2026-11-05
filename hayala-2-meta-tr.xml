@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 05 Nov 2026 01:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:35:03 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>94425611</g:id>
+      <g:title>Kurutulmuş Papaya 1 kg</g:title>
+      <g:description>Kurutulmuş Papaya 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/kurutulmu-papaya-1-kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1072059977</g:id>
       <g:title>Kurutulmuş Avokado 1 kg</g:title>
@@ -259,12 +265,6 @@
       <g:title>Kurutulmuş Papaya 500 g</g:title>
       <g:description>Kurutulmuş Papaya 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-papaya-500-g/p897901817?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>94425611</g:id>
-      <g:title>Kurutulmuş Papaya 1 kg</g:title>
-      <g:description>Kurutulmuş Papaya 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/kurutulmu-papaya-1-kg/p94425611?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1433640019</g:id>

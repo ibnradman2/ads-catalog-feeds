@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 04 Nov 2026 23:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:35:00 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1256707703</g:id>
+      <g:title>एक जार सफ़ेद हंगेरियन शहद (मर्डीसिया) + एक जार मुफ़्त</g:title>
+      <g:description>एक जार सफ़ेद हंगेरियन शहद (मर्डीसिया) + एक जार मुफ़्त. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/product/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1394374627</g:id>
+      <g:title>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm</g:title>
+      <g:description>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/hi/homeland-premium-manuka-honey-umf-10-mgo-300-250-gm/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>765679051</g:id>
+      <g:title>आरिश शाही मिश्रण (500 ग्राम पैक)</g:title>
+      <g:description>आरिश शाही मिश्रण (500 ग्राम पैक). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/hi/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>527688141</g:id>
       <g:title>मोम के छत्ते में देसी जंगली फूलों का शहद 1 किलो</g:title>
@@ -117,12 +135,6 @@
       <g:link>https://areesh.sa/hi/1/p162309629?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
-      <g:id>1256707703</g:id>
-      <g:title>एक जार सफ़ेद हंगेरियन शहद (मर्डीसिया) + एक जार मुफ़्त</g:title>
-      <g:description>एक जार सफ़ेद हंगेरियन शहद (मर्डीसिया) + एक जार मुफ़्त. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/product/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
       <g:id>190273304</g:id>
       <g:title>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद + 2 किलो यूरोपीय ब्लैक फॉरेस्ट शहद</g:title>
       <g:description>2 किलो प्राकृतिक सिद्र शहद + 2 किलो प्राकृतिक फूलों का शहद + 2 किलो यूरोपीय ब्लैक फॉरेस्ट शहद. 6.5 kg.</g:description>
@@ -217,12 +229,6 @@
       <g:title>प्राकृतिक बी पोलन (पराग कण) 500 ग्राम</g:title>
       <g:description>प्राकृतिक बी पोलन (पराग कण) 500 ग्राम. 0.5 kg.</g:description>
       <g:link>https://areesh.sa/hi/500/p26663992?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1394374627</g:id>
-      <g:title>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm</g:title>
-      <g:description>न्यूज़ीलैंड का मनुका शहद Homeland Premium Manuka Honey UMF+10, MGO 300+, 250 gm. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/hi/homeland-premium-manuka-honey-umf-10-mgo-300-250-gm/p1394374627?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>283801056</g:id>
@@ -415,12 +421,6 @@
       <g:title>न्यूज़ीलैंड मनुका शहद Homeland Premium Manuka Honey UMF+5, MGO 100+, 250 gm</g:title>
       <g:description>न्यूज़ीलैंड मनुका शहद Homeland Premium Manuka Honey UMF+5, MGO 100+, 250 gm. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/hi/homeland-premium-manuka-honey-umf-5-mgo-100-250-gm/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>765679051</g:id>
-      <g:title>आरिश शाही मिश्रण (500 ग्राम पैक)</g:title>
-      <g:description>आरिश शाही मिश्रण (500 ग्राम पैक). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/hi/500/p765679051?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1339577181</g:id>

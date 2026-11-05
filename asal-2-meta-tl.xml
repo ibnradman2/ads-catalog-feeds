@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 05 Nov 2026 01:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:10:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1528377487</g:id>
+      <g:title>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan</g:title>
+      <g:description>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-marjoram-5-kilo-galon-sa-presyong-pakyawan/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1500398965</g:id>
+      <g:title>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan</g:title>
+      <g:description>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/anise-honey-5-kilo-na-galon-sa-presyong-pakyawan/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1517848832</g:id>
       <g:title>2.5 kilong Palayok ng Katutubong Samra (Thorn) Honey sa Pulot-pukyutan</g:title>
@@ -87,12 +99,6 @@
       <g:link>https://asalaljebal.sa/tl/halo-halong-nuts-timpla-ng-datiles-almendras-pine-nuts-sariwang-datiles-pistachi/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1528377487</g:id>
-      <g:title>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan</g:title>
-      <g:description>Pulot ng Marjoram 5 Kilo Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-marjoram-5-kilo-galon-sa-presyong-pakyawan/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>170976614</g:id>
       <g:title>Itim na Pasas na Yemeni 500 g</g:title>
       <g:description>Itim na Pasas na Yemeni 500 g. 1.0 kg.</g:description>
@@ -139,12 +145,6 @@
       <g:title>Pollen ng Palmera ng Datiles 15 g</g:title>
       <g:description>Pollen ng Palmera ng Datiles 15 g. 0.515 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/pollen-ng-palmera-ng-datiles-15-g/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1500398965</g:id>
-      <g:title>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan</g:title>
-      <g:description>Anise Honey 5 Kilo na Galon sa Presyong Pakyawan. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/anise-honey-5-kilo-na-galon-sa-presyong-pakyawan/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1819446678</g:id>

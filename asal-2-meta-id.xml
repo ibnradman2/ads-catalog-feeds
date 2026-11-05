@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 05 Nov 2026 01:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:10:02 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1528377487</g:id>
+      <g:title>Madu Marjoram Galon 5 Kilo Harga Grosir</g:title>
+      <g:description>Madu Marjoram Galon 5 Kilo Harga Grosir. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-marjoram-galon-5-kilo-harga-grosir/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1500398965</g:id>
+      <g:title>Madu Anise Galon 5 kilo Harga Grosir</g:title>
+      <g:description>Madu Anise Galon 5 kilo Harga Grosir. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-anise-galon-5-kilo-harga-grosir/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>2144594011</g:id>
       <g:title>Madu Adas Manis 250 gram</g:title>
@@ -81,12 +93,6 @@
       <g:link>https://asalaljebal.sa/ind/aneka-kacang-campur-campuran-kurma-almond-pinus-kurma-muda-pistachio-walnut-kela/p803494818?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
-      <g:id>1528377487</g:id>
-      <g:title>Madu Marjoram Galon 5 Kilo Harga Grosir</g:title>
-      <g:description>Madu Marjoram Galon 5 Kilo Harga Grosir. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-marjoram-galon-5-kilo-harga-grosir/p1528377487?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
       <g:id>170976614</g:id>
       <g:title>Kismis Hitam Yaman 500 g</g:title>
       <g:description>Kismis Hitam Yaman 500 g. 1.0 kg.</g:description>
@@ -133,12 +139,6 @@
       <g:title>Serbuk Sari Kurma 15 gram</g:title>
       <g:description>Serbuk Sari Kurma 15 gram. 0.515 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/serbuk-sari-kurma-15-gram/p2070936862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1500398965</g:id>
-      <g:title>Madu Anise Galon 5 kilo Harga Grosir</g:title>
-      <g:description>Madu Anise Galon 5 kilo Harga Grosir. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-anise-galon-5-kilo-harga-grosir/p1500398965?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1819446678</g:id>
