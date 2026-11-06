@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 06 Nov 2026 10:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:13:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -740,7 +740,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041010003</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>0041010003</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Other Honey</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>0041010003</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Other Honey</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">115482841</guid>
       <g:id>115482841</g:id>
@@ -757,7 +757,7 @@
       <g:product_type>Bee Pollen</g:product_type>
       <g:item_group_id>0061007030</g:item_group_id>
       <g:shipping_weight>0.53 kg</g:shipping_weight>
-    <g:mpn>0061007030</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Bee Products</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>0061007030</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Bee Products</g:custom_label_3><g:unit_pricing_measure>30g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">427525089</guid>
       <g:id>427525089</g:id>
@@ -893,7 +893,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041029001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041029001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Talh Honey</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>0041029001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Talh Honey</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">581260348</guid>
       <g:id>581260348</g:id>
@@ -1003,7 +1003,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041006001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041006001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Sidr Honey</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>0041006001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Sidr Honey</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1281556169</guid>
       <g:id>1281556169</g:id>
@@ -1018,7 +1018,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041007001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041007001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Sidr Honey</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>0041007001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>Under 100</g:custom_label_2><g:custom_label_3>Sidr Honey</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">758688219</guid>
       <g:id>758688219</g:id>
@@ -1184,7 +1184,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041045001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>0041045001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <g:mpn>0041045001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>100 to 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1797099055</guid>
       <g:id>1797099055</g:id>
@@ -1275,7 +1275,7 @@
       <g:product_type>Mountain Sidr Honey</g:product_type>
       <g:item_group_id>0041021005</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
-    <g:mpn>0041021005</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>600 and above</g:custom_label_2><g:custom_label_3>Sidr Honey</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>0041021005</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>600 and above</g:custom_label_2><g:custom_label_3>Sidr Honey</g:custom_label_3><g:unit_pricing_measure>5kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">699162529</guid>
       <g:id>699162529</g:id>
@@ -1370,7 +1370,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041029004</g:item_group_id>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
-    <g:mpn>0041029004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>600 and above</g:custom_label_2><g:custom_label_3>Talh Honey</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>0041029004</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Year-round</g:custom_label_1><g:custom_label_2>600 and above</g:custom_label_2><g:custom_label_3>Talh Honey</g:custom_label_3><g:unit_pricing_measure>2kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1001322391</guid>
       <g:id>1001322391</g:id>
