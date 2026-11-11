@@ -4,16 +4,10 @@
     <title>Product Feed - Store insafcompany.sa</title>
     <link>https://insafcompany.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 03 Nov 2026 13:32:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:00:15 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
-    <item>
-      <g:id>795150874</g:id>
-      <g:title>Handog sa Katapusan ng Taon: 2 kg Natural na Sidr + 4 kg Natural na Pulot ng Bulaklak</g:title>
-      <g:description>Handog sa Katapusan ng Taon: 2 kg Natural na Sidr + 4 kg Natural na Pulot ng Bulaklak. 6.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-katapusan-ng-taon-2-kg-natural-na-sidr-4-kg-natural-na-pulot-ng-bulakl/p795150874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>777320175</g:id>
       <g:title>Lokal na Baladi Talh Honey 500 g</g:title>
@@ -217,12 +211,6 @@
       <g:title>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+5, MGO 100+, 250 gm</g:title>
       <g:description>New Zealand Manuka Honey Honey Bros Premium Manuka Honey UMF+5, MGO 100+, 250 gm. 0.75 kg.</g:description>
       <g:link>https://insafcompany.sa/tl/new-zealand-manuka-honey-honey-bros-premium-manuka-honey-umf-5-mgo-100-250-gm/p1149830091?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1103620581</g:id>
-      <g:title>Handog sa Katapusan ng Taon: 4 kg Premium Natural na Sidr Honey</g:title>
-      <g:description>Handog sa Katapusan ng Taon: 4 kg Premium Natural na Sidr Honey. 4.5 kg.</g:description>
-      <g:link>https://insafcompany.sa/tl/handog-sa-katapusan-ng-taon-4-kg-premium-natural-na-sidr-honey/p1103620581?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1086517048</g:id>
