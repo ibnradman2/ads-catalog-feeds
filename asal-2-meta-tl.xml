@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 05 Nov 2026 10:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:20:22 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1750448135</g:id>
+      <g:title>Pulot na Sidr ng Hadhramaut na Doani 7 Kilo</g:title>
+      <g:description>Pulot na Sidr ng Hadhramaut na Doani 7 Kilo. 7.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-na-sidr-ng-hadhramaut-na-doani-7-kilo/p1750448135?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1605830592</g:id>
+      <g:title>Harina ng Sebada (Propetikong Talbina) 1 Kilo</g:title>
+      <g:description>Harina ng Sebada (Propetikong Talbina) 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/harina-ng-sebada-propetikong-talbina-1-kilo/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>2125447012</g:id>
       <g:title>Galon ng Pulot ng Acacia, 5 Kilo, Presyong Pakyawan</g:title>
@@ -861,12 +873,6 @@
       <g:link>https://asalaljebal.sa/tl/royal-sidr-na-pulot-sa-pagkit-7-kilo/p768106172?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1605830592</g:id>
-      <g:title>Harina ng Sebada (Propetikong Talbina) 1 Kilo</g:title>
-      <g:description>Harina ng Sebada (Propetikong Talbina) 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/harina-ng-sebada-propetikong-talbina-1-kilo/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>577031151</g:id>
       <g:title>Pollen ng Bubuyog mula sa Jordan, 100 Gramo</g:title>
       <g:description>Pollen ng Bubuyog mula sa Jordan, 100 Gramo. 0.6 kg.</g:description>
@@ -1447,12 +1453,6 @@
       <g:title>Wildflower Honey, Timog o Hadramawt, 2 Kilo</g:title>
       <g:description>Wildflower Honey, Timog o Hadramawt, 2 Kilo. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-2-kilo/p1934538070?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1750448135</g:id>
-      <g:title>Pulot na Sidr ng Hadhramaut na Doani 7 Kilo</g:title>
-      <g:description>Pulot na Sidr ng Hadhramaut na Doani 7 Kilo. 7.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-na-sidr-ng-hadhramaut-na-doani-7-kilo/p1750448135?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>595190855</g:id>
