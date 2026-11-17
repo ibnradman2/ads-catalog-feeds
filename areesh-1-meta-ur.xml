@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 20:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:25:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1400408185</g:id>
+      <g:title>پہاڑی سدر شہد 7 کلو گیلن + مفت ڈیلیوری</g:title>
+      <g:description>پہاڑی سدر شہد 7 کلو گیلن + مفت ڈیلیوری. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/7/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1753534952</g:id>
       <g:title>کشمیری سدر شہد 1 کلو</g:title>
@@ -397,12 +403,6 @@
       <g:title>بلیک فاریسٹ شہد 500 گرام</g:title>
       <g:description>بلیک فاریسٹ شہد 500 گرام. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/ur/500/p1339577181?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1400408185</g:id>
-      <g:title>پہاڑی سدر شہد 7 کلو گیلن + مفت ڈیلیوری</g:title>
-      <g:description>پہاڑی سدر شہد 7 کلو گیلن + مفت ڈیلیوری. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/ur/7/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1457720894</g:id>
