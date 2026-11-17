@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 02:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:37:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>Krim Bisa Lebah</g:title>
+      <g:description>Krim Bisa Lebah. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/krim-bisa-lebah/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1750448135</g:id>
       <g:title>Madu Sidr Hadhrami Do'an 7 kg</g:title>
@@ -97,12 +103,6 @@
       <g:title>Madu Marjoram 250 gram</g:title>
       <g:description>Madu Marjoram 250 gram. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-marjoram-250-gram/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>Krim Bisa Lebah</g:title>
-      <g:description>Krim Bisa Lebah. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/krim-bisa-lebah/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2000496810</g:id>

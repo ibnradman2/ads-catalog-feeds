@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 02:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:37:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>شہد کی مکھی کے زہر والی کریم</g:title>
+      <g:description>شہد کی مکھی کے زہر والی کریم. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1750448135</g:id>
       <g:title>حضرمی دوعنی سدر شہد 7 کلو کا گیلن</g:title>
@@ -73,12 +79,6 @@
       <g:title>قدرتی شہد کا چھتہ (موم کے ساتھ) 400 گرام</g:title>
       <g:description>قدرتی شہد کا چھتہ (موم کے ساتھ) 400 گرام. 0.9 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/400/p804454963?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>شہد کی مکھی کے زہر والی کریم</g:title>
-      <g:description>شہد کی مکھی کے زہر والی کریم. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2000496810</g:id>

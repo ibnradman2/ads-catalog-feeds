@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 02:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:37:13 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>蜂毒霜</g:title>
+      <g:description>蜂毒霜. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1750448135</g:id>
       <g:title>哈德拉毛多安西德尔蜂蜜 7 公斤</g:title>
@@ -103,12 +109,6 @@
       <g:title>马郁兰蜂蜜 250克</g:title>
       <g:description>马郁兰蜂蜜 250克. 0.75 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/250/p272226114?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>蜂毒霜</g:title>
-      <g:description>蜂毒霜. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>2000496810</g:id>
