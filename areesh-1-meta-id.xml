@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 14:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:19:23 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1753534952</g:id>
+      <g:title>Madu Sidr Kashmiri 1 Kilo</g:title>
+      <g:description>Madu Sidr Kashmiri 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-1-kilo/p1753534952?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>311732055</g:id>
       <g:title>Propolis Bubuk (Propolis atau Perekat Lebah) 15 Gram</g:title>
@@ -535,12 +541,6 @@
       <g:title>10 Kilo Madu Sidr Kashmir + Pengiriman Gratis</g:title>
       <g:description>10 Kilo Madu Sidr Kashmir + Pengiriman Gratis. 10.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/10-kilo-madu-sidr-kashmir-pengiriman-gratis/p503369224?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1753534952</g:id>
-      <g:title>Madu Sidr Kashmiri 1 Kilo</g:title>
-      <g:description>Madu Sidr Kashmiri 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-kashmiri-1-kilo/p1753534952?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1559827680</g:id>
