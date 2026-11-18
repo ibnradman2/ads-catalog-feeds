@@ -39,6 +39,12 @@
 !.github/workflows/feeds.yml
 !ci/
 !ci/publish_feeds.py
+# وحدات الناشر بعد تقسيمه (حارس الأداء، 2026-11-18): بلا أسرار، وبغيرها يفشل publish_feeds.py على Actions.
+!ci/pf_common.py
+!ci/pf_stores.py
+!ci/pf_publish.py
+!ci/pf_snap.py
+!ci/pf_google.py
 !ci/catalog_feed_proxy.py
 !ci/feed_english.py
 !ci/data/
