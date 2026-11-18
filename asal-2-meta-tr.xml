@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:38:32 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -13,6 +13,12 @@
       <g:title>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo)</g:title>
       <g:description>Gümüş Teklif (Kara Orman Balı + Çörek Otu Balı + Yonca Çiçeği Balı) (Ücretsiz Kargo). 3.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/g-m-teklif-kara-orman-bal-rek-otu-bal-yonca-i-e-i-bal-cretsiz-kargo/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1597532260</g:id>
+      <g:title>6 Galon Doğal Arı Balı</g:title>
+      <g:description>6 Galon Doğal Arı Balı. 6.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/6-galon-do-al-ar-bal/p1597532260?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1204991584</g:id>
