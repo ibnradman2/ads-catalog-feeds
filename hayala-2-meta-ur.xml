@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 17:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>کلونجی کا شہد (سیاہ دانہ) گیلن 5 کلو + (مفت ڈیلیوری)</g:title>
+      <g:description>کلونجی کا شہد (سیاہ دانہ) گیلن 5 کلو + (مفت ڈیلیوری). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/ur/5/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1533464823</g:id>
+      <g:title>عالیہ مدینہ کی فاخر عجوہ کھجور، منشا مدینہ منورہ، 5 کلو (مفت ڈیلیوری)</g:title>
+      <g:description>عالیہ مدینہ کی فاخر عجوہ کھجور، منشا مدینہ منورہ، 5 کلو (مفت ڈیلیوری). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/ur/5/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1718132750</g:id>
       <g:title>کفایتی مجموعہ (الائچی + زعفران + شہد + مصالحے + سوپ کے مصالحے)</g:title>
@@ -463,18 +475,6 @@
       <g:title>پہاڑی سدر موم والا شہد 500 گرام</g:title>
       <g:description>پہاڑی سدر موم والا شہد 500 گرام. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ur/500/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>497613295</g:id>
-      <g:title>کلونجی کا شہد (سیاہ دانہ) گیلن 5 کلو + (مفت ڈیلیوری)</g:title>
-      <g:description>کلونجی کا شہد (سیاہ دانہ) گیلن 5 کلو + (مفت ڈیلیوری). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/ur/5/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1533464823</g:id>
-      <g:title>عالیہ مدینہ کی فاخر عجوہ کھجور، منشا مدینہ منورہ، 5 کلو (مفت ڈیلیوری)</g:title>
-      <g:description>عالیہ مدینہ کی فاخر عجوہ کھجور، منشا مدینہ منورہ، 5 کلو (مفت ڈیلیوری). 5.0 kg.</g:description>
-      <g:link>https://hayala.co/ur/5/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>2133906442</g:id>

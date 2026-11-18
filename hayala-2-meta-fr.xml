@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 17:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>Bidon de miel de nigelle noire 5 kg + (livraison gratuite)</g:title>
+      <g:description>Bidon de miel de nigelle noire 5 kg + (livraison gratuite). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/fr/bidon-de-miel-de-nigelle-noire-5-kg-livraison-gratuite/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1533464823</g:id>
+      <g:title>Dattes Ajwa premium d’Al Aliyah de Médine (5) kg (livraison gratuite)</g:title>
+      <g:description>Dattes Ajwa premium d’Al Aliyah de Médine (5) kg (livraison gratuite). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/fr/dattes-ajwa-premium-d-al-aliyah-de-m-dine-5-kg-livraison-gratuite/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1718132750</g:id>
       <g:title>L’assortiment économique (cardamome + safran + miel + épices + épices pour soupe)</g:title>
@@ -487,18 +499,6 @@
       <g:title>Miel de Sidr de montagne en rayon 500 g</g:title>
       <g:description>Miel de Sidr de montagne en rayon 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/fr/miel-de-sidr-de-montagne-en-rayon-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>497613295</g:id>
-      <g:title>Bidon de miel de nigelle noire 5 kg + (livraison gratuite)</g:title>
-      <g:description>Bidon de miel de nigelle noire 5 kg + (livraison gratuite). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/fr/bidon-de-miel-de-nigelle-noire-5-kg-livraison-gratuite/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1533464823</g:id>
-      <g:title>Dattes Ajwa premium d’Al Aliyah de Médine (5) kg (livraison gratuite)</g:title>
-      <g:description>Dattes Ajwa premium d’Al Aliyah de Médine (5) kg (livraison gratuite). 5.0 kg.</g:description>
-      <g:link>https://hayala.co/fr/dattes-ajwa-premium-d-al-aliyah-de-m-dine-5-kg-livraison-gratuite/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>2133906442</g:id>

@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 18 Nov 2026 04:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:33 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -98,7 +98,6 @@
       <g:brand>Areesh</g:brand>
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
-      <g:product_type>White Majra Honey</g:product_type>
       <g:item_group_id>00410120202</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
     </item>

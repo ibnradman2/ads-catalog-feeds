@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 17:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo)</g:title>
+      <g:description>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/tr/5-kg-kara-rek-otu-bal-bidonu-cretsiz-kargo/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1533464823</g:id>
+      <g:title>Lüks Medine Aliye Acve Hurması 5 kg (Ücretsiz Kargo)</g:title>
+      <g:description>Lüks Medine Aliye Acve Hurması 5 kg (Ücretsiz Kargo). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/l-ks-medine-aliye-acve-hurmas-5-kg-cretsiz-kargo/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1718132750</g:id>
       <g:title>Ekonomik Set (Kakule + Safran + Bal + Baharat + Çorba Baharatı)</g:title>
@@ -499,18 +511,6 @@
       <g:title>Dağ Sidr Petek Balı 500 g</g:title>
       <g:description>Dağ Sidr Petek Balı 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/tr/da-sidr-petek-bal-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>497613295</g:id>
-      <g:title>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo)</g:title>
-      <g:description>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/tr/5-kg-kara-rek-otu-bal-bidonu-cretsiz-kargo/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1533464823</g:id>
-      <g:title>Lüks Medine Aliye Acve Hurması 5 kg (Ücretsiz Kargo)</g:title>
-      <g:description>Lüks Medine Aliye Acve Hurması 5 kg (Ücretsiz Kargo). 5.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/l-ks-medine-aliye-acve-hurmas-5-kg-cretsiz-kargo/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>2133906442</g:id>

@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 17:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
+      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1533464823</g:id>
+      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
+      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1718132750</g:id>
       <g:title>Surtido económico (cardamomo + azafrán + miel + especias + especias para sopa)</g:title>
@@ -493,18 +505,6 @@
       <g:title>Miel en panal de sidr de montaña 500 g</g:title>
       <g:description>Miel en panal de sidr de montaña 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/es/miel-en-panal-de-sidr-de-monta-a-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>497613295</g:id>
-      <g:title>Garrafa de miel de comino negro 5 kg + (envío gratis)</g:title>
-      <g:description>Garrafa de miel de comino negro 5 kg + (envío gratis). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/es/garrafa-de-miel-de-comino-negro-5-kg-env-o-gratis/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1533464823</g:id>
-      <g:title>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis)</g:title>
-      <g:description>Dátiles ajwa de Aliyat Medina de lujo (5) kg (envío gratis). 5.0 kg.</g:description>
-      <g:link>https://hayala.co/es/d-tiles-ajwa-de-aliyat-medina-de-lujo-5-kg-env-o-gratis/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2133906442</g:id>

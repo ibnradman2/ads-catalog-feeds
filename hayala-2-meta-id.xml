@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 17:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:36 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>497613295</g:id>
+      <g:title>Galon Madu Jintan Hitam 5 Kilo + (Gratis Ongkir)</g:title>
+      <g:description>Galon Madu Jintan Hitam 5 Kilo + (Gratis Ongkir). 5.5 kg.</g:description>
+      <g:link>https://hayala.co/ind/galon-madu-jintan-hitam-5-kilo-gratis-ongkir/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1533464823</g:id>
+      <g:title>Kurma Ajwa Aliyah Madinah Premium (5) Kg (Gratis Ongkir)</g:title>
+      <g:description>Kurma Ajwa Aliyah Madinah Premium (5) Kg (Gratis Ongkir). 5.0 kg.</g:description>
+      <g:link>https://hayala.co/ind/kurma-ajwa-aliyah-madinah-premium-5-kg-gratis-ongkir/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>1718132750</g:id>
       <g:title>Paket Ekonomis (Kapulaga + Saffron + Madu + Rempah + Rempah Sup)</g:title>
@@ -487,18 +499,6 @@
       <g:title>Madu Sidr Sarang Gunung 500 g</g:title>
       <g:description>Madu Sidr Sarang Gunung 500 g. 1.0 kg.</g:description>
       <g:link>https://hayala.co/ind/madu-sidr-sarang-gunung-500-g/p999818845?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>497613295</g:id>
-      <g:title>Galon Madu Jintan Hitam 5 Kilo + (Gratis Ongkir)</g:title>
-      <g:description>Galon Madu Jintan Hitam 5 Kilo + (Gratis Ongkir). 5.5 kg.</g:description>
-      <g:link>https://hayala.co/ind/galon-madu-jintan-hitam-5-kilo-gratis-ongkir/p497613295?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1533464823</g:id>
-      <g:title>Kurma Ajwa Aliyah Madinah Premium (5) Kg (Gratis Ongkir)</g:title>
-      <g:description>Kurma Ajwa Aliyah Madinah Premium (5) Kg (Gratis Ongkir). 5.0 kg.</g:description>
-      <g:link>https://hayala.co/ind/kurma-ajwa-aliyah-madinah-premium-5-kg-gratis-ongkir/p1533464823?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>2133906442</g:id>

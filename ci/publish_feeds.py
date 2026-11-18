@@ -38,6 +38,13 @@ FEEDS = os.path.join(BUILD, "feeds")
 REPO = os.environ.get("FEEDS_REPO_DIR") or r"C:\ads-api\feeds_repo"
 IN_CI = os.environ.get("GITHUB_ACTIONS") == "true"
 BASE_URL = "https://ibnradman2.github.io/ads-catalog-feeds/"
+# الرابط الجديد على كلاودفلير (المادة 546). التوجيه (--repoint) إليه بتمرير FEEDS_REPOINT_BASE، والنشر نفسه يبقى على Pages
+NEW_BASE = "https://catalog-feeds.ibnradman2.workers.dev/"
+REPOINT_BASE = os.environ.get("FEEDS_REPOINT_BASE") or BASE_URL
+
+
+def _ours(url):
+    return (url or "").startswith((BASE_URL, NEW_BASE))
 REPORT = os.path.join(BUILD, "publish_feeds.json")
 MIN_RATIO = 0.80          # حدّ القبول: نسبة منتجات الملف الجديد إلى المنشور
 POLL_SECONDS = 420        # أقصى انتظار لظهور النسخة الجديدة على Pages
@@ -394,7 +401,7 @@ def repoint(stores):
     for b in backup:
         acc, cat, fid, fname = SNAP_FEEDS[b["store"]]
         tok = u.token_for(acc, toks)
-        new_url = BASE_URL + fname
+        new_url = REPOINT_BASE + fname
         if b["old_url"] == new_url:
             print(f"[{b['store']}] موجَّه أصلًا إلى الرابط المنشور — لا تغيير.")
             results.append({**b, "new_url": new_url, "status": "بلا تغيير"})
@@ -440,7 +447,7 @@ def snap_status(stores=None):
         tok = u.token_for(acc, toks)
         pf = _feed_object(u, tok, cat, fid)
         url = (pf.get("schedule") or {}).get("url") or ""
-        where = "المنشور" if url.startswith(BASE_URL) else "سلة"
+        where = "المنشور" if _ours(url) else "سلة"
         print(f"[{store}] المصدر {where} · آخر تحديث {pf.get('updated_at')} · "
               f"جدولة {(pf.get('schedule') or {}).get('interval_type')}")
 
@@ -465,7 +472,7 @@ def snap_uploads(stores=None, wait=0):
             last = ups[0] if ups else {}
             s = last.get("summary") or {}
             out.append({"store": store, "status": last.get("status"),
-                        "source": "المنشور" if (last.get("url") or "").startswith(BASE_URL) else "سلة",
+                        "source": "المنشور" if _ours(last.get("url")) else "سلة",
                         "total_items": s.get("total_items"), "items_modified": s.get("items_modified"),
                         "created_at": last.get("created_at"),
                         "issues": (s.get("issues_summary") or {}).get("errors") or {}})
