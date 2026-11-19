@@ -4,26 +4,10 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 18 Nov 2026 14:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:08:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
-    <item>
-      <guid isPermaLink="false">987199113</guid>
-      <g:id>987199113</g:id>
-      <g:title>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir)</g:title>
-      <g:description>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/paket-perak-madu-hutan-hitam-madu-jintan-hitam-madu-bunga-clover-gratis-ongkir/p987199113?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/jvMH7CRJAy2OnpVBFziAJXyEgG9enT1dUfjpcQuT.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>368.00 SAR</g:price>
-      <g:sale_price>294.00 SAR</g:sale_price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0140101006</g:item_group_id>
-      <g:shipping_weight>3.0 kg</g:shipping_weight>
-    <g:mpn>987199113</g:mpn><g:google_product_category>4947</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1597532260</guid>
       <g:id>1597532260</g:id>
@@ -40,22 +24,6 @@
       <g:item_group_id>005-1108</g:item_group_id>
       <g:shipping_weight>6.0 kg</g:shipping_weight>
     <g:mpn>1597532260</g:mpn><g:google_product_category>4947</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">1204991584</guid>
-      <g:id>1204991584</g:id>
-      <g:title>Krim Bisa Lebah</g:title>
-      <g:description>Krim Bisa Lebah. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/krim-bisa-lebah/p1204991584?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/GoahIgiBak8hPpD5x96nuNnTaDfjTinBp3yZcJSV.jpg</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jGGkQkTAOD5M1YA4TBfQa1utpWRE27wtCb0AE4b6.png</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>49.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>006006006001</g:item_group_id>
-      <g:shipping_weight>0.02 kg</g:shipping_weight>
-    <g:mpn>1204991584</g:mpn><g:google_product_category>567</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">1750448135</guid>
       <g:id>1750448135</g:id>
@@ -86,6 +54,38 @@
       <g:item_group_id>030303033</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     <g:mpn>1605830592</g:mpn><g:google_product_category>2775</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">987199113</guid>
+      <g:id>987199113</g:id>
+      <g:title>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir)</g:title>
+      <g:description>Paket Perak (Madu Hutan Hitam + Madu Jintan Hitam + Madu Bunga Clover) (Gratis Ongkir). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/paket-perak-madu-hutan-hitam-madu-jintan-hitam-madu-bunga-clover-gratis-ongkir/p987199113?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/jvMH7CRJAy2OnpVBFziAJXyEgG9enT1dUfjpcQuT.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>368.00 SAR</g:price>
+      <g:sale_price>294.00 SAR</g:sale_price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0140101006</g:item_group_id>
+      <g:shipping_weight>3.0 kg</g:shipping_weight>
+    <g:mpn>987199113</g:mpn><g:google_product_category>4947</g:google_product_category></item>
+    <item>
+      <guid isPermaLink="false">1204991584</guid>
+      <g:id>1204991584</g:id>
+      <g:title>Krim Bisa Lebah</g:title>
+      <g:description>Krim Bisa Lebah. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/krim-bisa-lebah/p1204991584?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/GoahIgiBak8hPpD5x96nuNnTaDfjTinBp3yZcJSV.jpg</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/jGGkQkTAOD5M1YA4TBfQa1utpWRE27wtCb0AE4b6.png</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>49.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>006006006001</g:item_group_id>
+      <g:shipping_weight>0.02 kg</g:shipping_weight>
+    <g:mpn>1204991584</g:mpn><g:google_product_category>567</g:google_product_category></item>
     <item>
       <guid isPermaLink="false">2125447012</guid>
       <g:id>2125447012</g:id>

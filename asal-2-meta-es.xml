@@ -4,27 +4,15 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 18 Nov 2026 14:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:08:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
-    <item>
-      <g:id>987199113</g:id>
-      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
-      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). 3.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
     <item>
       <g:id>1597532260</g:id>
       <g:title>6 galones de miel de abeja natural</g:title>
       <g:description>6 galones de miel de abeja natural. 6.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/6-galones-de-miel-de-abeja-natural/p1597532260?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1204991584</g:id>
-      <g:title>Crema de veneno de abeja 20 g</g:title>
-      <g:description>Crema de veneno de abeja 20 g. 0.02 kg.</g:description>
-      <g:link>https://asalaljebal.sa/es/crema-de-veneno-de-abeja-20-g/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1750448135</g:id>
@@ -37,6 +25,18 @@
       <g:title>Harina de cebada (talbina profética) 1 kg</g:title>
       <g:description>Harina de cebada (talbina profética) 1 kg. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/es/harina-de-cebada-talbina-prof-tica-1-kg/p1605830592?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>987199113</g:id>
+      <g:title>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis)</g:title>
+      <g:description>Oferta Plata (miel de la Selva Negra + miel de comino negro + miel de flor de trébol) (envío gratis). 3.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/oferta-plata-miel-de-la-selva-negra-miel-de-comino-negro-miel-de-flor-de-tr-bol-/p987199113?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1204991584</g:id>
+      <g:title>Crema de veneno de abeja 20 g</g:title>
+      <g:description>Crema de veneno de abeja 20 g. 0.02 kg.</g:description>
+      <g:link>https://asalaljebal.sa/es/crema-de-veneno-de-abeja-20-g/p1204991584?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>2125447012</g:id>

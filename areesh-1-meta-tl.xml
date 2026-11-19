@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 17 Nov 2026 21:25:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:41:37 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1789520129</g:id>
+      <g:title>Royal Sidr Honeycomb Pot mula sa Asir</g:title>
+      <g:description>Royal Sidr Honeycomb Pot mula sa Asir. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/royal-sidr-honeycomb-pot-mula-sa-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1225774404</g:id>
+      <g:title>2 Kilo ng Pulot ng Sidr sa Bundok</g:title>
+      <g:description>2 Kilo ng Pulot ng Sidr sa Bundok. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/2-kilo-ng-pulot-ng-sidr-sa-bundok/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2132981371</g:id>
+      <g:title>5 Kilo ng Pulot ng Sidr sa Bundok</g:title>
+      <g:description>5 Kilo ng Pulot ng Sidr sa Bundok. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/5-kilo-ng-pulot-ng-sidr-sa-bundok/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1400408185</g:id>
       <g:title>Pulot ng Sidr sa Bundok 7 Kilong Galon + Libreng Padala</g:title>
@@ -453,12 +471,6 @@
       <g:link>https://areesh.sa/tl/galon-na-5-kg-pulot-ng-shawk-premium-na-samra-libreng-delivery/p2072608418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>2132981371</g:id>
-      <g:title>5 Kilo ng Pulot ng Sidr sa Bundok</g:title>
-      <g:description>5 Kilo ng Pulot ng Sidr sa Bundok. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/5-kilo-ng-pulot-ng-sidr-sa-bundok/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>699162529</g:id>
       <g:title>Galon na 7 kg Pulot (Shawk Samra) Premium + Libreng Delivery</g:title>
       <g:description>Galon na 7 kg Pulot (Shawk Samra) Premium + Libreng Delivery. 7.5 kg.</g:description>
@@ -475,12 +487,6 @@
       <g:title>Natural na Sidr Honey 10 Kilo</g:title>
       <g:description>Natural na Sidr Honey 10 Kilo. 10.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/natural-na-sidr-honey-10-kilo/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1225774404</g:id>
-      <g:title>2 Kilo ng Pulot ng Sidr sa Bundok</g:title>
-      <g:description>2 Kilo ng Pulot ng Sidr sa Bundok. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/2-kilo-ng-pulot-ng-sidr-sa-bundok/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>2057449096</g:id>
@@ -607,12 +613,6 @@
       <g:title>Pulot ng Shawk (Premium na Samra) 500g</g:title>
       <g:description>Pulot ng Shawk (Premium na Samra) 500g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/tl/pulot-ng-shawk-premium-na-samra-500g/p1122433710?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1789520129</g:id>
-      <g:title>Royal Sidr Honeycomb Pot mula sa Asir</g:title>
-      <g:description>Royal Sidr Honeycomb Pot mula sa Asir. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/royal-sidr-honeycomb-pot-mula-sa-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1927503162</g:id>
