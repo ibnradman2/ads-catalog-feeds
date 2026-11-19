@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 19 Nov 2026 03:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:00:12 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -67,7 +67,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041021007</g:item_group_id>
       <g:shipping_weight>7.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>600 et plus</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
+    <g:mpn>0041021007</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>600 et plus</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:shipping_label>free</g:shipping_label></item>
     <item>
       <guid isPermaLink="false">1753534952</guid>
       <g:id>1753534952</g:id>
@@ -82,7 +82,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041006003</g:item_group_id>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
+    <g:mpn>0041006003</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Miel de Sidr</g:custom_label_3><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">311732055</guid>
       <g:id>311732055</g:id>
@@ -97,7 +97,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>006-1005</g:item_group_id>
       <g:shipping_weight>0.515 kg</g:shipping_weight>
-    <g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>006-1005</g:mpn><g:google_product_category>422</g:google_product_category><g:custom_label_0>Performance D</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Produits de la ruche</g:custom_label_3><g:unit_pricing_measure>15g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1256707703</guid>
       <g:id>1256707703</g:id>
@@ -113,7 +113,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>00410120202</g:item_group_id>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel Majra blanc</g:custom_label_3></item>
+    <g:mpn>00410120202</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance A</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Miel Majra blanc</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1394374627</guid>
       <g:id>1394374627</g:id>
@@ -128,7 +128,7 @@
       <g:is_bundle>no</g:is_bundle>
       <g:item_group_id>0041047001</g:item_group_id>
       <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
+    <g:mpn>0041047001</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>100 à 299</g:custom_label_2><g:custom_label_3>Manuka</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">765679051</guid>
       <g:id>765679051</g:id>
