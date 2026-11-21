@@ -370,7 +370,8 @@ def build(xml_bytes, store, lang="en", budget=None, mlang=None, script="latin"):
             why = "العنوان بلا ترجمة"
         elif not _script_ok(script, title):
             why = "العنوان بغير نظام اللغة"
-        elif pid in (PLATFORM_EXCLUDE.get(f"{PLATFORM}:{store}:{lang}") or ()):
+        # المفتاح يقبل رمز سلة (ind) ورمز Merchant (id): استبعاد google:areesh:id بقي بلا أثر من 11-05 إلى 11-22 لهذا (P جديدة)
+        elif pid in (PLATFORM_EXCLUDE.get(f"{PLATFORM}:{store}:{lang}") or ())                 or pid in (PLATFORM_EXCLUDE.get(f"{PLATFORM}:{store}:{mlang}") or ()):
             why = "منتج رفضته المنصة في هذا الملف وحده"
         elif lang in ("tl", "id", "fr", "tr", "es", "it", "pt") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 1                 and lang != "fr" or (lang in ("fr", "tr", "es", "it", "pt") and len(MIXED_EN.findall(BRAND_PHRASES.sub(" ", title))) >= 2):
             why = "ترجمة مختلطة بكلمات إنجليزية"
