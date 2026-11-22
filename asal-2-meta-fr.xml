@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 21 Nov 2026 18:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:12:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran</g:title>
+      <g:description>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/caf-al-shadhiliya-caf-arabe-moulu-haut-de-gamme-au-caf-la-cardamome-et-au-safran/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Miel de châtaignier Abu Farwa 250 g</g:title>
+      <g:description>Miel de châtaignier Abu Farwa 250 g. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-ch-taignier-abu-farwa-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Racines de ginseng entières</g:title>
+      <g:description>Racines de ginseng entières. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/racines-de-ginseng-enti-res/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>560043605</g:id>
       <g:title>Miel de fleurs sauvages du Sud ou du Hadramaout 5 kg, bidon à prix de gros</g:title>
@@ -427,24 +445,6 @@
       <g:title>5 kg de miel de sidr cachemiri avec 37 % de remise + un pot de pollen + livraison gratuite + paiement échelonné (récolte de qualité rare, quantité trè</g:title>
       <g:description>5 kg de miel de sidr cachemiri avec 37 % de remise + un pot de pollen + livraison gratuite + paiement échelonné (récolte de qualité rare, quantité très limitée). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/5-kg-de-miel-de-sidr-cachemiri-avec-37-de-remise-un-pot-de-pollen-livraison-grat/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1165273283</g:id>
-      <g:title>Racines de ginseng entières</g:title>
-      <g:description>Racines de ginseng entières. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/racines-de-ginseng-enti-res/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Miel de châtaignier Abu Farwa 250 g</g:title>
-      <g:description>Miel de châtaignier Abu Farwa 250 g. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-ch-taignier-abu-farwa-250-g/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran</g:title>
-      <g:description>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/caf-al-shadhiliya-caf-arabe-moulu-haut-de-gamme-au-caf-la-cardamome-et-au-safran/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1590568579</g:id>

@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 21 Nov 2026 18:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:12:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron</g:title>
+      <g:description>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/kopi-asy-syadziliyah-kopi-arab-giling-premium-dari-kopi-kapulaga-dan-saffron/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Madu Abu Farwah (Kastanye) 250 gram</g:title>
+      <g:description>Madu Abu Farwah (Kastanye) 250 gram. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-abu-farwah-kastanye-250-gram/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Akar Ginseng</g:title>
+      <g:description>Akar Ginseng. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/akar-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>560043605</g:id>
       <g:title>Madu Bunga Liar Selatan atau Hadramaut Galon 5 kg Harga Grosir</g:title>
@@ -427,24 +445,6 @@
       <g:title>5 Kg Madu Sidr Kashmiri Diskon 37% + Kemasan Serbuk Sari + Gratis Ongkir + Cicilan (Panen Kualitas Langka, Jumlah Sangat Terbatas)</g:title>
       <g:description>5 Kg Madu Sidr Kashmiri Diskon 37% + Kemasan Serbuk Sari + Gratis Ongkir + Cicilan (Panen Kualitas Langka, Jumlah Sangat Terbatas). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/5-kg-madu-sidr-kashmiri-diskon-37-kemasan-serbuk-sari-gratis-ongkir-cicilan-pane/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1165273283</g:id>
-      <g:title>Akar Ginseng</g:title>
-      <g:description>Akar Ginseng. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/akar-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Madu Abu Farwah (Kastanye) 250 gram</g:title>
-      <g:description>Madu Abu Farwah (Kastanye) 250 gram. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-abu-farwah-kastanye-250-gram/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron</g:title>
-      <g:description>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/kopi-asy-syadziliyah-kopi-arab-giling-premium-dari-kopi-kapulaga-dan-saffron/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1590568579</g:id>

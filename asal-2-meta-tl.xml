@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 21 Nov 2026 18:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:12:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron</g:title>
+      <g:description>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/al-shadhiliyah-premium-na-giniling-na-arabic-coffee-na-gawa-sa-kape-cardamom-at-/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
+      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>Mga Ugat ng Ginseng</g:title>
+      <g:description>Mga Ugat ng Ginseng. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/mga-ugat-ng-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>560043605</g:id>
       <g:title>Wildflower Honey, Timog o Hadramawt, Galon na 5 Kilo, Presyong Pakyawan</g:title>
@@ -433,24 +451,6 @@
       <g:title>5 Kilo ng Pulot na Sidr ng Kashmir na may Diskwento + Pakete ng Polen ng Bulaklak + Libreng Pagpapadala + Hulugan (Bihirang Kalidad ng Ani, Napakalimi</g:title>
       <g:description>5 Kilo ng Pulot na Sidr ng Kashmir na may Diskwento + Pakete ng Polen ng Bulaklak + Libreng Pagpapadala + Hulugan (Bihirang Kalidad ng Ani, Napakalimitadong Dami). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/5-kilo-ng-pulot-na-sidr-ng-kashmir-na-may-diskwento-pakete-ng-polen-ng-bulaklak-/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1165273283</g:id>
-      <g:title>Mga Ugat ng Ginseng</g:title>
-      <g:description>Mga Ugat ng Ginseng. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/mga-ugat-ng-ginseng/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>Pulot ng Abu Farwa (Chestnut) 250 gramo</g:title>
-      <g:description>Pulot ng Abu Farwa (Chestnut) 250 gramo. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/pulot-ng-abu-farwa-chestnut-250-gramo/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron</g:title>
-      <g:description>Al Shadhiliyah Premium na Giniling na Arabic Coffee na Gawa sa Kape, Cardamom, at Saffron. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/al-shadhiliyah-premium-na-giniling-na-arabic-coffee-na-gawa-sa-kape-cardamom-at-/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1590568579</g:id>

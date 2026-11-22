@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 21 Nov 2026 18:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:12:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>345536874</g:id>
+      <g:title>शाज़लिया कॉफ़ी: कॉफ़ी बीन्स, इलायची और केसर से बनी प्रीमियम पिसी हुई अरबी कॉफ़ी</g:title>
+      <g:description>शाज़लिया कॉफ़ी: कॉफ़ी बीन्स, इलायची और केसर से बनी प्रीमियम पिसी हुई अरबी कॉफ़ी. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/product/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>326726179</g:id>
+      <g:title>अबू फ़रवा (चेस्टनट) शहद 250 ग्राम</g:title>
+      <g:description>अबू फ़रवा (चेस्टनट) शहद 250 ग्राम. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/250/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
+    <item>
+      <g:id>1165273283</g:id>
+      <g:title>जिनसेंग जड़ी-बूटी की जड़ें</g:title>
+      <g:description>जिनसेंग जड़ी-बूटी की जड़ें. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/hi/product/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>hi_IN</g:override></item>
     <item>
       <g:id>560043605</g:id>
       <g:title>जंगली फूलों का शहद, दक्षिणी या हज़रमौती 5 किलो गैलन, थोक भाव में</g:title>
@@ -433,24 +451,6 @@
       <g:title>5 किलो कश्मीरी सिद्र शहद 37% छूट पर + मधुमक्खी पराग पैक + मुफ़्त डिलीवरी + किस्तों में भुगतान (दुर्लभ गुणवत्ता की फ़सल, बहुत कम मात्रा)</g:title>
       <g:description>5 किलो कश्मीरी सिद्र शहद 37% छूट पर + मधुमक्खी पराग पैक + मुफ़्त डिलीवरी + किस्तों में भुगतान (दुर्लभ गुणवत्ता की फ़सल, बहुत कम मात्रा). 5.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/hi/5-37/p1250122150?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>1165273283</g:id>
-      <g:title>जिनसेंग जड़ी-बूटी की जड़ें</g:title>
-      <g:description>जिनसेंग जड़ी-बूटी की जड़ें. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/product/p1165273283?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>326726179</g:id>
-      <g:title>अबू फ़रवा (चेस्टनट) शहद 250 ग्राम</g:title>
-      <g:description>अबू फ़रवा (चेस्टनट) शहद 250 ग्राम. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/250/p326726179?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>hi_IN</g:override></item>
-    <item>
-      <g:id>345536874</g:id>
-      <g:title>शाज़लिया कॉफ़ी: कॉफ़ी बीन्स, इलायची और केसर से बनी प्रीमियम पिसी हुई अरबी कॉफ़ी</g:title>
-      <g:description>शाज़लिया कॉफ़ी: कॉफ़ी बीन्स, इलायची और केसर से बनी प्रीमियम पिसी हुई अरबी कॉफ़ी. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/hi/product/p345536874?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>hi_IN</g:override></item>
     <item>
       <g:id>1590568579</g:id>

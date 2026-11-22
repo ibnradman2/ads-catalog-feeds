@@ -4,10 +4,56 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 21 Nov 2026 23:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:12:19 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">345536874</guid>
+      <g:id>345536874</g:id>
+      <g:title>沙兹利咖啡：用咖啡豆、小豆蔻和藏红花调制的高级阿拉伯研磨咖啡</g:title>
+      <g:description>沙兹利咖啡：用咖啡豆、小豆蔻和藏红花调制的高级阿拉伯研磨咖啡. 藏红花. 0.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p345536874?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/Z26d28Hk7DusWl0ZktZcLKZpD9TiwKQqWoMqQRO7.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>54.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0081010001</g:item_group_id>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    <g:mpn>345536874</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>藏红花</g:custom_label_3></item>
+    <item>
+      <guid isPermaLink="false">326726179</guid>
+      <g:id>326726179</g:id>
+      <g:title>栗子蜂蜜（Abu Farwa）250克</g:title>
+      <g:description>栗子蜂蜜（Abu Farwa）250克. 其他蜂蜜. 0.75 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/abu-farwa-250/p326726179?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/f8WKQQnrwiSohIi6qOz5yGEZSAUqSQkqSWurQS0G.png</g:image_link>
+      <g:additional_image_link>https://cdn.salla.sa/mgEBE/4ukEi7rvoFmBHQxtaCmv27uM64U0AhbtTrC5zFIE.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>53.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041027001</g:item_group_id>
+      <g:shipping_weight>0.75 kg</g:shipping_weight>
+    <g:mpn>326726179</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <item>
+      <guid isPermaLink="false">1165273283</guid>
+      <g:id>1165273283</g:id>
+      <g:title>整根人参</g:title>
+      <g:description>整根人参. 香料与草本. 0.025 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/product/p1165273283?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/dbf74y6fqMRmpRJs8n9ThNKT7aAHYl1OxB6DpR3g.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>50.00 SAR</g:price>
+      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0061001001</g:item_group_id>
+      <g:shipping_weight>0.025 kg</g:shipping_weight>
+    <g:mpn>1165273283</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">560043605</guid>
       <g:id>560043605</g:id>
@@ -1129,52 +1175,6 @@
       <g:item_group_id>0140101030</g:item_group_id>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     <g:mpn>1250122150</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 乙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100至299</g:custom_label_2><g:custom_label_3>西德尔蜂蜜</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">1165273283</guid>
-      <g:id>1165273283</g:id>
-      <g:title>整根人参</g:title>
-      <g:description>整根人参. 香料与草本. 0.025 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p1165273283?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/dbf74y6fqMRmpRJs8n9ThNKT7aAHYl1OxB6DpR3g.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>50.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0061001001</g:item_group_id>
-      <g:shipping_weight>0.025 kg</g:shipping_weight>
-    <g:mpn>1165273283</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">326726179</guid>
-      <g:id>326726179</g:id>
-      <g:title>栗子蜂蜜（Abu Farwa）250克</g:title>
-      <g:description>栗子蜂蜜（Abu Farwa）250克. 其他蜂蜜. 0.75 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/abu-farwa-250/p326726179?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/f8WKQQnrwiSohIi6qOz5yGEZSAUqSQkqSWurQS0G.png</g:image_link>
-      <g:additional_image_link>https://cdn.salla.sa/mgEBE/4ukEi7rvoFmBHQxtaCmv27uM64U0AhbtTrC5zFIE.jpg</g:additional_image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>53.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041027001</g:item_group_id>
-      <g:shipping_weight>0.75 kg</g:shipping_weight>
-    <g:mpn>326726179</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>其他蜂蜜</g:custom_label_3><g:unit_pricing_measure>250g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
-    <item>
-      <guid isPermaLink="false">345536874</guid>
-      <g:id>345536874</g:id>
-      <g:title>沙兹利咖啡：用咖啡豆、小豆蔻和藏红花调制的高级阿拉伯研磨咖啡</g:title>
-      <g:description>沙兹利咖啡：用咖啡豆、小豆蔻和藏红花调制的高级阿拉伯研磨咖啡. 藏红花. 0.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/product/p345536874?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/Z26d28Hk7DusWl0ZktZcLKZpD9TiwKQqWoMqQRO7.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>54.00 SAR</g:price>
-      <g:brand>阿萨尔·阿尔杰巴勒</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0081010001</g:item_group_id>
-      <g:shipping_weight>0.5 kg</g:shipping_weight>
-    <g:mpn>345536874</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>藏红花</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1590568579</guid>
       <g:id>1590568579</g:id>
