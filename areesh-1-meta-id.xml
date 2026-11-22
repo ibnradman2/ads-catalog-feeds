@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 21 Nov 2026 18:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:02:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1225774404</g:id>
+      <g:title>Madu sidr gunung 2 kg</g:title>
+      <g:description>Madu sidr gunung 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-gunung-2-kg/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>2132981371</g:id>
+      <g:title>Madu sidr gunung 5 kg</g:title>
+      <g:description>Madu sidr gunung 5 kg. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-gunung-5-kg/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1400408185</g:id>
+      <g:title>Galon 7 kg madu sidr gunung + gratis ongkir</g:title>
+      <g:description>Galon 7 kg madu sidr gunung + gratis ongkir. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/galon-7-kg-madu-sidr-gunung-gratis-ongkir/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>162309629</g:id>
       <g:title>Madu Sidr Gunung dalam Sarang 1 Kilo</g:title>
@@ -31,24 +49,6 @@
       <g:title>Pot Sarang Sidr Royal dari Wilayah Asir</g:title>
       <g:description>Pot Sarang Sidr Royal dari Wilayah Asir. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/ind/pot-sarang-sidr-royal-dari-wilayah-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1225774404</g:id>
-      <g:title>Madu sidr gunung 2 kg</g:title>
-      <g:description>Madu sidr gunung 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-gunung-2-kg/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2132981371</g:id>
-      <g:title>Madu sidr gunung 5 kg</g:title>
-      <g:description>Madu sidr gunung 5 kg. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-gunung-5-kg/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1400408185</g:id>
-      <g:title>Galon 7 kg madu sidr gunung + gratis ongkir</g:title>
-      <g:description>Galon 7 kg madu sidr gunung + gratis ongkir. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/galon-7-kg-madu-sidr-gunung-gratis-ongkir/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1753534952</g:id>

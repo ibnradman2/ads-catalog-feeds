@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 20 Nov 2026 10:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:02:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1225774404</g:id>
+      <g:title>Dağ Sidr Balı 2 Kg</g:title>
+      <g:description>Dağ Sidr Balı 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/da-sidr-bal-2-kg/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>2132981371</g:id>
+      <g:title>Dağ Sidr Balı 5 Kg</g:title>
+      <g:description>Dağ Sidr Balı 5 Kg. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/da-sidr-bal-5-kg/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
+    <item>
+      <g:id>1400408185</g:id>
+      <g:title>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo</g:title>
+      <g:description>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/tr/da-sidr-bal-7-kg-bidon-cretsiz-kargo/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>162309629</g:id>
       <g:title>Dağ Sidr Mumlu Bal 1 Kg</g:title>
@@ -31,24 +49,6 @@
       <g:title>Asir Bölgesinden Kraliyet Sidr Mumlu Bal Kazanı</g:title>
       <g:description>Asir Bölgesinden Kraliyet Sidr Mumlu Bal Kazanı. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/tr/asir-b-lgesinden-kraliyet-sidr-mumlu-bal-kazan/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1225774404</g:id>
-      <g:title>Dağ Sidr Balı 2 Kg</g:title>
-      <g:description>Dağ Sidr Balı 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/da-sidr-bal-2-kg/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>2132981371</g:id>
-      <g:title>Dağ Sidr Balı 5 Kg</g:title>
-      <g:description>Dağ Sidr Balı 5 Kg. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/da-sidr-bal-5-kg/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>1400408185</g:id>
-      <g:title>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo</g:title>
-      <g:description>Dağ Sidr Balı 7 Kg Bidon + Ücretsiz Kargo. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/tr/da-sidr-bal-7-kg-bidon-cretsiz-kargo/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1753534952</g:id>

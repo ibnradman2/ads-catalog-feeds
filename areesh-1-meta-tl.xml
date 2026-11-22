@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 20 Nov 2026 10:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:02:51 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1225774404</g:id>
+      <g:title>2 Kilo ng Pulot ng Sidr sa Bundok</g:title>
+      <g:description>2 Kilo ng Pulot ng Sidr sa Bundok. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/2-kilo-ng-pulot-ng-sidr-sa-bundok/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>2132981371</g:id>
+      <g:title>5 Kilo ng Pulot ng Sidr sa Bundok</g:title>
+      <g:description>5 Kilo ng Pulot ng Sidr sa Bundok. 5.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/5-kilo-ng-pulot-ng-sidr-sa-bundok/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1400408185</g:id>
+      <g:title>Pulot ng Sidr sa Bundok 7 Kilong Galon + Libreng Padala</g:title>
+      <g:description>Pulot ng Sidr sa Bundok 7 Kilong Galon + Libreng Padala. 7.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-sidr-sa-bundok-7-kilong-galon-libreng-padala/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>162309629</g:id>
       <g:title>Mountain Sidr na Pulot sa Honeycomb 1 Kilo</g:title>
@@ -31,24 +49,6 @@
       <g:title>Royal Sidr Honeycomb Pot mula sa Asir</g:title>
       <g:description>Royal Sidr Honeycomb Pot mula sa Asir. 2.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/royal-sidr-honeycomb-pot-mula-sa-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1225774404</g:id>
-      <g:title>2 Kilo ng Pulot ng Sidr sa Bundok</g:title>
-      <g:description>2 Kilo ng Pulot ng Sidr sa Bundok. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/2-kilo-ng-pulot-ng-sidr-sa-bundok/p1225774404?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2132981371</g:id>
-      <g:title>5 Kilo ng Pulot ng Sidr sa Bundok</g:title>
-      <g:description>5 Kilo ng Pulot ng Sidr sa Bundok. 5.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/5-kilo-ng-pulot-ng-sidr-sa-bundok/p2132981371?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1400408185</g:id>
-      <g:title>Pulot ng Sidr sa Bundok 7 Kilong Galon + Libreng Padala</g:title>
-      <g:description>Pulot ng Sidr sa Bundok 7 Kilong Galon + Libreng Padala. 7.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-sidr-sa-bundok-7-kilong-galon-libreng-padala/p1400408185?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1753534952</g:id>
