@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:14:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2071592201</g:id>
+      <g:title>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery)</g:title>
+      <g:description>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/grade-1-american-cardamom-blg-1-8mm-ang-kapal-karton-na-2-5-kilo-libreng-deliver/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>497613295</g:id>
       <g:title>Galon ng Pulot ng Itim na Habbat Sawda 5 Kilo + (Libreng Delivery)</g:title>
@@ -49,12 +55,6 @@
       <g:title>Tuyong Pineapple 1kg</g:title>
       <g:description>Tuyong Pineapple 1kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tl/tuyong-pineapple-1kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>2071592201</g:id>
-      <g:title>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery)</g:title>
-      <g:description>Grade 1 American Cardamom Blg. 1, 8mm ang Kapal, Karton na 2.5 Kilo (Libreng Delivery). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/grade-1-american-cardamom-blg-1-8mm-ang-kapal-karton-na-2-5-kilo-libreng-deliver/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>331895065</g:id>

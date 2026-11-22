@@ -4,10 +4,16 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:14:01 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2071592201</g:id>
+      <g:title>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
+      <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
+      <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-1-8-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>497613295</g:id>
       <g:title>5 kg Kara Çörek Otu Balı Bidonu + (Ücretsiz Kargo)</g:title>
@@ -49,12 +55,6 @@
       <g:title>Kurutulmuş Ananas 1 kg</g:title>
       <g:description>Kurutulmuş Ananas 1 kg. 1.5 kg.</g:description>
       <g:link>https://hayala.co/tr/kurutulmu-ananas-1-kg/p428797377?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>2071592201</g:id>
-      <g:title>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo)</g:title>
-      <g:description>Birinci Sınıf Amerikan Kakule No. 1 8 mm Kalınlık 2.5 Kilo Karton (Ücretsiz Kargo). 3.0 kg.</g:description>
-      <g:link>https://hayala.co/tr/birinci-s-n-f-amerikan-kakule-no-1-8-mm-kal-nl-k-2-5-kilo-karton-cretsiz-kargo/p2071592201?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>331895065</g:id>
