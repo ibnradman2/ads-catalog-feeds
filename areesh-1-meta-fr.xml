@@ -4,10 +4,28 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 22 Nov 2026 10:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:27:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1303550999</g:id>
+      <g:title>Miel de sidr de montagne en rayon 500 g</g:title>
+      <g:description>Miel de sidr de montagne en rayon 500 g. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-de-montagne-en-rayon-500-g/p1303550999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>450163781</g:id>
+      <g:title>Miel de Sidr de montagne 1 kg</g:title>
+      <g:description>Miel de Sidr de montagne 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-de-montagne-1-kg/p450163781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1789520129</g:id>
+      <g:title>Pot de rayon de miel de sidr royal de la région d'Asir</g:title>
+      <g:description>Pot de rayon de miel de sidr royal de la région d'Asir. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/pot-de-rayon-de-miel-de-sidr-royal-de-la-r-gion-d-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1225774404</g:id>
       <g:title>Miel de Sidr de montagne 2 kg</g:title>
@@ -37,18 +55,6 @@
       <g:title>Miel de Sidr de montagne 500 g</g:title>
       <g:description>Miel de Sidr de montagne 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-de-sidr-de-montagne-500-g/p1957761862?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>450163781</g:id>
-      <g:title>Miel de Sidr de montagne 1 kg</g:title>
-      <g:description>Miel de Sidr de montagne 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-de-montagne-1-kg/p450163781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1789520129</g:id>
-      <g:title>Pot de rayon de miel de sidr royal de la région d'Asir</g:title>
-      <g:description>Pot de rayon de miel de sidr royal de la région d'Asir. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/pot-de-rayon-de-miel-de-sidr-royal-de-la-r-gion-d-asir/p1789520129?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1753534952</g:id>
@@ -91,12 +97,6 @@
       <g:title>Miel d'épineux en rayon 500 g</g:title>
       <g:description>Miel d'épineux en rayon 500 g. 1.0 kg.</g:description>
       <g:link>https://areesh.sa/fr/miel-d-pineux-en-rayon-500-g/p561200214?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1303550999</g:id>
-      <g:title>Miel de sidr de montagne en rayon 500 g</g:title>
-      <g:description>Miel de sidr de montagne en rayon 500 g. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-de-montagne-en-rayon-500-g/p1303550999?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1882360715</g:id>
