@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 23 Nov 2026 15:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:01:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1924754372</g:id>
+      <g:title>Pecan Nuts - 500gm</g:title>
+      <g:description>Pecan Nuts - 500gm. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/tl/pecan-nuts-500gm/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1669542650</g:id>
+      <g:title>Buto ng Chia - 1 Kilo</g:title>
+      <g:description>Buto ng Chia - 1 Kilo. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/tl/buto-ng-chia-1-kilo/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>176539565</g:id>
       <g:title>Dried Mango (Pinatuyong Mangga) 1 Kilo</g:title>
@@ -267,12 +279,6 @@
       <g:link>https://hayala.co/tl/bulaklak-ng-chamomile-1-kilo/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>1669542650</g:id>
-      <g:title>Buto ng Chia - 1 Kilo</g:title>
-      <g:description>Buto ng Chia - 1 Kilo. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/tl/buto-ng-chia-1-kilo/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>2065623105</g:id>
       <g:title>Harina ng Barley 250 Gramo</g:title>
       <g:description>Harina ng Barley 250 Gramo. 0.75 kg.</g:description>
@@ -307,12 +313,6 @@
       <g:title>Buto ng Flaxseed - 250gm</g:title>
       <g:description>Buto ng Flaxseed - 250gm. 0.75 kg.</g:description>
       <g:link>https://hayala.co/tl/buto-ng-flaxseed-250gm/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1924754372</g:id>
-      <g:title>Pecan Nuts - 500gm</g:title>
-      <g:description>Pecan Nuts - 500gm. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/tl/pecan-nuts-500gm/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1468610802</g:id>

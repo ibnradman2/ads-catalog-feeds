@@ -4,10 +4,22 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 23 Nov 2026 15:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:01:04 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1924754372</g:id>
+      <g:title>Nuez pecana - 500 g</g:title>
+      <g:description>Nuez pecana - 500 g. 1.0 kg.</g:description>
+      <g:link>https://hayala.co/es/nuez-pecana-500-g/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
+    <item>
+      <g:id>1669542650</g:id>
+      <g:title>Semillas de chía - 1 kg</g:title>
+      <g:description>Semillas de chía - 1 kg. 1.5 kg.</g:description>
+      <g:link>https://hayala.co/es/semillas-de-ch-a-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>es_XX</g:override></item>
     <item>
       <g:id>176539565</g:id>
       <g:title>Mango deshidratado 1 kg</g:title>
@@ -255,12 +267,6 @@
       <g:link>https://hayala.co/es/flores-de-manzanilla-1-kilo/p1632683015?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
-      <g:id>1669542650</g:id>
-      <g:title>Semillas de chía - 1 kg</g:title>
-      <g:description>Semillas de chía - 1 kg. 1.5 kg.</g:description>
-      <g:link>https://hayala.co/es/semillas-de-ch-a-1-kg/p1669542650?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
       <g:id>2065623105</g:id>
       <g:title>Harina de cebada 250 g</g:title>
       <g:description>Harina de cebada 250 g. 0.75 kg.</g:description>
@@ -295,12 +301,6 @@
       <g:title>Semillas de lino - 250 g</g:title>
       <g:description>Semillas de lino - 250 g. 0.75 kg.</g:description>
       <g:link>https://hayala.co/es/semillas-de-lino-250-g/p1841971411?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>es_XX</g:override></item>
-    <item>
-      <g:id>1924754372</g:id>
-      <g:title>Nuez pecana - 500 g</g:title>
-      <g:description>Nuez pecana - 500 g. 1.0 kg.</g:description>
-      <g:link>https://hayala.co/es/nuez-pecana-500-g/p1924754372?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>es_XX</g:override></item>
     <item>
       <g:id>1468610802</g:id>
