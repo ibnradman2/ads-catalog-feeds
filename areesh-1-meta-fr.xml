@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 23 Nov 2026 12:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:22:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>427525089</g:id>
+      <g:title>Miel de sidr royal Oussaïmi 250 g</g:title>
+      <g:description>Miel de sidr royal Oussaïmi 250 g. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-royal-oussa-mi-250-g/p427525089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>515879663</g:id>
+      <g:title>Miel de sidr du Cachemire 2 kg</g:title>
+      <g:description>Miel de sidr du Cachemire 2 kg. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/fr/miel-de-sidr-du-cachemire-2-kg/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>1303550999</g:id>
       <g:title>Miel de sidr de montagne en rayon 500 g</g:title>
@@ -303,12 +315,6 @@
       <g:link>https://areesh.sa/fr/pollen-d-abeille-30-g/p115482841?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
-      <g:id>427525089</g:id>
-      <g:title>Miel de sidr royal Oussaïmi 250 g</g:title>
-      <g:description>Miel de sidr royal Oussaïmi 250 g. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-royal-oussa-mi-250-g/p427525089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
       <g:id>1749454899</g:id>
       <g:title>Miel de Sidr du Hadramaout 250 g</g:title>
       <g:description>Miel de Sidr du Hadramaout 250 g. 0.75 kg.</g:description>
@@ -535,12 +541,6 @@
       <g:title>Bidon de 7 kg de miel de nigelle + livraison gratuite</g:title>
       <g:description>Bidon de 7 kg de miel de nigelle + livraison gratuite. 7.5 kg.</g:description>
       <g:link>https://areesh.sa/fr/bidon-de-7-kg-de-miel-de-nigelle-livraison-gratuite/p982423131?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>515879663</g:id>
-      <g:title>Miel de sidr du Cachemire 2 kg</g:title>
-      <g:description>Miel de sidr du Cachemire 2 kg. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/fr/miel-de-sidr-du-cachemire-2-kg/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>83194573</g:id>

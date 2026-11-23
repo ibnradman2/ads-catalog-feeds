@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 23 Nov 2026 00:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:22:08 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>427525089</g:id>
+      <g:title>Royal na Pulot ng Sidr na Aseemi, 250 gm</g:title>
+      <g:description>Royal na Pulot ng Sidr na Aseemi, 250 gm. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/tl/royal-na-pulot-ng-sidr-na-aseemi-250-gm/p427525089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>515879663</g:id>
+      <g:title>Pulot ng Sidr na Kashmiri, 2 Kilo</g:title>
+      <g:description>Pulot ng Sidr na Kashmiri, 2 Kilo. 2.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/pulot-ng-sidr-na-kashmiri-2-kilo/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1303550999</g:id>
       <g:title>Mountain Sidr na Pulot sa Honeycomb 500 Gramo</g:title>
@@ -303,12 +315,6 @@
       <g:link>https://areesh.sa/tl/bee-pollen-30-g/p115482841?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
-      <g:id>427525089</g:id>
-      <g:title>Royal na Pulot ng Sidr na Aseemi, 250 gm</g:title>
-      <g:description>Royal na Pulot ng Sidr na Aseemi, 250 gm. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/tl/royal-na-pulot-ng-sidr-na-aseemi-250-gm/p427525089?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
       <g:id>1749454899</g:id>
       <g:title>Hadhrami Sidr na Pulot 250 g</g:title>
       <g:description>Hadhrami Sidr na Pulot 250 g. 0.75 kg.</g:description>
@@ -535,12 +541,6 @@
       <g:title>7 Kilong Galon ng Pulot ng Itim na Buto + Libreng Padala</g:title>
       <g:description>7 Kilong Galon ng Pulot ng Itim na Buto + Libreng Padala. 7.5 kg.</g:description>
       <g:link>https://areesh.sa/tl/7-kilong-galon-ng-pulot-ng-itim-na-buto-libreng-padala/p982423131?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>515879663</g:id>
-      <g:title>Pulot ng Sidr na Kashmiri, 2 Kilo</g:title>
-      <g:description>Pulot ng Sidr na Kashmiri, 2 Kilo. 2.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/pulot-ng-sidr-na-kashmiri-2-kilo/p515879663?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>83194573</g:id>
