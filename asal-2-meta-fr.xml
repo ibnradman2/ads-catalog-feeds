@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:13:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2140503485</g:id>
+      <g:title>Miel en rayon de Sidr royal 5 kg</g:title>
+      <g:description>Miel en rayon de Sidr royal 5 kg. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-sidr-royal-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Miel de Sidr royal en rayon d'Assir 2 kg</g:title>
+      <g:description>Miel de Sidr royal en rayon d'Assir 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-d-assir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
+    <item>
+      <g:id>1262276205</g:id>
+      <g:title>Miel de Talh premium 2 kg</g:title>
+      <g:description>Miel de Talh premium 2 kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>fr_XX</g:override></item>
     <item>
       <g:id>345536874</g:id>
       <g:title>Café Al Shadhiliya, café arabe moulu haut de gamme au café, à la cardamome et au safran</g:title>
@@ -457,24 +475,6 @@
       <g:title>Boisson au miel naturel, gingembre, citron et curcuma 470 g</g:title>
       <g:description>Boisson au miel naturel, gingembre, citron et curcuma 470 g. 0.97 kg.</g:description>
       <g:link>https://asalaljebal.sa/fr/boisson-au-miel-naturel-gingembre-citron-et-curcuma-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1262276205</g:id>
-      <g:title>Miel de Talh premium 2 kg</g:title>
-      <g:description>Miel de Talh premium 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>2140503485</g:id>
-      <g:title>Miel en rayon de Sidr royal 5 kg</g:title>
-      <g:description>Miel en rayon de Sidr royal 5 kg. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-en-rayon-de-sidr-royal-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>fr_XX</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>Miel de Sidr royal en rayon d'Assir 2 kg</g:title>
-      <g:description>Miel de Sidr royal en rayon d'Assir 2 kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-de-sidr-royal-en-rayon-d-assir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>fr_XX</g:override></item>
     <item>
       <g:id>565752464</g:id>

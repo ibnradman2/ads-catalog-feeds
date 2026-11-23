@@ -4,10 +4,28 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:13:56 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>2140503485</g:id>
+      <g:title>Madu Sarang Sidr Royal 5 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal 5 Kg. 5.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1232313534</g:id>
+      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
+      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1262276205</g:id>
+      <g:title>Madu Talh Premium 2 Kg</g:title>
+      <g:description>Madu Talh Premium 2 Kg. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>345536874</g:id>
       <g:title>Kopi Asy-Syadziliyah, kopi Arab giling premium dari kopi, kapulaga, dan saffron</g:title>
@@ -457,24 +475,6 @@
       <g:title>Minuman Madu Alami dengan Jahe, Lemon, dan Kunyit 470 g</g:title>
       <g:description>Minuman Madu Alami dengan Jahe, Lemon, dan Kunyit 470 g. 0.97 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/minuman-madu-alami-dengan-jahe-lemon-dan-kunyit-470-g/p1613959166?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1262276205</g:id>
-      <g:title>Madu Talh Premium 2 Kg</g:title>
-      <g:description>Madu Talh Premium 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-talh-premium-2-kg/p1262276205?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>2140503485</g:id>
-      <g:title>Madu Sarang Sidr Royal 5 Kg</g:title>
-      <g:description>Madu Sarang Sidr Royal 5 Kg. 5.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-5-kg/p2140503485?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1232313534</g:id>
-      <g:title>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg</g:title>
-      <g:description>Madu Sarang Sidr Royal dari Pegunungan Asir 2 Kg. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-dari-pegunungan-asir-2-kg/p1232313534?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>565752464</g:id>
