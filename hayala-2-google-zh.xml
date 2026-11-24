@@ -4,7 +4,7 @@
     <title>Product Feed - Store hayala.co</title>
     <link>https://hayala.co</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 00:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:12:25 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -685,7 +685,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>897901817</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>干果</g:custom_label_3></item>
+    <g:mpn>897901817</g:mpn><g:google_product_category>1755</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>干果</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">1841971411</guid>
       <g:id>1841971411</g:id>
@@ -1068,7 +1068,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1559719230</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>1559719230</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">196436999</guid>
       <g:id>196436999</g:id>
@@ -1451,7 +1451,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>373779673</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3></item>
+    <g:mpn>373779673</g:mpn><g:google_product_category>1529</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>香料与草本</g:custom_label_3></item>
     <item>
       <guid isPermaLink="false">518818921</guid>
       <g:id>518818921</g:id>
@@ -1873,7 +1873,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>1313413261</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>草本冲泡</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>1313413261</g:mpn><g:google_product_category>2073</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>草本冲泡</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">863172740</guid>
       <g:id>863172740</g:id>
@@ -1887,7 +1887,7 @@
       <g:condition>new</g:condition>
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>863172740</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丙</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
+    <g:mpn>863172740</g:mpn><g:google_product_category>433</g:google_product_category><g:custom_label_0>表现 丁</g:custom_label_0><g:custom_label_1>全年</g:custom_label_1><g:custom_label_2>100以下</g:custom_label_2><g:custom_label_3>坚果与种子</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">597312706</guid>
       <g:id>597312706</g:id>
