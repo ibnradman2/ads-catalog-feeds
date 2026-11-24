@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Mon, 23 Nov 2026 21:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>311501392</g:id>
+      <g:title>8 Kilong Natural na Pulot ng Bulaklak</g:title>
+      <g:description>8 Kilong Natural na Pulot ng Bulaklak. 8.5 kg.</g:description>
+      <g:link>https://areesh.sa/tl/8-kilong-natural-na-pulot-ng-bulaklak/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>427525089</g:id>
       <g:title>Royal na Pulot ng Sidr na Aseemi, 250 gm</g:title>
@@ -217,12 +223,6 @@
       <g:title>Gift Box: 8 Garapon ng Natural na Sidr Honey</g:title>
       <g:description>Gift Box: 8 Garapon ng Natural na Sidr Honey. 2.0 kg.</g:description>
       <g:link>https://areesh.sa/tl/gift-box-8-garapon-ng-natural-na-sidr-honey/p717865418?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>311501392</g:id>
-      <g:title>8 Kilong Natural na Pulot ng Bulaklak</g:title>
-      <g:description>8 Kilong Natural na Pulot ng Bulaklak. 8.5 kg.</g:description>
-      <g:link>https://areesh.sa/tl/8-kilong-natural-na-pulot-ng-bulaklak/p311501392?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>893293328</g:id>
