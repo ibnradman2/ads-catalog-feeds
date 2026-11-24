@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 17:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:15:46 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>595190855</g:id>
+      <g:title>Premium na Pulot ng Samra Shawka 10 Kilo Galon sa Presyong Pakyawan</g:title>
+      <g:description>Premium na Pulot ng Samra Shawka 10 Kilo Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/premium-na-pulot-ng-samra-shawka-10-kilo-galon-sa-presyong-pakyawan/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
+    <item>
+      <g:id>1655973819</g:id>
+      <g:title>Royal Asimi Sidr Honey, Galon na 5.5 Kilo, Presyong Pakyawan</g:title>
+      <g:description>Royal Asimi Sidr Honey, Galon na 5.5 Kilo, Presyong Pakyawan. 6.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tl/royal-asimi-sidr-honey-galon-na-5-5-kilo-presyong-pakyawan/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tl_XX</g:override></item>
     <item>
       <g:id>950198944</g:id>
       <g:title>Clover Honey 500 g</g:title>
@@ -97,12 +109,6 @@
       <g:title>Natural na Bundok na Sidr Honey na may Honeycomb, 1 Kilo (Libreng Pagpapadala)</g:title>
       <g:description>Natural na Bundok na Sidr Honey na may Honeycomb, 1 Kilo (Libreng Pagpapadala). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/natural-na-bundok-na-sidr-honey-na-may-honeycomb-1-kilo-libreng-pagpapadala/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>1655973819</g:id>
-      <g:title>Royal Asimi Sidr Honey, Galon na 5.5 Kilo, Presyong Pakyawan</g:title>
-      <g:description>Royal Asimi Sidr Honey, Galon na 5.5 Kilo, Presyong Pakyawan. 6.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/royal-asimi-sidr-honey-galon-na-5-5-kilo-presyong-pakyawan/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>1883389928</g:id>
@@ -1477,12 +1483,6 @@
       <g:title>Wildflower Honey, Timog o Hadramawt, 2 Kilo</g:title>
       <g:description>Wildflower Honey, Timog o Hadramawt, 2 Kilo. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tl/wildflower-honey-timog-o-hadramawt-2-kilo/p1934538070?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tl_XX</g:override></item>
-    <item>
-      <g:id>595190855</g:id>
-      <g:title>Premium na Pulot ng Samra Shawka 10 Kilo Galon sa Presyong Pakyawan</g:title>
-      <g:description>Premium na Pulot ng Samra Shawka 10 Kilo Galon sa Presyong Pakyawan. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tl/premium-na-pulot-ng-samra-shawka-10-kilo-galon-sa-presyong-pakyawan/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tl_XX</g:override></item>
     <item>
       <g:id>598737026</g:id>

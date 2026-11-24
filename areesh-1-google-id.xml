@@ -4,10 +4,25 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 16:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:15:42 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">399980213</guid>
+      <g:id>399980213</g:id>
+      <g:title>Madu Sidr Royal Osaimi 1 kg</g:title>
+      <g:description>Madu Sidr Royal Osaimi 1 kg. 1.5 kg.</g:description>
+      <g:link>https://areesh.sa/ind/madu-sidr-royal-osaimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/KPEvG/9AlLVVvgQFgf9aUk7BfzU7jWZ0wLDx6gSpeLOgnR.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>680.00 SAR</g:price>
+      <g:brand>Areesh</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>001002003</g:item_group_id>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    <g:mpn>001002003</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">311501392</guid>
       <g:id>311501392</g:id>
@@ -1448,21 +1463,6 @@
       <g:item_group_id>0061007004</g:item_group_id>
       <g:shipping_weight>2.0 kg</g:shipping_weight>
     <g:mpn>0061007004</g:mpn><g:google_product_category>422</g:google_product_category></item>
-    <item>
-      <guid isPermaLink="false">399980213</guid>
-      <g:id>399980213</g:id>
-      <g:title>Madu Sidr Royal Osaimi 1 kg</g:title>
-      <g:description>Madu Sidr Royal Osaimi 1 kg. 1.5 kg.</g:description>
-      <g:link>https://areesh.sa/ind/madu-sidr-royal-osaimi-1-kg/p399980213?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/KPEvG/9AlLVVvgQFgf9aUk7BfzU7jWZ0wLDx6gSpeLOgnR.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>680.00 SAR</g:price>
-      <g:brand>Areesh</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>001002003</g:item_group_id>
-      <g:shipping_weight>1.5 kg</g:shipping_weight>
-    <g:mpn>001002003</g:mpn><g:google_product_category>4947</g:google_product_category><g:unit_pricing_measure>1kg</g:unit_pricing_measure><g:unit_pricing_base_measure>1kg</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">378951093</guid>
       <g:id>378951093</g:id>

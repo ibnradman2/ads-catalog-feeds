@@ -4,10 +4,22 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 17:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:15:46 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>595190855</g:id>
+      <g:title>顶级萨姆拉刺蜂蜜 10公斤桶装 批发价</g:title>
+      <g:description>顶级萨姆拉刺蜂蜜 10公斤桶装 批发价. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/10/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>1655973819</g:id>
+      <g:title>皇家阿西米西德尔蜂蜜5.5公斤桶装，批发价</g:title>
+      <g:description>皇家阿西米西德尔蜂蜜5.5公斤桶装，批发价. 6.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/zh/5-5/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>950198944</g:id>
       <g:title>三叶草蜂蜜 500克</g:title>
@@ -97,12 +109,6 @@
       <g:title>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）</g:title>
       <g:description>带蜂巢的本地山地西德尔蜂蜜 1公斤（包邮）. 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/1/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1655973819</g:id>
-      <g:title>皇家阿西米西德尔蜂蜜5.5公斤桶装，批发价</g:title>
-      <g:description>皇家阿西米西德尔蜂蜜5.5公斤桶装，批发价. 6.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/5-5/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1883389928</g:id>
@@ -1471,12 +1477,6 @@
       <g:title>南部或哈德拉毛野花蜂蜜 2公斤</g:title>
       <g:description>南部或哈德拉毛野花蜂蜜 2公斤. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/zh/2/p1934538070?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>595190855</g:id>
-      <g:title>顶级萨姆拉刺蜂蜜 10公斤桶装 批发价</g:title>
-      <g:description>顶级萨姆拉刺蜂蜜 10公斤桶装 批发价. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/zh/10/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>598737026</g:id>

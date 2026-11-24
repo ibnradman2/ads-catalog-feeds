@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 17:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:15:46 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>595190855</g:id>
+      <g:title>Birinci Sınıf Diken Balı (Semer) 10 Kilo Bidon Toptan Fiyat</g:title>
+      <g:description>Birinci Sınıf Diken Balı (Semer) 10 Kilo Bidon Toptan Fiyat. 10.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/birinci-s-n-f-diken-bal-semer-10-kilo-bidon-toptan-fiyat/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>950198944</g:id>
       <g:title>Yonca Çiçeği Balı 500 Gram</g:title>
@@ -1465,12 +1471,6 @@
       <g:title>Güney veya Hadramut Yabani Çiçek Balı 2 kg</g:title>
       <g:description>Güney veya Hadramut Yabani Çiçek Balı 2 kg. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/g-ney-veya-hadramut-yabani-i-ek-bal-2-kg/p1934538070?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>595190855</g:id>
-      <g:title>Birinci Sınıf Diken Balı (Semer) 10 Kilo Bidon Toptan Fiyat</g:title>
-      <g:description>Birinci Sınıf Diken Balı (Semer) 10 Kilo Bidon Toptan Fiyat. 10.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/birinci-s-n-f-diken-bal-semer-10-kilo-bidon-toptan-fiyat/p595190855?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>598737026</g:id>

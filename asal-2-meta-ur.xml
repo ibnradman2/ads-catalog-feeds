@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 17:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:15:46 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1655973819</g:id>
+      <g:title>عصیمی شاہی سدر شہد 5.5 کلو گیلن تھوک قیمت پر</g:title>
+      <g:description>عصیمی شاہی سدر شہد 5.5 کلو گیلن تھوک قیمت پر. 6.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/5-5/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>950198944</g:id>
       <g:title>برسیم کے پھولوں کا شہد 500 گرام</g:title>
@@ -73,12 +79,6 @@
       <g:title>دیسی پہاڑی سدر شہد موم کے ساتھ 1 کلو (مفت ڈیلیوری)</g:title>
       <g:description>دیسی پہاڑی سدر شہد موم کے ساتھ 1 کلو (مفت ڈیلیوری). 1.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/1/p1293030213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1655973819</g:id>
-      <g:title>عصیمی شاہی سدر شہد 5.5 کلو گیلن تھوک قیمت پر</g:title>
-      <g:description>عصیمی شاہی سدر شہد 5.5 کلو گیلن تھوک قیمت پر. 6.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/5-5/p1655973819?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1883389928</g:id>
