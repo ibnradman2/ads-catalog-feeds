@@ -4,10 +4,40 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 21:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:41:23 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1016153732</g:id>
+      <g:title>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan</g:title>
+      <g:description>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/2-kg-madu-sidr-royal-asimi-diskon-15-gratis-ongkir-cicilan/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>858223421</g:id>
+      <g:title>Buah Ara Kering 1 kilo</g:title>
+      <g:description>Buah Ara Kering 1 kilo. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/buah-ara-kering-1-kilo/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>702151512</g:id>
+      <g:title>Madu Hutan Hitam Asli 500 Gram</g:title>
+      <g:description>Madu Hutan Hitam Asli 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-500-gram/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>625331805</g:id>
+      <g:title>Madu Sidr Kashmir (600 Gram)</g:title>
+      <g:description>Madu Sidr Kashmir (600 Gram). 1.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-600-gram/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
+    <item>
+      <g:id>1688053025</g:id>
+      <g:title>Madu Kacang (Almond - Mete - Kenari - Pecan - Hazelnut - Pistachio) (500 Gram)</g:title>
+      <g:description>Madu Kacang (Almond - Mete - Kenari - Pecan - Hazelnut - Pistachio) (500 Gram). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ind/madu-kacang-almond-mete-kenari-pecan-hazelnut-pistachio-500-gram/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>id_ID</g:override></item>
     <item>
       <g:id>946587237</g:id>
       <g:title>Kismis Hitam Yaman 1 Kg</g:title>
@@ -73,12 +103,6 @@
       <g:title>Madu Sarang Sidr Royal 10 Kg Gratis Ongkir</g:title>
       <g:description>Madu Sarang Sidr Royal 10 Kg Gratis Ongkir. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-10-kg-gratis-ongkir/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1016153732</g:id>
-      <g:title>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan</g:title>
-      <g:description>2 Kg Madu Sidr Royal Asimi Diskon 15% + Gratis Ongkir + Cicilan. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/2-kg-madu-sidr-royal-asimi-diskon-15-gratis-ongkir-cicilan/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>661149787</g:id>
@@ -643,30 +667,6 @@
       <g:title>Madu Sarang Sidr Royal 500 g</g:title>
       <g:description>Madu Sarang Sidr Royal 500 g. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ind/madu-sarang-sidr-royal-500-g/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>625331805</g:id>
-      <g:title>Madu Sidr Kashmir (600 Gram)</g:title>
-      <g:description>Madu Sidr Kashmir (600 Gram). 1.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-sidr-kashmir-600-gram/p625331805?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>858223421</g:id>
-      <g:title>Buah Ara Kering 1 kilo</g:title>
-      <g:description>Buah Ara Kering 1 kilo. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/buah-ara-kering-1-kilo/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>1688053025</g:id>
-      <g:title>Madu Kacang (Almond - Mete - Kenari - Pecan - Hazelnut - Pistachio) (500 Gram)</g:title>
-      <g:description>Madu Kacang (Almond - Mete - Kenari - Pecan - Hazelnut - Pistachio) (500 Gram). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-kacang-almond-mete-kenari-pecan-hazelnut-pistachio-500-gram/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>id_ID</g:override></item>
-    <item>
-      <g:id>702151512</g:id>
-      <g:title>Madu Hutan Hitam Asli 500 Gram</g:title>
-      <g:description>Madu Hutan Hitam Asli 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ind/madu-hutan-hitam-asli-500-gram/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>id_ID</g:override></item>
     <item>
       <g:id>1688919538</g:id>

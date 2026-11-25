@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Tue, 24 Nov 2026 21:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:41:23 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1016153732</g:id>
+      <g:title>2 کلو عصیمی شاہی سدر شہد 15% رعایت + مفت ڈیلیوری + اقساط میں ادائیگی</g:title>
+      <g:description>2 کلو عصیمی شاہی سدر شہد 15% رعایت + مفت ڈیلیوری + اقساط میں ادائیگی. 2.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-15/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>858223421</g:id>
+      <g:title>خشک انجیر 1 کلو</g:title>
+      <g:description>خشک انجیر 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>702151512</g:id>
+      <g:title>کالے جنگل کا اصلی شہد 500 گرام</g:title>
+      <g:description>کالے جنگل کا اصلی شہد 500 گرام. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1688053025</g:id>
+      <g:title>شہد کے ساتھ میوہ جات (بادام - کاجو - اخروٹ - پیکن - فندق - پستہ) (500 گرام)</g:title>
+      <g:description>شہد کے ساتھ میوہ جات (بادام - کاجو - اخروٹ - پیکن - فندق - پستہ) (500 گرام). 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/500/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1695821747</g:id>
       <g:title>مورنگا شہد 250 گرام (آزمائشی ڈبہ)</g:title>
@@ -61,12 +85,6 @@
       <g:title>شاہی سدر شہد چھتے کے ساتھ 10 کلو مفت ڈیلیوری</g:title>
       <g:description>شاہی سدر شہد چھتے کے ساتھ 10 کلو مفت ڈیلیوری. 10.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/10/p1407401907?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1016153732</g:id>
-      <g:title>2 کلو عصیمی شاہی سدر شہد 15% رعایت + مفت ڈیلیوری + اقساط میں ادائیگی</g:title>
-      <g:description>2 کلو عصیمی شاہی سدر شہد 15% رعایت + مفت ڈیلیوری + اقساط میں ادائیگی. 2.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-15/p1016153732?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>661149787</g:id>
@@ -481,24 +499,6 @@
       <g:title>شاہی سدر شہد چھتے کے ساتھ 500 گرام</g:title>
       <g:description>شاہی سدر شہد چھتے کے ساتھ 500 گرام. 1.0 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/500/p1965415096?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>858223421</g:id>
-      <g:title>خشک انجیر 1 کلو</g:title>
-      <g:description>خشک انجیر 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p858223421?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1688053025</g:id>
-      <g:title>شہد کے ساتھ میوہ جات (بادام - کاجو - اخروٹ - پیکن - فندق - پستہ) (500 گرام)</g:title>
-      <g:description>شہد کے ساتھ میوہ جات (بادام - کاجو - اخروٹ - پیکن - فندق - پستہ) (500 گرام). 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p1688053025?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>702151512</g:id>
-      <g:title>کالے جنگل کا اصلی شہد 500 گرام</g:title>
-      <g:description>کالے جنگل کا اصلی شہد 500 گرام. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/500/p702151512?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1688919538</g:id>
