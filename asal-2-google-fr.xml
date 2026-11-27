@@ -4,10 +4,25 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 27 Nov 2026 09:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:00:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <guid isPermaLink="false">220790277</guid>
+      <g:id>220790277</g:id>
+      <g:title>Miel d'acacia 500 g</g:title>
+      <g:description>Miel d'acacia 500 g. Autres miels. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/fr/miel-d-acacia-500-g/p220790277?tax_profile=sa&amp;currency=SAR</g:link>
+      <g:image_link>https://cdn.salla.sa/mgEBE/BomsIw7Nk7as27ZChU3A3YG0UF3kCxzQr1CXYWUO.png</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>95.00 SAR</g:price>
+      <g:brand>Asal Aljebal</g:brand>
+      <g:condition>new</g:condition>
+      <g:is_bundle>no</g:is_bundle>
+      <g:item_group_id>0041035002</g:item_group_id>
+      <g:shipping_weight>1.0 kg</g:shipping_weight>
+    <g:mpn>220790277</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">645419491</guid>
       <g:id>645419491</g:id>
@@ -2020,21 +2035,6 @@
       <g:is_bundle>no</g:is_bundle>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
     <g:mpn>195894643</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>300 à 599</g:custom_label_2><g:custom_label_3>Miel de fleurs</g:custom_label_3></item>
-    <item>
-      <guid isPermaLink="false">220790277</guid>
-      <g:id>220790277</g:id>
-      <g:title>Miel d'acacia 500 g</g:title>
-      <g:description>Miel d'acacia 500 g. Autres miels. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/fr/miel-d-acacia-500-g/p220790277?tax_profile=sa&amp;currency=SAR</g:link>
-      <g:image_link>https://cdn.salla.sa/mgEBE/BomsIw7Nk7as27ZChU3A3YG0UF3kCxzQr1CXYWUO.png</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:price>95.00 SAR</g:price>
-      <g:brand>Asal Aljebal</g:brand>
-      <g:condition>new</g:condition>
-      <g:is_bundle>no</g:is_bundle>
-      <g:item_group_id>0041035002</g:item_group_id>
-      <g:shipping_weight>1.0 kg</g:shipping_weight>
-    <g:mpn>220790277</g:mpn><g:google_product_category>4947</g:google_product_category><g:custom_label_0>Performance C</g:custom_label_0><g:custom_label_1>Toute l'année</g:custom_label_1><g:custom_label_2>Moins de 100</g:custom_label_2><g:custom_label_3>Autres miels</g:custom_label_3><g:unit_pricing_measure>500g</g:unit_pricing_measure><g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure></item>
     <item>
       <guid isPermaLink="false">1620894175</guid>
       <g:id>1620894175</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 27 Nov 2026 09:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:00:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>220790277</g:id>
+      <g:title>Akasya Balı 500 Gram</g:title>
+      <g:description>Akasya Balı 500 Gram. 1.0 kg.</g:description>
+      <g:link>https://asalaljebal.sa/tr/akasya-bal-500-gram/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>tr_TR</g:override></item>
     <item>
       <g:id>645419491</g:id>
       <g:title>Doğal Petek Bal 1250 Gram</g:title>
@@ -769,12 +775,6 @@
       <g:title>Yerli Yabani Çiçek Petek Balı Kabı</g:title>
       <g:description>Yerli Yabani Çiçek Petek Balı Kabı. 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/tr/yerli-yabani-i-ek-petek-bal-kab/p195894643?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>tr_TR</g:override></item>
-    <item>
-      <g:id>220790277</g:id>
-      <g:title>Akasya Balı 500 Gram</g:title>
-      <g:description>Akasya Balı 500 Gram. 1.0 kg.</g:description>
-      <g:link>https://asalaljebal.sa/tr/akasya-bal-500-gram/p220790277?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>tr_TR</g:override></item>
     <item>
       <g:id>1620894175</g:id>
