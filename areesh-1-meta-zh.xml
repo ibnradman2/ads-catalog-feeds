@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 27 Nov 2026 09:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:20:07 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1256707703</g:id>
+      <g:title>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶</g:title>
+      <g:description>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/mardisia/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>443912774</g:id>
+      <g:title>天然西德尔蜂蜜 10公斤</g:title>
+      <g:description>天然西德尔蜂蜜 10公斤. 10.5 kg.</g:description>
+      <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1206195242</g:id>
       <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF 5+ MGO 100+ 250克</g:title>
@@ -133,12 +145,6 @@
       <g:title>蜂胶粉（普罗波利斯 Propolis 或蜂之胶）15克</g:title>
       <g:description>蜂胶粉（普罗波利斯 Propolis 或蜂之胶）15克. 0.515 kg.</g:description>
       <g:link>https://areesh.sa/zh/propolis-15/p311732055?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1256707703</g:id>
-      <g:title>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶</g:title>
-      <g:description>白色匈牙利蜂蜜（Mardisia）一瓶，另送一瓶. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/mardisia/p1256707703?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1394374627</g:id>
@@ -529,12 +535,6 @@
       <g:title>5公斤桶装优质塔勒赫蜂蜜</g:title>
       <g:description>5公斤桶装优质塔勒赫蜂蜜. 5.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/5/p1282566969?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>443912774</g:id>
-      <g:title>天然西德尔蜂蜜 10公斤</g:title>
-      <g:description>天然西德尔蜂蜜 10公斤. 10.5 kg.</g:description>
-      <g:link>https://areesh.sa/zh/10/p443912774?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>2057449096</g:id>
