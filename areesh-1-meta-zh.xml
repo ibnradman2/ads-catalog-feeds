@@ -4,10 +4,22 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 26 Nov 2026 21:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:09:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>1206195242</g:id>
+      <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF 5+ MGO 100+ 250克</g:title>
+      <g:description>新西兰麦卢卡蜂蜜 Homeland Premium UMF 5+ MGO 100+ 250克. 0.75 kg.</g:description>
+      <g:link>https://areesh.sa/zh/homeland-premium-umf-5-mgo-100-250/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
+    <item>
+      <g:id>581260348</g:id>
+      <g:title>奢华礼盒（两罐天然西德尔蜂蜜）</g:title>
+      <g:description>奢华礼盒（两罐天然西德尔蜂蜜）. 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/zh/product/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>zh_CN</g:override></item>
     <item>
       <g:id>14589094</g:id>
       <g:title>4公斤天然西德尔蜂蜜 + 免费2公斤花蜜</g:title>
@@ -393,12 +405,6 @@
       <g:link>https://areesh.sa/zh/250/p226374656?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
-      <g:id>581260348</g:id>
-      <g:title>奢华礼盒（两罐天然西德尔蜂蜜）</g:title>
-      <g:description>奢华礼盒（两罐天然西德尔蜂蜜）. 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/zh/product/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
       <g:id>1109371540</g:id>
       <g:title>野花蜂蜜500克</g:title>
       <g:description>野花蜂蜜500克. 1.0 kg.</g:description>
@@ -493,12 +499,6 @@
       <g:title>白沙瓦西德尔蜂蜜1公斤</g:title>
       <g:description>白沙瓦西德尔蜂蜜1公斤. 1.5 kg.</g:description>
       <g:link>https://areesh.sa/zh/1/p548974799?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>zh_CN</g:override></item>
-    <item>
-      <g:id>1206195242</g:id>
-      <g:title>新西兰麦卢卡蜂蜜 Homeland Premium UMF 5+ MGO 100+ 250克</g:title>
-      <g:description>新西兰麦卢卡蜂蜜 Homeland Premium UMF 5+ MGO 100+ 250克. 0.75 kg.</g:description>
-      <g:link>https://areesh.sa/zh/homeland-premium-umf-5-mgo-100-250/p1206195242?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>zh_CN</g:override></item>
     <item>
       <g:id>1339577181</g:id>

@@ -4,10 +4,16 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Thu, 26 Nov 2026 21:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:09:44 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>581260348</g:id>
+      <g:title>لگژری باکس (قدرتی سدر شہد کے دو پیک)</g:title>
+      <g:description>لگژری باکس (قدرتی سدر شہد کے دو پیک). 1.0 kg.</g:description>
+      <g:link>https://areesh.sa/ur/product/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>14589094</g:id>
       <g:title>4 کلو قدرتی سدر شہد + 2 کلو پھولوں کا شہد مفت</g:title>
@@ -367,12 +373,6 @@
       <g:title>پریمیم سعودی طلح شہد 250 گرام</g:title>
       <g:description>پریمیم سعودی طلح شہد 250 گرام. 0.75 kg.</g:description>
       <g:link>https://areesh.sa/ur/250/p226374656?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>581260348</g:id>
-      <g:title>لگژری باکس (قدرتی سدر شہد کے دو پیک)</g:title>
-      <g:description>لگژری باکس (قدرتی سدر شہد کے دو پیک). 1.0 kg.</g:description>
-      <g:link>https://areesh.sa/ur/product/p581260348?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1109371540</g:id>
