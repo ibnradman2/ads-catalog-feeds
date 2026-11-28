@@ -4,7 +4,7 @@
     <title>Product Feed - Store areesh.sa</title>
     <link>https://areesh.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 28 Nov 2026 11:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:21:20 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -307,6 +307,12 @@
       <g:title>12 کلو قدرتی پھولوں کا شہد</g:title>
       <g:description>12 کلو قدرتی پھولوں کا شہد. 12.5 kg.</g:description>
       <g:link>https://areesh.sa/ur/12/p2047975632?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>399311781</g:id>
+      <g:title>آفر: 5 کلو قدرتی سدر شہد + 1 کلو قصیم کی سکری کھجور (ضمید) + مائع طحینہ</g:title>
+      <g:description>آفر: 5 کلو قدرتی سدر شہد + 1 کلو قصیم کی سکری کھجور (ضمید) + مائع طحینہ. 6.5 kg.</g:description>
+      <g:link>https://areesh.sa/ur/5-1/p399311781?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>277670775</g:id>
