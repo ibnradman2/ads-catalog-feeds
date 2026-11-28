@@ -4,10 +4,34 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Fri, 27 Nov 2026 21:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:00:06 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
+    <item>
+      <g:id>685341090</g:id>
+      <g:title>دیسی جنگلی پھولوں کے شہد کا چھتہ، 2 چھتے، 32% رعایت اور مفت ڈیلیوری کے ساتھ</g:title>
+      <g:description>دیسی جنگلی پھولوں کے شہد کا چھتہ، 2 چھتے، 32% رعایت اور مفت ڈیلیوری کے ساتھ. 1.4 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/2-32/p685341090?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1372377871</g:id>
+      <g:title>حائل کا طلح شہد چھتے کے ساتھ 1 کلو</g:title>
+      <g:description>حائل کا طلح شہد چھتے کے ساتھ 1 کلو. 1.5 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>275181506</g:id>
+      <g:title>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے</g:title>
+      <g:description>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے. 1.47 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/470/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
+    <item>
+      <g:id>1870910750</g:id>
+      <g:title>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد</g:title>
+      <g:description>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد. 2.1 kg.</g:description>
+      <g:link>https://asalaljebal.sa/ur/1-600/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
+      <g:override>ur_PK</g:override></item>
     <item>
       <g:id>220790277</g:id>
       <g:title>ترکی اکیشیا شہد 500 گرام</g:title>
@@ -591,18 +615,6 @@
       <g:link>https://asalaljebal.sa/ur/500/p1281597213?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
-      <g:id>275181506</g:id>
-      <g:title>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے</g:title>
-      <g:description>ادرک لیموں ہلدی شہد مشروب (470 گرام) + ایک چوتھائی کلو کشمیری سدر شہد + ایک چوتھائی کلو کالے دانے کا شہد + کلونجی کے دانے. 1.47 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/470/p275181506?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1870910750</g:id>
-      <g:title>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد</g:title>
-      <g:description>1 کلو کالی کشمش + 600 گرام قدرتی سدر شہد. 2.1 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1-600/p1870910750?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
       <g:id>633389672</g:id>
       <g:title>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام</g:title>
       <g:description>بی پولن (شہد کی مکھی کا زرِ گل) 250 گرام. 0.75 kg.</g:description>
@@ -919,18 +931,6 @@
       <g:title>ابو فروہ شہد (شاہ بلوط) 2 کلو (مفت ڈیلیوری)</g:title>
       <g:description>ابو فروہ شہد (شاہ بلوط) 2 کلو (مفت ڈیلیوری). 2.5 kg.</g:description>
       <g:link>https://asalaljebal.sa/ur/2/p516049282?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>685341090</g:id>
-      <g:title>دیسی جنگلی پھولوں کے شہد کا چھتہ، 2 چھتے، 32% رعایت اور مفت ڈیلیوری کے ساتھ</g:title>
-      <g:description>دیسی جنگلی پھولوں کے شہد کا چھتہ، 2 چھتے، 32% رعایت اور مفت ڈیلیوری کے ساتھ. 1.4 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/2-32/p685341090?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
-      <g:override>ur_PK</g:override></item>
-    <item>
-      <g:id>1372377871</g:id>
-      <g:title>حائل کا طلح شہد چھتے کے ساتھ 1 کلو</g:title>
-      <g:description>حائل کا طلح شہد چھتے کے ساتھ 1 کلو. 1.5 kg.</g:description>
-      <g:link>https://asalaljebal.sa/ur/1/p1372377871?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:override>ur_PK</g:override></item>
     <item>
       <g:id>1849198782</g:id>
