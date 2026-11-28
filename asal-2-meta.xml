@@ -4,7 +4,7 @@
     <title>Product Feed - Store asalaljebal.sa</title>
     <link>https://asalaljebal.sa</link>
     <description>Product feed for AR language and SAR currency</description>
-    <lastBuildDate>Sat, 28 Nov 2026 09:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:03:11 GMT</lastBuildDate>
     <language>ar</language>
     <generator>Feed Service XML Generator v1.0</generator>
     <ttl>60</ttl>
@@ -901,6 +901,7 @@
       <g:link>https://asalaljebal.sa/ar/عرض-اليوم-الوطني--قدر-شمع-سدر-ملكي-من-منطقة-عسير/p1005020989?tax_profile=sa&amp;currency=SAR&amp;utm_source={{site_source_name}}&amp;utm_medium=paid&amp;utm_campaign={{campaign.id}}&amp;utm_content={{adset.id}}&amp;utm_term={{ad.id}}</g:link>
       <g:image_link>https://cdn.salla.sa/mgEBE/OQeUjaB0GMDnT9XdswVPEcxoZovvRiwtpHQePtfh.png</g:image_link>
       <g:additional_image_link>https://cdn.salla.sa/mgEBE/vHcmxsT2YPonhBzVFeePxFD7rqWPxh4WGNHkGasC.png</g:additional_image_link>
+      <g:additional_image_link>https://cdn.files.salla.network/other/337286117/73e5ec03-724f-4f13-9c0b-2461a1d12465-thumbnail-1.jpg</g:additional_image_link>
       <g:availability>in stock</g:availability>
       <g:price>1500.00 SAR</g:price>
       <g:sale_price>896.00 SAR</g:sale_price>
